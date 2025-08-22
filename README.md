@@ -2,6 +2,9 @@
 
 A static drug glossary site crawled from https://e-fornas.kemkes.go.id/guest/daftar-obat.
 
+![Homepage Screenshot](screenshot_homepage.png)
+
+
 ## Flow Process
 
 1. **Crawl Data**
@@ -48,7 +51,7 @@ bash -lc 'node scripts/build.js >/dev/null 2>&1 && cd dist && python3 -m http.se
 
 The site automatically deploys to GitHub Pages via GitHub Actions when code is pushed to the `main` branch.
 
-**Live Site**: [https://miftahulmuhaemen.github.io/drugstore-glossary/](https://miftahulmuhaemen.github.io/drugstore-glossary/)
+**Live Site**: [https://sipamanobat.my.id/](https://sipamanobat.my.id/)
 
 ## Technologies
 
