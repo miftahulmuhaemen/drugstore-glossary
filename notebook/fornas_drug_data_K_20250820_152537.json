@@ -1,0 +1,2846 @@
+[
+    {
+        "name": "kafein",
+        "subdrugs": [
+            {
+                "name": "kafein - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "kafein",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Untuk pengobatan apnea primer pada bayi prematur.\nb) Dapat diberikan di FPKTL yang memiliki fasilitas NICU."
+            }
+        ]
+    },
+    {
+        "name": "kalamin",
+        "subdrugs": [
+            {
+                "name": "kalamin - LOTIO N/A"
+            }
+        ]
+    },
+    {
+        "name": "kalium aspartat",
+        "subdrugs": [
+            {
+                "name": "kalium aspartat - TABLET SALUT SELAPUT 300 MILIGRAM",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "ORAL",
+                "nama obat": "kalium aspartat",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kalium klorida",
+        "subdrugs": [
+            {
+                "name": "kalium klorida - TABLET PELEPASAN LAMBAT 600 MILIGRAM",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "ORAL",
+                "nama obat": "kalium klorida",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "600",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "180 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kalsitriol",
+        "subdrugs": [
+            {
+                "name": "kalsitriol - KAPSUL LUNAK 0,25 MICROGRAM",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "kalsitriol",
+                "sediaan": "KAPSUL LUNAK",
+                "kekuatan": "0,25",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 kaps/bulan.",
+                "restriksi obat": "Hanya untuk penyakit ginjal kronis grade 5 atau pasien hipoparatiroid pemeriksaan kadar kalsium ion 1,1âˆ’2,5 mmol."
+            },
+            {
+                "name": "kalsitriol - KAPSUL LUNAK 0,5 MICROGRAM",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "kalsitriol",
+                "sediaan": "KAPSUL LUNAK",
+                "kekuatan": "0,5",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 kaps/bulan.",
+                "restriksi obat": "Hanya untuk penyakit ginjal kronis grade 5 atau pasien hipoparatiroid pemeriksaan kadar kalsium ion 1,1âˆ’2,5 mmol."
+            }
+        ]
+    },
+    {
+        "name": "kalsium folinat (leukovorin, Ca)",
+        "subdrugs": [
+            {
+                "name": "kalsium folinat (leukovorin, Ca) - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "kalsium folinat (leukovorin, Ca)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Sesuai dengan dosis metotreksat atau 400 mg/m² setiap 2 minggu bersama dengan 5âˆ’FU.",
+                "restriksi obat": "a) Untuk pencegahan efek toksik metotreksat.\nb) Memperkuat efek 5âˆ’fluorourasil."
+            },
+            {
+                "name": "kalsium folinat (leukovorin, Ca) - TABLET 15 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "kalsium folinat (leukovorin, Ca)",
+                "sediaan": "TABLET",
+                "kekuatan": "15",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Sesuai dengan dosis metotreksat atau 400 mg/m² setiap 2 minggu bersama dengan 5âˆ’FU.",
+                "restriksi obat": "a) Untuk pencegahan efek toksik metotreksat.\nb) Memperkuat efek 5âˆ’fluorourasil."
+            }
+        ]
+    },
+    {
+        "name": "kalsium glukonat",
+        "subdrugs": [
+            {
+                "name": "kalsium glukonat - INJEKSI 10 PERSEN",
+                "kelas terapi": "ANTIDOT dan OBAT LAIN untuk KERACUNAN",
+                "sub kelas terapi": "KHUSUS",
+                "nama obat": "kalsium glukonat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kalsium glukonat - INJEKSI 10 PERSEN",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "kalsium glukonat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kalsium hidroksida",
+        "subdrugs": [
+            {
+                "name": "kalsium hidroksida - BUBUK, PASTA N/A",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "ANTISEPTIK dan BAHAN untuk PERAWATAN SALURAN AKAR GIGI",
+                "nama obat": "kalsium hidroksida",
+                "sediaan": "BUBUK, PASTA",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kalsium karbonat (setara dengan 500 mg Ca elemental)",
+        "subdrugs": [
+            {
+                "name": "kalsium karbonat (setara dengan 500 mg Ca elemental) - TABLET/ TABLET KUNYAH/ KAPLET 500 MILIGRAM",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "kalsium karbonat (setara dengan 500 mg Ca elemental)",
+                "sediaan": "TABLET/ TABLET KUNYAH/ KAPLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kalsium laktat (kalk)",
+        "subdrugs": [
+            {
+                "name": "kalsium laktat (kalk) - TABLET 500 MILIGRAM",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "kalsium laktat (kalk)",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk hipoparatiroidisme."
+            }
+        ]
+    },
+    {
+        "name": "kalsium polistiren sulfonat",
+        "subdrugs": [
+            {
+                "name": "kalsium polistiren sulfonat - SERBUK 5 GRAM",
+                "kelas terapi": "LAIN - LAIN",
+                "nama obat": "kalsium polistiren sulfonat",
+                "sediaan": "SERBUK",
+                "kekuatan": "5",
+                "satuan": "GRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "15âˆ’30 gram/hari dibagi dalam 2âˆ’3 kali pemberian.\nMaks selama 5 hari sampai dengan dialisis dilakukan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kandesartan",
+        "subdrugs": [
+            {
+                "name": "kandesartan - TABLET 16 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "kandesartan",
+                "sediaan": "TABLET",
+                "kekuatan": "16",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik.",
+                "restriksi obat": "Untuk pasien yang telah mendapat ACE inhibitor sebelumnya sekurang-kurangnya 1 bulan dan mengalami intoleransi terhadap ACE inhibitor yang dibuktikan dengan melampirkan resep sebelumnya."
+            },
+            {
+                "name": "kandesartan - TABLET 16 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "kandesartan",
+                "sediaan": "TABLET",
+                "kekuatan": "16",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Untuk pasien yang telah mendapat ACE inhibitor sebelumnya sekurang-kurangnya 1 bulan dan mengalami intoleransi terhadap ACE inhibitor yang dibuktikan dengan melampirkan resep sebelumnya."
+            },
+            {
+                "name": "kandesartan - TABLET 8 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "kandesartan",
+                "sediaan": "TABLET",
+                "kekuatan": "8",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik.",
+                "restriksi obat": "Untuk pasien yang telah mendapat ACE inhibitor sebelumnya sekurang-kurangnya 1 bulan dan mengalami intoleransi terhadap ACE inhibitor yang dibuktikan dengan melampirkan resep sebelumnya."
+            },
+            {
+                "name": "kandesartan - TABLET 8 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "kandesartan",
+                "sediaan": "TABLET",
+                "kekuatan": "8",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Untuk pasien yang telah mendapat ACE inhibitor sebelumnya sekurang-kurangnya 1 bulan dan mengalami intoleransi terhadap ACE inhibitor yang dibuktikan dengan melampirkan resep sebelumnya."
+            }
+        ]
+    },
+    {
+        "name": "kapesitabin",
+        "subdrugs": [
+            {
+                "name": "kapesitabin - TABLET SALUT 500 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "kapesitabin",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "2.500 mg/mÂ²/hari selama 2 minggu diulang tiap 3 minggu.",
+                "restriksi obat": "a) Untuk kanker kolorektal.\natau\nb) Untuk kanker payudara metastatik setelah gagal dengan kemoterapi lain yang mengandung antrasiklin atau taksan."
+            }
+        ]
+    },
+    {
+        "name": "kaptopril",
+        "subdrugs": [
+            {
+                "name": "kaptopril - TABLET 12,5 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "kaptopril",
+                "sediaan": "TABLET",
+                "kekuatan": "12,5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "kaptopril - TABLET 12,5 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "kaptopril",
+                "sediaan": "TABLET",
+                "kekuatan": "12,5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kaptopril - TABLET 25 MILIGRAM"
+            },
+            {
+                "name": "kaptopril - TABLET 50 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "karbamazepin",
+        "subdrugs": [
+            {
+                "name": "karbamazepin - SIRUP 100 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "karbamazepin",
+                "sediaan": "SIRUP",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "4 btl/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "karbamazepin - TABLET 200 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "karbamazepin",
+                "sediaan": "TABLET",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "karbamazepin - TABLET 200 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "NYERI NEUROPATIK",
+                "nama obat": "karbamazepin",
+                "sediaan": "TABLET",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi obat": "Hanya untuk neuralgia trigeminal."
+            }
+        ]
+    },
+    {
+        "name": "karbimazol",
+        "subdrugs": [
+            {
+                "name": "karbimazol - TABLET 5 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON TIROID dan ANTITIROID",
+                "nama obat": "karbimazol",
+                "sediaan": "TABLET",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk bulan pertama maks 180 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "karbogliserin",
+        "subdrugs": [
+            {
+                "name": "karbogliserin - TETES TELINGA 10 PERSEN",
+                "kelas terapi": "OBAT untuk TELINGA, HIDUNG, dan TENGGOROK",
+                "nama obat": "karbogliserin",
+                "sediaan": "TETES TELINGA",
+                "kekuatan": "10",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "karboksimetilselulosa",
+        "subdrugs": [
+            {
+                "name": "karboksimetilselulosa - TETES MATA N/A",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "karboksimetilselulosa",
+                "sediaan": "TETES MATA",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "karboplatin",
+        "subdrugs": [
+            {
+                "name": "karboplatin - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antineoplastik Lain",
+                "nama obat": "karboplatin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "AUC (Area Under the Curve) 5âˆ’6 setiap 3 minggu.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "karvedilol",
+        "subdrugs": [
+            {
+                "name": "karvedilol - TABLET 25 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "karvedilol",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Hanya untuk gagal jantung kronis dengan penurunan fungsi ventrikular sistolik yang sudah terkompensasi."
+            },
+            {
+                "name": "karvedilol - TABLET 6,25 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "karvedilol",
+                "sediaan": "TABLET",
+                "kekuatan": "6,25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Hanya untuk gagal jantung kronis dengan penurunan fungsi ventrikular sistolik yang sudah terkompensasi."
+            }
+        ]
+    },
+    {
+        "name": "ketamin",
+        "subdrugs": [
+            {
+                "name": "ketamin - INJEKSI 100 MILIGRAM / MILILITER",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "ANESTETIK UMUM dan OKSIGEN",
+                "nama obat": "ketamin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "ketamin - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "ANESTETIK UMUM dan OKSIGEN",
+                "nama obat": "ketamin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "ketokonazol",
+        "subdrugs": [
+            {
+                "name": "ketokonazol - KRIM 2 PERSEN"
+            },
+            {
+                "name": "ketokonazol - SCALP SOLUTION 2 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTIFUNGI",
+                "nama obat": "ketokonazol",
+                "sediaan": "SCALP SOLUTION",
+                "kekuatan": "2",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Pada pitiriasis yang luas."
+            },
+            {
+                "name": "ketokonazol - TABLET 200 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "ketokonazol",
+                "sediaan": "TABLET",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 30 tab/kasus.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "ketoprofen",
+        "subdrugs": [
+            {
+                "name": "ketoprofen - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "ketoprofen",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "ketoprofen - SUPOSITORIA 100 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "ketoprofen",
+                "sediaan": "SUPOSITORIA",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 sup/hari, maks 3 hari.",
+                "restriksi sediaan": "Untuk nyeri sedang sampai berat pada pasien yang tidak dapat menggunakan analgesik secara oral."
+            }
+        ]
+    },
+    {
+        "name": "ketorolak",
+        "subdrugs": [
+            {
+                "name": "ketorolak - INJEKSI 30 MILIGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "ketorolak",
+                "sediaan": "INJEKSI",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "2-3 amp/hari, maks 5 hari.",
+                "restriksi sediaan": "Untuk nyeri sedang sampai berat pada pasien yang tidak dapat menggunakan analgesik secara oral."
+            }
+        ]
+    },
+    {
+        "name": "king cobra antivenin",
+        "subdrugs": [
+            {
+                "name": "king cobra antivenin - SERBUK INJEKSI N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "king cobra antivenin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes."
+            }
+        ]
+    },
+    {
+        "name": "klaritromisin",
+        "subdrugs": [
+            {
+                "name": "klaritromisin - SIRUP KERING 125 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Makrolid",
+                "nama obat": "klaritromisin",
+                "sediaan": "SIRUP KERING",
+                "kekuatan": "125",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "14 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "klaritromisin - SIRUP KERING 250 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Makrolid",
+                "nama obat": "klaritromisin",
+                "sediaan": "SIRUP KERING",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "14 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "klaritromisin - TABLET SALUT SELAPUT 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antilepra",
+                "nama obat": "klaritromisin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 x 1 hari selama 24 bulan.",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes.\n\na) Hanya diberikan pada kasus kusta dengan kondisi resistensi atau alergi obat dari jenis obat di lini pertama.\nb) Tidak digunakan sebagai monoterapi melainkan dikombinasikan dengan obat anti kusta lain seperti rifampisin atau ofloksasin atau minosiklin atau klofazimin.\nc) Tidak diberikan pada kasus â‰¤ 18 tahun. Dosis 1 x 1 hari selama 24 bulan."
+            },
+            {
+                "name": "klaritromisin - TABLET SALUT SELAPUT 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Makrolid",
+                "nama obat": "klaritromisin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "14 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "klindamisin",
+        "subdrugs": [
+            {
+                "name": "klindamisin - KAPSUL 150 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Linkosamid",
+                "nama obat": "klindamisin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "4 kaps/hari selama 5 hari kecuali untuk toksoplasmosis selama 6 minggu.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "klindamisin - KAPSUL 300 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Linkosamid",
+                "nama obat": "klindamisin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 4 kaps/hari selama 5 hari kecuali untuk toksoplasmosis 8 kaps/hari selama 6 minggu.\n- Untuk abses paru atau empiema: 3âˆ’4 kaps/hari selama 14 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "klobazam",
+        "subdrugs": [
+            {
+                "name": "klobazam - TABLET 10 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIANSIETAS",
+                "nama obat": "klobazam",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "klobetasol propionat",
+        "subdrugs": [
+            {
+                "name": "klobetasol propionat - KRIM 0,05 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTISKABIES dan ANTIPEDIKULOSIS",
+                "nama obat": "klobetasol propionat",
+                "sediaan": "KRIM",
+                "kekuatan": "0,05",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 10 hari.",
+                "restriksi obat": "Untuk dermatitis kronik berat yang hiperkeratotik, yang tidak respons terhadap steroid topikal lainnya."
+            },
+            {
+                "name": "klobetasol propionat - SALEP 0,05 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTISKABIES dan ANTIPEDIKULOSIS",
+                "nama obat": "klobetasol propionat",
+                "sediaan": "SALEP",
+                "kekuatan": "0,05",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 10 hari.",
+                "restriksi obat": "Untuk dermatitis kronik berat yang hiperkeratotik, yang tidak respons terhadap steroid topikal lainnya."
+            }
+        ]
+    },
+    {
+        "name": "klofazimin",
+        "subdrugs": [
+            {
+                "name": "klofazimin - KAPSUL DALAM MINYAK 100 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antilepra",
+                "nama obat": "klofazimin",
+                "sediaan": "KAPSUL DALAM MINYAK",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "klofazimin - KAPSUL DALAM MINYAK 50 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antilepra",
+                "nama obat": "klofazimin",
+                "sediaan": "KAPSUL DALAM MINYAK",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kloksasilin",
+        "subdrugs": [
+            {
+                "name": "kloksasilin - KAPSUL 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "kloksasilin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloksasilin - INJEKSI 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "kloksasilin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "klonazepam",
+        "subdrugs": [
+            {
+                "name": "klonazepam - TABLET 2 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "klonazepam",
+                "sediaan": "TABLET",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "klonidin",
+        "subdrugs": [
+            {
+                "name": "klonidin - INJEKSI 150 MICROGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "klonidin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "150",
+                "satuan": "MICROGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "klonidin - TABLET 0,15 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "klonidin",
+                "sediaan": "TABLET",
+                "kekuatan": "0,15",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            }
+        ]
+    },
+    {
+        "name": "klopidogrel",
+        "subdrugs": [
+            {
+                "name": "klopidogrel - TABLET 75 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIAGREGASI PLATELET",
+                "nama obat": "klopidogrel",
+                "sediaan": "TABLET",
+                "kekuatan": "75",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "a) Diberikan 1 x 75 mg selama 10 hari sebelum PCI/kateterisasi dan dilanjutkan dosis rumatan (maintenance) 1 x 75 mg/hari maks selama 12 bulan.\nb) Diberikan loading dose 600 mg pre tindakan dilanjutkan dengan dosis rumatan (maintenance) 1 x 75 mg/hari maks selama 12 bulan.\nc) Diberikan 1 x 75 mg/hari maks selama 12 bulan.\nd) Diberikan 1 x 75 mg/hari maks selama 12 bulan.",
+                "restriksi obat": "a) Diberikan pada pasien yang direncanakan untuk dilakukan prosedur PCI elektif.\natau\nb) Diberikan pada pasien yang akan dilakukan prosedur primary PCI atau early PCI.\natau\nc) Pasien yang menderita recent myocardial infarction, ischaemic stroke atau established Peripheral Arterial Disease (PAD).\natau\nd) Pasien yang menderita sindrom koroner akut: NON STEMI (unstable angina) dan STEMI.\ne) Hati-hati interaksi obat pada pasien yang menggunakan obat-obat golongan Proton Pump Inhibitor (PPI).\nf) Lazimnya klopidogrel diberikan bersama dengan antiplatelet aspirin atau antiplatelet lainnya dosis rendah.\ng) Pemberian klopidogrel lebih dari 12 bulan dapat dilakukan bila terjadi alergi/intoleransi terhadap asam asetilsalisilat, atau terjadi stroke berulang walaupun faktor risiko telah terkontrol."
+            },
+            {
+                "name": "klopidogrel - TABLET SALUT SELAPUT 300 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIAGREGASI PLATELET",
+                "nama obat": "klopidogrel",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "a) Diberikan 1 x 75 mg selama 10 hari sebelum PCI/kateterisasi dan dilanjutkan dosis rumatan (maintenance) 1 x 75 mg/hari maks selama 12 bulan.\nb) Diberikan loading dose 600 mg pre tindakan dilanjutkan dengan dosis rumatan (maintenance) 1 x 75 mg/hari maks selama 12 bulan.\nc) Diberikan 1 x 75 mg/hari maks selama 12 bulan.\nd) Diberikan 1 x 75 mg/hari maks selama 12 bulan.",
+                "restriksi obat": "a) Diberikan pada pasien yang direncanakan untuk dilakukan prosedur PCI elektif.\natau\nb) Diberikan pada pasien yang akan dilakukan prosedur primary PCI atau early PCI.\natau\nc) Pasien yang menderita recent myocardial infarction, ischaemic stroke atau established Peripheral Arterial Disease (PAD).\natau\nd) Pasien yang menderita sindrom koroner akut: NON STEMI (unstable angina) dan STEMI.\ne) Hati-hati interaksi obat pada pasien yang menggunakan obat-obat golongan Proton Pump Inhibitor (PPI).\nf) Lazimnya klopidogrel diberikan bersama dengan antiplatelet aspirin atau antiplatelet lainnya dosis rendah.\ng) Pemberian klopidogrel lebih dari 12 bulan dapat dilakukan bila terjadi alergi/intoleransi terhadap asam asetilsalisilat, atau terjadi stroke berulang walaupun faktor risiko telah terkontrol.",
+                "restriksi sediaan": "Hanya untuk loading dose pada pasien yang menjalani Percutaneous Coronary Intervention (PCI)."
+            }
+        ]
+    },
+    {
+        "name": "kloral hidrat",
+        "subdrugs": [
+            {
+                "name": "kloral hidrat - LARUTAN N/A"
+            }
+        ]
+    },
+    {
+        "name": "klorambusil",
+        "subdrugs": [
+            {
+                "name": "klorambusil - TABLET 5 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkilator",
+                "nama obat": "klorambusil",
+                "sediaan": "TABLET",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kloramfenikol",
+        "subdrugs": [
+            {
+                "name": "kloramfenikol - KAPSUL 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kloramfenikol",
+                "nama obat": "kloramfenikol",
+                "sediaan": "KAPSUL",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 4 kaps/hari selama 5 hari.\n- Untuk meningitis:\nAnak: 2 g/hari selama 14 hari.\nDewasa: 4 g/hari selama 14 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - KAPSUL 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kloramfenikol",
+                "nama obat": "kloramfenikol",
+                "sediaan": "KAPSUL",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 4 kaps/hari selama 5 hari.\n- Untuk meningitis:\nAnak: 2 g/hari selama 14 hari.\nDewasa: 4 g/hari selama 14 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kloramfenikol",
+                "nama obat": "kloramfenikol",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "pp": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "14 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - SALEP MATA 1 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "kloramfenikol",
+                "sediaan": "SALEP MATA",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - SUSPENSI 125 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kloramfenikol",
+                "nama obat": "kloramfenikol",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "125",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 5 hari.\n- Untuk meningitis: maks 14 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - TETES MATA 0,5 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "kloramfenikol",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,5",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - TETES MATA 1 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "kloramfenikol",
+                "sediaan": "TETES MATA",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - TETES TELINGA N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kloramfenikol",
+                "nama obat": "kloramfenikol",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "pp": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "14 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - TETES TELINGA N/A",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "kloramfenikol",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,5",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - TETES TELINGA N/A",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "kloramfenikol",
+                "sediaan": "TETES MATA",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - TETES TELINGA N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kloramfenikol",
+                "nama obat": "kloramfenikol",
+                "sediaan": "KAPSUL",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 4 kaps/hari selama 5 hari.\n- Untuk meningitis:\nAnak: 2 g/hari selama 14 hari.\nDewasa: 4 g/hari selama 14 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - TETES TELINGA N/A",
+                "kelas terapi": "OBAT untuk TELINGA, HIDUNG, dan TENGGOROK",
+                "nama obat": "kloramfenikol",
+                "sediaan": "TETES TELINGA",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk infeksi telinga dengan membran timpani yang utuh."
+            },
+            {
+                "name": "kloramfenikol - TETES TELINGA N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kloramfenikol",
+                "nama obat": "kloramfenikol",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "125",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 5 hari.\n- Untuk meningitis: maks 14 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - TETES TELINGA N/A",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "kloramfenikol",
+                "sediaan": "SALEP MATA",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kloramfenikol - TETES TELINGA N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kloramfenikol",
+                "nama obat": "kloramfenikol",
+                "sediaan": "KAPSUL",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 4 kaps/hari selama 5 hari.\n- Untuk meningitis:\nAnak: 2 g/hari selama 14 hari.\nDewasa: 4 g/hari selama 14 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "klorfeniramin",
+        "subdrugs": [
+            {
+                "name": "klorfeniramin - TABLET 4 MILIGRAM",
+                "kelas terapi": "ANTIALERGI dan OBAT untuk ANAFILAKSIS",
+                "nama obat": "klorfeniramin",
+                "sediaan": "TABLET",
+                "kekuatan": "4",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 tab/hari, maks 5 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "klorfenol kamfer mentol (CHKM)",
+        "subdrugs": [
+            {
+                "name": "klorfenol kamfer mentol (CHKM) - LARUTAN N/A",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "ANTISEPTIK dan BAHAN untuk PERAWATAN SALURAN AKAR GIGI",
+                "nama obat": "klorfenol kamfer mentol (CHKM)",
+                "sediaan": "LARUTAN",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "klorheksidin",
+        "subdrugs": [
+            {
+                "name": "klorheksidin - LARUTAN 0,2 PERSEN",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "ANTISEPTIK dan BAHAN untuk PERAWATAN SALURAN AKAR GIGI",
+                "nama obat": "klorheksidin",
+                "sediaan": "LARUTAN",
+                "kekuatan": "0,2",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "klorheksidin - LARUTAN 45659 PERSEN",
+                "kelas terapi": "ANTISEPTIK dan DISINFEKTAN",
+                "sub kelas terapi": "ANTISEPTIK",
+                "nama obat": "klorheksidin",
+                "sediaan": "LARUTAN",
+                "kekuatan": "45.659",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Untuk diencerkan bila akan digunakan."
+            }
+        ]
+    },
+    {
+        "name": "klorokuin",
+        "subdrugs": [
+            {
+                "name": "klorokuin - TABLET 250 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "klorokuin",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Untuk kasus SLE (Systemic \nLupus Erythematosus). \natau\nb) Untuk kasus RA (Rheumatoid \nArthritis)."
+            }
+        ]
+    },
+    {
+        "name": "klorpromazin",
+        "subdrugs": [
+            {
+                "name": "klorpromazin - INJEKSI 25 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "klorpromazin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "klorpromazin - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "klorpromazin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "klorpromazin - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "klorpromazin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "klorpromazin - TABLET 100 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "klorpromazin",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi sediaan": "Terapi awal dapat diberikan di Puskesmas yang memiliki tenaga kesehatan terlatih dan mempunyai surat penugasan dari Kementerian Kesehatan."
+            },
+            {
+                "name": "klorpromazin - TABLET 25 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "klorpromazin",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "klorpromazin - TABLET 25 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "klorpromazin",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "klotrimazol",
+        "subdrugs": [
+            {
+                "name": "klotrimazol - TABLET VAGINAL 100 MILIGRAM",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTIFUNGI",
+                "nama obat": "klotrimazol",
+                "sediaan": "TABLET VAGINAL",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "klozapin",
+        "subdrugs": [
+            {
+                "name": "klozapin - TABLET 100 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "klozapin",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi obat": "Hanya untuk pengobatan psikosis yang sudah resistan terhadap antipsikotik lain.",
+                "restriksi sediaan": "a) Hanya untuk skizofrenia yang resisten/intoleran.\nb) Lakukan cek leukosit secara berkala (hati-hati agranulositosis)."
+            },
+            {
+                "name": "klozapin - TABLET 25 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "kodein",
+        "subdrugs": [
+            {
+                "name": "kodein - TABLET 10 MILIGRAM"
+            },
+            {
+                "name": "kodein - TABLET 15 MILIGRAM"
+            },
+            {
+                "name": "kodein - TABLET 20 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "kolekalsiferol (vitamin D3)",
+        "subdrugs": [
+            {
+                "name": "kolekalsiferol (vitamin D3) - TABLET 1000 INTERNASIONAL UNIT",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "kolekalsiferol (vitamin D³)",
+                "sediaan": "TABLET",
+                "kekuatan": "1.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kolekalsiferol (vitamin D3) - TABLET 5000 INTERNASIONAL UNIT",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "kolekalsiferol (vitamin D³)",
+                "sediaan": "TABLET",
+                "kekuatan": "5.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kolestiramin",
+        "subdrugs": [
+            {
+                "name": "kolestiramin - SERBUK 4 GRAM"
+            }
+        ]
+    },
+    {
+        "name": "kolkisin",
+        "subdrugs": [
+            {
+                "name": "kolkisin - TABLET 500 MICROGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANTIPIRAI",
+                "nama obat": "kolkisin",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MICROGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi deksametason asetat, thymol, paraklorfenol, dan campor",
+        "subdrugs": [
+            {
+                "name": "kombinasi deksametason asetat, thymol, paraklorfenol, dan campor - CAIRAN 0,1;5;30;64 PERSEN",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "ANTISEPTIK dan BAHAN untuk PERAWATAN SALURAN AKAR GIGI",
+                "nama obat": "kombinasi deksametason asetat, thymol, paraklorfenol, dan campor",
+                "sediaan": "CAIRAN",
+                "kekuatan": "0,1;5;30;64",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "deksametason asetat 0,1 %\nthymol 5 %\nparaklorfenol 30 %\ncampor 64%",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC (anak) mengandung zidovudin, lamivudin dan nevirapin",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC (anak) mengandung zidovudin, lamivudin dan nevirapin - TABLET DISPERSIBLE 60;30;50 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)+Non-Nucleoside Reverse Transcriptase Inhibitor (NNRTI)",
+                "nama obat": "kombinasi KDT/FDC (anak) mengandung zidovudin, lamivudin dan nevirapin",
+                "sediaan": "TABLET DISPERSIBLE",
+                "kekuatan": "60;30;50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC (anak) mengandung: \na. zidovudin 60 mg\nb. lamivudin 30 mg \nc. nevirapin 50 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "a) Terapi awal dilakukan di FPKTL.\nb) Setelah stabil, pemberian dapat dilanjutkan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC (LPV/r) mengandung lopinavir dan ritonavir",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC (LPV/r) mengandung lopinavir dan ritonavir - GRANULA 40;10 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Protease Inhibitor",
+                "nama obat": "kombinasi KDT/FDC (LPV/r) mengandung lopinavir dan ritonavir",
+                "sediaan": "GRANULA",
+                "kekuatan": "40;10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC (LPV/r) mengandung:\nlopinavir 40 mg\nritonavir 10 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "a) Dapat digunakan untuk pengobatan HIV pada anak.\nb) Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            },
+            {
+                "name": "kombinasi KDT/FDC (LPV/r) mengandung lopinavir dan ritonavir - TABLET 100;25 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Protease Inhibitor",
+                "nama obat": "kombinasi KDT/FDC (LPV/r) mengandung lopinavir dan ritonavir",
+                "sediaan": "TABLET",
+                "kekuatan": "100;25",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC (LPV/r) mengandung:\nlopinavir 100 mg\nritonavir 25 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "a) Dapat digunakan untuk pengobatan HIV pada usia â‰¥10 tahun.\nb) Dapat digunakan sebagai terapi lini kedua pada anak yang gagal terapi dengan NNRTI.\nc) Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            },
+            {
+                "name": "kombinasi KDT/FDC (LPV/r) mengandung lopinavir dan ritonavir - TABLET 200;50 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Protease Inhibitor",
+                "nama obat": "kombinasi KDT/FDC (LPV/r) mengandung lopinavir dan ritonavir",
+                "sediaan": "TABLET",
+                "kekuatan": "200;50",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC (LPV/r) mengandung:\nlopinavir 200 mg\nritonavir 50 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "a) Hanya digunakan sebagai lini kedua terapi antiretroviral.\nb) Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung abakavir dan lamivudin",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung abakavir dan lamivudin - TABLET DISPERSIBLE 120;60 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)",
+                "nama obat": "kombinasi KDT/FDC mengandung abakavir dan lamivudin",
+                "sediaan": "TABLET DISPERSIBLE",
+                "kekuatan": "120;60",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC mengandung:\na. abakavir 120 mg\nb. lamivudin 60 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "a) Dapat digunakan untuk pengobatan HIV pada anak.\nb) Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung amoksisilin dan asam klavulanat",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung amoksisilin dan asam klavulanat - INJEKSI 1.2 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "kombinasi KDT/FDC mengandung amoksisilin dan asam klavulanat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1.2",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "kombinasi KDT/FDC mengandung: \na. amoksisilin 1.000 mg\nb. asam klavulanat 200 mg",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Direkonstitusi sesaat sebelum disuntikkan untuk mencegah hilangnya efikasi asam klavulanat."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung amoksisilin dan asam klavulanat - SIRUP KERING 125;31,25 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "kombinasi KDT/FDC mengandung amoksisilin dan asam klavulanat",
+                "sediaan": "SIRUP KERING",
+                "kekuatan": "125;31,25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "kombinasi KDT/FDC mengandung: \na. amoksisilin 125 mg\nb. asam klavulanat 31,25 mg",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Direkonstitusi sesaat sebelum digunakan untuk mencegah hilangnya efikasi asam klavulanat, disimpan dalam lemari pendingin, dan digunakan tidak lebih dari 7 hari setelah direkonstitusi.\n\nHanya untuk terapi lanjutan untuk pasien yang sebelumnya mendapatkan antibiotik parenteral amoksisilin-asam klavulanat atau sesuai hasil uji resistensi."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung amoksisilin dan asam klavulanat - SIRUP KERING 250;62,5 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "kombinasi KDT/FDC mengandung amoksisilin dan asam klavulanat",
+                "sediaan": "SIRUP KERING",
+                "kekuatan": "250;62,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "kombinasi KDT/FDC mengandung: \na. amoksisilin 250 mg\nb. asam klavulanat 62,50 mg",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Direkonstitusi sesaat sebelum digunakan untuk mencegah hilangnya efikasi asam klavulanat, disimpan dalam lemari pendingin, dan digunakan tidak lebih dari 7 hari setelah direkonstitusi.\n\nHanya untuk terapi lanjutan untuk pasien yang sebelumnya mendapatkan antibiotik parenteral amoksisilin-asam klavulanat atau sesuai hasil uji resistensi."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung amoksisilin dan asam klavulanat - TABLET 625 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "kombinasi KDT/FDC mengandung amoksisilin dan asam klavulanat",
+                "sediaan": "TABLET",
+                "kekuatan": "625",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "kombinasi KDT/FDC mengandung: \na. amoksisilin 500 mg\nb. asam klavulanat 125 mg",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk terapi lanjutan untuk pasien yang sebelumnya mendapatkan antibiotik parenteral amoksisilin-asam klavulanat atau sesuai hasil uji resistensi."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung ampisilin dan sulbaktam",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung ampisilin dan sulbaktam - SERBUK INJEKSI 1.5 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "kombinasi KDT/FDC mengandung ampisilin dan sulbaktam",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "1.5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung: \na. ampisilin 1.000 mg\nb. sulbaktam 500 mg",
+                "peresepan maksimal": "10 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung ampisilin dan sulbaktam - SERBUK INJEKSI 750 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "kombinasi KDT/FDC mengandung ampisilin dan sulbaktam",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "750",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung: \na. ampisilin 500 mg\nb. sulbaktam 250 mg",
+                "peresepan maksimal": "10 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung artemether dan lumefantrin",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung artemether dan lumefantrin - TABLET 20;120 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIPROTOZOA",
+                "sub sub kelas terapi": "Antimalaria",
+                "nama obat": "kombinasi KDT/FDC mengandung artemether dan lumefantrin",
+                "sediaan": "TABLET",
+                "kekuatan": "20;120",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC mengandung: \na. artemether 20 mg\nb. lumefantrin 120 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan: Disediakan oleh Program \nKemenkes.",
+                "restriksi obat": "Terapi lini pertama untuk malaria \nfalsiparum."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung benserazid dan levodopa",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung benserazid dan levodopa - TABLET 25;100 MILIGRAM",
+                "kelas terapi": "ANTIPARKINSON",
+                "nama obat": "kombinasi KDT/FDC mengandung benserazid dan levodopa",
+                "sediaan": "TABLET",
+                "kekuatan": "25;100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "kombinasi KDT/FDC mengandung benserazid 25 mg\nlevodopa 100 mg",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu neurologi."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung benserazid dan levodopa - TABLET DISPERSIBLE 25;100 MILIGRAM",
+                "kelas terapi": "ANTIPARKINSON",
+                "nama obat": "kombinasi KDT/FDC mengandung benserazid dan levodopa",
+                "sediaan": "TABLET DISPERSIBLE",
+                "kekuatan": "25;100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung benserazid 25 mg\nlevodopa 100 mg",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu neurologi."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung desogestrel dan etinilestradiol",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung desogestrel dan etinilestradiol - TABLET 150;30 MICROGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Kontrasepsi",
+                "sub sub sub kelas terapi": "Kontrasepsi, Oral",
+                "nama obat": "kombinasi KDT/FDC mengandung desogestrel dan etinilestradiol",
+                "sediaan": "TABLET",
+                "kekuatan": "150;30",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung desogestrel 150 mcg\netinilestradiol 30 mcg",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung dihidroartemisinin dan piperakuin",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung dihidroartemisinin dan piperakuin - TABLET 40;320 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIPROTOZOA",
+                "sub sub kelas terapi": "Antimalaria",
+                "nama obat": "kombinasi KDT/FDC mengandung dihidroartemisinin dan piperakuin",
+                "sediaan": "TABLET",
+                "kekuatan": "40;320",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC mengandung: \na. dihidroartemisinin 40 mg\nb. piperakuin 320 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan: Disediakan oleh Program \nKemenkes."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung dihidroartemisinin dan piperakuin - TABLET DISPERSIBLE 20;160 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIPROTOZOA",
+                "sub sub kelas terapi": "Antimalaria",
+                "nama obat": "kombinasi KDT/FDC mengandung dihidroartemisinin dan piperakuin",
+                "sediaan": "TABLET DISPERSIBLE",
+                "kekuatan": "20;160",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC mengandung: \na. dihidroartemisinin 20 mg\nb. piperakuin 160 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan: Disediakan oleh Program \nKemenkes."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung ergotamin dan kafein",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung ergotamin dan kafein - TABLET 1;50 MILIGRAM",
+                "kelas terapi": "ANTIMIGREN DAN ANTIVERTIGO",
+                "sub kelas terapi": "ANTIMIGREN",
+                "sub sub kelas terapi": "Serangan Akut",
+                "nama obat": "kombinasi KDT/FDC mengandung ergotamin dan kafein",
+                "sediaan": "TABLET",
+                "kekuatan": "1;50",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "kombinasi KDT/FDC mengandung ergotamin 1 mg\nkafein 50 mg",
+                "peresepan maksimal": "8 tab/minggu.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung Fe sulfat/Fe fumarat/Fe glukonat dan asam folat",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung Fe sulfat/Fe fumarat/Fe glukonat dan asam folat - TABLET SALUT N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "ANTIANEMI",
+                "nama obat": "kombinasi KDT/FDC mengandung Fe sulfat/Fe fumarat/Fe glukonat dan asam folat",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "Fe sulfat/ Fe fumarat/ Fe glukonat (setara dengan 60 mg Fe elemental)\nasam folat 0,4 mg",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung Fe sulfat/Fe fumarat/Fe glukonat dan asam folat - TABLET SALUT N/A",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "kombinasi KDT/FDC mengandung Fe sulfat/Fe fumarat/Fe glukonat dan asam folat",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "Fe sulfat/ Fe fumarat/ Fe glukonat (setara dengan 60 mg Fe elemental)\nasam folat 0,4 mg",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung indakaterol dan glikopironium",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung indakaterol dan glikopironium - SERBUK INHALASI + ALAT BREEZHALER 110;50 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "OBAT untuk PENYAKIT PARU OBSTRUKSI KRONIS",
+                "nama obat": "kombinasi KDT/FDC mengandung indakaterol dan glikopironium",
+                "sediaan": "SERBUK INHALASI + ALAT BREEZHALER",
+                "kekuatan": "110;50",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung indakaterol 110 mcg glikopironium 50 mcg",
+                "peresepan maksimal": "30 kaps/bulan.",
+                "restriksi obat": "Obat lini kedua untuk PPOK berat yang tidak respons lagi dengan LABA atau LAMA atau LABACs."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung ipratropium bromida dan fenoterol hidrobromida",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung ipratropium bromida dan fenoterol hidrobromida - AEROSOL 0,02;0,05 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "kombinasi KDT/FDC mengandung ipratropium bromida dan fenoterol hidrobromida",
+                "sediaan": "AEROSOL",
+                "kekuatan": "0,02;0,05",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "kombinasi KDT/FDC mengandung ipratropium bromida 0,02 mg\nfenoterol hidrobromida 0,05 mg",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung ipratropium bromida dan salbutamol",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung ipratropium bromida dan salbutamol - CAIRAN INHALASI 0,5;2,5 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "kombinasi KDT/FDC mengandung ipratropium bromida dan salbutamol",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "0,5;2,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "kombinasi KDT/FDC mengandung ipratropium bromida 0,5 mg\nsalbutamol 2,5 mg",
+                "peresepan maksimal": "Hari pertama maks 8 vial/hari, selanjutnya maks 4 vial/hari paling lama 5 hari.\nKasus ICU maks 10 vial/hari.",
+                "restriksi obat": "Hanya untuk:\na) Serangan asma akut.\ndan/atau\nb) Sebagai nebulizer di UGD dan ruang perawatan."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung ipratropium bromida dan salbutamol - CAIRAN INHALASI 0,5;2,5 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "OBAT untuk PENYAKIT PARU OBSTRUKSI KRONIS",
+                "nama obat": "kombinasi KDT/FDC mengandung ipratropium bromida dan salbutamol",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "0,5;2,5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "kombinasi KDT/FDC mengandung ipratropium bromida 0,5 mg\nsalbutamol 2,5 mg",
+                "peresepan maksimal": "- Hari pertama maks 8 vial/hari, selanjutnya maks 6 vial/hari paling lama 15 hari.\n- Kasus ICU maks 10 vial/hari.",
+                "restriksi obat": "Hanya untuk:\na) Bronkospasme yang menyertai PPOK.\natau\nb) Sebagai nebulizer di UGD dan ruang perawatan."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung isoniazid dan rifapentin",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung isoniazid dan rifapentin - TABLET 300;300 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "kombinasi KDT/FDC mengandung isoniazid dan rifapentin",
+                "sediaan": "TABLET",
+                "kekuatan": "300;300",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "isoniazid 300 mg\nrifapentin 300 mg",
+                "peresepan maksimal": "3 x 1 selama 12 minggu (diminum 1 minggu sekali).",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB.",
+                "restriksi obat": "a) Digunakan untuk terapi pencegahan TB pada pasien ODHIV.\nb) Kontra indikasi pemberian Terapi Pencegahan Tuberkulosis (TPT): anak dibawah 2 tahun, ibu hamil, ODHIV yang mengkonsumsi antiretroviral jenis nevirapin atau lopinavir-ritonavir."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung kaolin dan pektin",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung kaolin dan pektin - TABLET 550;20 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "OBAT untuk DIARE",
+                "nama obat": "kombinasi KDT/FDC mengandung kaolin dan pektin",
+                "sediaan": "TABLET",
+                "kekuatan": "550;20",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "kaolin 550 mg\npektin 20 mg",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung levodopa, karbidopa, dan entekapon",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung levodopa, karbidopa, dan entekapon - TABLET 100;25;200 MILIGRAM",
+                "kelas terapi": "ANTIPARKINSON",
+                "nama obat": "kombinasi KDT/FDC mengandung levodopa, karbidopa, dan entekapon",
+                "sediaan": "TABLET",
+                "kekuatan": "100;25;200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung levodopa 100 mg\nkarbidopa 25 mg\nentekapon 200 mg",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu neurologi."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung levonorgestrel dan etinilestradiol",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung levonorgestrel dan etinilestradiol - TABLET 150;30 MICROGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Kontrasepsi",
+                "sub sub sub kelas terapi": "Kontrasepsi, Oral",
+                "nama obat": "kombinasi KDT/FDC mengandung levonorgestrel dan etinilestradiol",
+                "sediaan": "TABLET",
+                "kekuatan": "150;30",
+                "satuan": "MICROGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC mengandung levonorgestrel 150 mcg\netinilestradiol 30 mcg",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh program\nBKKBN."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung medroksi progesteron asetat dan estradiol sipionat",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung medroksi progesteron asetat dan estradiol sipionat - INJEKSI 120;10 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Kontrasepsi",
+                "sub sub sub kelas terapi": "Kontrasepsi, Parenteral",
+                "nama obat": "kombinasi KDT/FDC mengandung medroksi progesteron asetat dan estradiol sipionat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "120;10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC mengandung medroksi progesteron asetat 120 mg\nestradiol sipionat 10 mg",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh program\nBKKBN."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung medroksi progesteron asetat dan estradiol sipionat - INJEKSI 25;5 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Kontrasepsi",
+                "sub sub sub kelas terapi": "Kontrasepsi, Parenteral",
+                "nama obat": "kombinasi KDT/FDC mengandung medroksi progesteron asetat dan estradiol sipionat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "25;5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "kombinasi KDT/FDC mengandung medroksi progesteron asetat 25 mg\nestradiol sipionat 5 mg",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung meglumin amidotrizoat dan sodium amidotrizoat",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung meglumin amidotrizoat dan sodium amidotrizoat - INJEKSI 76 PERSEN",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "BAHAN KONTRAS RADIOLOGI",
+                "sub sub kelas terapi": "Body cavity",
+                "nama obat": "kombinasi KDT/FDC mengandung meglumin amidotrizoat dan sodium amidotrizoat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "76",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung meglumin amidotrizoat\nsodium amidotrizoat",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung parafin, gliserin, dan fenolftalein",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung parafin, gliserin, dan fenolftalein - EMULSI N/A",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "KATARTIK",
+                "nama obat": "kombinasi KDT/FDC mengandung parafin, gliserin, dan fenolftalein",
+                "sediaan": "EMULSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "parafin\ngliserin\nfenolftalein",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat - INHALASI 25;50 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat",
+                "sediaan": "INHALASI",
+                "kekuatan": "25;50",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "kombinasi KDT/FDC mengandung salmeterol 25 mcg\nflutikason propionat 50 mcg",
+                "peresepan maksimal": "1 tbg/bulan.",
+                "restriksi obat": "Tidak diberikan pada kasus asma akut."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat - SERBUK INHALASI 50;100 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat",
+                "sediaan": "SERBUK INHALASI",
+                "kekuatan": "50;100",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "kombinasi KDT/FDC mengandung salmeterol 50 mcg\nflutikason propionat 100 mcg",
+                "peresepan maksimal": "1 diskus/bulan.",
+                "restriksi obat": "Tidak diberikan pada kasus asma akut."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat - SERBUK INHALASI 50;250 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "OBAT untuk PENYAKIT PARU OBSTRUKSI KRONIS",
+                "nama obat": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat",
+                "sediaan": "SERBUK INHALASI",
+                "kekuatan": "50;250",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "kombinasi KDT/FDC mengandung salmeterol 50 mcg\nflutikason propionat 250 mcg",
+                "peresepan maksimal": "1 diskus atau 60 kapsul per bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat - SERBUK INHALASI 50;250 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat",
+                "sediaan": "SERBUK INHALASI",
+                "kekuatan": "50;250",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "kombinasi KDT/FDC mengandung salmeterol 50 mcg\nflutikason propionat 250 mcg",
+                "peresepan maksimal": "1 diskus atau 60 kapsul per bulan.",
+                "restriksi obat": "Tidak diberikan pada kasus asma akut."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat - SERBUK INHALASI 50;500 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat",
+                "sediaan": "SERBUK INHALASI",
+                "kekuatan": "50;500",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "kombinasi KDT/FDC mengandung salmeterol 50 mcg\nflutikason propionat 500 mcg",
+                "peresepan maksimal": "1 diskus atau 60 kapsul per bulan.",
+                "restriksi obat": "Hanya untuk asma persisten berat."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat - SERBUK INHALASI 50;500 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "OBAT untuk PENYAKIT PARU OBSTRUKSI KRONIS",
+                "nama obat": "kombinasi KDT/FDC mengandung salmeterol dan flutikason propionat",
+                "sediaan": "SERBUK INHALASI",
+                "kekuatan": "50;500",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "kombinasi KDT/FDC mengandung salmeterol 50 mcg\nflutikason propionat 500 mcg",
+                "peresepan maksimal": "1 diskus atau 60 kapsul per bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung sefoperazon dan sulbaktam",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung sefoperazon dan sulbaktam - SERBUK INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "kombinasi KDT/FDC mengandung sefoperazon dan sulbaktam",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung: \na. sefoperazon 500 mg\nb. sulbaktam 500 mg",
+                "peresepan maksimal": "10 hari.",
+                "restriksi obat": "Diberikan atas persetujuan dokter yang memiliki kompetensi di bidang ilmu penyakit tropik dan/atau infeksi atau DPJP yang ditunjuk oleh KFT/KPRA untuk:\na) Antibiotik kategori Watch.\nb) Ketika antibiotik kategori Access tidak efektif.\nc) Infeksi berat yang tidak bisa diatasi dengan sefoperazon tunggal."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung sofosbuvir dan daklatasvir",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung sofosbuvir dan daklatasvir - TABLET 400;60 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "kombinasi KDT/FDC mengandung sofosbuvir dan daklatasvir",
+                "sediaan": "TABLET",
+                "kekuatan": "400;60",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC (LPV/r) mengandung:\nsofosbuvir 400 mg\ndaklatasvir 60 mg",
+                "peresepan maksimal": "12 minggu untuk pasien non sirosis atau\n24 minggu untuk pasien dengan sirosis.",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes\n\na) Dapat diberikan untuk hepatitis C.\nb) Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi atau penyakit dalam.\nc) Dapat diberikan tanpa melakukan pemeriksaan genotipe, sesuai dengan SK Penetapan Rumah Sakit Layanan Hepatitis C dari Kementerian Kesehatan."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung sofosbuvir dan velpatasvir",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung sofosbuvir dan velpatasvir - TABLET SALUT SELAPUT 400;100 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "kombinasi KDT/FDC mengandung sofosbuvir dan velpatasvir",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "400;100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "kombinasi KDT/FDC (LPV/r) mengandung:\nsofosbuvir 400 mg\nvelpatasvir 100 mg",
+                "peresepan maksimal": "1 tab/ hari dievaluasi setiap 28 hari selama 12 mingggu.",
+                "restriksi obat": "a) Hanya untuk pasien Hepatitis C kronik dewasa yang diagnosisnya ditegakkan berbasis pemeriksaan serologi (anti-HCV positif) dan viral load.\nb) Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi atau penyakit dalam.\nc) Diberikan tanpa melakukan pemeriksaan genotipe.\nd) Tidak dapat digunakan untuk pasien HIV yang sedang pengobatan efavirenz atau nevirapin."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung tenofovir disoproksil fumarat dan emtrisitabin",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung tenofovir disoproksil fumarat dan emtrisitabin - TABLET 300;200 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)",
+                "nama obat": "kombinasi KDT/FDC mengandung tenofovir disoproksil fumarat dan emtrisitabin",
+                "sediaan": "TABLET",
+                "kekuatan": "300;200",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC mengandung:\na. tenofovir disoproksil fumarat 300 mg\nb. emtrisitabin 200 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "a) Sebagai profilaksis pra-pajanan (PrEP) oral untuk orang berisiko tinggi Terinfeksi HIV.\nb) Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat dan sudah mendapatkan pelatihan PrEP."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung tenofovir disoproksil fumarat dan lamivudin",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung tenofovir disoproksil fumarat dan lamivudin - TABLET 300;300 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)",
+                "nama obat": "kombinasi KDT/FDC mengandung tenofovir disoproksil fumarat dan lamivudin",
+                "sediaan": "TABLET",
+                "kekuatan": "300;300",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC mengandung:\na. tenofovir disoproksil fumarat 300 mg\nb. lamivudin 300 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "a) Sebagai profilaksis pra-pajanan (PrEP) oral untuk orang berisiko tinggi Terinfeksi HIV.\nb) Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat dan sudah mendapatkan pelatihan PrEP."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung tenofovir disoproksil fumarat, lamivudin dan dolutegravir",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung tenofovir disoproksil fumarat, lamivudin dan dolutegravir - TABLET 300;300;50 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)+Integrase Inhibitor",
+                "nama obat": "kombinasi KDT/FDC mengandung tenofovir disoproksil fumarat, lamivudin dan dolutegravir",
+                "sediaan": "TABLET",
+                "kekuatan": "300;300;50",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC (LPV/r) mengandung:\ntenofovir disoproksil 300 mg\nlamivudin 300 mg\ndolutegravir 50 mg",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes\n\nDapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung tenofovir disoproksil fumarat, lamivudin dan efavirenz",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung tenofovir disoproksil fumarat, lamivudin dan efavirenz - TABLET 300;300;600 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)+Non-Nucleoside Reverse Transcriptase Inhibitor (NNRTI)",
+                "nama obat": "kombinasi KDT/FDC mengandung tenofovir disoproksil fumarat, lamivudin dan efavirenz",
+                "sediaan": "TABLET",
+                "kekuatan": "300;300;600",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC mengandung: \na. tenofovir disoproksil fumarat 300 mg\nb.lamivudin 300 mg\nc. efavirenz 600 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung tiotropium dan olodaterol",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung tiotropium dan olodaterol - CAIRAN INHALASI 2,5;2,5 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "OBAT untuk PENYAKIT PARU OBSTRUKSI KRONIS",
+                "nama obat": "kombinasi KDT/FDC mengandung tiotropium dan olodaterol",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "2,5;2,5",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung tiotropium 2,5 mcg\nolodaterol 2,5 mcg",
+                "peresepan maksimal": "1 cartridge/bulan, 1 alat respimat/6 bulan.",
+                "restriksi obat": "Obat lini kedua untuk PPOK berat yang tidak respons lagi dengan LABA atau LAMA atau LABACs."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung tiotropium dan olodaterol - CAIRAN INHALASI, REFILL 2,5;2,5 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "OBAT untuk PENYAKIT PARU OBSTRUKSI KRONIS",
+                "nama obat": "kombinasi KDT/FDC mengandung tiotropium dan olodaterol",
+                "sediaan": "CAIRAN INHALASI, REFILL",
+                "kekuatan": "2,5;2,5",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung tiotropium 2,5 mcg\nolodaterol 2,5 mcg",
+                "peresepan maksimal": "1 cartridge /bulan.",
+                "restriksi obat": "Obat lini kedua untuk PPOK berat yang tidak respons lagi dengan LABA atau LAMA atau LABACs."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC mengandung zidovudin dan lamivudin",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC mengandung zidovudin dan lamivudin - TABLET 300;150 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)",
+                "nama obat": "kombinasi KDT/FDC mengandung zidovudin dan lamivudin",
+                "sediaan": "TABLET",
+                "kekuatan": "300;150",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC mengandung:\na. zidovudin 300 mg\nb. lamivudin 150 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            },
+            {
+                "name": "kombinasi KDT/FDC mengandung zidovudin dan lamivudin - TABLET DISPERSIBLE 60;30 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)",
+                "nama obat": "kombinasi KDT/FDC mengandung zidovudin dan lamivudin",
+                "sediaan": "TABLET DISPERSIBLE",
+                "kekuatan": "60;30",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "kombinasi KDT/FDC mengandung:\na. zidovudin 60 mg\nb. lamivudin 30 mg",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "a) Dapat digunakan untuk pengobatan HIV pada anak.\nb) Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC, setiap dosis mengandung budesonid dan formoterol",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC, setiap dosis mengandung budesonid dan formoterol - INHALASI 160;4,5 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "kombinasi KDT/FDC, setiap dosis mengandung budesonid dan formoterol",
+                "sediaan": "INHALASI",
+                "kekuatan": "160;4,5",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "kombinasi KDT/FDC mengandung budesonid 160 mcg\nformoterol 4,5 mcg",
+                "peresepan maksimal": "- Asma intermiten: 1 tbg/bulan.\n- Asma persisten ringan: 2 tbg/bulan.\n- Asma persisten sedang-berat: 3âˆ’4 tbg/bulan.\n- PPOK: 2 tbg/bulan.",
+                "restriksi obat": "a) Untuk terapi rumatan pada pasien asma.\nb) Untuk terapi pelega pada asma dari intermiten sampai persisten ringan-berat.\nc) Untuk terapi rumatan pada pasien PPOK.\nd) Tidak diindikasikan untuk bronkospasme akut."
+            },
+            {
+                "name": "kombinasi KDT/FDC, setiap dosis mengandung budesonid dan formoterol - INHALASI 80;4,5 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "kombinasi KDT/FDC, setiap dosis mengandung budesonid dan formoterol",
+                "sediaan": "INHALASI",
+                "kekuatan": "80;4,5",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "kombinasi KDT/FDC mengandung budesonid 80 mcg\nformoterol 4,5 mcg",
+                "peresepan maksimal": "Asma persisten ringan-sedang: 3 tbg/bulan.\nAsma persisten berat: 4 tbg/bulan.",
+                "restriksi obat": "a) Untuk terapi rumatan pada pasien asma.\nb) Untuk terapi pelega pada asma persisten ringan-berat.\nc) Tidak diindikasikan untuk bronkospasme akut."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC, setiap mL mengandung brinzolamid dan timolol",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC, setiap mL mengandung brinzolamid dan timolol - TETES MATA 1;0,5 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIOTIK dan ANTIGLAUKOMA",
+                "nama obat": "kombinasi KDT/FDC, setiap mL mengandung brinzolamid dan timolol",
+                "sediaan": "TETES MATA",
+                "kekuatan": "1;0,5",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung brinzolamid 1 %\ntimolol 0,5 %",
+                "peresepan maksimal": "1 btl/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC, setiap mL mengandung latanoprost dan timolol",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC, setiap mL mengandung latanoprost dan timolol - TETES MATA 0,05;5 MILIGRAM",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIOTIK dan ANTIGLAUKOMA",
+                "nama obat": "kombinasi KDT/FDC, setiap mL mengandung latanoprost dan timolol",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,05;5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung latanoprost 0,05 mg timolol 5 mg",
+                "peresepan maksimal": "1 btl/bulan.",
+                "restriksi obat": "Hanya untuk pasien glaukoma."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC, setiap mL mengandung natrium klorida dan kalium klorida",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC, setiap mL mengandung natrium klorida dan kalium klorida - TETES MATA 4,40;0,80 MILIGRAM",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "kombinasi KDT/FDC, setiap mL mengandung natrium klorida dan kalium klorida",
+                "sediaan": "TETES MATA",
+                "kekuatan": "4,40;0,80",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "kombinasi KDT/FDC mengandung natrium klorida 4,40 mg\nkalium klorida 0,80 mg",
+                "peresepan maksimal": "1 btl/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi KDT/FDC, setiap mL mengandung travoprost dan timolol",
+        "subdrugs": [
+            {
+                "name": "kombinasi KDT/FDC, setiap mL mengandung travoprost dan timolol - TETES MATA 0,004;0,50 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIOTIK dan ANTIGLAUKOMA",
+                "nama obat": "kombinasi KDT/FDC, setiap mL mengandung travoprost dan timolol",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,004;0,50",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "kombinasi KDT/FDC mengandung travoprost 0,004 %\ntimolol 0,50 %",
+                "peresepan maksimal": "1 btl/bulan.",
+                "restriksi obat": "Digunakan pada pasien glaukoma sudut terbuka atau hipertensi okular dewasa dengan penurunan tekanan intraokular yang tidak cukup responsif dengan beta bloker topikal atau analog prostaglandin."
+            }
+        ]
+    },
+    {
+        "name": "kombinasi lidokain, medicinal creosote phenol, eugenol, dan benzil alkohol",
+        "subdrugs": [
+            {
+                "name": "kombinasi lidokain, medicinal creosote phenol, eugenol, dan benzil alkohol - CAIRAN N/A",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "ANTISEPTIK dan BAHAN untuk PERAWATAN SALURAN AKAR GIGI",
+                "nama obat": "kombinasi lidokain, medicinal creosote phenol, eugenol, dan benzil alkohol",
+                "sediaan": "CAIRAN",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "lidokain\nmedicinal creosote phenol\neugenol\nbenzil alkohol",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kombinasi triamsinolon asetonid dan dimetil-klortetrasiklin",
+        "subdrugs": [
+            {
+                "name": "kombinasi triamsinolon asetonid dan dimetil-klortetrasiklin - PASTA N/A",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "PREPARAT LAINNYA",
+                "nama obat": "kombinasi triamsinolon asetonid dan dimetil-klortetrasiklin",
+                "sediaan": "PASTA",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "Kombipak kusta tipe multibasiler (MB) untuk anak",
+        "subdrugs": [
+            {
+                "name": "Kombipak kusta tipe multibasiler (MB) untuk anak - N/A N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antilepra",
+                "nama obat": "Kombipak kusta tipe multibasiler (MB) untuk anak",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "rifampisin tab 300 mg (1 tab)\nrifampisin tab 150 mg (1 tab)\ndapson tab 50 mg (28 tab)\nklofazimin tab 50 mg (16 tab)",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes.\n\na) Hanya diberikan pada penderita kusta tipe MB anak usia 10 -15 tahun.\nb) Dosis 1 blister untuk 28 hari selama 12 bulan.\nc) Dosis bulanan (hari pertama) rifampisin 450 mg, dapson 50 mg, dan klofazimin 150 mg.\nd) Dosis harian (hari ke-2 hingga ke-28), dapson 50 mg per hari dan klofazimin 50 mg setiap 2 hari."
+            }
+        ]
+    },
+    {
+        "name": "Kombipak kusta tipe multibasiler (MB) untuk dewasa",
+        "subdrugs": [
+            {
+                "name": "Kombipak kusta tipe multibasiler (MB) untuk dewasa - N/A N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antilepra",
+                "nama obat": "Kombipak kusta tipe multibasiler (MB) untuk dewasa",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "rifampisin tab 300 mg (2 tab)\ndapson tab 100 mg (28 tab)\nklofazimin tab 50 mg (27 tab)\nklofazimin tab 100 mg (3 tab)",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes.\n\na) Hanya diberikan pada penderita kusta tipe MB dewasa usia â‰¥ 15 tahun.\nb) Dosis 1 blister untuk 1 bulan (28 hari) selama 12 bulan.\nc) Dosis bulanan (hari pertama) rifampisin 600 mg, dapson 100 mg, dan klofazimin 300 mg.\nd) Dosis harian (hari ke-2 hingga ke-28) dapson 100 mg per hari dan klofazimin 50 mg per hari."
+            }
+        ]
+    },
+    {
+        "name": "Kombipak kusta tipe pausibasiler (PB) untuk anak",
+        "subdrugs": [
+            {
+                "name": "Kombipak kusta tipe pausibasiler (PB) untuk anak - N/A N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antilepra",
+                "nama obat": "Kombipak kusta tipe pausibasiler (PB) untuk anak",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "rifampisin tab 300 mg (1 tab)\nrifampisin tab 150 mg (1 tab)\ndapson tab 50 mg (28 tab)",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes.\n\na) Hanya diberikan pada penderita kusta tipe PB Anak usia 10 -15 tahun. Dosis 1 blister untuk 28 hari selama 6 bulan.\nb) Dosis bulanan (hari pertama) rifampisin 450 mg dan dapson 50 mg.\nc) Dosis harian (hari ke-2 hingga ke-28) dapson 50 mg per hari."
+            }
+        ]
+    },
+    {
+        "name": "Kombipak kusta tipe pausibasiler (PB) untuk dewasa",
+        "subdrugs": [
+            {
+                "name": "Kombipak kusta tipe pausibasiler (PB) untuk dewasa - N/A N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antilepra",
+                "nama obat": "Kombipak kusta tipe pausibasiler (PB) untuk dewasa",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "rifampisin tab 300 mg (2 tab)\ndapson tab 100 mg (28 tab)",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes.\n\na) Hanya diberikan pada penderita kusta tipe PB dewasa usia â‰¥ 15 tahun.\nb) Dosis 1 bister untuk 28 hari selama 6 bulan.\nc) Dosis bulanan (hari pertama) rifampisin 600 mg dan dapson 100 mg.\nd) Dosis harian (hari ke-2 hingga ke-28) dapson 100 mg per hari."
+            }
+        ]
+    },
+    {
+        "name": "Kombipak/paket azitromisin dan sefiksim",
+        "subdrugs": [
+            {
+                "name": "Kombipak/paket azitromisin dan sefiksim - N/A N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "Kombipak/paket azitromisin dan sefiksim",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "azitromisin tab 500 mg (2 tab)\nsefiksim tab 200 mg (2 tab)",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes.\n\nDigunakan untuk pasien infeksi menular seksual jenis gonorrhoe, klamidia, urethritis, servisitis."
+            }
+        ]
+    },
+    {
+        "name": "komposit resin",
+        "subdrugs": [
+            {
+                "name": "komposit resin - PASTA AKTIVASI SINAR N/A",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "BAHAN TUMPAT",
+                "nama obat": "komposit resin",
+                "sediaan": "PASTA AKTIVASI SINAR",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kotrimoksazol",
+        "subdrugs": [
+            {
+                "name": "kotrimoksazol - SUSPENSI 200/40 MILIGRAM / 10 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Sulfametoksazol-Trimetoprim",
+                "nama obat": "kotrimoksazol",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "200/40",
+                "satuan": "MILIGRAM / 10 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "5 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kotrimoksazol (dewasa)",
+        "subdrugs": [
+            {
+                "name": "kotrimoksazol (dewasa) - TABLET 400/80 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Sulfametoksazol-Trimetoprim",
+                "nama obat": "kotrimoksazol (dewasa)",
+                "sediaan": "TABLET",
+                "kekuatan": "400/80",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "4 tab/hari selama 10 hari kecuali pada immunocompromised selama 21 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kotrimoksazol forte (dewasa)",
+        "subdrugs": [
+            {
+                "name": "kotrimoksazol forte (dewasa) - TABLET 800/160 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Sulfametoksazol-Trimetoprim",
+                "nama obat": "kotrimoksazol forte (dewasa)",
+                "sediaan": "TABLET",
+                "kekuatan": "800/160",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Profilaksis pada pasien HIV:\n1 tab/hari sampai CD⁴ > 200 sel/mikroliter.\n- Infeksi yang sensitif terhadap kotrimoksazol:\n2 tab/hari selama 10 hari.\n- PCP:\n3-6 tab/hari selama 21âˆ’28 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "kuinin",
+        "subdrugs": [
+            {
+                "name": "kuinin - INJEKSI 25 PERSEN"
+            },
+            {
+                "name": "kuinin - TABLET 200 MILIGRAM"
+            }
+        ]
+    }
+]

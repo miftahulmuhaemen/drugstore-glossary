@@ -1,0 +1,13 @@
+[
+    {
+        "name": "warfarin",
+        "subdrugs": [
+            {
+                "name": "warfarin - TABLET 1 MILIGRAM"
+            },
+            {
+                "name": "warfarin - TABLET 2 MILIGRAM"
+            }
+        ]
+    }
+]

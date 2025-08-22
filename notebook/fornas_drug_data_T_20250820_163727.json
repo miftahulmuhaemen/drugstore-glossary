@@ -1,0 +1,991 @@
+[
+    {
+        "name": "takrolimus",
+        "subdrugs": [
+            {
+                "name": "takrolimus - KAPSUL 0,5 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "takrolimus",
+                "sediaan": "KAPSUL",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Untuk pasien pascatransplantasi hati atau ginjal yang telah mendapat imunosupresan lainnya, tetapi tidak respons.\nb) Untuk pencegahan rejeksi pada transplantasi hati atau ginjal."
+            },
+            {
+                "name": "takrolimus - KAPSUL 1 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "takrolimus",
+                "sediaan": "KAPSUL",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Untuk pasien pascatransplantasi hati atau ginjal yang telah mendapat imunosupresan lainnya, tetapi tidak respons.\nb) Untuk pencegahan rejeksi pada transplantasi hati atau ginjal."
+            },
+            {
+                "name": "takrolimus - KAPSUL PELEPASAN LAMBAT 0,5 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "takrolimus",
+                "sediaan": "KAPSUL PELEPASAN LAMBAT",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Dosis awal Transplantasi Ginjal: 0,2âˆ’0,3 mg/kg/hari.\n- Dosis awal Transplantasi Hati: 0,1âˆ’0,2 mg/kg/hari.\n- Dosis rumatan disesuaikan dengan kebutuhan pasien berdasarkan pemantauan kadar obat dalam darah.",
+                "restriksi obat": "a) Untuk pasien pascatransplantasi hati atau ginjal yang telah mendapat imunosupresan lainnya, tetapi tidak respons.\nb) Untuk pencegahan rejeksi pada transplantasi hati atau ginjal."
+            },
+            {
+                "name": "takrolimus - KAPSUL PELEPASAN LAMBAT 1 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "takrolimus",
+                "sediaan": "KAPSUL PELEPASAN LAMBAT",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Dosis awal Transplantasi Ginjal: 0,2âˆ’0,3 mg/kg/hari.\n- Dosis awal Transplantasi Hati: 0,1âˆ’0,2 mg/kg/hari.\n- Dosis rumatan disesuaikan dengan kebutuhan pasien berdasarkan pemantauan kadar obat dalam darah.",
+                "restriksi obat": "a) Untuk pasien pascatransplantasi hati atau ginjal yang telah mendapat imunosupresan lainnya, tetapi tidak respons.\nb) Untuk pencegahan rejeksi pada transplantasi hati atau ginjal."
+            }
+        ]
+    },
+    {
+        "name": "tamoksifen",
+        "subdrugs": [
+            {
+                "name": "tamoksifen - TABLET 10 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "TERAPI ENDOKRIN",
+                "sub sub kelas terapi": "Antagonis Hormon Dan Senyawa Sejenis",
+                "nama obat": "tamoksifen",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Untuk kanker payudara pada premenopause atau post menopause dengan reseptor ER dan/atau PR positif."
+            },
+            {
+                "name": "tamoksifen - TABLET 20 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "TERAPI ENDOKRIN",
+                "sub sub kelas terapi": "Antagonis Hormon Dan Senyawa Sejenis",
+                "nama obat": "tamoksifen",
+                "sediaan": "TABLET",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Untuk kanker payudara pada premenopause atau post menopause dengan reseptor ER dan/atau PR positif."
+            }
+        ]
+    },
+    {
+        "name": "tamsulosin",
+        "subdrugs": [
+            {
+                "name": "tamsulosin - TABLET 0,2 MILIGRAM",
+                "kelas terapi": "DIURETIK dan OBAT untuk HIPERTROFI PROSTAT",
+                "sub kelas terapi": "OBAT untuk HIPERTROFI PROSTAT",
+                "nama obat": "tamsulosin",
+                "sediaan": "TABLET",
+                "kekuatan": "0,2",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "tamsulosin - TABLET PELEPASAN LAMBAT 0,4 MILIGRAM",
+                "kelas terapi": "DIURETIK dan OBAT untuk HIPERTROFI PROSTAT",
+                "sub kelas terapi": "OBAT untuk HIPERTROFI PROSTAT",
+                "nama obat": "tamsulosin",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "0,4",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "technetium 99m",
+        "subdrugs": [
+            {
+                "name": "technetium 99m - N/A 740-3700 MEGABECQUEREL (20 TO 100 MILLICURIE) / MILILITER",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Radiofarmaka Kedokteran Nuklir Diagnostik",
+                "nama obat": "technetium 99m",
+                "sediaan": "N/A",
+                "kekuatan": "740-3700",
+                "satuan": "MEGABECQUEREL (20 TO 100 MILLICURIE) / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "telbivudin",
+        "subdrugs": [
+            {
+                "name": "telbivudin - TABLET 600 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "telbivudin",
+                "sediaan": "TABLET",
+                "kekuatan": "600",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Hanya untuk pasien Hepatitis B kronik. Diagnosis ditegakkan berdasarkan hasil pemeriksaan HBV-DNA.\nb) Pengobatan dihentikan apabila terjadi serokonversi HBsAg.\nc) Apabila HBV DNA setelah 6 bulan masih positif harus ditambahkan atau digantikan obat lain.\nd) Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi, atau gastroentero-hepatologi anak, atau penyakit dalam, atau penyakit anak."
+            }
+        ]
+    },
+    {
+        "name": "telmisartan",
+        "subdrugs": [
+            {
+                "name": "telmisartan - TABLET 40 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "telmisartan",
+                "sediaan": "TABLET",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik.",
+                "restriksi obat": "Digunakan untuk hipertensi dengan nilai eGFR < 30 mL/menit/1,73 m²."
+            },
+            {
+                "name": "telmisartan - TABLET 80 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "telmisartan",
+                "sediaan": "TABLET",
+                "kekuatan": "80",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik.",
+                "restriksi obat": "Digunakan untuk hipertensi dengan nilai eGFR < 30 mL/menit/1,73 m²."
+            }
+        ]
+    },
+    {
+        "name": "temozolomid",
+        "subdrugs": [
+            {
+                "name": "temozolomid - KAPSUL 100 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkilator",
+                "nama obat": "temozolomid",
+                "sediaan": "KAPSUL",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "a) Jika menggunakan fasilitas radioterapi: \n75 mg/m²/hari selama pasien disinar kemudian dilanjutkan 150âˆ’200 mg/m²/hari selama 5 hari berturut-turut diulang setiap \n4 minggu, maks 6 siklus.\nb) Jika tidak menggunakan fasilitas radioterapi: 150âˆ’200 mg/m²/hari selama 5 hari berturut-turut diulang setiap 4 minggu, maks 6 siklus.",
+                "restriksi obat": "a) Untuk glioblastoma.\natau\nb) Untuk anaplastic astrocytoma."
+            },
+            {
+                "name": "temozolomid - KAPSUL 20 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkilator",
+                "nama obat": "temozolomid",
+                "sediaan": "KAPSUL",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "a) Jika menggunakan fasilitas radioterapi: \n75 mg/m²/hari selama pasien disinar kemudian dilanjutkan 150âˆ’200 mg/m²/hari selama 5 hari berturut-turut diulang setiap \n4 minggu, maks 6 siklus.\nb) Jika tidak menggunakan fasilitas radioterapi: 150âˆ’200 mg/m²/hari selama 5 hari berturut-turut diulang setiap 4 minggu, maks 6 siklus.",
+                "restriksi obat": "a) Untuk glioblastoma.\natau\nb) Untuk anaplastic astrocytoma."
+            }
+        ]
+    },
+    {
+        "name": "tenofovir alafenamide fumarat",
+        "subdrugs": [
+            {
+                "name": "tenofovir alafenamide fumarat - TABLET SALUT SELAPUT 25 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "tenofovir alafenamide fumarat",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "a) Hanya untuk pasien Hepatitis B kronik dewasa dengan gangguan fungsi ginjal eGFR: 30-60 mL/menit).\nb) Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi atau penyakit dalam."
+            }
+        ]
+    },
+    {
+        "name": "tenofovir disoproksil fumarat",
+        "subdrugs": [
+            {
+                "name": "tenofovir disoproksil fumarat - TABLET 300 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)",
+                "nama obat": "tenofovir disoproksil fumarat",
+                "sediaan": "TABLET",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            },
+            {
+                "name": "tenofovir disoproksil fumarat - TABLET SALUT SELAPUT 300 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "tenofovir disoproksil fumarat",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Hanya untuk pasien Hepatitis B kronik. Diagnosis ditegakkan berdasarkan hasil pemeriksaan HBV-DNA.\nb) Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi atau penyakit dalam.\nc) Tidak diberikan untuk pasien < 18 tahun."
+            }
+        ]
+    },
+    {
+        "name": "teofilin",
+        "subdrugs": [
+            {
+                "name": "teofilin - TABLET 150 MILIGRAM"
+            },
+            {
+                "name": "teofilin - TABLET PELEPASAN LAMBAT 300 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "teofilin",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "terazosin",
+        "subdrugs": [
+            {
+                "name": "terazosin - TABLET 1 MILIGRAM"
+            },
+            {
+                "name": "terazosin - TABLET 2 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "terbinafin",
+        "subdrugs": [
+            {
+                "name": "terbinafin - TABLET 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "terbinafin",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "terbutalin",
+        "subdrugs": [
+            {
+                "name": "terbutalin - CAIRAN INHALASI 2,5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "terbutalin",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Hari pertama maks 8 vial/hari, selanjutnya maks 4 vial/hari.\nKasus di ICU maks 10 vial/hari.",
+                "restriksi sediaan": "Hanya untuk serangan asma akut dan/atau PPOK."
+            },
+            {
+                "name": "terbutalin - INJEKSI 0,5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "terbutalin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "4 amp/hari.",
+                "restriksi sediaan": "Hanya untuk serangan asma akut dan/atau PPOK."
+            },
+            {
+                "name": "terbutalin - SERBUK INHALASI 0,5 MILIGRAM / DOSIS",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "terbutalin",
+                "sediaan": "SERBUK INHALASI",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM / DOSIS",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 tbg/bulan.",
+                "restriksi sediaan": "Hanya untuk serangan asma akut dan/atau PPOK."
+            },
+            {
+                "name": "terbutalin - SIRUP 1,5 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "terbutalin",
+                "sediaan": "SIRUP",
+                "kekuatan": "1,5",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "terbutalin - TABLET 2,5 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "terbutalin",
+                "sediaan": "TABLET",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "testosteron",
+        "subdrugs": [
+            {
+                "name": "testosteron - KAPSUL LUNAK 40 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Androgen",
+                "nama obat": "testosteron",
+                "sediaan": "KAPSUL LUNAK",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Hanya untuk defisiensi hormon."
+            },
+            {
+                "name": "testosteron - INJEKSI 250 MILIGRAM / MILILITER",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Androgen",
+                "nama obat": "testosteron",
+                "sediaan": "INJEKSI",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Hanya untuk defisiensi hormon (dengan kadar testosteron 250âˆ’300)."
+            }
+        ]
+    },
+    {
+        "name": "tetanus toxoid",
+        "subdrugs": [
+            {
+                "name": "tetanus toxoid - INJEKSI N/A"
+            }
+        ]
+    },
+    {
+        "name": "tetrakain",
+        "subdrugs": [
+            {
+                "name": "tetrakain - TETES MATA 0,5 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANESTETIK LOKAL",
+                "nama obat": "tetrakain",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,5",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "tetrasiklin",
+        "subdrugs": [
+            {
+                "name": "tetrasiklin - KAPSUL 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Tetrasiklin",
+                "nama obat": "tetrasiklin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "4 kaps/hari selama 5 hari.",
+                "restriksi obat": "Tidak digunakan untuk anak usia < 6 tahun, ibu hamil, atau ibu menyusui."
+            },
+            {
+                "name": "tetrasiklin - KAPSUL 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Tetrasiklin",
+                "nama obat": "tetrasiklin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "4 kaps/hari selama 5 hari.",
+                "restriksi obat": "Tidak digunakan untuk anak usia < 6 tahun, ibu hamil, atau ibu menyusui."
+            }
+        ]
+    },
+    {
+        "name": "tiamazol",
+        "subdrugs": [
+            {
+                "name": "tiamazol - TABLET 10 MILIGRAM"
+            },
+            {
+                "name": "tiamazol - TABLET 5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "tiamin (vitamin B1)",
+        "subdrugs": [
+            {
+                "name": "tiamin (vitamin B1) - TABLET 50 MILIGRAM",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "tiamin (vitamin B¹)",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "tikagrelor",
+        "subdrugs": [
+            {
+                "name": "tikagrelor - TABLET 90 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIAGREGASI PLATELET",
+                "nama obat": "tikagrelor",
+                "sediaan": "TABLET",
+                "kekuatan": "90",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 tab per hari, maks. 30 hari.",
+                "restriksi obat": "a) Untuk pasien kasus PCI dengan Acute Coronary Syndrome (ACS).\natau\nb) Diberikan bersama dengan asam asetil salisilat untuk menurunkan risiko stroke pada pasien stroke iskemik akut (NIH stroke scale score â‰¤ 5) atau transient ischaemic attack (TIA) dengan risiko tinggi (ABCD² score â‰¥ 6)."
+            }
+        ]
+    },
+    {
+        "name": "timolol",
+        "subdrugs": [
+            {
+                "name": "timolol - TETES MATA 0,25 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIOTIK dan ANTIGLAUKOMA",
+                "nama obat": "timolol",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,25",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 btl/bulan.",
+                "restriksi obat": "Dapat diberikan di FPKTP yang memiliki fasilitas untuk mengukur tekanan intraokuler."
+            },
+            {
+                "name": "timolol - TETES MATA 0,5 PERSEN"
+            }
+        ]
+    },
+    {
+        "name": "tiopental",
+        "subdrugs": [
+            {
+                "name": "tiopental - INJEKSI 1 MILIGRAM"
+            },
+            {
+                "name": "tiopental - INJEKSI 500 MILIGRAM",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "ANESTETIK UMUM dan OKSIGEN",
+                "nama obat": "tiopental",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "tiotropium",
+        "subdrugs": [
+            {
+                "name": "tiotropium - CAIRAN INHALASI 2,5 MICROGRAM / SEMPROT",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "tiotropium",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "2,5",
+                "satuan": "MICROGRAM / SEMPROT",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 cartridge/bulan, 1 alat respimat/6 bulan.",
+                "restriksi obat": "Diberikan sebagai pengobatan pemeliharaan tambahan pada pasien asma persisten sedang - berat, berusia â‰¥ 6 tahun, yang tetap bergejala terhadap kombinasi LABA+ICS dan telah mengalami eksaserbasi parah dalam satu tahun terakhir."
+            },
+            {
+                "name": "tiotropium - CAIRAN INHALASI 2,5 MICROGRAM / SEMPROT",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "OBAT untuk PENYAKIT PARU OBSTRUKSI KRONIS",
+                "nama obat": "tiotropium",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "2,5",
+                "satuan": "MICROGRAM / SEMPROT",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 cartridge/bulan, 1 alat respimat/6 bulan.",
+                "restriksi obat": "Digunakan pada pasien PPOK, termasuk bronkitis kronik dan emfisema, terapi rumatan dari dyspnea dan pencegahan eksaserbasi."
+            },
+            {
+                "name": "tiotropium - CAIRAN INHALASI 2,5 MICROGRAM / SEMPROT, REFILL",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "OBAT untuk PENYAKIT PARU OBSTRUKSI KRONIS",
+                "nama obat": "tiotropium",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "2,5",
+                "satuan": "MICROGRAM / SEMPROT, REFILL",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 cartridge/bulan.",
+                "restriksi obat": "Digunakan pada pasien PPOK, termasuk bronkitis kronik dan emfisema, terapi rumatan dari dyspnea dan pencegahan eksaserbasi."
+            },
+            {
+                "name": "tiotropium - CAIRAN INHALASI 2,5 MICROGRAM / SEMPROT, REFILL",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "tiotropium",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "2,5",
+                "satuan": "MICROGRAM / SEMPROT, REFILL",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 cartridge/bulan.",
+                "restriksi obat": "Diberikan sebagai pengobatan pemeliharaan tambahan pada pasien asma persisten sedang - berat, berusia â‰¥ 6 tahun, yang tetap bergejala terhadap kombinasi LABA+ICS dan telah mengalami eksaserbasi parah dalam satu tahun terakhir."
+            }
+        ]
+    },
+    {
+        "name": "tobramisin",
+        "subdrugs": [
+            {
+                "name": "tobramisin - TETES MATA 0,3 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "tobramisin",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,3",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Pada pasien yang resistan terhadap kuinolon dengan kasus ulkus kornea post operasi mata."
+            }
+        ]
+    },
+    {
+        "name": "topiramat",
+        "subdrugs": [
+            {
+                "name": "topiramat - TABLET 100 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "topiramat",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi obat": "Digunakan untuk terapi pada epilepsi parsial."
+            },
+            {
+                "name": "topiramat - TABLET 25 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "topiramat",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Digunakan untuk terapi pada epilepsi parsial."
+            },
+            {
+                "name": "topiramat - TABLET 50 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "topiramat",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Digunakan untuk terapi pada epilepsi parsial."
+            }
+        ]
+    },
+    {
+        "name": "tosilizumab",
+        "subdrugs": [
+            {
+                "name": "tosilizumab - INFUS 20 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "tosilizumab",
+                "sediaan": "INFUS",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 8 mg/kgBB tiap 4 minggu sekali.\n- Pemberian paling lama 6 bulan (24 minggu).",
+                "restriksi obat": "a) Untuk pasien Rheumatoid Arthritis (RA) berat yang telah gagal dengan DMARD konvensional.\nb) Untuk artritis idiopatik juvenil poliartikular dan artritis idiopatik juvenil sistemik, pada pasien anak usia 2- 17 tahun, yang telah gagal dengan terapi DMARD konvensional.\nc) Tidak digunakan sebagai lini pertama.\nd) Telah dibuktikan bahwa pasien tidak menderita infeksi sistemik termasuk TBC.\ne) Untuk kasus (a) diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu reumatologi atau penyakit dalam.\nf) Untuk kasus butir (b) diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu alergi-imunologi anak atau penyakit anak."
+            }
+        ]
+    },
+    {
+        "name": "tramadol",
+        "subdrugs": [
+            {
+                "name": "tramadol - KAPSUL 50 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "tramadol",
+                "sediaan": "KAPSUL",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk nyeri sedang sampai berat."
+            },
+            {
+                "name": "tramadol - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "tramadol",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 amp/hari maks. 7 hari.",
+                "restriksi obat": "Hanya untuk nyeri sedang sampai berat."
+            }
+        ]
+    },
+    {
+        "name": "trastuzumab",
+        "subdrugs": [
+            {
+                "name": "trastuzumab - SERBUK INJEKSI 440 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibodi Monoklonal Dan Antibody Drug Conjugates",
+                "nama obat": "trastuzumab",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "440",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "restriksi a): Maks 18 siklus.\nrestriksi b): 8 siklus atau hingga terjadi progress diseases, mana yang lebih dahulu dicapai.",
+                "restriksi obat": "a) Diberikan bersama dengan kemoterapi sebagai terapi adjuvan pada pasien kanker payudara stadium dini dengan HER² IHK positif 3 (+++) atau HER² IHK positif 2 (++) dengan konfirmasi FISH atau CISH positif.\natau\nb) Untuk kanker payudara metastatik dengan hasil pemeriksaan HER² positif 3 (+++)."
+            }
+        ]
+    },
+    {
+        "name": "travoprost",
+        "subdrugs": [
+            {
+                "name": "travoprost - TETES MATA 0,004 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIOTIK dan ANTIGLAUKOMA",
+                "nama obat": "travoprost",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,004",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/bulan.",
+                "restriksi obat": "Hanya untuk pasien glaukoma yang tidak memberikan respons dengan timolol."
+            }
+        ]
+    },
+    {
+        "name": "triamsinolon asetonid",
+        "subdrugs": [
+            {
+                "name": "triamsinolon asetonid - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ORAL",
+                "nama obat": "triamsinolon asetonid",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk keloid."
+            },
+            {
+                "name": "triamsinolon asetonid - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "KORTIKOSTEROID",
+                "nama obat": "triamsinolon asetonid",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "triamsinolon asetonid - INJEKSI 40 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIINFLAMASI",
+                "nama obat": "triamsinolon asetonid",
+                "sediaan": "INJEKSI",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Penggunaan 1x tiap 6 bulan.",
+                "restriksi obat": "Untuk mata, dapat digunakan pada salah satu kondisi berikut:\na) Macular edema.\nb) Pasien wet AMD (Age-related Macular Degeneration) yang takifilaksis pada penggunaan anti VEGF (Vascular Endothelial Growth Factor).\nc) Uveitis unilateral yang penyebabnya non infeksi."
+            },
+            {
+                "name": "triamsinolon asetonid - INJEKSI 40 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ORAL",
+                "nama obat": "triamsinolon asetonid",
+                "sediaan": "INJEKSI",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk keloid."
+            },
+            {
+                "name": "triamsinolon asetonid - NASAL SPRAY 55 MICROGRAM / PUFF",
+                "kelas terapi": "OBAT untuk TELINGA, HIDUNG, dan TENGGOROK",
+                "nama obat": "triamsinolon asetonid",
+                "sediaan": "NASAL SPRAY",
+                "kekuatan": "55",
+                "satuan": "MICROGRAM / PUFF",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "trifluoperazin",
+        "subdrugs": [
+            {
+                "name": "trifluoperazin - TABLET SALUT SELAPUT 5 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "trifluoperazin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            }
+        ]
+    },
+    {
+        "name": "triheksifenidil",
+        "subdrugs": [
+            {
+                "name": "triheksifenidil - TABLET 2 MILIGRAM",
+                "kelas terapi": "ANTIPARKINSON",
+                "nama obat": "triheksifenidil",
+                "sediaan": "TABLET",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi obat": "a) Dapat digunakan pada gangguan ekstrapiramidal karena obat.\nb) Dalam penanganan gangguan ekstrapiramidal perlu dilakukan monitoring sesuai dengan Pedoman Penyelenggaraan Kesehatan Jiwa di Fasilitas Pelayanan Kesehatan Primer.\nc) Terapi awal dapat diberikan di Puskesmas yang memiliki tenaga kesehatan terlatih dan mempunyai surat penugasan dari Kementerian Kesehatan."
+            }
+        ]
+    },
+    {
+        "name": "tropikamid",
+        "subdrugs": [
+            {
+                "name": "tropikamid - TETES MATA 0,5 PERSEN",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "TES FUNGSI",
+                "sub sub kelas terapi": "Mata",
+                "nama obat": "tropikamid",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,5",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "tropikamid - TETES MATA 1 PERSEN",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "TES FUNGSI",
+                "sub sub kelas terapi": "Mata",
+                "nama obat": "tropikamid",
+                "sediaan": "TETES MATA",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "tuberkulin protein purified derivative",
+        "subdrugs": [
+            {
+                "name": "tuberkulin protein purified derivative - INJEKSI 2 TUBERCULIN UNIT / 0,1 MILILITER",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "TES FUNGSI",
+                "sub sub kelas terapi": "Tes Kulit",
+                "nama obat": "tuberkulin protein purified derivative",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2",
+                "satuan": "TUBERCULIN UNIT / 0,1 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    }
+]

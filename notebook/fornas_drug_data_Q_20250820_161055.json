@@ -1,0 +1,95 @@
+[
+    {
+        "name": "quetiapin",
+        "subdrugs": [
+            {
+                "name": "quetiapin - TABLET 100 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "quetiapin",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi obat": "a) Untuk skizofrenia.\natau\nb) Untuk pasien bipolar yang tidak memberikan respons terhadap pemberian litium atau valproat.\nc) Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            },
+            {
+                "name": "quetiapin - TABLET 200 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "quetiapin",
+                "sediaan": "TABLET",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Untuk skizofrenia.\natau\nb) Untuk pasien bipolar yang tidak memberikan respons terhadap pemberian litium atau valproat.\nc) Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            },
+            {
+                "name": "quetiapin - TABLET PELEPASAN LAMBAT 150 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "quetiapin",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Untuk skizofrenia.\natau\nb) Untuk pasien bipolar yang tidak memberikan respons terhadap pemberian litium atau valproat.\nc) Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            },
+            {
+                "name": "quetiapin - TABLET PELEPASAN LAMBAT 200 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "quetiapin",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Untuk skizofrenia.\natau\nb) Untuk pasien bipolar yang tidak memberikan respons terhadap pemberian litium atau valproat.\nc) Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            },
+            {
+                "name": "quetiapin - TABLET PELEPASAN LAMBAT 300 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "quetiapin",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Untuk skizofrenia.\natau\nb) Untuk pasien bipolar yang tidak memberikan respons terhadap pemberian litium atau valproat.\nc) Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            },
+            {
+                "name": "quetiapin - TABLET PELEPASAN LAMBAT 400 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "quetiapin",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "400",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Untuk skizofrenia.\natau\nb) Untuk pasien bipolar yang tidak memberikan respons terhadap pemberian litium atau valproat.\nc) Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            }
+        ]
+    }
+]

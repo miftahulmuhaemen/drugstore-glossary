@@ -1,0 +1,534 @@
+[
+    {
+        "name": "haloperidol",
+        "subdrugs": [
+            {
+                "name": "haloperidol - DROPS 2 MILIGRAM / MILILITER",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "haloperidol",
+                "sediaan": "DROPS",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 btl/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "haloperidol - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "haloperidol",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "4 amp/hari, maks 3 hari.",
+                "restriksi sediaan": "a) Untuk agitasi akut.\nb) Untuk kasus kedaruratan psikiatrik (tidak untuk pemakaian jangka panjang)."
+            },
+            {
+                "name": "haloperidol - TABLET 0,5 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "haloperidol",
+                "sediaan": "TABLET",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "haloperidol - TABLET 1,5 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "haloperidol",
+                "sediaan": "TABLET",
+                "kekuatan": "1,5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "haloperidol - TABLET 2 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "haloperidol",
+                "sediaan": "TABLET",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "haloperidol - TABLET 5 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "haloperidol",
+                "sediaan": "TABLET",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "haloperidol dekanoat",
+        "subdrugs": [
+            {
+                "name": "haloperidol dekanoat - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "haloperidol dekanoat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 amp/2 minggu.",
+                "restriksi obat": "a) Untuk terapi rumatan pada pasien skizofrenia.\nb) Terapi awal dapat diberikan di Puskesmas yang memiliki tenaga kesehatan terlatih dan mempunyai surat penugasan dari Kementerian Kesehatan."
+            }
+        ]
+    },
+    {
+        "name": "hemato polivalent snake antivenin",
+        "subdrugs": [
+            {
+                "name": "hemato polivalent snake antivenin - SERBUK INJEKSI N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "hemato polivalent snake antivenin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes."
+            }
+        ]
+    },
+    {
+        "name": "hemodialisa",
+        "subdrugs": [
+            {
+                "name": "hemodialisa - LARUTAN N/A"
+            }
+        ]
+    },
+    {
+        "name": "heparin, Na (non porcine)",
+        "subdrugs": [
+            {
+                "name": "heparin, Na (non porcine) - INJEKSI 5000 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "heparin, Na (non porcine)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5.000",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dosis sesuai dengan target APTT (maks 20.000âˆ’40.000 IU/hari).",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "hepatitis B imunoglobulin (human)",
+        "subdrugs": [
+            {
+                "name": "hepatitis B imunoglobulin (human) - INJEKSI 100-220 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "hepatitis B imunoglobulin (human)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100-220",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk bayi baru lahir dengan ibu\nHBsAg positif."
+            }
+        ]
+    },
+    {
+        "name": "hidrogen peroksida",
+        "subdrugs": [
+            {
+                "name": "hidrogen peroksida - LARUTAN 3 PERSEN",
+                "kelas terapi": "ANTISEPTIK dan DISINFEKTAN",
+                "sub kelas terapi": "ANTISEPTIK",
+                "nama obat": "hidrogen peroksida",
+                "sediaan": "LARUTAN",
+                "kekuatan": "3",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Dibuat baru (recenter paratus, r.p.), dalam botol tertutup rapat, terlindung dari cahaya."
+            },
+            {
+                "name": "hidrogen peroksida - LARUTAN 3 PERSEN",
+                "kelas terapi": "OBAT untuk TELINGA, HIDUNG, dan TENGGOROK",
+                "nama obat": "hidrogen peroksida",
+                "sediaan": "LARUTAN",
+                "kekuatan": "3",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Dibuat baru (recenter paratus, r.p.), dalam botol tertutup rapat, terlindung dari cahaya."
+            }
+        ]
+    },
+    {
+        "name": "hidroklorotiazid",
+        "subdrugs": [
+            {
+                "name": "hidroklorotiazid - TABLET 25 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "hidroklorotiazid",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "hidroklorotiazid - TABLET 25 MILIGRAM",
+                "kelas terapi": "DIURETIK dan OBAT untuk HIPERTROFI PROSTAT",
+                "sub kelas terapi": "DIURETIK",
+                "nama obat": "hidroklorotiazid",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "hidrokortison",
+        "subdrugs": [
+            {
+                "name": "hidrokortison - KRIM 1 PERSEN"
+            },
+            {
+                "name": "hidrokortison - KRIM 2,5 PERSEN"
+            },
+            {
+                "name": "hidrokortison - INJEKSI 100 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "KORTIKOSTEROID",
+                "nama obat": "hidrokortison",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "hidrokortison - INJEKSI 100 MILIGRAM",
+                "kelas terapi": "ANTIALERGI dan OBAT untuk ANAFILAKSIS",
+                "nama obat": "hidrokortison",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "hidrokortison - TABLET 20 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "KORTIKOSTEROID",
+                "nama obat": "hidrokortison",
+                "sediaan": "TABLET",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "hidroksiklorokuin",
+        "subdrugs": [
+            {
+                "name": "hidroksiklorokuin - TABLET 200 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "hidroksiklorokuin",
+                "sediaan": "TABLET",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Untuk kasus SLE (Systemic \nLupus Erythematosus). \natau\nb) Untuk kasus RA (Rheumatoid \nArthritis)."
+            }
+        ]
+    },
+    {
+        "name": "hidroksiurea",
+        "subdrugs": [
+            {
+                "name": "hidroksiurea - KAPSUL 500 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antineoplastik Lain",
+                "nama obat": "hidroksiurea",
+                "sediaan": "KAPSUL",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "40 mg/kgBB/hari selama 30 hari.",
+                "restriksi obat": "Untuk CML."
+            }
+        ]
+    },
+    {
+        "name": "hidromorfon",
+        "subdrugs": [
+            {
+                "name": "hidromorfon - TABLET PELEPASAN LAMBAT 16 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "hidromorfon",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "16",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "hidromorfon - TABLET PELEPASAN LAMBAT 8 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "hidromorfon",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "8",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "hiosin butilbromida",
+        "subdrugs": [
+            {
+                "name": "hiosin butilbromida - INJEKSI 20 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTISPASMODIK",
+                "nama obat": "hiosin butilbromida",
+                "sediaan": "INJEKSI",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "hiosin butilbromida - TABLET 10 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTISPASMODIK",
+                "nama obat": "hiosin butilbromida",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "homatropin",
+        "subdrugs": [
+            {
+                "name": "homatropin - TETES MATA 2 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIDRIATIK",
+                "nama obat": "homatropin",
+                "sediaan": "TETES MATA",
+                "kekuatan": "2",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/kasus.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "Human Insulin Basal: insulin NPH (Neutral Protamine Hagedorn)",
+        "subdrugs": [
+            {
+                "name": "Human Insulin Basal: insulin NPH (Neutral Protamine Hagedorn) - INJEKSI 100 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Human Insulin Basal: insulin NPH (Neutral Protamine Hagedorn)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dalam kondisi tertentu, Dokter di FPKTP dapat melakukan penyesuaian dosis (titrasi) insulin basal hingga 20 IU/hari.",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia.",
+                "restriksi obat": "a) Pasien diabetes melitus tipe 2 yang sudah diberikan kombinasi metformin dan obat diabetes oral lainnya dengan dosis optimal masing-masing obat telah diberikan minimal dalam 3 bulan namun kadar glukosa darahnya belum terkendali (HbA1C > 7,5% atau gula darah rerata > 169 mg/dL).\natau\nb) Pasien diabetes melitus tipe 2 dengan kadar HbA1C nya > 9% disertai dengan gejala-gejala dekompensasi metabolik.\nc) Pemberian insulin pada (a) dan (b) dapat dilanjutkan untuk pasien diabetes melitus tipe 2, jika insulin dibutuhkan untuk mempertahankan pengendalian glukosa darah."
+            }
+        ]
+    },
+    {
+        "name": "Human Insulin Campuran: kombinasi 70% insulin NPH dan 30% insulin regular",
+        "subdrugs": [
+            {
+                "name": "Human Insulin Campuran: kombinasi 70% insulin NPH dan 30% insulin regular - INJEKSI 100 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Human Insulin Campuran: kombinasi 70% insulin NPH dan 30% insulin regular",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia.",
+                "restriksi obat": "a) Pasien diabetes melitus tipe 2 yang sudah diberikan kombinasi metformin dan obat diabetes oral lainnya dengan dosis optimal masing-masing obat telah diberikan minimal dalam 3 bulan namun kadar glukosa darahnya belum terkendali (HbA1C > 7,5% atau gula darah rerata > 169 mg/dL).\natau\nb) Pasien diabetes melitus tipe 2 dengan kadar HbA1C nya > 9% disertai dengan gejala-gejala dekompensasi metabolik.\nc) Pemberian insulin pada (a) dan (b) dapat dilanjutkan untuk pasien diabetes melitus tipe 2, jika insulin dibutuhkan untuk mempertahankan pengendalian glukosa darah."
+            }
+        ]
+    },
+    {
+        "name": "Human Insulin Prandial: insulin regular",
+        "subdrugs": [
+            {
+                "name": "Human Insulin Prandial: insulin regular - INJEKSI 100 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Human Insulin Prandial: insulin regular",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia."
+            }
+        ]
+    },
+    {
+        "name": "human tetanus imunoglobulin",
+        "subdrugs": [
+            {
+                "name": "human tetanus imunoglobulin - INJEKSI 250 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "human tetanus imunoglobulin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "250",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk:\na) Luka baru terkontaminasi pada pasien dengan riwayat vaksinasi tetanus yang tidak diketahui/tidak lengkap.\nb) Manifestasi tetanus secara klinis."
+            },
+            {
+                "name": "human tetanus imunoglobulin - INJEKSI 500 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "human tetanus imunoglobulin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk:\na) Luka baru terkontaminasi pada pasien dengan riwayat vaksinasi tetanus yang tidak diketahui/tidak lengkap.\nb) Manifestasi tetanus secara klinis."
+            }
+        ]
+    }
+]

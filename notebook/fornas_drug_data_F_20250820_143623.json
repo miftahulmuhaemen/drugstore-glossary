@@ -1,0 +1,1184 @@
+[
+    {
+        "name": "faktor IX",
+        "subdrugs": [
+            {
+                "name": "faktor IX - INJEKSI 1000 INTERNASIONAL UNIT",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PRODUK DARAH",
+                "nama obat": "faktor IX",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya digunakan untuk penderita dengan defisiensi faktor IX."
+            },
+            {
+                "name": "faktor IX - INJEKSI 250 INTERNASIONAL UNIT",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PRODUK DARAH",
+                "nama obat": "faktor IX",
+                "sediaan": "INJEKSI",
+                "kekuatan": "250",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya digunakan untuk penderita dengan defisiensi faktor IX."
+            },
+            {
+                "name": "faktor IX - INJEKSI 50 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PRODUK DARAH",
+                "nama obat": "faktor IX",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya digunakan untuk penderita dengan defisiensi faktor IX."
+            },
+            {
+                "name": "faktor IX - INJEKSI 500 INTERNASIONAL UNIT",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PRODUK DARAH",
+                "nama obat": "faktor IX",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya digunakan untuk penderita dengan defisiensi faktor IX."
+            }
+        ]
+    },
+    {
+        "name": "faktor koagulasi II, faktor koagulasi VII, faktor koagulasi IX, faktor koagulasi X",
+        "subdrugs": [
+            {
+                "name": "faktor koagulasi II, faktor koagulasi VII, faktor koagulasi IX, faktor koagulasi X - SERBUK INJEKSI 250 INTERNASIONAL UNIT / 10 MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "faktor koagulasi II, faktor koagulasi VII, faktor koagulasi IX, faktor koagulasi X",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "250",
+                "satuan": "INTERNASIONAL UNIT / 10 MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Terapi perdarahan dan/atau pencegahan perdarahan pada pasien yang mengalami defisiensi faktor protrombin kompleks dapatan atau turunan."
+            },
+            {
+                "name": "faktor koagulasi II, faktor koagulasi VII, faktor koagulasi IX, faktor koagulasi X - SERBUK INJEKSI 500 INTERNASIONAL UNIT / 20 MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "faktor koagulasi II, faktor koagulasi VII, faktor koagulasi IX, faktor koagulasi X",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "500",
+                "satuan": "INTERNASIONAL UNIT / 20 MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Terapi perdarahan dan/atau pencegahan perdarahan pada pasien yang mengalami defisiensi faktor protrombin kompleks dapatan atau turunan."
+            }
+        ]
+    },
+    {
+        "name": "faktor VIIa (rekombinan)",
+        "subdrugs": [
+            {
+                "name": "faktor VIIa (rekombinan) - INJEKSI 1 MILIGRAM",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PRODUK DARAH",
+                "nama obat": "faktor VIIa (rekombinan)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya diberikan untuk:\na) Penderita hemofilia dengan inhibitor terhadap faktor VIII atau faktor IX.\nb) Penderita dengan hemofilia kongenital yang memiliki respons anamnestik tinggi terhadap pemberian faktor VIII atau faktor IX.\nc) Mencegah episode perdarahan pada penderita dengan defisiensi faktor VII kongenital, penderita hemofilia didapat (acquired) atau penderita glanzmann thrombastenia.\nd) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi medik dewasa atau hematologi onkologi anak."
+            }
+        ]
+    },
+    {
+        "name": "faktor VIII (konsentrat)",
+        "subdrugs": [
+            {
+                "name": "faktor VIII (konsentrat) - INJEKSI 1000 INTERNASIONAL UNIT",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PRODUK DARAH",
+                "nama obat": "faktor VIII (konsentrat)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "FVIII (unit) = BB (kg) x % (target kadar plasma-kadar FVIII pasien) x 0.5.",
+                "restriksi sediaan": "a) Untuk terapi kasus hemofilia A.\nb) Dapat diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit dalam atau penyakit anak, dibawah pengawasan dokter yang memiliki kompetensi di bidang hematologi onkologi anak atau hematologi onkologi medik dewasa."
+            },
+            {
+                "name": "faktor VIII (konsentrat) - INJEKSI 230-340 INTERNASIONAL UNIT",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PRODUK DARAH",
+                "nama obat": "faktor VIII (konsentrat)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "230-340",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "FVIII (unit) = BB (kg) x % (target kadar plasma-kadar FVIII pasien) x 0.5."
+            },
+            {
+                "name": "faktor VIII (konsentrat) - INJEKSI 250 INTERNASIONAL UNIT",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PRODUK DARAH",
+                "nama obat": "faktor VIII (konsentrat)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "250",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "FVIII (unit) = BB (kg) x % (target kadar plasma-kadar FVIII pasien) x 0.5.",
+                "restriksi sediaan": "a) Untuk terapi kasus hemofilia A.\nb) Dapat diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit dalam atau penyakit anak, dibawah pengawasan dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
+            },
+            {
+                "name": "faktor VIII (konsentrat) - INJEKSI 480-600 INTERNASIONAL UNIT",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PRODUK DARAH",
+                "nama obat": "faktor VIII (konsentrat)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "480-600",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "FVIII (unit) = BB (kg) x % (target kadar plasma-kadar FVIII pasien) x 0.5."
+            },
+            {
+                "name": "faktor VIII (konsentrat) - INJEKSI 500 INTERNASIONAL UNIT",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PRODUK DARAH",
+                "nama obat": "faktor VIII (konsentrat)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "FVIII (unit) = BB (kg) x % (target kadar plasma-kadar FVIII pasien) x 0.5.",
+                "restriksi sediaan": "a) Untuk terapi kasus hemofilia A.\nb) Dapat diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit dalam atau penyakit anak, dibawah pengawasan dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
+            }
+        ]
+    },
+    {
+        "name": "FDG (fluoro deoxy glucose)",
+        "subdrugs": [
+            {
+                "name": "FDG (fluoro deoxy glucose) - N/A sesuai kebutuhan N/A",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Radiofarmaka Kedokteran Nuklir Diagnostik",
+                "nama obat": "FDG (fluoro deoxy glucose)",
+                "sediaan": "N/A",
+                "kekuatan": "sesuai kebutuhan",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "febuksostat",
+        "subdrugs": [
+            {
+                "name": "febuksostat - TABLET 40 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANTIPIRAI",
+                "nama obat": "febuksostat",
+                "sediaan": "TABLET",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Hanya untuk artritis gout dengan alergi alopurinol.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit dalam."
+            }
+        ]
+    },
+    {
+        "name": "fenilefrin HCl",
+        "subdrugs": [
+            {
+                "name": "fenilefrin HCl - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "HIPOTENSI akibat ANESTESI REGIONAL",
+                "nama obat": "fenilefrin HCl",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "fenilefrin HCl - TETES MATA 10 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIDRIATIK",
+                "nama obat": "fenilefrin HCl",
+                "sediaan": "TETES MATA",
+                "kekuatan": "10",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Tidak diberikan pada pasien hipertensi."
+            }
+        ]
+    },
+    {
+        "name": "fenitoin",
+        "subdrugs": [
+            {
+                "name": "fenitoin - KAPSUL 100 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "fenitoin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 kaps/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "fenitoin - KAPSUL 30 MILIGRAM"
+            },
+            {
+                "name": "fenitoin - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "fenitoin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "fenobarbital",
+        "subdrugs": [
+            {
+                "name": "fenobarbital - INJEKSI 100 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "fenobarbital",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "fenobarbital - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "fenobarbital",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "40 mg/kgBB.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "fenobarbital - TABLET 100 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "fenobarbital",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "fenobarbital - TABLET 30 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "fenobarbital",
+                "sediaan": "TABLET",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "fenofibrat",
+        "subdrugs": [
+            {
+                "name": "fenofibrat - KAPSUL 100 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERLIPIDEMIA",
+                "nama obat": "fenofibrat",
+                "sediaan": "KAPSUL",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps/bulan.",
+                "restriksi obat": "a) Hanya untuk hipertrigliseridemia dengan kadar trigliserida > 250 mg/dL.\nb) Pemeriksaan trigliserida dilakukan pada pasien yang telah menjalani puasa minimal 12 jam."
+            },
+            {
+                "name": "fenofibrat - KAPSUL 300 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERLIPIDEMIA",
+                "nama obat": "fenofibrat",
+                "sediaan": "KAPSUL",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps/bulan.",
+                "restriksi obat": "a) Hanya untuk hipertrigliseridemia dengan kadar trigliserida > 250 mg/dL.\nb) Pemeriksaan trigliserida dilakukan pada pasien yang telah menjalani puasa minimal 12 jam."
+            }
+        ]
+    },
+    {
+        "name": "fenoksimetil penisilin (penisilin V)",
+        "subdrugs": [
+            {
+                "name": "fenoksimetil penisilin (penisilin V) - TABLET 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "fenoksimetil penisilin (penisilin V)",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "40 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "fenoksimetil penisilin (penisilin V) - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "fenoksimetil penisilin (penisilin V)",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "20 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "fenoterol HBr",
+        "subdrugs": [
+            {
+                "name": "fenoterol HBr - AEROSOL 100 MICROGRAM / PUFF",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "fenoterol HBr",
+                "sediaan": "AEROSOL",
+                "kekuatan": "100",
+                "satuan": "MICROGRAM / PUFF",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 tbg/bulan.",
+                "restriksi obat": "Hanya untuk serangan asma akut."
+            },
+            {
+                "name": "fenoterol HBr - CAIRAN INHALASI 0,1 PERSEN",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "fenoterol HBr",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "0,1",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 tbg/bulan.",
+                "restriksi obat": "Hanya untuk serangan asma akut."
+            }
+        ]
+    },
+    {
+        "name": "fentanil",
+        "subdrugs": [
+            {
+                "name": "fentanil - INJEKSI 0,05 MILIGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "fentanil",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,05",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 amp/kasus.",
+                "restriksi obat": "inj: Hanya untuk nyeri berat dan harus diberikan oleh tim medis yang dapat melakukan resusitasi."
+            },
+            {
+                "name": "fentanil - PATCH 12,5 MICROGRAM / JAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "fentanil",
+                "sediaan": "PATCH",
+                "kekuatan": "12,5",
+                "satuan": "MICROGRAM / JAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 patch/bulan.",
+                "restriksi obat": "patch:\n- Untuk nyeri kronik pada pasien kanker yang tidak terkendali.\n- Tidak untuk nyeri akut."
+            },
+            {
+                "name": "fentanil - PATCH 25 MICROGRAM / JAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "fentanil",
+                "sediaan": "PATCH",
+                "kekuatan": "25",
+                "satuan": "MICROGRAM / JAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 patch/bulan.",
+                "restriksi obat": "patch:\n- Untuk nyeri kronik pada pasien kanker yang tidak terkendali.\n- Tidak untuk nyeri akut."
+            },
+            {
+                "name": "fentanil - PATCH 50 MICROGRAM / JAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "fentanil",
+                "sediaan": "PATCH",
+                "kekuatan": "50",
+                "satuan": "MICROGRAM / JAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "5 patch/bulan.",
+                "restriksi obat": "patch:\n- Untuk nyeri kronik pada pasien kanker yang tidak terkendali.\n- Tidak untuk nyeri akut.",
+                "restriksi sediaan": "Hanya boleh diresepkan oleh tim manajemen nyeri RS atau tim onkologi (tumor board) RS."
+            }
+        ]
+    },
+    {
+        "name": "ferakrilum",
+        "subdrugs": [
+            {
+                "name": "ferakrilum - CAIRAN 1 PERSEN"
+            }
+        ]
+    },
+    {
+        "name": "ferro sulfat",
+        "subdrugs": [
+            {
+                "name": "ferro sulfat - SIRUP 150 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "ANTIANEMI",
+                "nama obat": "ferro sulfat",
+                "sediaan": "SIRUP",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "ferro sulfat - TABLET SALUT SELAPUT 300 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "ANTIANEMI",
+                "nama obat": "ferro sulfat",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "filgrastim",
+        "subdrugs": [
+            {
+                "name": "filgrastim - INJEKSI 300 MICROGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "filgrastim",
+                "sediaan": "INJEKSI",
+                "kekuatan": "300",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/hari selama 5 hari.",
+                "restriksi obat": "a) Hanya untuk leukopenia berat pra dan pascakemoterapi (leukosit kurang dari 4.000/mm³ dan neutrofil kurang dari 1.500/mm³).\nb) Pemakaian protokol FLAG dan RICE."
+            }
+        ]
+    },
+    {
+        "name": "finasterid",
+        "subdrugs": [
+            {
+                "name": "finasterid - TABLET 5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "fitomenadion (vitamin K1)",
+        "subdrugs": [
+            {
+                "name": "fitomenadion (vitamin K1) - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "fitomenadion (vitamin K¹)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "fitomenadion (vitamin K1) - INJEKSI 2 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "fitomenadion (vitamin K¹)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "a) Dosis untuk bayi baru lahir 1 mg.\nb) Dosis untuk bayi prematur 0,5 mg."
+            },
+            {
+                "name": "fitomenadion (vitamin K1) - TABLET 10 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "fitomenadion (vitamin K¹)",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "fludarabin",
+        "subdrugs": [
+            {
+                "name": "fludarabin - SERBUK INJEKSI 50 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "fludarabin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 mg/mÂ²/hari selama 5 hari.",
+                "restriksi obat": "a) Hanya untuk BCLL\nb) Sebagai alternatif pengganti klorambusil untuk terapi CLL (Chronic Lymphocytic \nLeukemia)."
+            },
+            {
+                "name": "fludarabin - TABLET SALUT 10 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "fludarabin",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 mg/mÂ²/hari selama 5 hari.",
+                "restriksi obat": "a) Hanya untuk BCLL\nb) Sebagai alternatif pengganti klorambusil untuk terapi CLL (Chronic Lymphocytic \nLeukemia)."
+            }
+        ]
+    },
+    {
+        "name": "fludrokortison",
+        "subdrugs": [
+            {
+                "name": "fludrokortison - TABLET 20 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "KORTIKOSTEROID",
+                "nama obat": "fludrokortison",
+                "sediaan": "TABLET",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "flufenazin dekanoat",
+        "subdrugs": [
+            {
+                "name": "flufenazin dekanoat - INJEKSI 25 MILIGRAM / MILILITER",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "flufenazin dekanoat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 amp/2 minggu.",
+                "restriksi obat": "a) Hanya untuk rumatan pada pasien skizofrenia.\nb) Terapi awal dapat diberikan di Puskesmas yang memiliki tenaga kesehatan terlatih dan mempunyai surat penugasan dari Kementerian Kesehatan."
+            }
+        ]
+    },
+    {
+        "name": "flukonazol",
+        "subdrugs": [
+            {
+                "name": "flukonazol - KAPSUL 150 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "flukonazol",
+                "sediaan": "KAPSUL",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Digunakan untuk kandidiasis \nsistemik/pada pasien immunocompromised.\nb) Digunakan untuk berbagai \nbentuk kriptokokosis."
+            },
+            {
+                "name": "flukonazol - KAPSUL 50 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "flukonazol",
+                "sediaan": "KAPSUL",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Digunakan untuk kandidiasis \nsistemik/pada pasien immunocompromised.\nb) Digunakan untuk berbagai \nbentuk kriptokokosis."
+            },
+            {
+                "name": "flukonazol - INFUS 2 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "flukonazol",
+                "sediaan": "INFUS",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Digunakan untuk kandidiasis \nsistemik/pada pasien immunocompromised.\nb) Digunakan untuk berbagai \nbentuk kriptokokosis."
+            }
+        ]
+    },
+    {
+        "name": "fluoksetin",
+        "subdrugs": [
+            {
+                "name": "fluoksetin - TABLET/KAPSUL 10 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIOBSESI KOMPULSI",
+                "nama obat": "fluoksetin",
+                "sediaan": "TABLET/KAPSUL",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/kaps per bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "fluoksetin - TABLET/KAPSUL 10 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIDEPRESI",
+                "nama obat": "fluoksetin",
+                "sediaan": "TABLET/KAPSUL",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/kaps per bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "fluoksetin - TABLET/KAPSUL 20 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIOBSESI KOMPULSI",
+                "nama obat": "fluoksetin",
+                "sediaan": "TABLET/KAPSUL",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 tab/kaps per bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "fluoksetin - TABLET/KAPSUL 20 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIDEPRESI",
+                "nama obat": "fluoksetin",
+                "sediaan": "TABLET/KAPSUL",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- FPKTP: 30 tab/kaps per bulan.\n- FPKTL: 60 tab/kaps per bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "fluor",
+        "subdrugs": [
+            {
+                "name": "fluor - TABLET 1 MILIGRAM"
+            },
+            {
+                "name": "fluor - SEDIAAN TOPIKAL N/A"
+            }
+        ]
+    },
+    {
+        "name": "fluorometolon",
+        "subdrugs": [
+            {
+                "name": "fluorometolon - TETES MATA 0,1 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIINFLAMASI",
+                "nama obat": "fluorometolon",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,1",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "fluorourasil",
+        "subdrugs": [
+            {
+                "name": "fluorourasil - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "fluorourasil",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Untuk nasofaring: 1.000 mg/mÂ²/hari selama seminggu.\n- Untuk kolorektal: 2.800 mg/mÂ²/46 jam diulang tiap 2 minggu.",
+                "restriksi obat": "Untuk kanker kepala dan leher, saluran cerna, payudara, leher rahim."
+            }
+        ]
+    },
+    {
+        "name": "flusinolon asetonid",
+        "subdrugs": [
+            {
+                "name": "flusinolon asetonid - KRIM 0,025 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTISKABIES dan ANTIPEDIKULOSIS",
+                "nama obat": "flusinolon asetonid",
+                "sediaan": "KRIM",
+                "kekuatan": "0,025",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "flusinolon asetonid - SALEP 0,025 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTISKABIES dan ANTIPEDIKULOSIS",
+                "nama obat": "flusinolon asetonid",
+                "sediaan": "SALEP",
+                "kekuatan": "0,025",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "flutikason furoat",
+        "subdrugs": [
+            {
+                "name": "flutikason furoat - SUSPENSI 27,5 MICROGRAM / SPRAY",
+                "kelas terapi": "OBAT untuk TELINGA, HIDUNG, dan TENGGOROK",
+                "nama obat": "flutikason furoat",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "27,5",
+                "satuan": "MICROGRAM / SPRAY",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/bulan.",
+                "restriksi obat": "Pemberian hanya pada pagi hari dengan dosis 1 kali sehari."
+            }
+        ]
+    },
+    {
+        "name": "flutikason propionat",
+        "subdrugs": [
+            {
+                "name": "flutikason propionat - METERED DOSE INHALER/AEROSOL 50 MICROGRAM / DOSIS",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "flutikason propionat",
+                "sediaan": "METERED DOSE INHALER/AEROSOL",
+                "kekuatan": "50",
+                "satuan": "MICROGRAM / DOSIS",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 canister/bulan.",
+                "restriksi sediaan": "Untuk rumatan asma (Tidak untuk serangan asma akut)."
+            },
+            {
+                "name": "flutikason propionat - CAIRAN INHALASI 0,5 MILIGRAM / DOSIS",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "flutikason propionat",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM / DOSIS",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Hari pertama maks 5 vial/hari, selanjutnya 2 vial/hari paling lama 5 hari.",
+                "restriksi sediaan": "Hanya untuk serangan asma akut."
+            }
+        ]
+    },
+    {
+        "name": "fluvoksamin",
+        "subdrugs": [
+            {
+                "name": "fluvoksamin - TABLET SALUT SELAPUT 100 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIOBSESI KOMPULSI",
+                "nama obat": "fluvoksamin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dosis awal: 50 mg/hari (3âˆ’5 hari)\nDosis rumatan: maks 300 mg/hari.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            },
+            {
+                "name": "fluvoksamin - TABLET SALUT SELAPUT 100 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIDEPRESI",
+                "nama obat": "fluvoksamin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            },
+            {
+                "name": "fluvoksamin - TABLET SALUT SELAPUT 50 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIOBSESI KOMPULSI",
+                "nama obat": "fluvoksamin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dosis awal: 50 mg/hari (3âˆ’5 hari)\nDosis rumatan: maks 300 mg/hari.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            },
+            {
+                "name": "fluvoksamin - TABLET SALUT SELAPUT 50 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIDEPRESI",
+                "nama obat": "fluvoksamin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "180 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            }
+        ]
+    },
+    {
+        "name": "fondaparinuks",
+        "subdrugs": [
+            {
+                "name": "fondaparinuks - INJEKSI 2,5 MILIGRAM / 0,5 MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "fondaparinuks",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM / 0,5 MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/hari.",
+                "restriksi obat": "a) Digunakan untuk tromboemboli dan/atau sindrom koroner akut.\nb) Tidak digunakan sebelum dan selama prosedur Intervensi Koroner Perkutan (IKP/PCI) pada pasien sindrom koroner akut (ACS).\nc) Diberikan 6 jam setelah operasi ortopedi tungkai bawah dan tulang belakang, dan operasi abdominal."
+            }
+        ]
+    },
+    {
+        "name": "formokresol",
+        "subdrugs": [
+            {
+                "name": "formokresol - LARUTAN N/A"
+            }
+        ]
+    },
+    {
+        "name": "fosfomisin trometamol",
+        "subdrugs": [
+            {
+                "name": "fosfomisin trometamol - GRANULA 3 GRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antiseptik Saluran kemih",
+                "nama obat": "fosfomisin trometamol",
+                "sediaan": "GRANULA",
+                "kekuatan": "3",
+                "satuan": "GRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk sistitis non komplikata pada wanita atau profilaksis pada tindakan Transrectal Prostat Biopsy (TR-PB)"
+            }
+        ]
+    },
+    {
+        "name": "fraksi protein plasma",
+        "subdrugs": [
+            {
+                "name": "fraksi protein plasma - INFUS 5 PERSEN",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PENGGANTI PLASMA dan PLASMA EKSPANDER",
+                "nama obat": "fraksi protein plasma",
+                "sediaan": "INFUS",
+                "kekuatan": "5",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "framisetin sulfat",
+        "subdrugs": [
+            {
+                "name": "framisetin sulfat - TULLE/PLESTER OBAT 1 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "nama obat": "framisetin sulfat",
+                "sediaan": "TULLE/PLESTER OBAT",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "fulvestrant",
+        "subdrugs": [
+            {
+                "name": "fulvestrant - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "TERAPI ENDOKRIN",
+                "sub sub kelas terapi": "Antagonis Hormon Dan Senyawa Sejenis",
+                "nama obat": "fulvestrant",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 6 bulan.",
+                "restriksi obat": "a) Dapat digunakan pada pasien kanker payudara lokal lanjut (locally advanced) atau metastatik atau rekuren pada pasien pascamenopause dengan ER positif yang mengalami relapse saat atau setelah terapi anti-estrogen atau terjadi progresi saat mendapat terapi anti-estrogen.\nb) Dapat digunakan pada pasien kanker payudara metastatik atau rekuren pada pasien pascamenopause dengan ER positif dan HER²-negatif yang belum pernah diberikan terapi endokrin.\nc) Yang dimaksud dengan pascamenopause adalah pasien yang memenuhi salah satu atau lebih dari 4 kriteria berikut:\n- Ooforektomi bilateral atau radiasi ovarium bilateral sebelumnya.\n- Usia â‰¥ 60 tahun.\n- Usia < 60 tahun dan amenorea selama 12 bulan atau lebih tanpa kemoterapi, tamoksifen, atau penekanan ovarium dan hormon perangsang folikel (FSH) dan estradiol dalam rentang pascamenopause.\n- Jika mengonsumsi tamoksifen dan usia < 60 tahun, kadar FSH dan estradiol plasma dalam rentang pascamenopause."
+            }
+        ]
+    },
+    {
+        "name": "furosemid",
+        "subdrugs": [
+            {
+                "name": "furosemid - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "furosemid",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "pp": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "furosemid - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "DIURETIK dan OBAT untuk HIPERTROFI PROSTAT",
+                "sub kelas terapi": "DIURETIK",
+                "nama obat": "furosemid",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "furosemid - TABLET 40 MILIGRAM",
+                "kelas terapi": "DIURETIK dan OBAT untuk HIPERTROFI PROSTAT",
+                "sub kelas terapi": "DIURETIK",
+                "nama obat": "furosemid",
+                "sediaan": "TABLET",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "furosemid - TABLET 40 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "furosemid",
+                "sediaan": "TABLET",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    }
+]

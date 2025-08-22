@@ -1,0 +1,690 @@
+[
+    {
+        "name": "OAT KDT Kategori 1",
+        "subdrugs": [
+            {
+                "name": "OAT KDT Kategori 1 - TABLET N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "OAT KDT Kategori 1",
+                "sediaan": "TABLET",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "Paduan dalam bentuk Kombinasi \nDosis Tetap (KDT/FDC) untuk \nDewasa terdiri dari:\n4 KDT/FDC mengandung: \na. rifampisin 150 mg\nb. isoniazid 75 mg\nc. pirazinamid 400 mg\nd. etambutol 275 mg\n1. tab\n2 KDT/FDC mengandung:\na. rifampisin 150 mg\nb. isoniazid 150 mg\n1. tab",
+                "peresepan maksimal": "Digunakan pada:\na) Pengobatan TB tahap awal:\n1 tab/15 kgBB, maks selama 2 bulan pertama.\nb) Pengobatan TB tahap lanjutan:\n1 tab/15 kgBB, maks selama 4 bulan tahap lanjutan, pemberian setiap hari.\nc) Dapat diperpanjang bila perlu.",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB."
+            },
+            {
+                "name": "OAT KDT Kategori 1 - TABLET N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "OAT KDT Kategori 1",
+                "sediaan": "TABLET",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "Paduan dalam bentuk Kombinasi \nDosis Tetap (KDT/FDC) untuk \nDewasa terdiri dari:\n4 KDT/FDC mengandung: \na. rifampisin 150 mg\nb. isoniazid 75 mg\nc. pirazinamid 400 mg\nd. etambutol 275 mg\n1. tab\n2 KDT/FDC mengandung:\na. rifampisin 150 mg\nb. isoniazid 75 mg\n1. tab",
+                "peresepan maksimal": "Digunakan pada:\na) Pengobatan TB tahap awal:\n1 tab/15 kgBB, maks selama 2 bulan pertama.\nb) Pengobatan TB tahap lanjutan:\n1 tab/15 kgBB, maks selama 4 bulan tahap lanjutan, pemberian setiap hari.\nc) Dapat diperpanjang bila perlu.",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB."
+            }
+        ]
+    },
+    {
+        "name": "OAT KDT Kategori Anak",
+        "subdrugs": [
+            {
+                "name": "OAT KDT Kategori Anak - TABLET N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "OAT KDT Kategori Anak",
+                "sediaan": "TABLET",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "Paduan dalam bentuk Kombinasi \nDosis Tetap (KDT/FDC) untuk Anak \nterdiri dari:\n3 KDT/FDC mengandung:\na. rifampisin 75 mg\nb. isoniazid 50 mg\nc. pirazinamid 150 mg\n1. tab \n2 KDT/FDC mengandung:\na. rifampisin 75 mg\nb.isoniazid 50 mg\n1. tab",
+                "peresepan maksimal": "- Untuk 3 KDT/FDC:\nDigunakan pada pengobatan TB tahap awal.\n1 tab/5âˆ’8 kgBB, maks 2 bulan pertama, pemberian setiap hari.\n- Untuk 2 KDT/FDC: Digunakan pada pengobatan TB tahap lanjutan.\n1 tab/5âˆ’8 kgBB, maks 4 bulan tahap lanjutan, pemberian setiap hari.",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB."
+            }
+        ]
+    },
+    {
+        "name": "OAT Kombipak Kategori 1",
+        "subdrugs": [
+            {
+                "name": "OAT Kombipak Kategori 1 - N/A N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "OAT Kombipak Kategori 1",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "Paduan dalam bentuk paket Kombipak untuk dewasa terdiri dari:\nKombipak II terdiri dari:\na. rifampisin kapl 450 mg\nb. isoniazid tab 300 mg\nc. pirazinamid tab 500 mg \nd. etambutol tab 250 mg\nKombipak III terdiri dari:\na. rifampisin kapl 450 \nmg \nb. isoniazid tab 300 mg",
+                "peresepan maksimal": "- Untuk Kombipak II: Digunakan pada pengobatan TB tahap awal. Kategori 1: Maks 448 tab (56 blister) selama 2 bulan pertama, pemberian setiap hari.\n- Untuk Kombipak III: Digunakan pada pengobatan TB tahap lanjutan. Kategori 1: Maks 144 tab selama 4 bulan (48 blister Kombipak III), pemberian 3x seminggu.",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB.",
+                "restriksi obat": "Diberikan untuk pasien TB yang \ntidak bisa menggunakan OAT bentuk FDC/KDT."
+            }
+        ]
+    },
+    {
+        "name": "OAT Kombipak Kategori Anak",
+        "subdrugs": [
+            {
+                "name": "OAT Kombipak Kategori Anak - N/A N/A",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "OAT Kombipak Kategori Anak",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "Paduan dalam bentuk paket \nKombipak untuk anak terdiri dari:\nKombipak A terdiri dari:\na. rifampisin kapl 75 mg\nb. isoniazid tab 100 mg\nc. pirazinamid tab 200 mg\nKombipak B terdiri dari:\na. rifampisin kapl 75 mg\nb. isoniazid tab 100 mg",
+                "peresepan maksimal": "- Untuk Kombipak A: Digunakan pada pengobatan TB tahap awal. Maks 280 tab (28 sachet Kombipak A) selama 2 bulan pertama pemberian setiap hari.\n- Untuk Kombipak B:Digunakan pada pengobatan TB tahap lanjutan. Maks 336 tab selama 4 bulan lanjutan pemberian setiap hari.",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB.",
+                "restriksi obat": "Diberikan untuk pasien TB yang \ntidak bisa menggunakan OAT bentuk FDC/KDT."
+            }
+        ]
+    },
+    {
+        "name": "ofloksasin",
+        "subdrugs": [
+            {
+                "name": "ofloksasin - TABLET SALUT SELAPUT 200 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kuinolon",
+                "nama obat": "ofloksasin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi obat": "Tidak digunakan untuk pasien usia \n< 18 tahun, ibu hamil, atau ibu \nmenyusui."
+            },
+            {
+                "name": "ofloksasin - TABLET SALUT SELAPUT 400 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kuinolon",
+                "nama obat": "ofloksasin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "400",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi obat": "Tidak digunakan untuk pasien usia \n< 18 tahun, ibu hamil, atau ibu \nmenyusui."
+            },
+            {
+                "name": "ofloksasin - TABLET SALUT SELAPUT 400 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antilepra",
+                "nama obat": "ofloksasin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "400",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 x 1 hari selama 24 bulan.",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes.\n\na) Hanya diberikan pada kasus kusta dengan kondisi resistensi atau alergi obat dari jenis obat di lini pertama.\nb) Tidak digunakan sebagai monoterapi melainkan dikombinasikan dengan obat anti kusta lain seperti rifampisin atau minosiklin atau klaritromisin atau klofazimin.\nc) Tidak diberikan pada kasus â‰¤ 18 tahun. Dosis 1 x 1 hari selama 24 bulan."
+            },
+            {
+                "name": "ofloksasin - TETES TELINGA 3 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk TELINGA, HIDUNG, dan TENGGOROK",
+                "nama obat": "ofloksasin",
+                "sediaan": "TETES TELINGA",
+                "kekuatan": "3",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "oksaliplatin",
+        "subdrugs": [
+            {
+                "name": "oksaliplatin - SERBUK INJEKSI 100 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antineoplastik Lain",
+                "nama obat": "oksaliplatin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "12x pemberian.",
+                "restriksi obat": "a) Untuk terapi ajuvan kanker kolorektal stadium III. \natau\nb) Untuk kanker kolorektal metastatik."
+            },
+            {
+                "name": "oksaliplatin - SERBUK INJEKSI 50 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antineoplastik Lain",
+                "nama obat": "oksaliplatin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "12x pemberian.",
+                "restriksi obat": "a) Untuk terapi ajuvan kanker kolorektal stadium III. \natau\nb) Untuk kanker kolorektal metastatik."
+            }
+        ]
+    },
+    {
+        "name": "oksigen",
+        "subdrugs": [
+            {
+                "name": "oksigen - INHALASI, GAS DALAM TABUNG N/A",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "ANESTETIK UMUM dan OKSIGEN",
+                "nama obat": "oksigen",
+                "sediaan": "INHALASI, GAS DALAM TABUNG",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "oksikodon",
+        "subdrugs": [
+            {
+                "name": "oksikodon - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "oksikodon",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 amp/hari.",
+                "restriksi obat": "inj: \n- Hanya untuk nyeri akut.\n- Pasien tidak memiliki gangguan respirasi.\n- Harus dimulai dengan dosis paling rendah pada pasien yang belum pernah mendapat opioid sebelumnya."
+            },
+            {
+                "name": "oksikodon - LARUTAN ORAL 5 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "oksikodon",
+                "sediaan": "LARUTAN ORAL",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 btl/bulan.",
+                "restriksi obat": "larutan oral:\n- Hanya untuk breakthrough pain dan emergency pain.\n- Pasien tidak memiliki gangguan respirasi.\n- Harus dimulai dengan dosis paling rendah pada pasien yang belum pernah mendapat opioid sebelumnya."
+            },
+            {
+                "name": "oksikodon - LARUTAN ORAL CONCENTRATE 10 MILIGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "oksikodon",
+                "sediaan": "LARUTAN ORAL CONCENTRATE",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 btl/bulan.",
+                "restriksi obat": "larutan oral:\n- Hanya untuk breakthrough pain dan emergency pain.\n- Pasien tidak memiliki gangguan respirasi.\n- Harus dimulai dengan dosis paling rendah pada pasien yang belum pernah mendapat opioid sebelumnya.",
+                "restriksi sediaan": "Tidak digunakan untuk anak usia < 18 tahun"
+            }
+        ]
+    },
+    {
+        "name": "oksimetazolin",
+        "subdrugs": [
+            {
+                "name": "oksimetazolin - SEMPROT HIDUNG 0,05 PERSEN",
+                "kelas terapi": "OBAT untuk TELINGA, HIDUNG, dan TENGGOROK",
+                "nama obat": "oksimetazolin",
+                "sediaan": "SEMPROT HIDUNG",
+                "kekuatan": "0,05",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "oksimetazolin - TETES HIDUNG 0,025 PERSEN",
+                "kelas terapi": "OBAT untuk TELINGA, HIDUNG, dan TENGGOROK",
+                "nama obat": "oksimetazolin",
+                "sediaan": "TETES HIDUNG",
+                "kekuatan": "0,025",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "oksitetrasiklin",
+        "subdrugs": [
+            {
+                "name": "oksitetrasiklin - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Tetrasiklin",
+                "nama obat": "oksitetrasiklin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "oksitetrasiklin - SALEP MATA 1 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "oksitetrasiklin",
+                "sediaan": "SALEP MATA",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "oksitosin",
+        "subdrugs": [
+            {
+                "name": "oksitosin - INJEKSI 10 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "OKSITOSIK",
+                "nama obat": "oksitosin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "okskarbazepin",
+        "subdrugs": [
+            {
+                "name": "okskarbazepin - SUSPENSI 60 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "okskarbazepin",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "60",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "okskarbazepin - TABLET 300 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "okskarbazepin",
+                "sediaan": "TABLET",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "okskarbazepin - TABLET 600 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "okskarbazepin",
+                "sediaan": "TABLET",
+                "kekuatan": "600",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "oktreotid asetat",
+        "subdrugs": [
+            {
+                "name": "oktreotid asetat - INJEKSI 0,05-6 MILIGRAM / MILILITER",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
+                "nama obat": "oktreotid asetat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,05-6",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "oktreotid asetat - INJEKSI 0,1 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "oktreotid asetat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 hari.",
+                "restriksi obat": "Untuk kasus perdarahan varises esofagus akut."
+            }
+        ]
+    },
+    {
+        "name": "oktreotid LAR",
+        "subdrugs": [
+            {
+                "name": "oktreotid LAR - SERBUK INJEKSI 20 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "oktreotid LAR",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk pasien akromegali yang baru pertama mendapat 150 mg/hari selama 2 minggu, 20âˆ’30 mg/bulan setiap 4 minggu.",
+                "restriksi obat": "Untuk akromegali."
+            },
+            {
+                "name": "oktreotid LAR - SERBUK INJEKSI 20 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "oktreotid LAR",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk tumor karsinoid 20âˆ’30 mg/bulan, maks 6 bulan.",
+                "restriksi obat": "Untuk tumor karsinoid."
+            },
+            {
+                "name": "oktreotid LAR - SERBUK INJEKSI 30 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "oktreotid LAR",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk pasien akromegali yang baru pertama mendapat 150 mg/hari selama 2 minggu, 20âˆ’30 mg/bulan setiap 4 minggu.",
+                "restriksi obat": "Untuk akromegali."
+            },
+            {
+                "name": "oktreotid LAR - SERBUK INJEKSI 30 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "oktreotid LAR",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk tumor karsinoid 20âˆ’30 mg/bulan, maks 6 bulan.",
+                "restriksi obat": "Untuk tumor karsinoid."
+            }
+        ]
+    },
+    {
+        "name": "olanzapin",
+        "subdrugs": [
+            {
+                "name": "olanzapin - INJEKSI 10 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "olanzapin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 amp/hari, maks 3 hari.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa.",
+                "restriksi sediaan": "a) Diperlukan hanya untuk serangan skizofrenia akut yang tidak memberikan respons dengan terapi lini pertama.\nb) Tidak boleh digunakan untuk pemakaian jangka panjang.\nc) Hanya untuk agitasi akut pada penderita skizofrenia."
+            },
+            {
+                "name": "olanzapin - TABLET SALUT SELAPUT 10 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "olanzapin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa.",
+                "restriksi sediaan": "a) Untuk skizofrenia.\natau\nb) Adjunctive treatment pada kasus bipolar yang tidak memberikan respons dengan pemberian litium atau valproat."
+            },
+            {
+                "name": "olanzapin - TABLET SALUT SELAPUT 5 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "olanzapin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa.",
+                "restriksi sediaan": "a) Untuk skizofrenia.\natau\nb) Adjunctive treatment pada kasus bipolar yang tidak memberikan respons dengan pemberian litium atau valproat."
+            }
+        ]
+    },
+    {
+        "name": "olodaterol",
+        "subdrugs": [
+            {
+                "name": "olodaterol - CAIRAN INHALASI 2,5 MICROGRAM / SEMPROT",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "OBAT untuk PENYAKIT PARU OBSTRUKSI KRONIS",
+                "nama obat": "olodaterol",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "2,5",
+                "satuan": "MICROGRAM / SEMPROT",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 cartridge/bulan, 1 alat respimat/3 bulan.",
+                "restriksi obat": "Tidak untuk mengatasi eksaserbasi akut."
+            },
+            {
+                "name": "olodaterol - CAIRAN INHALASI 2,5 MICROGRAM / SEMPROT, REFILL",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "OBAT untuk PENYAKIT PARU OBSTRUKSI KRONIS",
+                "nama obat": "olodaterol",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "2,5",
+                "satuan": "MICROGRAM / SEMPROT, REFILL",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 cartridge/bulan.",
+                "restriksi obat": "Tidak untuk mengatasi eksaserbasi akut."
+            }
+        ]
+    },
+    {
+        "name": "olopatadin",
+        "subdrugs": [
+            {
+                "name": "olopatadin - TETES MATA 0,1 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIINFLAMASI",
+                "nama obat": "olopatadin",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Tidak untuk profilaksis alergi."
+            }
+        ]
+    },
+    {
+        "name": "omeprazol",
+        "subdrugs": [
+            {
+                "name": "omeprazol - KAPSUL 20 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTASIDA dan ANTIULKUS",
+                "nama obat": "omeprazol",
+                "sediaan": "KAPSUL",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps/bulan.",
+                "restriksi sediaan": "a) Untuk terapi jangka pendek pada kasus tukak lambung, tukak duodenum dan refluks esofagitis.\nb) Diberikan 1 jam sebelum makan."
+            },
+            {
+                "name": "omeprazol - INJEKSI 40 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTASIDA dan ANTIULKUS",
+                "nama obat": "omeprazol",
+                "sediaan": "INJEKSI",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1âˆ’3 amp/hari maks 3 hari.",
+                "restriksi sediaan": "Untuk pasien IGD atau rawat inap dengan riwayat perdarahan saluran cerna."
+            }
+        ]
+    },
+    {
+        "name": "ondansetron",
+        "subdrugs": [
+            {
+                "name": "ondansetron - INJEKSI 2 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "ondansetron",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Inj diberikan 1 amp sebelum kemoterapi.",
+                "restriksi sediaan": "inj: \n- Untuk mencegah muntah pada pemberian kemoterapi yang highly emetogenic.\n- Untuk pencegahan dan pengobatan mual muntah pasca operasi."
+            },
+            {
+                "name": "ondansetron - SIRUP 4 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "ondansetron",
+                "sediaan": "SIRUP",
+                "kekuatan": "4",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 1 botol pascakemoterapi atau pascaradioterapi.",
+                "restriksi sediaan": "tab dan sir: Pencegahan mual dan muntah pada kemoterapi dan radioterapi. Tidak untuk dispepsia."
+            },
+            {
+                "name": "ondansetron - TABLET 4 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "ondansetron",
+                "sediaan": "TABLET",
+                "kekuatan": "4",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 3 tab/hari pascakemoterapi atau pascaradioterapi, maks 5 hari.",
+                "restriksi sediaan": "tab dan sir: Pencegahan mual dan muntah pada kemoterapi dan radioterapi. Tidak untuk dispepsia."
+            },
+            {
+                "name": "ondansetron - TABLET 8 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "ondansetron",
+                "sediaan": "TABLET",
+                "kekuatan": "8",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 3 tab/hari pascakemoterapi atau pascaradioterapi, maks 5 hari.",
+                "restriksi sediaan": "tab dan sir: Pencegahan mual dan muntah pada kemoterapi dan radioterapi. Tidak untuk dispepsia."
+            }
+        ]
+    }
+]

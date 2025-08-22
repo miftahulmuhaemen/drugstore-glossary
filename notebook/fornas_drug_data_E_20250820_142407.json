@@ -1,0 +1,780 @@
+[
+    {
+        "name": "efavirenz",
+        "subdrugs": [
+            {
+                "name": "efavirenz - TABLET/KAPSUL 200 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Non Nucleoside Reverse Transcriptase Inhibitor (NNRTI)",
+                "nama obat": "efavirenz",
+                "sediaan": "TABLET/KAPSUL",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            },
+            {
+                "name": "efavirenz - TABLET/KAPSUL 600 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Non Nucleoside Reverse Transcriptase Inhibitor (NNRTI)",
+                "nama obat": "efavirenz",
+                "sediaan": "TABLET/KAPSUL",
+                "kekuatan": "600",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            }
+        ]
+    },
+    {
+        "name": "efedrin",
+        "subdrugs": [
+            {
+                "name": "efedrin - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "HIPOTENSI akibat ANESTESI REGIONAL",
+                "nama obat": "efedrin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "eksemestan",
+        "subdrugs": [
+            {
+                "name": "eksemestan - TABLET SALUT 25 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "TERAPI ENDOKRIN",
+                "sub sub kelas terapi": "Antagonis Hormon Dan Senyawa Sejenis",
+                "nama obat": "eksemestan",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "a) Dapat digunakan untuk kanker payudara post menopause, ER dan/atau PR positif.\nb) Dapat digunakan pada premenopause atau perimenopause yang dijadikan post menopause dengan pemberian goserelin asetat."
+            }
+        ]
+    },
+    {
+        "name": "eltrombopag",
+        "subdrugs": [
+            {
+                "name": "eltrombopag - TABLET SALUT SELAPUT 25 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "eltrombopag",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Platelet telah mencapai > 30.000/mm³ tanpa disertai perdarahan.\n- Maks pemberian 2 minggu.",
+                "restriksi obat": "a) Untuk Trombositopenia pada pasien Idiopathic Thrombocytopenic Purpura (ITP) kronik yang tidak respons terhadap terapi kortikosteroid, imunoglobulin atau splenektomi.\nb) Hanya digunakan untuk pasien ITP yang memiliki risiko tinggi untuk terjadinya perdarahan (trombosit < 30.000/mm³).\nc) Obat diberikan dengan target trombosit > 30.000/mm³, dipertahankan stabil minimal selama 2 minggu lalu dikembalikan ke pengobatan awal."
+            },
+            {
+                "name": "eltrombopag - TABLET SALUT SELAPUT 50 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "eltrombopag",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Platelet telah mencapai > 30.000/mm³ tanpa disertai perdarahan.\n- Maks pemberian 2 minggu.",
+                "restriksi obat": "a) Untuk Trombositopenia pada pasien Idiopathic Thrombocytopenic Purpura (ITP) kronik yang tidak respons terhadap terapi kortikosteroid, imunoglobulin atau splenektomi.\nb) Hanya digunakan untuk pasien ITP yang memiliki risiko tinggi untuk terjadinya perdarahan (trombosit < 30.000/mm³).\nc) Obat diberikan dengan target trombosit > 30.000/mm³, dipertahankan stabil minimal selama 2 minggu lalu dikembalikan ke pengobatan awal."
+            }
+        ]
+    },
+    {
+        "name": "enoksaparin sodium",
+        "subdrugs": [
+            {
+                "name": "enoksaparin sodium - INJEKSI 10000 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "enoksaparin sodium",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10.000",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 vial/hari.",
+                "restriksi obat": "Dapat digunakan untuk tromboemboli atau sindrom koroner akut atau pencegahan trombus pada hemodialisis atau pada tirah baring â‰¥ 3 hari dengan risiko sedang sampai tinggi mengalami tromboemboli."
+            }
+        ]
+    },
+    {
+        "name": "entekavir",
+        "subdrugs": [
+            {
+                "name": "entekavir - TABLET SALUT SELAPUT 0,5 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "entekavir",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi, atau gastroentero-hepatologi anak, atau penyakit dalam dengan melampirkan:\na) Hasil pemeriksaan HBeAg.\nb) Pemeriksaan ALT meningkat 2x di atas batas atas normal dalam 3 bulan, atau \nc) Histologi/transient elastography atau AST Platelet Ratio Index (APRI) sesuai minimal dengan F²."
+            },
+            {
+                "name": "entekavir - TABLET SALUT SELAPUT 1 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "entekavir",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi, atau gastroentero-hepatologi anak, atau penyakit dalam dengan melampirkan:\na) Hasil pemeriksaan HBeAg.\nb) Pemeriksaan ALT meningkat 2x di atas batas atas normal dalam 3 bulan, atau \nc) Histologi/transient elastography atau AST Platelet Ratio Index (APRI) sesuai minimal dengan F²."
+            }
+        ]
+    },
+    {
+        "name": "epinefrin (adrenalin)",
+        "subdrugs": [
+            {
+                "name": "epinefrin (adrenalin) - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk SYOK KARDIOGENIK dan SEPSIS",
+                "nama obat": "epinefrin (adrenalin)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "pp": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "epinefrin (adrenalin) - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIALERGI dan OBAT untuk ANAFILAKSIS",
+                "nama obat": "epinefrin (adrenalin)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "epinefrin (adrenalin) - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "epinefrin (adrenalin)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "epirubisin",
+        "subdrugs": [
+            {
+                "name": "epirubisin - INJEKSI 2 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibiotik Sitotoksik Dan Senyawa Sejenis",
+                "nama obat": "epirubisin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dosis kumulatif seumur hidup maks 900 mg/m² LPT.",
+                "restriksi obat": "Pemeriksaan echocardiogram dilakukan sebelum pemberian siklus pertama dan setiap kali setelah mencapai dosis kumulatif 300 mg/m², kecuali bila terjadi perubahan klinis (gangguan kardiologis) atau komorbiditas yang menyebabkan komplikasi kardiologis."
+            },
+            {
+                "name": "epirubisin - SERBUK INJEKSI 50 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibiotik Sitotoksik Dan Senyawa Sejenis",
+                "nama obat": "epirubisin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dosis kumulatif seumur hidup maks 900 mg/m² LPT.",
+                "restriksi obat": "Pemeriksaan echocardiogram dilakukan sebelum pemberian siklus pertama dan setiap kali setelah mencapai dosis kumulatif 300 mg/m², kecuali bila terjadi perubahan klinis (gangguan kardiologis) atau komorbiditas yang menyebabkan komplikasi kardiologis."
+            }
+        ]
+    },
+    {
+        "name": "ergotamin",
+        "subdrugs": [
+            {
+                "name": "ergotamin - TABLET 1 MILIGRAM",
+                "kelas terapi": "ANTIMIGREN DAN ANTIVERTIGO",
+                "sub kelas terapi": "ANTIMIGREN",
+                "sub sub kelas terapi": "Serangan Akut",
+                "nama obat": "ergotamin",
+                "sediaan": "TABLET",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "8 tab/minggu.",
+                "restriksi obat": "Hanya digunakan untuk serangan migren akut atau cluster headache."
+            }
+        ]
+    },
+    {
+        "name": "eribulin",
+        "subdrugs": [
+            {
+                "name": "eribulin - INJEKSI 0,44 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antineoplastik Lain",
+                "nama obat": "eribulin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,44",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "12 kali (6 siklus) atau hingga terjadi progress diseases (perburukan penyakit), mana yang lebih dahulu dicapai.",
+                "restriksi obat": "a) Untuk kanker payudara metastatik, yang sudah pernah mendapatkan terapi antrasiklin dan taksan sebelumnya (hari ke-1 dan 8, siklus 21 hari).\natau\nb) Untuk Liposarcoma non operable/metastatik yang sudah pernah menjalani kemoterapi antrasiklin sebelumnya (hari ke-1 dan 8, siklus 21 hari)."
+            }
+        ]
+    },
+    {
+        "name": "eritromisin",
+        "subdrugs": [
+            {
+                "name": "eritromisin - SIRUP KERING 200 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Makrolid",
+                "nama obat": "eritromisin",
+                "sediaan": "SIRUP KERING",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 5 hari.\n- Untuk Streptococcus pyogenes dan difteri: 10 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "eritromisin - TABLET/KAPSUL 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Makrolid",
+                "nama obat": "eritromisin",
+                "sediaan": "TABLET/KAPSUL",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 4 tab/kaps per hari selama 5 hari.\n- Untuk Streptococcus pyogenes dan difteri: 10 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "eritromisin - TABLET/KAPSUL 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Makrolid",
+                "nama obat": "eritromisin",
+                "sediaan": "TABLET/KAPSUL",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 4 tab/kaps per hari selama 5 hari.\n- Untuk Streptococcus pyogenes dan difteri: 10 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "eritropoietin-alfa",
+        "subdrugs": [
+            {
+                "name": "eritropoietin-alfa - INJEKSI 10000 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "eritropoietin-alfa",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "50-100 IU/kgBB diberikan maks 2x seminggu.",
+                "restriksi sediaan": "a) Hanya untuk pasien kanker yang mengalami anemia pada penggunaan kemoterapi yang myelosupresif, dengan kadar Hb < 10 g/dL.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi medik, atau ginjal hipertensi, atau onkologi lain, atau penyakit dalam."
+            },
+            {
+                "name": "eritropoietin-alfa - INJEKSI 2000 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "eritropoietin-alfa",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "50-100 IU/kgBB diberikan maks 2x seminggu.",
+                "restriksi sediaan": "Hanya untuk penderita CKD Stadium 4, 5, dan 5 dengan dialisis (HD, CAPD) dengan kriteria berikut:\na) Kadar Hb < 10 g/dL (terapi awal) dan 10âˆ’12 g/dL (terapi rumatan).\nb) Kadar besi normal (SI > 60 mcg/dL) dan/atau indeks saturasi besi (SI/TIBC x 100%) > 20%."
+            },
+            {
+                "name": "eritropoietin-alfa - INJEKSI 3000 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "eritropoietin-alfa",
+                "sediaan": "INJEKSI",
+                "kekuatan": "3.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "50-100 IU/kgBB diberikan maks 2x seminggu.",
+                "restriksi sediaan": "Hanya untuk penderita CKD Stadium 4, 5, dan 5 dengan dialisis (HD, CAPD) dengan kriteria berikut:\na) Kadar Hb < 10 g/dL (terapi awal) dan 10âˆ’12 g/dL (terapi rumatan).\nb) Kadar besi normal (SI > 60 mcg/dL) dan/atau indeks saturasi besi (SI/TIBC x 100%) > 20%."
+            },
+            {
+                "name": "eritropoietin-alfa - INJEKSI 4000 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "eritropoietin-alfa",
+                "sediaan": "INJEKSI",
+                "kekuatan": "4.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "50-100 IU/kgBB diberikan maks 2x seminggu.",
+                "restriksi sediaan": "Hanya untuk penderita CKD Stadium 4, 5, dan 5 dengan dialisis (HD, CAPD) dengan kriteria berikut:\na) Kadar Hb < 10 g/dL (terapi awal) dan 10âˆ’12 g/dL (terapi rumatan).\nb) Kadar besi normal (SI > 60 mcg/dL) dan/atau indeks saturasi besi (SI/TIBC x 100%) > 20%."
+            },
+            {
+                "name": "eritropoietin-alfa - INJEKSI 40000 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "eritropoietin-alfa",
+                "sediaan": "INJEKSI",
+                "kekuatan": "40.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1x per minggu.",
+                "restriksi sediaan": "a) Hanya untuk pasien kanker yang mengalami anemia pada penggunaan kemoterapi yang myelosupresif, dengan kadar Hb < 10 g/dL.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi medik."
+            },
+            {
+                "name": "eritropoietin-alfa - INJEKSI 5000 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "eritropoietin-alfa",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "50-100 IU/kgBB diberikan maks 2x seminggu.",
+                "restriksi sediaan": "Hanya untuk penderita CKD Stadium 4, 5, dan 5 dengan dialisis (HD, CAPD) dengan kriteria berikut:\na) Kadar Hb < 10 g/dL (terapi awal) dan 10âˆ’12 g/dL (terapi rumatan).\nb) Kadar besi normal (SI > 60 mcg/dL) dan/atau indeks saturasi besi (SI/TIBC x 100%) > 20%."
+            }
+        ]
+    },
+    {
+        "name": "eritropoietin-beta",
+        "subdrugs": [
+            {
+                "name": "eritropoietin-beta - INJEKSI 2000 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "eritropoietin-beta",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "50âˆ’100 IU/kg BB diberikan maks 2x seminggu.",
+                "restriksi obat": "Hanya untuk penderita CKD dengan kriteria berikut:\na) Kadar Hb < 10 g/dL (terapi awal) dan 10âˆ’12 g/dL (terapi rumatan).\nb) Kadar besi normal (SI > 60 mcg/dL) dan/atau indeks saturasi besi (SI/TIBC x 100%) > 20%."
+            }
+        ]
+    },
+    {
+        "name": "erlotinib",
+        "subdrugs": [
+            {
+                "name": "erlotinib - TABLET SALUT SELAPUT 100 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "erlotinib",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 30 tab/bulan.\n- Obat dihentikan jika respons terhadap obat kurang dari 50%, setelah 3 siklus.",
+                "restriksi obat": "a) Untuk NSCLC jenis non squamous yang locally advanced atau metastatik dengan EGFR exon 19 delesi atau mutasi subsitusi exon 21 (L858R), pada pasien yang belum pernah mendapatkan TKI sebelumnya.\nb) Jika terjadi progresi pada salah satu (gefitinib, erlotinib, atau afatinib), maka tidak dapat diganti dengan obat-obat tersebut."
+            },
+            {
+                "name": "erlotinib - TABLET SALUT SELAPUT 150 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "erlotinib",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 30 tab/bulan.\n- Obat dihentikan jika respons terhadap obat kurang dari 50%, setelah 3 siklus.",
+                "restriksi obat": "a) Untuk NSCLC jenis non squamous yang locally advanced atau metastatik dengan EGFR exon 19 delesi atau mutasi subsitusi exon 21 (L858R), pada pasien yang belum pernah mendapatkan TKI sebelumnya.\nb) Jika terjadi progresi pada salah satu (gefitinib, erlotinib, atau afatinib), maka tidak dapat diganti dengan obat-obat tersebut."
+            }
+        ]
+    },
+    {
+        "name": "esitalopram",
+        "subdrugs": [
+            {
+                "name": "esitalopram - TABLET 10 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIDEPRESI",
+                "nama obat": "esitalopram",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            },
+            {
+                "name": "esitalopram - TABLET 20 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIDEPRESI",
+                "nama obat": "esitalopram",
+                "sediaan": "TABLET",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            }
+        ]
+    },
+    {
+        "name": "esomeprazol",
+        "subdrugs": [
+            {
+                "name": "esomeprazol - SERBUK INJEKSI 40 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTASIDA dan ANTIULKUS",
+                "nama obat": "esomeprazol",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 amp/hari maks 3 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "estrogen terkonjugasi",
+        "subdrugs": [
+            {
+                "name": "estrogen terkonjugasi - TABLET 0,625 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Estrogen",
+                "nama obat": "estrogen terkonjugasi",
+                "sediaan": "TABLET",
+                "kekuatan": "0,625",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "etambutol",
+        "subdrugs": [
+            {
+                "name": "etambutol - TABLET 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "etambutol",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB.",
+                "restriksi obat": "Tidak boleh digunakan sebagai single agent untuk TB."
+            },
+            {
+                "name": "etambutol - TABLET 400 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "etambutol",
+                "sediaan": "TABLET",
+                "kekuatan": "400",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB.",
+                "restriksi obat": "Tidak boleh digunakan sebagai single agent untuk TB."
+            },
+            {
+                "name": "etambutol - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "etambutol",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB.",
+                "restriksi obat": "Tidak boleh digunakan sebagai single agent untuk TB."
+            }
+        ]
+    },
+    {
+        "name": "etanercept",
+        "subdrugs": [
+            {
+                "name": "etanercept - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "etanercept",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "4 vial/bulan.",
+                "restriksi obat": "a) Digunakan untuk pasien Rheumatoid Arthritis (RA) yang telah gagal minimal dengan dua (2) DMARDs konvensional pada dosis maksimal, yaitu 3 bulan tidak memberikan perbaikan atau 6 bulan tidak mencapai target terapi (masih high disease activity).\nb) Digunakan untuk pasien Ankylosing Spondylitis (AS) yang tidak respons dengan NSAID.\nc) Untuk kasus (a) dan (b) hanya boleh diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu reumatologi atau penyakit dalam.\nd) Untuk artritis idiopatik juvenil poliartikular, sebagai subgrup dari juvenile idiopathic arthtritis, pada pasien anak usia 4 - 17 tahun, yang refrakter dengan terapi DMARDs.\ne) Untuk artritis idiopatik juvenil poliartikular, diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu alergi-imunologi anak atau penyakit anak."
+            },
+            {
+                "name": "etanercept - SERBUK INJEKSI 25 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "etanercept",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "8 vial/bulan.",
+                "restriksi obat": "a) Digunakan untuk pasien Rheumatoid Arthritis (RA) yang telah gagal minimal dengan dua (2) DMARDs konvensional pada dosis maksimal, yaitu 3 bulan tidak memberikan perbaikan atau 6 bulan tidak mencapai target terapi (masih high disease activity).\nb) Digunakan untuk pasien Ankylosing Spondylitis (AS) yang tidak respons dengan NSAID.\nc) Untuk kasus (a) dan (b) hanya boleh diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu reumatologi atau penyakit dalam.\nd) Untuk artritis idiopatik juvenil poliartikular, sebagai subgrup dari juvenile idiopathic arthtritis, pada pasien anak usia 4 - 17 tahun, yang refrakter dengan terapi DMARDs.\ne) Untuk artritis idiopatik juvenil poliartikular, diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu alergi-imunologi anak atau penyakit anak."
+            }
+        ]
+    },
+    {
+        "name": "etanol 70%",
+        "subdrugs": [
+            {
+                "name": "etanol 70% - LARUTAN 70 PERSEN",
+                "kelas terapi": "ANTISEPTIK dan DISINFEKTAN",
+                "sub kelas terapi": "DISINFEKTAN",
+                "nama obat": "etanol 70%",
+                "sediaan": "LARUTAN",
+                "kekuatan": "70",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "ethylenediamine tetramethylene phosphonic acid (153-Sm-EDTMP)",
+        "subdrugs": [
+            {
+                "name": "ethylenediamine tetramethylene phosphonic acid (153-Sm-EDTMP) - INJEKSI N/A",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Radiofarmaka Kedokteran Nuklir untuk Terapi",
+                "nama obat": "ethylenediamine tetramethylene phosphonic acid (153-Sm-EDTMP)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "etil klorida",
+        "subdrugs": [
+            {
+                "name": "etil klorida - SPRAY 100 MILILITER"
+            }
+        ]
+    },
+    {
+        "name": "etonogestrel",
+        "subdrugs": [
+            {
+                "name": "etonogestrel - IMPLANT 68 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Kontrasepsi",
+                "sub sub sub kelas terapi": "Kontrasepsi, Implan",
+                "nama obat": "etonogestrel",
+                "sediaan": "IMPLANT",
+                "kekuatan": "68",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "etoposid",
+        "subdrugs": [
+            {
+                "name": "etoposid - INJEKSI 20 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkaloid Dan Produk Natural Lain",
+                "nama obat": "etoposid",
+                "sediaan": "INJEKSI",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "100 mg/mÂ²/hari, selama 3âˆ’5 hari.",
+                "restriksi obat": "Untuk kanker testis, Small Cell Lung Cancer, limfoma maligna, retinoblastoma."
+            }
+        ]
+    },
+    {
+        "name": "eugenol",
+        "subdrugs": [
+            {
+                "name": "eugenol - LARUTAN N/A"
+            }
+        ]
+    },
+    {
+        "name": "everolimus",
+        "subdrugs": [
+            {
+                "name": "everolimus - TABLET 0,25 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "everolimus",
+                "sediaan": "TABLET",
+                "kekuatan": "0,25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Digunakan untuk pencegahan penolakan organ pada pasien dewasa dengan risiko imunologi rendah hingga sedang yang menerima transplantasi alogenik ginjal atau jantung.\nb) Digunakan untuk pencegahan penolakan organ pada pasien yang menerima transplantasi hati."
+            },
+            {
+                "name": "everolimus - TABLET 0,5 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "everolimus",
+                "sediaan": "TABLET",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Digunakan untuk pencegahan penolakan organ pada pasien dewasa dengan risiko imunologi rendah hingga sedang yang menerima transplantasi alogenik ginjal atau jantung.\nb) Digunakan untuk pencegahan penolakan organ pada pasien yang menerima transplantasi hati."
+            },
+            {
+                "name": "everolimus - TABLET 0,75 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "everolimus",
+                "sediaan": "TABLET",
+                "kekuatan": "0,75",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Digunakan untuk pencegahan penolakan organ pada pasien dewasa dengan risiko imunologi rendah hingga sedang yang menerima transplantasi alogenik ginjal atau jantung.\nb) Digunakan untuk pencegahan penolakan organ pada pasien yang menerima transplantasi hati."
+            }
+        ]
+    }
+]

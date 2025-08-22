@@ -1,0 +1,1294 @@
+[
+    {
+        "name": "paklitaksel",
+        "subdrugs": [
+            {
+                "name": "paklitaksel - INJEKSI 6 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkaloid Dan Produk Natural Lain",
+                "nama obat": "paklitaksel",
+                "sediaan": "INJEKSI",
+                "kekuatan": "6",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Untuk kaposiâ€™s sarcoma:100 mg/m²/kali\n- Untuk kanker ovarium, kanker payudara, NSCLC: 175 mg/m²/kali.\n- Untuk kanker payudara relaps: 220 mg/m²/kali.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "paliperidon palmitat",
+        "subdrugs": [
+            {
+                "name": "paliperidon palmitat - INJEKSI 100 MILIGRAM / MILILITER",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "paliperidon palmitat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Dosis awal: injeksi di hari ke-1 dan hari ke-8. \n- Dosis rumatan: maks 150 mg/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            },
+            {
+                "name": "paliperidon palmitat - INJEKSI 150 MILIGRAM / 1,5 MILILITER",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "paliperidon palmitat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM / 1,5 MILILITER",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Dosis awal: injeksi di hari ke-1 dan hari ke-8. \n- Dosis rumatan: maks 150 mg/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            },
+            {
+                "name": "paliperidon palmitat - INJEKSI 75 MILIGRAM / 0,75 MILILITER",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "paliperidon palmitat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "75",
+                "satuan": "MILIGRAM / 0,75 MILILITER",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Dosis awal: injeksi di hari ke-1 dan hari ke-8. \n- Dosis rumatan: maks 150 mg/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa."
+            }
+        ]
+    },
+    {
+        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur",
+        "subdrugs": [
+            {
+                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur - BUBUK N/A",
+                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
+                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur",
+                "sediaan": "BUBUK",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit anak.\nb) Syarat pemberian:\n1) Bila ASI yang tersedia kurang dari 100 mL/kg BB bayi/hari.\n2) Diberikan susu formula prematur (24 kkal/oz) untuk bayi berat lahir sangat rendah <1.500 gram atau prematur < 32 minggu, selanjutnya dapat diresepkan sampai usia koreksi 40 minggu atau 0 bulan dan/atau sampai berat badan 2.500 gram."
+            },
+            {
+                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur - BUBUK N/A",
+                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
+                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur",
+                "sediaan": "CAIRAN",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit anak.\nb) Syarat pemberian:\n1) Bila ASI yang tersedia kurang dari 100 mL/kg BB bayi/hari.\n2) Diberikan susu formula prematur (24 kkal/oz) untuk bayi berat lahir sangat rendah <1.500 gram atau prematur < 32 minggu, selanjutnya dapat diresepkan sampai usia koreksi 40 minggu atau 0 bulan dan/atau sampai berat badan 2.500 gram."
+            },
+            {
+                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur - CAIRAN N/A",
+                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
+                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur",
+                "sediaan": "BUBUK",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit anak.\nb) Syarat pemberian:\n1) Bila ASI yang tersedia kurang dari 100 mL/kg BB bayi/hari.\n2) Diberikan susu formula prematur (24 kkal/oz) untuk bayi berat lahir sangat rendah <1.500 gram atau prematur < 32 minggu, selanjutnya dapat diresepkan sampai usia koreksi 40 minggu atau 0 bulan dan/atau sampai berat badan 2.500 gram."
+            },
+            {
+                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur - CAIRAN N/A",
+                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
+                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur",
+                "sediaan": "CAIRAN",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit anak.\nb) Syarat pemberian:\n1) Bila ASI yang tersedia kurang dari 100 mL/kg BB bayi/hari.\n2) Diberikan susu formula prematur (24 kkal/oz) untuk bayi berat lahir sangat rendah <1.500 gram atau prematur < 32 minggu, selanjutnya dapat diresepkan sampai usia koreksi 40 minggu atau 0 bulan dan/atau sampai berat badan 2.500 gram."
+            }
+        ]
+    },
+    {
+        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Galaktosemia",
+        "subdrugs": [
+            {
+                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Galaktosemia - BUBUK N/A",
+                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
+                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Galaktosemia",
+                "sediaan": "BUBUK",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Hanya digunakan untuk kelainan kelainan metabolik galaktosemia yang telah didiagnosis dengan pemeriksaan asam amino/asam organik/aktivitas enzim/genetik. \nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu nutrisi dan penyakit metabolik.\nc) Galaktosemia diberikan Formula asam amino bebas galaktosa.\nd) Dapat diberikan untuk:\n- usia 0 -12 bulan atau\n- usia 1 â€“ 18 tahun.\ne) Diberikan sesuai kategori kebutuhan kalori berdasarkan Recomended Dietary Allowance (RDA):\n- (0 â€“ 6 bulan): Formula bebas galaktosa 100% RDA. \n- (6 â€“ 9 bulan): Formula bebas galaktosa 70% RDA + makanan pendamping diet restriksi. \n- (9 â€“ 12 bulan): Formula bebas galaktosa 50% RDA + makanan pendamping diet restriksi.\n- (>12 bulan): Formula bebas galaktosa 30% RDA + makanan keluarga diet restriksi. per 1 bulan.\nf) Hanya diberikan sampai usia 18 tahun."
+            }
+        ]
+    },
+    {
+        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Isovaleric Acidemia (IVA)",
+        "subdrugs": [
+            {
+                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Isovaleric Acidemia (IVA) - BUBUK N/A",
+                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
+                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Isovaleric Acidemia (IVA)",
+                "sediaan": "BUBUK",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Hanya digunakan untuk kelainan metabolik Isovaleric Acidemia (IVA) yang telah didiagnosis dengan pemeriksaan asam amino/asam organik/aktivitas enzim/genetik.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu nutrisi dan penyakit metabolik.\nc) IVA diberikan Formula bebas Leusin.\nd) Diberikan sesuai kategori kebutuhan kalori berdasarkan Recomended Dietary Allowance (RDA):\n- (0 â€“ 6 bulan): Formula bebas Leusin, 100% RDA.\n- (6 â€“ 9 bulan): Formula bebas Leusin 70% RDA + makanan pendamping diet restriksi.\n- (9 â€“ 12 bulan): Formula bebas Leusin 50% RDA + makanan pendamping diet restriksi.\n- (>12 bulan): Formula bebas Leusin 30% RDA + makanan keluarga diet restriksi.\ne) Hanya diberikan sampai usia 18 tahun."
+            }
+        ]
+    },
+    {
+        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Maple Syrup Urine Disease (MSUD)",
+        "subdrugs": [
+            {
+                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Maple Syrup Urine Disease (MSUD) - BUBUK N/A",
+                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
+                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Maple Syrup Urine Disease (MSUD)",
+                "sediaan": "BUBUK",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Hanya digunakan untuk kelainan metabolik Maple Syrup Urine Disease (MSUD) yang telah didiagnosis dengan pemeriksaan asam amino/asam organik/aktivitas enzim/genetik.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu nutrisi dan penyakit metabolik.\nc) MSUD diberikan Formula bebas Isoleusin, Leusin, Valin.\nd) Diberikan sesuai kategori kebutuhan kalori berdasarkan Recomended Dietary Allowance (RDA):\n- (0 â€“ 6 bulan): Formula bebas Isoleusin, Leusin, Valin 100% RDA.\n- (6 â€“ 9 bulan): Formula bebas Isoleusin, Leusin, Valin 70% RDA + makanan pendamping diet restriksi. \n- (9 â€“ 12 bulan): Formula bebas Isoleusin, Leusin, Valin 50% RDA + makanan pendamping diet restriksi. \n- (>12 bulan): Formula bebas Isoleusin, Leusin, Valin 30% RDA + makanan keluarga diet restriksi.\ne) Hanya diberikan sampai usia 18 tahun."
+            }
+        ]
+    },
+    {
+        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Phenylketonuria (PKU)",
+        "subdrugs": [
+            {
+                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Phenylketonuria (PKU) - BUBUK N/A",
+                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
+                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Phenylketonuria (PKU)",
+                "sediaan": "BUBUK",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Hanya digunakan untuk kelainan metabolik Phenylketonuria (PKU) yang telah didiagnosis dengan pemeriksaan asam amino/asam organik/aktivitas enzim/genetik. \nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu nutrisi dan penyakit metabolik.\nc) Phenylketonuria (PKU) diberikan Formula bebas fenilalanin.\nd) Diberikan sesuai kategori kebutuhan kalori berdasarkan Recomended Dietary Allowance (RDA):\n- (0 â€“ 6 bulan): Formula bebas fenilalanin 100% RDA.\n- (6 â€“ 9 bulan): Formula bebas fenilalanin 70% RDA + makanan pendamping diet restriksi. \n- (9 â€“ 12 bulan): Formula bebas fenilalanin 50% RDA + makanan pendamping diet restriksi. \n- (>12 bulan): Formula bebas fenilalanin 30% RDA + makanan keluarga diet restriksi.\ne) Hanya diberikan sampai usia 18 tahun."
+            }
+        ]
+    },
+    {
+        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Tyrosinemia",
+        "subdrugs": [
+            {
+                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Tyrosinemia - BUBUK N/A",
+                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
+                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Tyrosinemia",
+                "sediaan": "BUBUK",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Hanya digunakan untuk kelainan metabolik Tyrosinemia yang telah didiagnosis dengan pemeriksaan asam amino/asam organik/aktivitas enzim/genetik. \nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu nutrisi dan penyakit metabolik.\nc) Tyrosinemia diberikan Formula bebas fenilalanin dan tirosin.\nd) Diberikan sesuai kategori kebutuhan kalori berdasarkan Recomended Dietary Allowance (RDA):\n- (0 â€“ 6 bulan): Formula bebas fenilalanin dan tirosin 100% RDA .\n- (6 â€“ 9 bulan): Formula bebas fenilalanin dan tirosin 70% RDA + makanan pendamping diet restriksi. \n- (9 â€“ 12 bulan): Formula bebas fenilalanin dan tirosin 50% RDA + makanan pendamping diet restriksi.\n- (>12 bulan): Formula bebas fenilalanin dan tirosin 30% RDA + makanan keluarga diet restriksi.\ne) Hanya diberikan sampai usia 18 tahun."
+            }
+        ]
+    },
+    {
+        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pelengkap gizi air susu ibu (human milk fortifier)",
+        "subdrugs": [
+            {
+                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pelengkap gizi air susu ibu (human milk fortifier) - BUBUK N/A",
+                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
+                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pelengkap gizi air susu ibu (human milk fortifier)",
+                "sediaan": "BUBUK",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit anak.\nb) Syarat pemberian:\n1) Bila ASI yang tersedia lebih dari 100 mL/kg BB bayi/hari.\n2) Diberikan untuk bayi berat lahir sangat rendah <1.500 gram atau prematur < 32 minggu, selanjutnya dapat diresepkan sampai usia koreksi 40 minggu atau 0 bulan dan/atau sampai berat badan 2.500 gram."
+            }
+        ]
+    },
+    {
+        "name": "parasetamol",
+        "subdrugs": [
+            {
+                "name": "parasetamol - DROPS 100 MILIGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "parasetamol",
+                "sediaan": "DROPS",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "parasetamol - INFUS 10 MILIGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "parasetamol",
+                "sediaan": "INFUS",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 btl/hari, maks. 3 hari.",
+                "restriksi sediaan": "Hanya untuk pasien di ruang perawatan intensif yang memerlukan analgesik berkelanjutan."
+            },
+            {
+                "name": "parasetamol - SIRUP 120 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "parasetamol",
+                "sediaan": "SIRUP",
+                "kekuatan": "120",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 btl/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "parasetamol - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "parasetamol",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "180 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "pasta devitalisasi (non arsen)",
+        "subdrugs": [
+            {
+                "name": "pasta devitalisasi (non arsen) - PASTA N/A",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "PREPARAT LAINNYA",
+                "nama obat": "pasta devitalisasi (non arsen)",
+                "sediaan": "PASTA",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "pasta pengisi saluran akar",
+        "subdrugs": [
+            {
+                "name": "pasta pengisi saluran akar - PASTA N/A",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "ANTISEPTIK dan BAHAN untuk PERAWATAN SALURAN AKAR GIGI",
+                "nama obat": "pasta pengisi saluran akar",
+                "sediaan": "PASTA",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "pazopanib",
+        "subdrugs": [
+            {
+                "name": "pazopanib - TABLET SALUT SELAPUT 200 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "pazopanib",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi obat": "Hanya digunakan untuk kanker \nginjal metastatik."
+            },
+            {
+                "name": "pazopanib - TABLET SALUT SELAPUT 400 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "pazopanib",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "400",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Hanya digunakan untuk kanker \nginjal metastatik."
+            }
+        ]
+    },
+    {
+        "name": "pegaspargase",
+        "subdrugs": [
+            {
+                "name": "pegaspargase - INJEKSI 750 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antineoplastik Lain",
+                "nama obat": "pegaspargase",
+                "sediaan": "INJEKSI",
+                "kekuatan": "750",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk leukemia limfoblastik akut."
+            }
+        ]
+    },
+    {
+        "name": "pegylated interferon alfa-2a",
+        "subdrugs": [
+            {
+                "name": "pegylated interferon alfa-2a - INJEKSI 135 MICROGRAM / 0,5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "pegylated interferon alfa-2a",
+                "sediaan": "INJEKSI",
+                "kekuatan": "135",
+                "satuan": "MICROGRAM / 0,5 MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Untuk pasien hepatitis B dengan HBeAg-positif dan HBeAg-negatif.\nb) Dapat diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi, atau penyakit dalam."
+            },
+            {
+                "name": "pegylated interferon alfa-2a - INJEKSI 180 MICROGRAM / 0,5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "pegylated interferon alfa-2a",
+                "sediaan": "INJEKSI",
+                "kekuatan": "180",
+                "satuan": "MICROGRAM / 0,5 MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Untuk pasien hepatitis B dengan HBeAg-positif dan HBeAg-negatif.\nb) Dapat diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi, atau penyakit dalam."
+            }
+        ]
+    },
+    {
+        "name": "pemetreksed",
+        "subdrugs": [
+            {
+                "name": "pemetreksed - SERBUK INJEKSI 100 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "pemetreksed",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "4 vial/siklus, maks 6 siklus.",
+                "restriksi obat": "a) Untuk terapi non squamous NSCLC locally advanced atau metastatik EGFR wild type dalam kombinasi dengan platinum based (sisplatin atau karboplatin).\nb) Untuk lini kedua pada non squamous NSCLC locally advanced atau metastatik EGFR wild type yang gagal diatasi dengan kemoterapi lain.\nc) Jika terjadi progresi setelah terapi lini pertama dengan pemetreksed, maka tidak dapat dilanjutkan dengan pemetreksed sebagai lini kedua."
+            },
+            {
+                "name": "pemetreksed - SERBUK INJEKSI 500 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "pemetreksed",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "500 mg/m² setiap 21 hari, maks 6 siklus.",
+                "restriksi obat": "a) Untuk terapi non squamous NSCLC locally advanced atau metastatik EGFR wild type dalam kombinasi dengan platinum based (sisplatin atau karboplatin).\nb) Untuk lini kedua pada non squamous NSCLC locally advanced atau metastatik EGFR wild type yang gagal diatasi dengan kemoterapi lain.\nc) Jika terjadi progresi setelah terapi lini pertama dengan pemetreksed, maka tidak dapat dilanjutkan dengan pemetreksed sebagai lini kedua."
+            }
+        ]
+    },
+    {
+        "name": "pengganti plasma golongan gelatin",
+        "subdrugs": [
+            {
+                "name": "pengganti plasma golongan gelatin - INFUS N/A",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PENGGANTI PLASMA dan PLASMA EKSPANDER",
+                "nama obat": "pengganti plasma golongan gelatin",
+                "sediaan": "INFUS",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "6 btl/hari, maks 2 hari.",
+                "restriksi obat": "Untuk penatalaksanaan syok hipovolemik."
+            }
+        ]
+    },
+    {
+        "name": "perak nitrat",
+        "subdrugs": [
+            {
+                "name": "perak nitrat - LARUTAN 20 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "KERATOLITIK dan KERATOPLASTIK",
+                "nama obat": "perak nitrat",
+                "sediaan": "LARUTAN",
+                "kekuatan": "20",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "perak sulfadiazin",
+        "subdrugs": [
+            {
+                "name": "perak sulfadiazin - KRIM 1 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "nama obat": "perak sulfadiazin",
+                "sediaan": "KRIM",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk luka bakar."
+            }
+        ]
+    },
+    {
+        "name": "perindopril arginin",
+        "subdrugs": [
+            {
+                "name": "perindopril arginin - TABLET 5 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "perindopril arginin",
+                "sediaan": "TABLET",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            }
+        ]
+    },
+    {
+        "name": "permetrin",
+        "subdrugs": [
+            {
+                "name": "permetrin - KRIM 5 PERSEN"
+            }
+        ]
+    },
+    {
+        "name": "petidin",
+        "subdrugs": [
+            {
+                "name": "petidin - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "petidin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 amp/hari.",
+                "restriksi sediaan": "a) Hanya untuk nyeri sedang hingga berat pada pasien yang dirawat di Rumah Sakit.\nb) Tidak digunakan untuk nyeri kronis."
+            }
+        ]
+    },
+    {
+        "name": "pilokarpin",
+        "subdrugs": [
+            {
+                "name": "pilokarpin - TETES MATA 2 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIOTIK dan ANTIGLAUKOMA",
+                "nama obat": "pilokarpin",
+                "sediaan": "TETES MATA",
+                "kekuatan": "2",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 btl/bulan.",
+                "restriksi obat": "Dapat diberikan di FPKTP yang memiliki fasilitas untuk mengukur tekanan intraokuler."
+            }
+        ]
+    },
+    {
+        "name": "pioglitazon",
+        "subdrugs": [
+            {
+                "name": "pioglitazon - TABLET 15 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Oral",
+                "nama obat": "pioglitazon",
+                "sediaan": "TABLET",
+                "kekuatan": "15",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Tidak diberikan pada pasien dengan gagal jantung atau edema karena sebab lain, dan/atau riwayat keluarga bladder cancer."
+            },
+            {
+                "name": "pioglitazon - TABLET 30 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Oral",
+                "nama obat": "pioglitazon",
+                "sediaan": "TABLET",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Tidak diberikan pada pasien dengan gagal jantung atau edema karena sebab lain, dan/atau riwayat keluarga bladder cancer."
+            }
+        ]
+    },
+    {
+        "name": "pirantel pamoat",
+        "subdrugs": [
+            {
+                "name": "pirantel pamoat - SUSPENSI 125 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTELMINTIK",
+                "sub sub kelas terapi": "Antelmintik Intestinal",
+                "nama obat": "pirantel pamoat",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "125",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "pirantel pamoat - TABLET 125 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTELMINTIK",
+                "sub sub kelas terapi": "Antelmintik Intestinal",
+                "nama obat": "pirantel pamoat",
+                "sediaan": "TABLET",
+                "kekuatan": "125",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "pirantel pamoat - TABLET 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTELMINTIK",
+                "sub sub kelas terapi": "Antelmintik Intestinal",
+                "nama obat": "pirantel pamoat",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "pirazinamid",
+        "subdrugs": [
+            {
+                "name": "pirazinamid - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "pirazinamid",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB.",
+                "restriksi obat": "a) Hanya dapat diberikan di FPKTL, sesuai dengan SK Penetapan Rumah Sakit dan Balai Kesehatan Pelaksana Layanan Tuberkulosis Resistan Obat. (Kepmenkes No. HK.01.07/MENKES/350/2017).\nb) Hanya digunakan untuk paduan pada TB Resistan Obat."
+            }
+        ]
+    },
+    {
+        "name": "piridoksin (vitamin B6)",
+        "subdrugs": [
+            {
+                "name": "piridoksin (vitamin B6) - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "piridoksin (vitamin B⁶)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "piridoksin (vitamin B6) - TABLET 10 MILIGRAM",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "piridoksin (vitamin B⁶)",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "piridoksin (vitamin B6) - TABLET 25 MILIGRAM",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "piridoksin (vitamin B⁶)",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "piridostigmin",
+        "subdrugs": [
+            {
+                "name": "piridostigmin - TABLET 60 MILIGRAM",
+                "kelas terapi": "RELAKSAN OTOT PERIFER dan PENGHAMBAT KOLINESTERASE",
+                "sub kelas terapi": "OBAT untuk MIASTENIA GRAVIS",
+                "nama obat": "piridostigmin",
+                "sediaan": "TABLET",
+                "kekuatan": "60",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "300 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "pirimetamin",
+        "subdrugs": [
+            {
+                "name": "pirimetamin - TABLET 25 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "pirimetamin",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Dalam bentuk kombinasi dengan sulfadiazin atau klindamisin dan leukovorin untuk toksoplasmosis serebral/retinitis pada pasien immunocompromised."
+            }
+        ]
+    },
+    {
+        "name": "podofilin",
+        "subdrugs": [
+            {
+                "name": "podofilin - TINGTUR 25 PERSEN"
+            }
+        ]
+    },
+    {
+        "name": "polietilen glikol",
+        "subdrugs": [
+            {
+                "name": "polietilen glikol - SERBUK N/A"
+            }
+        ]
+    },
+    {
+        "name": "polikresulen",
+        "subdrugs": [
+            {
+                "name": "polikresulen - LARUTAN N/A"
+            }
+        ]
+    },
+    {
+        "name": "polyvalent snake antivenin (Australia-Papua New Guinea)",
+        "subdrugs": [
+            {
+                "name": "polyvalent snake antivenin (Australia-Papua New Guinea) - INJEKSI N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "polyvalent snake antivenin (Australia-Papua New Guinea)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes."
+            }
+        ]
+    },
+    {
+        "name": "polyvalent snake antivenin (Indonesia)",
+        "subdrugs": [
+            {
+                "name": "polyvalent snake antivenin (Indonesia) - INJEKSI N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "polyvalent snake antivenin (Indonesia)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes."
+            }
+        ]
+    },
+    {
+        "name": "ponatinib",
+        "subdrugs": [
+            {
+                "name": "ponatinib - TABLET SALUT SELAPUT 15 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "ponatinib",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "15",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Terapi untuk pasien dewasa dengan:\n- fase kronik, fase akselerasi CML yang resistan terhadap tirosin kinase inhibitor (nilotinib), diberikan sebagai terapi lini ketiga; atau\n- T315I positif CML (fase kronik, fase akselerasi) yang resistan terhadap imatinib sebagai terapi lini pertama.\nb) Tidak diberikan sebagai lini pertama pada CML"
+            }
+        ]
+    },
+    {
+        "name": "povidon iodin",
+        "subdrugs": [
+            {
+                "name": "povidon iodin - LARUTAN 100 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTISEPTIK dan DISINFEKTAN",
+                "sub kelas terapi": "ANTISEPTIK",
+                "nama obat": "povidon iodin",
+                "sediaan": "LARUTAN",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "povidon iodin - LARUTAN OBAT KUMUR 1 PERSEN",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "ANTISEPTIK dan BAHAN untuk PERAWATAN SALURAN AKAR GIGI",
+                "nama obat": "povidon iodin",
+                "sediaan": "LARUTAN OBAT KUMUR",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "povidon iodin - TETES MATA 2,5 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "povidon iodin",
+                "sediaan": "TETES MATA",
+                "kekuatan": "2,5",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 strip/kasus. Diberikan selama 3 hari.",
+                "restriksi obat": "Hanya untuk pencegahan ophthalmia neonatorum."
+            }
+        ]
+    },
+    {
+        "name": "pramipeksol",
+        "subdrugs": [
+            {
+                "name": "pramipeksol - TABLET 0,125 MILIGRAM",
+                "kelas terapi": "ANTIPARKINSON",
+                "nama obat": "pramipeksol",
+                "sediaan": "TABLET",
+                "kekuatan": "0,125",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu neurologi.",
+                "restriksi sediaan": "Dosis 0,125 mg dapat juga digunakan untuk Restless Leg Syndrome (RLS)."
+            },
+            {
+                "name": "pramipeksol - TABLET PELEPASAN LAMBAT 0,375 MILIGRAM",
+                "kelas terapi": "ANTIPARKINSON",
+                "nama obat": "pramipeksol",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "0,375",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu neurologi."
+            },
+            {
+                "name": "pramipeksol - TABLET PELEPASAN LAMBAT 0,75 MILIGRAM",
+                "kelas terapi": "ANTIPARKINSON",
+                "nama obat": "pramipeksol",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "0,75",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu neurologi."
+            }
+        ]
+    },
+    {
+        "name": "pravastatin",
+        "subdrugs": [
+            {
+                "name": "pravastatin - TABLET 10 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERLIPIDEMIA",
+                "nama obat": "pravastatin",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "a) Hanya untuk hiperlipidemia dengan kadar LDL >160 mg/dL pada penyakit jantung koroner dan diabetes mellitus disertai makroalbuminuria.\nb) Pemberian selama 6 bulan, selanjutnya harus dievaluasi kembali."
+            },
+            {
+                "name": "pravastatin - TABLET 20 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERLIPIDEMIA",
+                "nama obat": "pravastatin",
+                "sediaan": "TABLET",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "a) Hanya untuk hiperlipidemia dengan kadar LDL >160 mg/dL pada penyakit jantung koroner dan diabetes mellitus disertai makroalbuminuria.\nb) Pemberian selama 6 bulan, selanjutnya harus dievaluasi kembali."
+            }
+        ]
+    },
+    {
+        "name": "prazikuantel",
+        "subdrugs": [
+            {
+                "name": "prazikuantel - TABLET 600 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTELMINTIK",
+                "sub sub kelas terapi": "Antisistosoma",
+                "nama obat": "prazikuantel",
+                "sediaan": "TABLET",
+                "kekuatan": "600",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Hanya untuk daerah Sulawesi \nTengah.\nb) Khusus di Kalimantan Selatan \nuntuk pengobatan Fasciolopsis \nbuski."
+            },
+            {
+                "name": "prazikuantel - TABLET 600 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTELMINTIK",
+                "sub sub kelas terapi": "Antelmintik Intestinal",
+                "nama obat": "prazikuantel",
+                "sediaan": "TABLET",
+                "kekuatan": "600",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "prednisolon",
+        "subdrugs": [
+            {
+                "name": "prednisolon - TETES MATA 10 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIINFLAMASI",
+                "nama obat": "prednisolon",
+                "sediaan": "TETES MATA",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "prednison",
+        "subdrugs": [
+            {
+                "name": "prednison - TABLET 5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "pregabalin",
+        "subdrugs": [
+            {
+                "name": "pregabalin - KAPSUL 50 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "NYERI NEUROPATIK",
+                "nama obat": "pregabalin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps/bulan.",
+                "restriksi obat": "Hanya untuk neuralgia pascaherpes atau nyeri neuropati diabetik."
+            },
+            {
+                "name": "pregabalin - KAPSUL 75 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "NYERI NEUROPATIK",
+                "nama obat": "pregabalin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "75",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 kaps/bulan.",
+                "restriksi obat": "Hanya untuk neuralgia pascaherpes atau nyeri neuropati diabetik."
+            }
+        ]
+    },
+    {
+        "name": "primakuin",
+        "subdrugs": [
+            {
+                "name": "primakuin - TABLET 15 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIPROTOZOA",
+                "sub sub kelas terapi": "Antimalaria",
+                "nama obat": "primakuin",
+                "sediaan": "TABLET",
+                "kekuatan": "15",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan: Disediakan oleh Program \nKemenkes."
+            }
+        ]
+    },
+    {
+        "name": "prokain benzilpenisilin",
+        "subdrugs": [
+            {
+                "name": "prokain benzilpenisilin - INJEKSI 3000000 INTERNASIONAL UNIT",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "prokain benzilpenisilin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "3.000.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 vial/kasus.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "prokaterol",
+        "subdrugs": [
+            {
+                "name": "prokaterol - CAIRAN INHALASI 30 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "prokaterol",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "30",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk nocturnal asthma yang tidak respons dengan pemberian salbutamol."
+            },
+            {
+                "name": "prokaterol - CAIRAN INHALASI 50 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "prokaterol",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "50",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk nocturnal asthma yang tidak respons dengan pemberian salbutamol."
+            },
+            {
+                "name": "prokaterol - SERBUK INHALASI 10 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "prokaterol",
+                "sediaan": "SERBUK INHALASI",
+                "kekuatan": "10",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk nocturnal asthma yang tidak respons dengan pemberian salbutamol."
+            },
+            {
+                "name": "prokaterol - SIRUP 25 MICROGRAM / 5 MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "prokaterol",
+                "sediaan": "SIRUP",
+                "kekuatan": "25",
+                "satuan": "MICROGRAM / 5 MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 btl/bulan.",
+                "restriksi obat": "Hanya untuk nocturnal asthma yang tidak respons dengan pemberian salbutamol."
+            }
+        ]
+    },
+    {
+        "name": "propiltiourasil",
+        "subdrugs": [
+            {
+                "name": "propiltiourasil - TABLET 100 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON TIROID dan ANTITIROID",
+                "nama obat": "propiltiourasil",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk bulan pertama maks 180 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "propofol",
+        "subdrugs": [
+            {
+                "name": "propofol - INJEKSI 1 PERSEN"
+            }
+        ]
+    },
+    {
+        "name": "propranolol",
+        "subdrugs": [
+            {
+                "name": "propranolol - TABLET 10 MILIGRAM",
+                "kelas terapi": "ANTIMIGREN DAN ANTIVERTIGO",
+                "sub kelas terapi": "ANTIMIGREN",
+                "sub sub kelas terapi": "Profilaksis",
+                "nama obat": "propranolol",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "propranolol - TABLET 10 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIARITMIA",
+                "nama obat": "propranolol",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi sediaan": "a) Untuk kasus-kasus dengan gangguan tiroid.\nb) Untuk tremor esensial, tremor distonia, dan tremor holmes."
+            },
+            {
+                "name": "propranolol - TABLET 40 MILIGRAM",
+                "kelas terapi": "ANTIMIGREN DAN ANTIVERTIGO",
+                "sub kelas terapi": "ANTIMIGREN",
+                "sub sub kelas terapi": "Profilaksis",
+                "nama obat": "propranolol",
+                "sediaan": "TABLET",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "prostaglandin (PGE 1)",
+        "subdrugs": [
+            {
+                "name": "prostaglandin (PGE 1) - INJEKSI 500 MICROGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "prostaglandin (PGE 1)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MICROGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik.",
+                "restriksi obat": "Untuk bayi dengan kelainan jantung bawaan sianosis yang ductus dependent, harus dibuktikan dengan pemeriksaan ekokardiografi."
+            }
+        ]
+    },
+    {
+        "name": "protamin sulfat",
+        "subdrugs": [
+            {
+                "name": "protamin sulfat - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIDOT dan OBAT LAIN untuk KERACUNAN",
+                "sub kelas terapi": "KHUSUS",
+                "nama obat": "protamin sulfat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    }
+]

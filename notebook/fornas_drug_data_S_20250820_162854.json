@@ -1,0 +1,1576 @@
+[
+    {
+        "name": "sacubitril valsartan",
+        "subdrugs": [
+            {
+                "name": "sacubitril valsartan - TABLET SALUT SELAPUT 24,3/25,7 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "sacubitril valsartan",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "24,3/25,7",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Hanya untuk pasien yang tidak respons terhadap golongan ARB dan ACE inhibitor.\nb) Hanya pada pasien dengan reduced ejection fraction (LVEF â‰¤ 40%)."
+            },
+            {
+                "name": "sacubitril valsartan - TABLET SALUT SELAPUT 48,6/51,4 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "sacubitril valsartan",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "48,6/51,4",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Hanya untuk pasien yang tidak respons terhadap golongan ARB dan ACE inhibitor.\nb) Hanya pada pasien dengan reduced ejection fraction (LVEF â‰¤ 40%)."
+            },
+            {
+                "name": "sacubitril valsartan - TABLET SALUT SELAPUT 97,2/102,8 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "sacubitril valsartan",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "97,2/102,8",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Hanya untuk pasien yang tidak respons terhadap golongan ARB dan ACE inhibitor.\nb) Hanya pada pasien dengan reduced ejection fraction (LVEF â‰¤ 40%)."
+            }
+        ]
+    },
+    {
+        "name": "salbutamol",
+        "subdrugs": [
+            {
+                "name": "salbutamol - METERED DOSE INHALER/AEROSOL 100 MICROGRAM / DOSIS",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "salbutamol",
+                "sediaan": "METERED DOSE INHALER/AEROSOL",
+                "kekuatan": "100",
+                "satuan": "MICROGRAM / DOSIS",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-Â Â Â  Asma persisten ringan-berat, SOPT: 2 tbg/tahun.\n-Â Â Â  PPOK: 2 tbg/bulan.",
+                "restriksi obat": "Hanya untuk serangan asma akut dan/atau bronkospasme yang menyertai PPOK atau SOPT (Sindrom Obstruksi Pasca Tuberkulosis)."
+            },
+            {
+                "name": "salbutamol - CAIRAN INHALASI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "salbutamol",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Hari pertama maks 8 vial/hari, selanjutnya maks 4 vial/hari.\nKasus di ICU maks 10 vial/hari.",
+                "restriksi obat": "Hanya untuk serangan asma akut dan/atau bronkospasme yang menyertai PPOK atau SOPT (Sindrom Obstruksi Pasca Tuberkulosis)."
+            },
+            {
+                "name": "salbutamol - SERBUK INHALASI 200 MICROGRAM / KAPSUL + ROTAHALER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "salbutamol",
+                "sediaan": "SERBUK INHALASI",
+                "kekuatan": "200",
+                "satuan": "MICROGRAM / KAPSUL + ROTAHALER",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk serangan asma akut dan/atau bronkospasme yang menyertai PPOK atau SOPT (Sindrom Obstruksi Pasca Tuberkulosis)."
+            },
+            {
+                "name": "salbutamol - SIRUP 2 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "salbutamol",
+                "sediaan": "SIRUP",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk serangan asma akut dan/atau bronkospasme yang menyertai PPOK atau SOPT (Sindrom Obstruksi Pasca Tuberkulosis)."
+            },
+            {
+                "name": "salbutamol - TABLET 2 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "salbutamol",
+                "sediaan": "TABLET",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk serangan asma akut dan/atau bronkospasme yang menyertai PPOK atau SOPT (Sindrom Obstruksi Pasca Tuberkulosis)."
+            }
+        ]
+    },
+    {
+        "name": "salep 2âˆ’4",
+        "subdrugs": [
+            {
+                "name": "salep 2âˆ’4 - SALEP N/A"
+            }
+        ]
+    },
+    {
+        "name": "sea snake antivenin",
+        "subdrugs": [
+            {
+                "name": "sea snake antivenin - INJEKSI N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "sea snake antivenin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes."
+            }
+        ]
+    },
+    {
+        "name": "secukinumab",
+        "subdrugs": [
+            {
+                "name": "secukinumab - SERBUK INJEKSI 150 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "secukinumab",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Untuk psoriasis berat: 8x pemberian @300 mg/siklus pengobatan.\n- Untuk artritis psoriasis dan Ankylosing Spondylitis: 16x pemberian @150 mg/siklus pengobatan.",
+                "restriksi obat": "Digunakan pada salah satu kondisi berikut: \na) Untuk pasien psoriaris berat yang telah terbukti gagal dengan dua (2) terapi sistemik (metotreksat, siklosporin atau narrowband ultraviolet B).\nb) Untuk pasien artritis psoriasis yang gagal atau intoleran minimal dengan 1 DMARD konvensional.\nc) Untuk pasien Ankylosing Spondylitis (AS) yang tidak memberikan respons adekuat dengan NSAID."
+            }
+        ]
+    },
+    {
+        "name": "sefadroksil",
+        "subdrugs": [
+            {
+                "name": "sefadroksil - KAPSUL 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefadroksil",
+                "sediaan": "KAPSUL",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "5 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "sefadroksil - KAPSUL 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefadroksil",
+                "sediaan": "KAPSUL",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "5 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "sefadroksil - DROPS 150 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefadroksil",
+                "sediaan": "DROPS",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "sefadroksil - SIRUP KERING 125 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefadroksil",
+                "sediaan": "SIRUP KERING",
+                "kekuatan": "125",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "sefadroksil - SIRUP KERING 250 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefadroksil",
+                "sediaan": "SIRUP KERING",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/kasus.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "sefaleksin",
+        "subdrugs": [
+            {
+                "name": "sefaleksin - KAPSUL 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefaleksin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "5 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "sefazolin",
+        "subdrugs": [
+            {
+                "name": "sefazolin - INJEKSI 1 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "sefepim",
+        "subdrugs": [
+            {
+                "name": "sefepim - SERBUK INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefepim",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 g/hari sampai ANC > 500/mm³.",
+                "restriksi obat": "a) Antibiotik lini ketiga (reserved antibiotic). Diberikan atas persetujuan KFT/KPRA/pimpinan RS.\nb) Untuk demam neutropenia karena penggunaan kemoterapi atau radioterapi, dapat diberikan sebagai terapi empiris."
+            }
+        ]
+    },
+    {
+        "name": "sefiksim",
+        "subdrugs": [
+            {
+                "name": "sefiksim - SIRUP 100 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefiksim",
+                "sediaan": "SIRUP",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/kasus.",
+                "restriksi obat": "Hanya untuk pasien rawat inap yang sebelumnya mendapatkan antibiotik parenteral sefalosporin generasi tiga atau sesuai hasil uji resistensi."
+            },
+            {
+                "name": "sefiksim - TABLET/KAPSUL 100 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefiksim",
+                "sediaan": "TABLET/KAPSUL",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi obat": "Hanya untuk pasien rawat inap yang sebelumnya mendapatkan antibiotik parenteral sefalosporin generasi tiga atau sesuai hasil uji resistensi."
+            },
+            {
+                "name": "sefiksim - TABLET/KAPSUL 200 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefiksim",
+                "sediaan": "TABLET/KAPSUL",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi obat": "Hanya untuk pasien rawat inap yang sebelumnya mendapatkan antibiotik parenteral sefalosporin generasi tiga atau sesuai hasil uji resistensi."
+            }
+        ]
+    },
+    {
+        "name": "sefoperazon",
+        "subdrugs": [
+            {
+                "name": "sefoperazon - SERBUK INJEKSI 1 MILIGRAM",
+                "kelas terapi": "",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefoperazon",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 g/hari selama 7 hari.",
+                "restriksi sediaan": "Diberikan atas persetujuan dokter yang memiliki kompetensi di bidang ilmu penyakit tropik dan/atau infeksi atau DPJP yang ditunjuk oleh KFT/KPRA untuk:\na) Antibiotik kategori Watch.\nb) Ketika antibiotik kategori Access tidak efektif.\nc) Mengatasi infeksi pada pasien yang mengalami penurunan fungsi ginjal."
+            }
+        ]
+    },
+    {
+        "name": "sefotaksim",
+        "subdrugs": [
+            {
+                "name": "sefotaksim - SERBUK INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefotaksim",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "sefotaksim - SERBUK INJEKSI 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefotaksim",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "sefpirom",
+        "subdrugs": [
+            {
+                "name": "sefpirom - SERBUK INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefpirom",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 g/hari sampai ANC > 500/mm³.",
+                "restriksi obat": "a) Antibiotik lini ketiga (reserved antibiotic). Diberikan atas persetujuan KFT/KPRA/pimpinan RS.\nb) Untuk demam neutropenia karena penggunaan kemoterapi atau radioterapi, dapat diberikan sebagai terapi empiris."
+            }
+        ]
+    },
+    {
+        "name": "seftazidim",
+        "subdrugs": [
+            {
+                "name": "seftazidim - SERBUK INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "seftazidim",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 g/hari selama 7 hari.",
+                "restriksi sediaan": "Antibiotik lini ketiga (reserved antibiotic), untuk infeksi yang terbukti disebabkan oleh Pseudomonas aeruginosa. Diberikan atas persetujuan KFT/KPRA/pimpinan RS."
+            }
+        ]
+    },
+    {
+        "name": "seftriakson",
+        "subdrugs": [
+            {
+                "name": "seftriakson - INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "seftriakson",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 g/hari selama 7 hari. Untuk meningitis 4 g/hari selama 14 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "sefuroksim",
+        "subdrugs": [
+            {
+                "name": "sefuroksim - SERBUK INJEKSI 750 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefuroksim",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "750",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 g/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "sefuroksim - TABLET SALUT SELAPUT 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefuroksim",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 tab/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "sefuroksim - TABLET SALUT SELAPUT 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "sefuroksim",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 tab/kasus.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "selekoksib",
+        "subdrugs": [
+            {
+                "name": "selekoksib - KAPSUL 100 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "selekoksib",
+                "sediaan": "KAPSUL",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps/ bulan.",
+                "restriksi obat": "a) Hanya untuk pasien yang sebelumnya menggunakan NSAID konvensional, dan mengalami iritasi saluran cerna atau pasien dengan riwayat iritasi saluran cerna.\nb) Untuk osteoartritis, reumatoid artritis, atau ankylosing spondylitis, dengan perhatian khusus pada pasien dengan riwayat penyakit kardiovaskular."
+            },
+            {
+                "name": "selekoksib - KAPSUL 200 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "selekoksib",
+                "sediaan": "KAPSUL",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps/ bulan.",
+                "restriksi obat": "a) Hanya untuk pasien yang sebelumnya menggunakan NSAID konvensional, dan mengalami iritasi saluran cerna atau pasien dengan riwayat iritasi saluran cerna.\nb) Untuk osteoartritis, reumatoid artritis, atau ankylosing spondylitis, dengan perhatian khusus pada pasien dengan riwayat penyakit kardiovaskular."
+            }
+        ]
+    },
+    {
+        "name": "sertralin",
+        "subdrugs": [
+            {
+                "name": "sertralin - TABLET SALUT 50 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIDEPRESI",
+                "nama obat": "sertralin",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi obat": "Digunakan untuk depresi yang disertai ansietas."
+            }
+        ]
+    },
+    {
+        "name": "serum antidifteri (A.D.S)",
+        "subdrugs": [
+            {
+                "name": "serum antidifteri (A.D.S) - INJEKSI 10000 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "serum antidifteri (A.D.S)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes.\nDisimpan pada suhu 2âˆ’8ÂºC."
+            }
+        ]
+    },
+    {
+        "name": "serum antirabies",
+        "subdrugs": [
+            {
+                "name": "serum antirabies - INJEKSI 150-400 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "serum antirabies",
+                "sediaan": "INJEKSI",
+                "kekuatan": "150-400",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Digunakan untuk pengobatan post exposure di daerah rabies.\nb) Disimpan pada suhu 2âˆ’8ÂºC."
+            }
+        ]
+    },
+    {
+        "name": "serum antitetanus (A.T.S)",
+        "subdrugs": [
+            {
+                "name": "serum antitetanus (A.T.S) - INJEKSI 10000 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "serum antitetanus (A.T.S)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Disimpan pada suhu 2âˆ’8ÂºC.",
+                "restriksi sediaan": "Untuk pengobatan"
+            },
+            {
+                "name": "serum antitetanus (A.T.S) - INJEKSI 1500 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "serum antitetanus (A.T.S)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1.500",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Disimpan pada suhu 2âˆ’8ÂºC.",
+                "restriksi sediaan": "Untuk pencegahan"
+            },
+            {
+                "name": "serum antitetanus (A.T.S) - INJEKSI 20000 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "serum antitetanus (A.T.S)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "20.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Disimpan pada suhu 2âˆ’8ÂºC.",
+                "restriksi sediaan": "Untuk pengobatan"
+            },
+            {
+                "name": "serum antitetanus (A.T.S) - INJEKSI 5000 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "serum antitetanus (A.T.S)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5.000",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Disimpan pada suhu 2âˆ’8ÂºC.",
+                "restriksi sediaan": "Untuk pencegahan"
+            }
+        ]
+    },
+    {
+        "name": "setirizin",
+        "subdrugs": [
+            {
+                "name": "setirizin - SIRUP 5 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIALERGI dan OBAT untuk ANAFILAKSIS",
+                "nama obat": "setirizin",
+                "sediaan": "SIRUP",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "setirizin - TABLET 10 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "setuksimab",
+        "subdrugs": [
+            {
+                "name": "setuksimab - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibodi Monoklonal Dan Antibody Drug Conjugates",
+                "nama obat": "setuksimab",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Pemberian tiap minggu: Dosis pertama 400 mg/m², dosis selanjutnya 250 mg/m² tiap minggu.\n- Maks 6 siklus atau sampai terjadi progres atau timbul efek samping yang tidak dapat ditoleransi, mana yang terjadi lebih dulu.",
+                "restriksi obat": "a) Sebagai terapi lini kedua kanker kepala dan leher jenis squamous dan dikombinasi dengan kemoterapi atau radiasi. \nb) Tidak digunakan untuk kanker nasofaring."
+            }
+        ]
+    },
+    {
+        "name": "sevelamer karbonat",
+        "subdrugs": [
+            {
+                "name": "sevelamer karbonat - TABLET 800 MILIGRAM",
+                "kelas terapi": "LAIN - LAIN",
+                "nama obat": "sevelamer karbonat",
+                "sediaan": "TABLET",
+                "kekuatan": "800",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk pasien CKD stage 3-5 dengan kadar fosfat > 5,5 mg/dL dan kadar kalsium > 9 mg/dL yang tidak dapat diberikan kalsium karbonat."
+            }
+        ]
+    },
+    {
+        "name": "sevofluran",
+        "subdrugs": [
+            {
+                "name": "sevofluran - INHALASI N/A"
+            }
+        ]
+    },
+    {
+        "name": "sianokobalamin (vitamin B12)",
+        "subdrugs": [
+            {
+                "name": "sianokobalamin (vitamin B12) - INJEKSI 500 MICROGRAM / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "ANTIANEMI",
+                "nama obat": "sianokobalamin (vitamin B¹²)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MICROGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "sianokobalamin (vitamin B12) - TABLET 50 MICROGRAM",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "sianokobalamin (vitamin B¹²)",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MICROGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "sianokobalamin (vitamin B12) - TABLET 50 MICROGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "ANTIANEMI",
+                "nama obat": "sianokobalamin (vitamin B¹²)",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MICROGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "siklofosfamid",
+        "subdrugs": [
+            {
+                "name": "siklofosfamid - INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkilator",
+                "nama obat": "siklofosfamid",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "siklofosfamid - INJEKSI 200 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkilator",
+                "nama obat": "siklofosfamid",
+                "sediaan": "INJEKSI",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "siklofosfamid - INJEKSI 500 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkilator",
+                "nama obat": "siklofosfamid",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "siklopentolat",
+        "subdrugs": [
+            {
+                "name": "siklopentolat - TETES MATA 1 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIDRIATIK",
+                "nama obat": "siklopentolat",
+                "sediaan": "TETES MATA",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya digunakan sebagai midriatikum untuk diagnostik dan/atau operasi yang memerlukan dilatasi pupil."
+            }
+        ]
+    },
+    {
+        "name": "siklosporin",
+        "subdrugs": [
+            {
+                "name": "siklosporin - KAPSUL LUNAK 100 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "siklosporin",
+                "sediaan": "KAPSUL LUNAK",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 kaps/bulan.",
+                "restriksi sediaan": "Untuk kasus transplantasi organ atau penyakit autoimun."
+            },
+            {
+                "name": "siklosporin - KAPSUL LUNAK 25 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "siklosporin",
+                "sediaan": "KAPSUL LUNAK",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 kaps/bulan.",
+                "restriksi sediaan": "Untuk kasus transplantasi organ atau penyakit autoimun."
+            },
+            {
+                "name": "siklosporin - KAPSUL LUNAK 50 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "siklosporin",
+                "sediaan": "KAPSUL LUNAK",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 kaps/bulan.",
+                "restriksi sediaan": "Untuk kasus transplantasi organ atau penyakit autoimun."
+            },
+            {
+                "name": "siklosporin - INJEKSI 100 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "siklosporin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "siklosporin - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "siklosporin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "sildenafil",
+        "subdrugs": [
+            {
+                "name": "sildenafil - SIRUP KERING 10 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Pulmonal",
+                "nama obat": "sildenafil",
+                "sediaan": "SIRUP KERING",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 btl/bulan.",
+                "restriksi obat": "a) Digunakan untuk Hipertensi Arteri Pulmonal (HAP) pada pasien anak. Diagnosis ditegakkan dengan echocardiography.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit jantung dan pembuluh darah."
+            },
+            {
+                "name": "sildenafil - TABLET 20 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "silodosin",
+        "subdrugs": [
+            {
+                "name": "silodosin - TABLET 4 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "silostazol",
+        "subdrugs": [
+            {
+                "name": "silostazol - KAPSUL PELEPASAN LAMBAT 100 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIAGREGASI PLATELET",
+                "nama obat": "silostazol",
+                "sediaan": "KAPSUL PELEPASAN LAMBAT",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 kaps/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit dalam atau penyakit jantung dan pembuluh darah atau neurologi atau bedah toraks, kardiak dan vaskular.",
+                "restriksi sediaan": "Secondary prevention pada pasien stroke dengan Cerebral Small Vessel Disease (CSVD)."
+            },
+            {
+                "name": "silostazol - TABLET 100 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIAGREGASI PLATELET",
+                "nama obat": "silostazol",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit dalam atau penyakit jantung dan pembuluh darah atau neurologi atau bedah toraks, kardiak dan vaskular.",
+                "restriksi sediaan": "Hanya untuk kasus Peripheral Artherial Disease (PAD) atau pasien yang terbukti telah resistan terhadap asam asetilsalisilat yang ditunjukkan dengan hasil pemeriksaan resistensi asam asetilsalisilat."
+            }
+        ]
+    },
+    {
+        "name": "simvastatin",
+        "subdrugs": [
+            {
+                "name": "simvastatin - TABLET 10 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERLIPIDEMIA",
+                "nama obat": "simvastatin",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Sebagai terapi tambahan terhadap terapi diet pada pasien hiperlipidemia dengan salah satu kondisi berikut:\na) kadar LDL > 160 mg/dL untuk pasien tanpa komplikasi diabetes melitus/PJK.\nb) Pasien ASCVD (pasca PCI, CABG, stroke iskemi dan/atau PAD, pascainfark) yang dibuktikan dengan EKG atau MSCT atau riwayat angiografi. Target LDL adalah â‰¤ 70 mg/dL, yang harus diperiksa setiap 6 bulan.\nc) kadar LDL > 130 mg/dL untuk pasien diabetes melitus. Setelah 6 bulan dilakukan evaluasi ketaatan pasien terhadap kontrol diet dan pemeriksaan laboratorium LDL dilampirkan setiap 6 bulan."
+            },
+            {
+                "name": "simvastatin - TABLET 20 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERLIPIDEMIA",
+                "nama obat": "simvastatin",
+                "sediaan": "TABLET",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Sebagai terapi tambahan terhadap terapi diet pada pasien hiperlipidemia dengan salah satu kondisi berikut:\na) kadar LDL > 160 mg/dL untuk pasien tanpa komplikasi diabetes melitus/PJK.\nb) Pasien ASCVD (pasca PCI, CABG, stroke iskemi dan/atau PAD, pascainfark) yang dibuktikan dengan EKG atau MSCT atau riwayat angiografi. Target LDL adalah â‰¤ 70 mg/dL, yang harus diperiksa setiap 6 bulan.\nc) kadar LDL > 130 mg/dL untuk pasien diabetes melitus. Setelah 6 bulan dilakukan evaluasi ketaatan pasien terhadap kontrol diet dan pemeriksaan laboratorium LDL dilampirkan setiap 6 bulan."
+            },
+            {
+                "name": "simvastatin - TABLET 40 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERLIPIDEMIA",
+                "nama obat": "simvastatin",
+                "sediaan": "TABLET",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Sebagai terapi tambahan terhadap terapi diet pada pasien hiperlipidemia dengan salah satu kondisi berikut:\na) kadar LDL > 160 mg/dL untuk pasien tanpa komplikasi diabetes melitus/PJK.\nb) Pasien ASCVD (pasca PCI, CABG, stroke iskemi dan/atau PAD, pascainfark) yang dibuktikan dengan EKG atau MSCT atau riwayat angiografi. Target LDL adalah â‰¤ 70 mg/dL, yang harus diperiksa setiap 6 bulan.\nc) kadar LDL > 130 mg/dL untuk pasien diabetes melitus. Setelah 6 bulan dilakukan evaluasi ketaatan pasien terhadap kontrol diet dan pemeriksaan laboratorium LDL dilampirkan setiap 6 bulan."
+            }
+        ]
+    },
+    {
+        "name": "siprofloksasin",
+        "subdrugs": [
+            {
+                "name": "siprofloksasin - INFUS 2 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kuinolon",
+                "nama obat": "siprofloksasin",
+                "sediaan": "INFUS",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "4 btl/hari.",
+                "restriksi obat": "Tidak digunakan untuk pasien usia \n< 18 tahun, ibu hamil, atau ibu \nmenyusui."
+            },
+            {
+                "name": "siprofloksasin - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kuinolon",
+                "nama obat": "siprofloksasin",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Tidak digunakan untuk pasien usia \n< 18 tahun, ibu hamil, atau ibu \nmenyusui."
+            }
+        ]
+    },
+    {
+        "name": "sisplatin",
+        "subdrugs": [
+            {
+                "name": "sisplatin - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antineoplastik Lain",
+                "nama obat": "sisplatin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "100 mg/m²/hari diulang tiap 3 minggu.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "sitagliptin",
+        "subdrugs": [
+            {
+                "name": "sitagliptin - TABLET SALUT SELAPUT 100 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Oral",
+                "nama obat": "sitagliptin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "a) Tidak digunakan sebagai lini pertama/terapi inisial.\nb) Sebagai terapi tambahan pada metformin dan/atau sulfonilurea dengan dosis optimal yang masih dapat ditoleransi oleh pasien.\nc) Tidak digunakan sebagai obat tunggal."
+            }
+        ]
+    },
+    {
+        "name": "sitarabin",
+        "subdrugs": [
+            {
+                "name": "sitarabin - INJEKSI 100 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "sitarabin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Untuk leukemia akut.\natau\nb) Untuk limfoma maligna.\nc) Tidak digunakan untuk intratekal."
+            }
+        ]
+    },
+    {
+        "name": "sodium hialuronat",
+        "subdrugs": [
+            {
+                "name": "sodium hialuronat - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI STRUKTUR dan MINERALISASI TULANG",
+                "nama obat": "sodium hialuronat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Diberikan 1 vial/pre-filled syringe per minggu. Maks 5 vial/pre-filled syringe per kasus.",
+                "restriksi obat": "a) Hanya diberikan untuk OA grade IIâˆ’III (klasifikasi Kellgren-Lawrence).\nb) Diberikan pada pasien yang sudah tidak respons dengan parasetamol atau NSAID atau ada kontraindikasi.\nc) Bila 3 kali pemberian tidak memberikan respons klinis signifikan, maka terapi dihentikan."
+            }
+        ]
+    },
+    {
+        "name": "sofosbuvir",
+        "subdrugs": [
+            {
+                "name": "sofosbuvir - TABLET SALUT SELAPUT 400 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "sofosbuvir",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "400",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 12 minggu kombinasi dengan daklatasvir untuk pasien non sirosis.\n- 24 minggu kombinasi dengan daklatasvir untuk pasien sirosis.",
+                "restriksi obat": "Catatan: Disediakan oleh Program \nKemenkes. \na) Tidak digunakan sebagai monoterapi. \nb) Diberikan bersama dengan daklatasvir untuk hepatitis C.\nc) Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi atau penyakit dalam.\nd) Dapat diberikan tanpa melakukan pemeriksaan genotipe, sesuai dengan SK Penetapan Rumah Sakit Layanan Hepatitis C dari Kementerian Kesehatan."
+            }
+        ]
+    },
+    {
+        "name": "solifenasin",
+        "subdrugs": [
+            {
+                "name": "solifenasin - TABLET 10 MILIGRAM",
+                "kelas terapi": "OBAT UNTUK SALURAN KEMIH",
+                "nama obat": "solifenasin",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 3 bulan.",
+                "restriksi obat": "a) Untuk indikasi Overactive Bladder (OAB) atau Inkontinensia tipe Desakan (Urge Urinary Incontinence).\nb) Didasarkan pada hasil pemeriksaan urodinamik atau memenuhi syarat minimum sebagai berikut: anamnesa, pemeriksaan fisik, urinalisa, catatan harian berkemih (Bladder Diary), kuesioner (OABSS) dan pemeriksaan residu urine.\nc) Diresepkan oleh dokter yang memiliki kompetensi di bidang urologi, uroginekologi, atau penyakit dalam geriatri."
+            },
+            {
+                "name": "solifenasin - TABLET 5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "somatostatin",
+        "subdrugs": [
+            {
+                "name": "somatostatin - INJEKSI 3 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "somatostatin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "3",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 amp/hari, maks 5 hari.",
+                "restriksi obat": "a) Untuk kasus perdarahan varises esofagus akut.\nb) Diberikan intravenous drip 250 mcg per jam."
+            }
+        ]
+    },
+    {
+        "name": "somatropin",
+        "subdrugs": [
+            {
+                "name": "somatropin - INJEKSI N/A"
+            }
+        ]
+    },
+    {
+        "name": "spiramisin",
+        "subdrugs": [
+            {
+                "name": "spiramisin - TABLET SALUT SELAPUT 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Makrolid",
+                "nama obat": "spiramisin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 g/hari selama 6 minggu.",
+                "restriksi obat": "Dapat digunakan untuk toksoplasmosis pada kehamilan."
+            }
+        ]
+    },
+    {
+        "name": "spironolakton",
+        "subdrugs": [
+            {
+                "name": "spironolakton - TABLET 100 MILIGRAM",
+                "kelas terapi": "DIURETIK dan OBAT untuk HIPERTROFI PROSTAT",
+                "sub kelas terapi": "DIURETIK",
+                "nama obat": "spironolakton",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "spironolakton - TABLET 25 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "spironolakton",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "spironolakton - TABLET 25 MILIGRAM",
+                "kelas terapi": "DIURETIK dan OBAT untuk HIPERTROFI PROSTAT",
+                "sub kelas terapi": "DIURETIK",
+                "nama obat": "spironolakton",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "stannous pyrophosphate",
+        "subdrugs": [
+            {
+                "name": "stannous pyrophosphate - N/A 27,6 MILIGRAM sodium pyrophosphate/vial",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
+                "nama obat": "stannous pyrophosphate",
+                "sediaan": "N/A",
+                "kekuatan": "27,6",
+                "satuan": "MILIGRAM sodium pyrophosphate/vial",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "streptokinase",
+        "subdrugs": [
+            {
+                "name": "streptokinase - INJEKSI 1500000 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "TROMBOLITIK",
+                "nama obat": "streptokinase",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1.500.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Untuk infark miokard akut dengan onset < 12 jam.\nb) Dapat diberikan di FPKTL yang memiliki fasilitas ICCU/ICU/unit stroke.\nc) Kontraindikasi: tidak boleh diberikan jika ditemukan kontraindikasi fibrinolitik antara lain: riwayat stroke hemoragik atau riwayat stroke iskemik dalam 6 bulan terakhir, AVM, tumor otak, trauma kepala, perdarahan aktif gastrointestinal, pascaoperasi besar dalam 3 bulan, dan diseksi aorta."
+            }
+        ]
+    },
+    {
+        "name": "streptomisin",
+        "subdrugs": [
+            {
+                "name": "streptomisin - SERBUK INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "streptomisin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 15 mg/kgBB maks 2 bulan pertama pemberian setiap hari.\n- Untuk TB RO: 12âˆ’18 mg/kgBB, maks 8 bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB.",
+                "restriksi obat": "a) Untuk kombinasi pengobatan pasien TB Kambuh BTA (+).\nb) Digunakan untuk paduan pengobatan TB Resistan Obat."
+            },
+            {
+                "name": "streptomisin - SERBUK INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Aminoglikosida",
+                "nama obat": "streptomisin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "sufentanil",
+        "subdrugs": [
+            {
+                "name": "sufentanil - INJEKSI 5 MICROGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "sufentanil",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MICROGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 vial/kasus.",
+                "restriksi sediaan": "Hanya untuk tindakan anestesi yang diberikan oleh dokter yang memiliki kompetensi di bidang ilmu anestesiologi dan terapi intensif, atau untuk pasien pasca operasi."
+            }
+        ]
+    },
+    {
+        "name": "sugammadeks",
+        "subdrugs": [
+            {
+                "name": "sugammadeks - INJEKSI 100 MILIGRAM / MILILITER",
+                "kelas terapi": "RELAKSAN OTOT PERIFER dan PENGHAMBAT KOLINESTERASE",
+                "sub kelas terapi": "REVERSAL RELAKSAN OTOT",
+                "nama obat": "sugammadeks",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk pasien yang telah mengalami desaturasi oksigen pada kesulitan penguasaan jalan napas saat anestesi umum oleh relaksan otot rokuronium."
+            }
+        ]
+    },
+    {
+        "name": "sukralfat",
+        "subdrugs": [
+            {
+                "name": "sukralfat - SUSPENSI 500 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTASIDA dan ANTIULKUS",
+                "nama obat": "sukralfat",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "sukralfat - TABLET 500 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTASIDA dan ANTIULKUS",
+                "nama obat": "sukralfat",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "suksinilkolin",
+        "subdrugs": [
+            {
+                "name": "suksinilkolin - INJEKSI 20 MILIGRAM / MILILITER",
+                "kelas terapi": "RELAKSAN OTOT PERIFER dan PENGHAMBAT KOLINESTERASE",
+                "sub kelas terapi": "RELAKSAN OTOT PERIFER",
+                "nama obat": "suksinilkolin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "suksinilkolin - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "RELAKSAN OTOT PERIFER dan PENGHAMBAT KOLINESTERASE",
+                "sub kelas terapi": "RELAKSAN OTOT PERIFER",
+                "nama obat": "suksinilkolin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "sulfadiazin",
+        "subdrugs": [
+            {
+                "name": "sulfadiazin - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "sulfadiazin",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "sulfasalazin",
+        "subdrugs": [
+            {
+                "name": "sulfasalazin - KAPLET SALUT ENTERIK 500 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "OBAT untuk ANTIINFLAMASI",
+                "nama obat": "sulfasalazin",
+                "sediaan": "KAPLET SALUT ENTERIK",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "sulfur colloid",
+        "subdrugs": [
+            {
+                "name": "sulfur colloid - N/A 4,5 MILIGRAM gelatin / reaction vial",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
+                "nama obat": "sulfur colloid",
+                "sediaan": "N/A",
+                "kekuatan": "4,5",
+                "satuan": "MILIGRAM gelatin / reaction vial",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "surfaktan",
+        "subdrugs": [
+            {
+                "name": "surfaktan - SUSPENSI 25 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "surfaktan",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk IRDS (Idiopathic Respiratory Distress Syndrome) pada neonatus."
+            }
+        ]
+    },
+    {
+        "name": "surgical ginggival pack",
+        "subdrugs": [
+            {
+                "name": "surgical ginggival pack - PASTA N/A",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "PREPARAT LAINNYA",
+                "nama obat": "surgical ginggival pack",
+                "sediaan": "PASTA",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    }
+]

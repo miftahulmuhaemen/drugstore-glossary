@@ -1,0 +1,755 @@
+[
+    {
+        "name": "vaksin BCG",
+        "subdrugs": [
+            {
+                "name": "vaksin BCG - SERBUK INJEKSI 0,75 MILIGRAM / MILILITER + pelarut",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin BCG",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "0,75",
+                "satuan": "MILIGRAM / MILILITER + pelarut",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC.",
+                "restriksi obat": "a) Disimpan dekat evaporator.\nb) Vaksin yang telah dilarutkan tetapi tidak segera digunakan maka harus disimpan pada suhu 2âˆ’8ÂºC tidak lebih dari 3 jam penyimpanan."
+            }
+        ]
+    },
+    {
+        "name": "vaksin COVID-19 platform inactivated",
+        "subdrugs": [
+            {
+                "name": "vaksin COVID-19 platform inactivated - INJEKSI N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin COVID-19 platform inactivated",
+                "sediaan": "INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC."
+            }
+        ]
+    },
+    {
+        "name": "vaksin COVID-19 platform mRNA",
+        "subdrugs": [
+            {
+                "name": "vaksin COVID-19 platform mRNA - INJEKSI N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin COVID-19 platform mRNA",
+                "sediaan": "INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC."
+            }
+        ]
+    },
+    {
+        "name": "vaksin COVID-19 platform protein sub unit rekombinan",
+        "subdrugs": [
+            {
+                "name": "vaksin COVID-19 platform protein sub unit rekombinan - INJEKSI N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin COVID-19 platform protein sub unit rekombinan",
+                "sediaan": "INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC."
+            }
+        ]
+    },
+    {
+        "name": "vaksin DPT-HB-Hib",
+        "subdrugs": [
+            {
+                "name": "vaksin DPT-HB-Hib - INJEKSI N/A"
+            }
+        ]
+    },
+    {
+        "name": "vaksin hepatitis B rekombinan",
+        "subdrugs": [
+            {
+                "name": "vaksin hepatitis B rekombinan - PREFILLED INJECTION DEVICE (UNIJECT) N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin hepatitis B rekombinan",
+                "sediaan": "PREFILLED INJECTION DEVICE (UNIJECT)",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC.",
+                "restriksi obat": "Diberikan pada bayi < 24 jam pascalahir dengan didahului suntikan vitamin K¹ 2âˆ’3 jam sebelumnya."
+            }
+        ]
+    },
+    {
+        "name": "vaksin human papilomavirus",
+        "subdrugs": [
+            {
+                "name": "vaksin human papilomavirus - INJEKSI VIAL DOSIS TUNGGAL 0,5 MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin human papilomavirus",
+                "sediaan": "INJEKSI VIAL DOSIS TUNGGAL",
+                "kekuatan": "0,5",
+                "satuan": "MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC."
+            }
+        ]
+    },
+    {
+        "name": "vaksin human rotavirus",
+        "subdrugs": [
+            {
+                "name": "vaksin human rotavirus - DROP< VIAL MULTI DOSIS N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin human rotavirus",
+                "sediaan": "DROP< VIAL MULTI DOSIS",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC."
+            }
+        ]
+    },
+    {
+        "name": "vaksin Japanese encephalitis, live attenuated",
+        "subdrugs": [
+            {
+                "name": "vaksin Japanese encephalitis, live attenuated - INJEKSI DENGAN PELARUT VIAL MULTI DOSIS 0,5 MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin Japanese encephalitis, live attenuated",
+                "sediaan": "INJEKSI DENGAN PELARUT VIAL MULTI DOSIS",
+                "kekuatan": "0,5",
+                "satuan": "MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC."
+            }
+        ]
+    },
+    {
+        "name": "vaksin jerap difteri tetanus (DT)",
+        "subdrugs": [
+            {
+                "name": "vaksin jerap difteri tetanus (DT) - INJEKSI 40/15 LIMES FLOCCULATION / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin jerap difteri tetanus (DT)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "40/15",
+                "satuan": "LIMES FLOCCULATION / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC.",
+                "restriksi obat": "Untuk anak < 7 tahun."
+            }
+        ]
+    },
+    {
+        "name": "vaksin jerap tetanus difteri (Td)",
+        "subdrugs": [
+            {
+                "name": "vaksin jerap tetanus difteri (Td) - INJEKSI 15/4 LIMES FLOCCULATION / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin jerap tetanus difteri (Td)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "15/4",
+                "satuan": "LIMES FLOCCULATION / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC.",
+                "restriksi obat": "Untuk anak dan dewasa ( â‰¥ 7 tahun)"
+            }
+        ]
+    },
+    {
+        "name": "vaksin measles rubella (MR)",
+        "subdrugs": [
+            {
+                "name": "vaksin measles rubella (MR) - INJEKSI N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin measles rubella (MR)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC.",
+                "restriksi obat": "a) Disimpan dekat evaporator.\nb) Vaksin yang telah dilarutkan disimpan pada suhu 2âˆ’8 0C selama dan harus digunakan sebelum lewat 6 jam.\nc) Digunakan pada usia 9 bulan, 18 bulan, dan kelas 1 SD."
+            }
+        ]
+    },
+    {
+        "name": "vaksin pneumokokus polisakarida konjugasi",
+        "subdrugs": [
+            {
+                "name": "vaksin pneumokokus polisakarida konjugasi - INJEKSI VIAL MULTI DOSIS 0,5 MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin pneumokokus polisakarida konjugasi",
+                "sediaan": "INJEKSI VIAL MULTI DOSIS",
+                "kekuatan": "0,5",
+                "satuan": "MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC."
+            }
+        ]
+    },
+    {
+        "name": "vaksin polio IPV",
+        "subdrugs": [
+            {
+                "name": "vaksin polio IPV - INJEKSI N/A"
+            }
+        ]
+    },
+    {
+        "name": "vaksin polio oral (b-OPV)",
+        "subdrugs": [
+            {
+                "name": "vaksin polio oral (b-OPV) - DROPS N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin polio oral (b-OPV)",
+                "sediaan": "DROPS",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC."
+            }
+        ]
+    },
+    {
+        "name": "vaksin rabies, untuk manusia",
+        "subdrugs": [
+            {
+                "name": "vaksin rabies, untuk manusia - INJEKSI 2,5 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "VAKSIN",
+                "nama obat": "vaksin rabies, untuk manusia",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2,5",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Disimpan pada suhu 2âˆ’8ÂºC.",
+                "restriksi obat": "Digunakan untuk post exposure di daerah rabies."
+            }
+        ]
+    },
+    {
+        "name": "valasiklovir",
+        "subdrugs": [
+            {
+                "name": "valasiklovir - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiherpes",
+                "nama obat": "valasiklovir",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "valgansiklovir",
+        "subdrugs": [
+            {
+                "name": "valgansiklovir - TABLET SALUT 450 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Anti Sitomegalovirus (CMV)",
+                "nama obat": "valgansiklovir",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "450",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Hanya untuk pasien HIV/AIDS dengan CD 4 <100, serta dibuktikan ada kelainan organik (retinitis CMV) atau untuk profilaksis CMV pada pasien CMV negatif yang menerima transplantasi organ dari donor yang CMV positif.\nb) Kadar transaminase serum dalam batas normal."
+            }
+        ]
+    },
+    {
+        "name": "valproat",
+        "subdrugs": [
+            {
+                "name": "valproat - SIRUP 250 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "valproat",
+                "sediaan": "SIRUP",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "5 btl/bulan.",
+                "restriksi obat": "Dapat digunakan untuk epilepsi umum (general epilepsy)."
+            },
+            {
+                "name": "valproat - TABLET PELEPASAN LAMBAT 250 MILIGRAM",
+                "kelas terapi": "ANTIMIGREN DAN ANTIVERTIGO",
+                "sub kelas terapi": "ANTIMIGREN",
+                "sub sub kelas terapi": "Profilaksis",
+                "nama obat": "valproat",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Hanya digunakan pada pasien yang memiliki kontraindikasi atau gagal profilaksis dengan beta bloker."
+            },
+            {
+                "name": "valproat - TABLET PELEPASAN LAMBAT 250 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "OBAT untuk GANGGUAN BIPOLAR",
+                "nama obat": "valproat",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "valproat - TABLET PELEPASAN LAMBAT 250 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "valproat",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi obat": "Dapat digunakan untuk epilepsi umum (general epilepsy)."
+            },
+            {
+                "name": "valproat - TABLET PELEPASAN LAMBAT 500 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "OBAT untuk GANGGUAN BIPOLAR",
+                "nama obat": "valproat",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "valproat - TABLET PELEPASAN LAMBAT 500 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "valproat",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi obat": "Dapat digunakan untuk epilepsi umum (general epilepsy)."
+            },
+            {
+                "name": "valproat - TABLET PELEPASAN LAMBAT 500 MILIGRAM",
+                "kelas terapi": "ANTIMIGREN DAN ANTIVERTIGO",
+                "sub kelas terapi": "ANTIMIGREN",
+                "sub sub kelas terapi": "Profilaksis",
+                "nama obat": "valproat",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Hanya digunakan pada pasien yang memiliki kontraindikasi atau gagal profilaksis dengan beta bloker."
+            },
+            {
+                "name": "valproat - TABLET SALUT ENTERIK 250 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "OBAT untuk GANGGUAN BIPOLAR",
+                "nama obat": "valproat",
+                "sediaan": "TABLET SALUT ENTERIK",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "valproat - TABLET SALUT ENTERIK 250 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "valproat",
+                "sediaan": "TABLET SALUT ENTERIK",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi obat": "Dapat digunakan untuk epilepsi umum (general epilepsy)."
+            }
+        ]
+    },
+    {
+        "name": "valsartan",
+        "subdrugs": [
+            {
+                "name": "valsartan - TABLET 160 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "valsartan",
+                "sediaan": "TABLET",
+                "kekuatan": "160",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik.",
+                "restriksi obat": "Untuk pasien yang telah mendapat ACE inhibitor sebelumnya sekurang-kurangnya 1 bulan dan mengalami intoleransi terhadap ACE inhibitor yang dibuktikan dengan melampirkan resep sebelumnya."
+            },
+            {
+                "name": "valsartan - TABLET 80 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "vankomisin",
+        "subdrugs": [
+            {
+                "name": "vankomisin - INJEKSI 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "vankomisin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 10 hari/kasus.",
+                "restriksi obat": "Diberikan atas persetujuan KFT/KPRA/pimpinan RS untuk antibiotik lini ketiga (reserved antibiotic) pada infeksi oleh kuman MRSA atau MRSE positif (dibuktikan dengan hasil kultur)."
+            }
+        ]
+    },
+    {
+        "name": "vasopresin",
+        "subdrugs": [
+            {
+                "name": "vasopresin - INJEKSI 20 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON ANTIDIURETIK",
+                "nama obat": "vasopresin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "20",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "verapamil",
+        "subdrugs": [
+            {
+                "name": "verapamil - INJEKSI 2,5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIARITMIA",
+                "nama obat": "verapamil",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk aritmia supraventrikular."
+            },
+            {
+                "name": "verapamil - TABLET 80 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIARITMIA",
+                "nama obat": "verapamil",
+                "sediaan": "TABLET",
+                "kekuatan": "80",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi obat": "Untuk aritmia supraventrikular."
+            },
+            {
+                "name": "verapamil - TABLET 80 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "verapamil",
+                "sediaan": "TABLET",
+                "kekuatan": "80",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "verapamil - TABLET PELEPASAN LAMBAT 240 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "verapamil",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "240",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/ bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            }
+        ]
+    },
+    {
+        "name": "vildagliptin",
+        "subdrugs": [
+            {
+                "name": "vildagliptin - TABLET 50 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Oral",
+                "nama obat": "vildagliptin",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Tidak digunakan sebagai lini pertama/terapi inisial.\nb) Sebagai terapi tambahan pada metformin dan/atau sulfonilurea dengan dosis optimal yang masih dapat ditoleransi oleh pasien.\nc) Tidak digunakan sebagai obat tunggal."
+            }
+        ]
+    },
+    {
+        "name": "vinblastin",
+        "subdrugs": [
+            {
+                "name": "vinblastin - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkaloid Dan Produk Natural Lain",
+                "nama obat": "vinblastin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "6 mg/m² setiap 2 minggu.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "vinkristin",
+        "subdrugs": [
+            {
+                "name": "vinkristin - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkaloid Dan Produk Natural Lain",
+                "nama obat": "vinkristin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "1,5 mg/m² maks weekly dose 2 mg. Kecuali untuk ALL maks 3 tahun.",
+                "restriksi obat": "Catatan: Hanya diberikan secara \nintravena."
+            }
+        ]
+    },
+    {
+        "name": "vinorelbin",
+        "subdrugs": [
+            {
+                "name": "vinorelbin - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkaloid Dan Produk Natural Lain",
+                "nama obat": "vinorelbin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "25 mg/m² hari 1 dan 8 diulang setiap 3 minggu.",
+                "restriksi obat": "a) Untuk Non Small Cell Lung \nCancer (NSCLC). \natau\nb) Untuk kanker payudara \nmetastatik."
+            }
+        ]
+    },
+    {
+        "name": "vitamin B kompleks mengandung vitamin B1, vitamin B6, vitamin B12",
+        "subdrugs": [
+            {
+                "name": "vitamin B kompleks mengandung vitamin B1, vitamin B6, vitamin B12 - TABLET N/A",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "vitamin B kompleks mengandung vitamin B¹, vitamin B⁶, vitamin B¹²",
+                "sediaan": "TABLET",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Untuk pengobatan defisiensi vitamin B¹, B⁶, dan B¹²"
+            }
+        ]
+    },
+    {
+        "name": "vorikonazol",
+        "subdrugs": [
+            {
+                "name": "vorikonazol - INJEKSI 200 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "vorikonazol",
+                "sediaan": "INJEKSI",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Selama 14 hari, kemudian dilanjutkan dengan pemberian oral.",
+                "restriksi obat": "a) Untuk invasif aspergilosis.\nb) Diagnosis harus dibuktikan dengan pemeriksaan kultur jaringan atau kultur aspirat paru atau serologi atau uji galaktomanan."
+            },
+            {
+                "name": "vorikonazol - TABLET SALUT SELAPUT 200 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "vorikonazol",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Selama 4 minggu.",
+                "restriksi obat": "a) Untuk invasif aspergilosis.\nb) Diagnosis harus dibuktikan dengan pemeriksaan kultur jaringan atau kultur aspirat paru atau serologi atau uji galaktomanan."
+            }
+        ]
+    }
+]

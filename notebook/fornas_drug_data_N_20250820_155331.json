@@ -1,0 +1,794 @@
+[
+    {
+        "name": "nadroparin",
+        "subdrugs": [
+            {
+                "name": "nadroparin - INJEKSI 9500 Antifactor Xa / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "nadroparin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "9.500",
+                "satuan": "Antifactor Xa / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Bahan dasar terbuat dari babi.\nb) Untuk tromboemboli dan/atau sindrom koroner akut."
+            }
+        ]
+    },
+    {
+        "name": "nalokson",
+        "subdrugs": [
+            {
+                "name": "nalokson - INJEKSI 0,4 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIDOT dan OBAT LAIN untuk KERACUNAN",
+                "sub kelas terapi": "KHUSUS",
+                "nama obat": "nalokson",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,4",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk mengatasi depresi pernapasan akibat morfin atau opioid."
+            }
+        ]
+    },
+    {
+        "name": "n-asetil sistein",
+        "subdrugs": [
+            {
+                "name": "n-asetil sistein - GRANULA 200 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "EKSPEKTORAN",
+                "nama obat": "n-asetil sistein",
+                "sediaan": "GRANULA",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 x sehari (600 mg/hari).",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "n-asetil sistein - INHALASI 100 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "EKSPEKTORAN",
+                "nama obat": "n-asetil sistein",
+                "sediaan": "INHALASI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 amp/hari paling lama 10 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "n-asetil sistein - KAPSUL 200 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "EKSPEKTORAN",
+                "nama obat": "n-asetil sistein",
+                "sediaan": "KAPSUL",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 10 kaps/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "n-asetil sistein - INFUS 200 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIDOT dan OBAT LAIN untuk KERACUNAN",
+                "sub kelas terapi": "KHUSUS",
+                "nama obat": "n-asetil sistein",
+                "sediaan": "INFUS",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks. 3 hari.",
+                "restriksi obat": "Untuk keracunan parasetamol yang disengaja atau tiba-tiba."
+            },
+            {
+                "name": "n-asetil sistein - SIRUP 100 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "EKSPEKTORAN",
+                "nama obat": "n-asetil sistein",
+                "sediaan": "SIRUP",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 btl/kasus, paling lama 10 hari.",
+                "restriksi sediaan": "Hanya untuk pasien anak < 12 tahun."
+            }
+        ]
+    },
+    {
+        "name": "natamisin",
+        "subdrugs": [
+            {
+                "name": "natamisin - TETES MATA 5 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "natamisin",
+                "sediaan": "TETES MATA",
+                "kekuatan": "5",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "a) Lini pertama terapi keratomikosis yang pada pemeriksaan KOH ditemukan filamen.\nb) Disertai hasil KOH dari scraping kornea."
+            },
+            {
+                "name": "natamisin - TETES MATA 50 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "natamisin",
+                "sediaan": "TETES MATA",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Hanya untuk kasus keratomikosis."
+            }
+        ]
+    },
+    {
+        "name": "natrium bikarbonat",
+        "subdrugs": [
+            {
+                "name": "natrium bikarbonat - INJEKSI 8,4 PERSEN",
+                "kelas terapi": "ANTIDOT dan OBAT LAIN untuk KERACUNAN",
+                "sub kelas terapi": "KHUSUS",
+                "nama obat": "natrium bikarbonat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "8,4",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "High alert medicine.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "natrium bikarbonat - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIDOT dan OBAT LAIN untuk KERACUNAN",
+                "sub kelas terapi": "KHUSUS",
+                "nama obat": "natrium bikarbonat",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "natrium bikarbonat - TABLET 500 MILIGRAM",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "ORAL",
+                "nama obat": "natrium bikarbonat",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "natrium diklofenak",
+        "subdrugs": [
+            {
+                "name": "natrium diklofenak - INJEKSI 25 MILIGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "natrium diklofenak",
+                "sediaan": "INJEKSI",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 2 hari.",
+                "restriksi sediaan": "Hanya untuk nyeri akut pascaoperasi."
+            },
+            {
+                "name": "natrium diklofenak - TABLET SALUT ENTERIK 25 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "natrium diklofenak",
+                "sediaan": "TABLET SALUT ENTERIK",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "natrium diklofenak - TABLET SALUT ENTERIK 50 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "natrium diklofenak",
+                "sediaan": "TABLET SALUT ENTERIK",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "natrium diklofenak - TETES MATA 1 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIINFLAMASI",
+                "nama obat": "natrium diklofenak",
+                "sediaan": "TETES MATA",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "natrium fluoresein",
+        "subdrugs": [
+            {
+                "name": "natrium fluoresein - INJEKSI 100 MILIGRAM / MILILITER",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "TES FUNGSI",
+                "sub sub kelas terapi": "Mata",
+                "nama obat": "natrium fluoresein",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Digunakan di fasilitas kesehatan dengan ketentuan:\na) Memiliki dokter yang kompeten untuk mengantisipasi reaksi anafilaksis.\nb) Memiliki alat untuk melakukan Fundus Fluorescein Angiography (FFA) dan/atau Indocyanine Green (ICG) fotografi/videografi."
+            },
+            {
+                "name": "natrium fluoresein - TETES MATA 2 PERSEN",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "TES FUNGSI",
+                "sub sub kelas terapi": "Mata",
+                "nama obat": "natrium fluoresein",
+                "sediaan": "TETES MATA",
+                "kekuatan": "2",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "natrium fosfat",
+        "subdrugs": [
+            {
+                "name": "natrium fosfat - LARUTAN ORAL N/A",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "KATARTIK",
+                "nama obat": "natrium fosfat",
+                "sediaan": "LARUTAN ORAL",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Hanya digunakan pada tindakan\ncolonoscopy"
+            }
+        ]
+    },
+    {
+        "name": "natrium fusidat",
+        "subdrugs": [
+            {
+                "name": "natrium fusidat - KRIM 2 PERSEN"
+            },
+            {
+                "name": "natrium fusidat - SALEP 2 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "nama obat": "natrium fusidat",
+                "sediaan": "SALEP",
+                "kekuatan": "2",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "natrium hialuronat",
+        "subdrugs": [
+            {
+                "name": "natrium hialuronat - TETES MATA N/A",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "natrium hialuronat",
+                "sediaan": "TETES MATA",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "natrium hipoklorit",
+        "subdrugs": [
+            {
+                "name": "natrium hipoklorit - LARUTAN 5 PERSEN",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "ANTISEPTIK dan BAHAN untuk PERAWATAN SALURAN AKAR GIGI",
+                "nama obat": "natrium hipoklorit",
+                "sediaan": "LARUTAN",
+                "kekuatan": "5",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "natrium klorida",
+        "subdrugs": [
+            {
+                "name": "natrium klorida - TETES MATA 50 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "natrium klorida",
+                "sediaan": "TETES MATA",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk mengatasi edema kornea pada pasien post operasi katarak."
+            }
+        ]
+    },
+    {
+        "name": "natrium tiosulfat",
+        "subdrugs": [
+            {
+                "name": "natrium tiosulfat - INJEKSI 25 PERSEN",
+                "kelas terapi": "ANTIDOT dan OBAT LAIN untuk KERACUNAN",
+                "sub kelas terapi": "KHUSUS",
+                "nama obat": "natrium tiosulfat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "25",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "neostigmin",
+        "subdrugs": [
+            {
+                "name": "neostigmin - INJEKSI 0,5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIDOT dan OBAT LAIN untuk KERACUNAN",
+                "sub kelas terapi": "KHUSUS",
+                "nama obat": "neostigmin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "neostigmin - INJEKSI 0,5 MILIGRAM / MILILITER",
+                "kelas terapi": "RELAKSAN OTOT PERIFER dan PENGHAMBAT KOLINESTERASE",
+                "sub kelas terapi": "REVERSAL RELAKSAN OTOT",
+                "nama obat": "neostigmin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "neostigmin - INJEKSI 0,5 MILIGRAM / MILILITER",
+                "kelas terapi": "RELAKSAN OTOT PERIFER dan PENGHAMBAT KOLINESTERASE",
+                "sub kelas terapi": "OBAT untuk MIASTENIA GRAVIS",
+                "nama obat": "neostigmin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "neuro polyvalent snake antivenin",
+        "subdrugs": [
+            {
+                "name": "neuro polyvalent snake antivenin - SERBUK INJEKSI N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "neuro polyvalent snake antivenin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes."
+            }
+        ]
+    },
+    {
+        "name": "nevirapin",
+        "subdrugs": [
+            {
+                "name": "nevirapin - SIRUP 10 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Non Nucleoside Reverse Transcriptase Inhibitor (NNRTI)",
+                "nama obat": "nevirapin",
+                "sediaan": "SIRUP",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat.",
+                "restriksi sediaan": "a) Dapat digunakan untuk profilaksis pada bayi baru lahir yang diberikan ASI dari ibu ODHIV yang menjalani terapi ARV kombinasi, selama 6 minggu.\nb) Diberikan bersama dengan Zidovudin."
+            },
+            {
+                "name": "nevirapin - TABLET 200 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Non Nucleoside Reverse Transcriptase Inhibitor (NNRTI)",
+                "nama obat": "nevirapin",
+                "sediaan": "TABLET",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            }
+        ]
+    },
+    {
+        "name": "nifedipin",
+        "subdrugs": [
+            {
+                "name": "nifedipin - TABLET 10 MILIGRAM"
+            },
+            {
+                "name": "nifedipin - TABLET PELEPASAN LAMBAT 20 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "nifedipin",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "nifedipin - TABLET PELEPASAN LAMBAT 30 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "nifedipin",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            }
+        ]
+    },
+    {
+        "name": "nikardipin",
+        "subdrugs": [
+            {
+                "name": "nikardipin - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "nikardipin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            }
+        ]
+    },
+    {
+        "name": "nilotinib",
+        "subdrugs": [
+            {
+                "name": "nilotinib - KAPSUL 150 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "nilotinib",
+                "sediaan": "KAPSUL",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 kaps/bulan/kasus.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi medik.",
+                "restriksi sediaan": "Untuk kasus LGK (Leukemia Granulositik Kronik)/CML dengan hasil philadelphia chromosome positif atau BCR-ABL positif."
+            },
+            {
+                "name": "nilotinib - KAPSUL 200 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "nilotinib",
+                "sediaan": "KAPSUL",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 kaps/bulan/kasus.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi medik.",
+                "restriksi sediaan": "Untuk kasus LGK (Leukemia Granulositik Kronik)/CML dengan hasil philadelphia chromosome positif atau BCR-ABL positif yang resistan atau intoleran terhadap imatinib."
+            }
+        ]
+    },
+    {
+        "name": "nimodipin",
+        "subdrugs": [
+            {
+                "name": "nimodipin - INFUS 0,2 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "nimodipin",
+                "sediaan": "INFUS",
+                "kekuatan": "0,2",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 3 hari.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "nimodipin - TABLET SALUT SELAPUT 30 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "nimodipin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "12 tab/hari, maks 21 hari.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik.",
+                "restriksi obat": "a) Untuk pencegahan kasus vasospasme pada pengobatan perdarahan subarachnoid.\nb) Hanya diberikan di ruang perawatan."
+            }
+        ]
+    },
+    {
+        "name": "nistatin",
+        "subdrugs": [
+            {
+                "name": "nistatin - SUSPENSI 100 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "nistatin",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 btl/kasus untuk 1 minggu.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "nistatin - SUSPENSI 100000 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "ANTIFUNGI OROFARINGEAL",
+                "nama obat": "nistatin",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "100.000",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "nistatin - TABLET 500 INTERNASIONAL UNIT",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "nistatin",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "nistatin - TABLET VAGINAL 100000 INTERNASIONAL UNIT",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTIFUNGI",
+                "nama obat": "nistatin",
+                "sediaan": "TABLET VAGINAL",
+                "kekuatan": "100.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "nitrogen oksida",
+        "subdrugs": [
+            {
+                "name": "nitrogen oksida - INHALASI, GAS DALAM TABUNG N/A",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "ANESTETIK UMUM dan OKSIGEN",
+                "nama obat": "nitrogen oksida",
+                "sediaan": "INHALASI, GAS DALAM TABUNG",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "nomegestrol asetat",
+        "subdrugs": [
+            {
+                "name": "nomegestrol asetat - TABLET/KAPSUL 5 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Progestogen",
+                "nama obat": "nomegestrol asetat",
+                "sediaan": "TABLET/KAPSUL",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "norepinefrin",
+        "subdrugs": [
+            {
+                "name": "norepinefrin - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk SYOK KARDIOGENIK dan SEPSIS",
+                "nama obat": "norepinefrin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "noretisteron",
+        "subdrugs": [
+            {
+                "name": "noretisteron - TABLET 5 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Progestogen",
+                "nama obat": "noretisteron",
+                "sediaan": "TABLET",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Hanya untuk amenorea sekunder, perdarahan uterus abnormal atau endometriosis."
+            }
+        ]
+    }
+]

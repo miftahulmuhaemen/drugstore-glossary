@@ -1,0 +1,504 @@
+[
+    {
+        "name": "ramipril",
+        "subdrugs": [
+            {
+                "name": "ramipril - TABLET 10 MILIGRAM"
+            },
+            {
+                "name": "ramipril - TABLET 2,5 MILIGRAM"
+            },
+            {
+                "name": "ramipril - TABLET 5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "ranibizumab",
+        "subdrugs": [
+            {
+                "name": "ranibizumab - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "ranibizumab",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "- AMD: 6 vial/kasus.\n- DME: 7 vial/tahun.\n- Edema makula akibat RVO: 1 vial/2 bulan.",
+                "restriksi obat": "a) Untuk wet AMD (Age-related Macular Degeneration), DME (Diabetic Macular Edema), atau edema makula akibat Retinal Vein Occlusion (RVO).\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit mata dan menggunakan Optical Coherence Tomography (OCT).\nc) Untuk DME harus disertai penanganan diabetes yang komprehensif."
+            }
+        ]
+    },
+    {
+        "name": "ranitidin",
+        "subdrugs": [
+            {
+                "name": "ranitidin - INJEKSI 25 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTASIDA dan ANTIULKUS",
+                "nama obat": "ranitidin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 amp/hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "ranitidin - TABLET 150 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "remdesivir",
+        "subdrugs": [
+            {
+                "name": "remdesivir - INJEKSI 100 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Anti Covid-19",
+                "nama obat": "remdesivir",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi obat": "a) Untuk pasien dewasa atau anak usia â‰¥ 12 tahun dengan BB minimal 40 kg pada pasien Covid-19 sedang yang berisiko menjadi berat yang memerlukan rawat inap.\nb) Pengobatan dimulai dalam 5 hari pertama sejak muncul gejala.\nc) Pemeriksaan Covid-19 terkonfirmasi dengan pemeriksaan antigen atau PCR."
+            }
+        ]
+    },
+    {
+        "name": "remifentanil",
+        "subdrugs": [
+            {
+                "name": "remifentanil - INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "remifentanil",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk tindakan anestesi yang diberikan oleh dokter yang memiliki kompetensi di bidang ilmu anestesiologi dan terapi intensif, atau untuk pasien pasca operasi di ruang perawatan intensif."
+            },
+            {
+                "name": "remifentanil - INJEKSI 2 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "remifentanil",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk tindakan anestesi yang diberikan oleh dokter yang memiliki kompetensi di bidang ilmu anestesiologi dan terapi intensif, atau untuk pasien pasca operasi di ruang perawatan intensif."
+            },
+            {
+                "name": "remifentanil - INJEKSI 5 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "remifentanil",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk tindakan anestesi yang diberikan oleh dokter yang memiliki kompetensi di bidang ilmu anestesiologi dan terapi intensif, atau untuk pasien pasca operasi di ruang perawatan intensif."
+            }
+        ]
+    },
+    {
+        "name": "retinol (vitamin A)",
+        "subdrugs": [
+            {
+                "name": "retinol (vitamin A) - GEL MATA 10 MILIGRAM",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "retinol (vitamin A)",
+                "sediaan": "GEL MATA",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 tube/bulan.",
+                "restriksi obat": "a) Digunakan pada pasien dengan kondisi mata kering akibat keratoconjunctivitis sicca.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit mata."
+            },
+            {
+                "name": "retinol (vitamin A) - KAPSUL LUNAK 100000 INTERNASIONAL UNIT",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "retinol (vitamin A)",
+                "sediaan": "KAPSUL LUNAK",
+                "kekuatan": "100.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "retinol (vitamin A) - KAPSUL LUNAK 200000 INTERNASIONAL UNIT",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "retinol (vitamin A)",
+                "sediaan": "KAPSUL LUNAK",
+                "kekuatan": "200.000",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "rifampisin",
+        "subdrugs": [
+            {
+                "name": "rifampisin - KAPSUL 300 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antilepra",
+                "nama obat": "rifampisin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "rifampisin - KAPSUL 450 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antilepra",
+                "nama obat": "rifampisin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "450",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "rifampisin - KAPSUL 600 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antilepra",
+                "nama obat": "rifampisin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "600",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "rifapentin",
+        "subdrugs": [
+            {
+                "name": "rifapentin - TABLET 150 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "rifapentin",
+                "sediaan": "TABLET",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB.",
+                "restriksi obat": "Digunakan untuk pengobatan pencegahan TB."
+            }
+        ]
+    },
+    {
+        "name": "risedronat",
+        "subdrugs": [
+            {
+                "name": "risedronat - TABLET SALUT SELAPUT 35 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI STRUKTUR dan MINERALISASI TULANG",
+                "nama obat": "risedronat",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "35",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "4 tab/bulan.",
+                "restriksi obat": "a) Pasien dengan osteoporosis, hasil pemeriksaan BMD DXA, T score < -2,5 (bukan BMD ultrasound); atau\nb) Riwayat fraktur osteoporosis."
+            }
+        ]
+    },
+    {
+        "name": "risperidon",
+        "subdrugs": [
+            {
+                "name": "risperidon - ORAL SOLUTION 1 MILIGRAM / MILILITER",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "risperidon",
+                "sediaan": "ORAL SOLUTION",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "5 btl/bulan.",
+                "restriksi obat": "a) Untuk skizofrenia.\natau\nb) Adjunctive treatment pada pasien bipolar yang tidak memberikan respons dengan pemberian litium atau valproat."
+            },
+            {
+                "name": "risperidon - TABLET 1 MILIGRAM"
+            },
+            {
+                "name": "risperidon - TABLET 2 MILIGRAM"
+            },
+            {
+                "name": "risperidon - TABLET 3 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "rituksimab",
+        "subdrugs": [
+            {
+                "name": "rituksimab - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibodi Monoklonal Dan Antibody Drug Conjugates",
+                "nama obat": "rituksimab",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "375 mg/m² setiap 3 minggu, maks 6 siklus.",
+                "restriksi obat": "a) Untuk Diffuse Large B-Cell Lymphoma (DLBCL) dengan hasil pemeriksaaan CD²⁰ positif.\natau\nb) Untuk terapi Chronic lymphocytic eukemia (CLL) dengan hasil pemeriksaan CD²⁰ positif."
+            }
+        ]
+    },
+    {
+        "name": "rivaroksaban",
+        "subdrugs": [
+            {
+                "name": "rivaroksaban - TABLET SALUT 10 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "rivaroksaban",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "restriksi a):\n- Untuk knee replacement 12 tab/kasus.\n- Untuk hip replacement 35 tab/kasus.\n\nrestriksi b):\n30 tab/bulan.",
+                "restriksi sediaan": "a) Untuk pencegahan VTE (Venous Thrombo Embolism) pada pasien dewasa yang menjalani hip or knee replacement surgery.\nAtau\nb) Untuk Stroke Prevention in Atrial Fibrillation (SPAF)."
+            },
+            {
+                "name": "rivaroksaban - TABLET SALUT 15 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "rivaroksaban",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "15",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "restriksi a): 42 tab/kasus.\n\nrestriksi b): 30 tab/bulan.",
+                "restriksi sediaan": "a) Untuk terapi DVT (Deep Vein Thrombosis).\nAtau\nb) Untuk Stroke Prevention in Atrial Fibrillation (SPAF)."
+            },
+            {
+                "name": "rivaroksaban - TABLET SALUT 20 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "rivaroksaban",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "restriksi a): 30 tab/bulan, maks 3 bulan.\n\nrestriksi b): 30 tab/bulan.",
+                "restriksi sediaan": "a) Untuk terapi DVT (Deep Vein Thrombosis).\nAtau\nb) Untuk Stroke Prevention in Atrial Fibrillation (SPAF)."
+            }
+        ]
+    },
+    {
+        "name": "rokuronium",
+        "subdrugs": [
+            {
+                "name": "rokuronium - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "RELAKSAN OTOT PERIFER dan PENGHAMBAT KOLINESTERASE",
+                "sub kelas terapi": "RELAKSAN OTOT PERIFER",
+                "nama obat": "rokuronium",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "ropinirol",
+        "subdrugs": [
+            {
+                "name": "ropinirol - TABLET PELEPASAN LAMBAT 2 MILIGRAM",
+                "kelas terapi": "ANTIPARKINSON",
+                "nama obat": "ropinirol",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu neurologi.",
+                "restriksi sediaan": "Dosis 2 mg dapat juga digunakan untuk Restless Leg Syndrome (RLS)."
+            },
+            {
+                "name": "ropinirol - TABLET PELEPASAN LAMBAT 4 MILIGRAM",
+                "kelas terapi": "ANTIPARKINSON",
+                "nama obat": "ropinirol",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "4",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu neurologi."
+            },
+            {
+                "name": "ropinirol - TABLET PELEPASAN LAMBAT 8 MILIGRAM",
+                "kelas terapi": "ANTIPARKINSON",
+                "nama obat": "ropinirol",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "8",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu neurologi."
+            }
+        ]
+    },
+    {
+        "name": "ropivakain",
+        "subdrugs": [
+            {
+                "name": "ropivakain - INJEKSI 7,5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "ANESTETIK LOKAL",
+                "nama obat": "ropivakain",
+                "sediaan": "INJEKSI",
+                "kekuatan": "7,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "rosuvastatin",
+        "subdrugs": [
+            {
+                "name": "rosuvastatin - TABLET 10 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERLIPIDEMIA",
+                "nama obat": "rosuvastatin",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "a) Jika setelah pemberian simvastatin selama 3 bulan berturut-turut dengan dosis 40 mg/hari pasien tidak mencapai target penurunan LDL < 100 mg/dL, disamping diet ketat lemak.\natau\nb) Pasien ASCVD (pasca PCI/CABG, stroke iskemi dan/atau PAD, pascainfark) yang dibuktikan dengan EKG atau MSCT atau riwayat angiografi. Target LDL adalah â‰¤ 55 mg/dL, yang harus diperiksa setiap 6 bulan. Pemberian dapat dilanjutkan untuk mempertahankan pengendalian LDL, kecuali apabila ada kontraindikasi."
+            }
+        ]
+    },
+    {
+        "name": "ruksolitinib",
+        "subdrugs": [
+            {
+                "name": "ruksolitinib - TABLET 15 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "ruksolitinib",
+                "sediaan": "TABLET",
+                "kekuatan": "15",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/ bulan.",
+                "restriksi obat": "a) Hanya digunakan untuk pasien myelofibrosis, termasuk myelofibrosis primer, myelofibrosis pasca-polisitemia vera atau myelofibrosis pasca-esensial trombositemia.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi medik, atau onkologi lain, atau \npenyakit dalam, berdasarkan hasil pemeriksaan histopatologi biopsi sum-sum tulang yang dibaca oleh dokter Patologi Anatomi."
+            },
+            {
+                "name": "ruksolitinib - TABLET 20 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "ruksolitinib",
+                "sediaan": "TABLET",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/ bulan.",
+                "restriksi obat": "a) Hanya digunakan untuk pasien myelofibrosis, termasuk myelofibrosis primer, myelofibrosis pasca-polisitemia vera atau myelofibrosis pasca-esensial trombositemia.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi medik, atau onkologi lain, atau \npenyakit dalam, berdasarkan hasil pemeriksaan histopatologi biopsi sum-sum tulang yang dibaca oleh dokter Patologi Anatomi."
+            },
+            {
+                "name": "ruksolitinib - TABLET 5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "russells viper antivenin",
+        "subdrugs": [
+            {
+                "name": "russells viper antivenin - SERBUK INJEKSI N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "russells viper antivenin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes."
+            }
+        ]
+    }
+]

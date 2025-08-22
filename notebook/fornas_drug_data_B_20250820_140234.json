@@ -1,0 +1,677 @@
+[
+    {
+        "name": "bahan tumpatan sementara",
+        "subdrugs": [
+            {
+                "name": "bahan tumpatan sementara - SERBUK N/A",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "BAHAN TUMPAT",
+                "nama obat": "bahan tumpatan sementara",
+                "sediaan": "SERBUK",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "barium sulfat",
+        "subdrugs": [
+            {
+                "name": "barium sulfat - SERBUK 92 GRAM / 100 GRAM",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "BAHAN KONTRAS RADIOLOGI",
+                "sub sub kelas terapi": "Gastrointestinal",
+                "nama obat": "barium sulfat",
+                "sediaan": "SERBUK",
+                "kekuatan": "92",
+                "satuan": "GRAM / 100 GRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "barium sulfat - SUSPENSI 95 PERSEN",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "BAHAN KONTRAS RADIOLOGI",
+                "sub sub kelas terapi": "Gastrointestinal",
+                "nama obat": "barium sulfat",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "95",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "basiliksimab",
+        "subdrugs": [
+            {
+                "name": "basiliksimab - INJEKSI 20 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "basiliksimab",
+                "sediaan": "INJEKSI",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Diberikan 20 mg pada 2 jam sebelum dilakukan transplantasi, dan 20 mg diberikan 4 hari setelah transplantasi.\nb) Diberikan bersama dengan siklosporin dan kortikosteroid."
+            }
+        ]
+    },
+    {
+        "name": "bedak salisil",
+        "subdrugs": [
+            {
+                "name": "bedak salisil - SERBUK 2 PERSEN"
+            }
+        ]
+    },
+    {
+        "name": "bedakuilin fumarat",
+        "subdrugs": [
+            {
+                "name": "bedakuilin fumarat - TABLET 100 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "bedakuilin fumarat",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Minggu 1âˆ’2: 400 mg/hari.\n- Minggu 3âˆ’24: 200 mg, setiap 48 jam.",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB.",
+                "restriksi obat": "a) Hanya dapat diberikan di FPKTL sesuai dengan SK Penetapan Rumah Sakit dan Balai Kesehatan Pelaksana Layanan Tuberkulosis Resistan Obat. (Kepmenkes No. HK.01.07/MENKES/350/2017).\nb) Diperlukan pemeriksaan EKG sebelum memulai pengobatan (obat ini menyebabkan QTc prolongation).\nc) Jika diberikan bersama obat lain yang juga menginduksi QT prolongation, maka pemeriksaan EKG harus dilakukan setiap minggu."
+            }
+        ]
+    },
+    {
+        "name": "bendamustin",
+        "subdrugs": [
+            {
+                "name": "bendamustin - SERBUK INJEKSI 100 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkilator",
+                "nama obat": "bendamustin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Untuk CLL: 100 mg/m² pada hari 1 dan 2 pada siklus 28 hari. Pemberian maks 6 siklus.\n- Untuk MM: 120-150 mg/m² pada hari 1 dan 2, dikombinasikan dengan 60 mg/m² prednison secara intravena atau peroral pada hari 1 sampai 4, pada siklus 28 hari.",
+                "restriksi obat": "a) Untuk Chronic Lymphocytic Leukemia (CLL) (stadium B atau C).\natau\nb) Untuk Multiple Myeloma (MM) (stadium II atau III) setelah gagal dengan pengobatan lini pertama sebelumnya."
+            },
+            {
+                "name": "bendamustin - SERBUK INJEKSI 25 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkilator",
+                "nama obat": "bendamustin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Untuk CLL: 100 mg/m² pada hari 1 dan 2 pada siklus 28 hari. Pemberian maks 6 siklus.\n- Untuk MM: 120-150 mg/m² pada hari 1 dan 2, dikombinasikan dengan 60 mg/m² prednison secara intravena atau peroral pada hari 1 sampai 4, pada siklus 28 hari.",
+                "restriksi obat": "a) Untuk Chronic Lymphocytic Leukemia (CLL) (stadium B atau C).\natau\nb) Untuk Multiple Myeloma (MM) (stadium II atau III) setelah gagal dengan pengobatan lini pertama sebelumnya."
+            }
+        ]
+    },
+    {
+        "name": "benzatin benzilpenisilin",
+        "subdrugs": [
+            {
+                "name": "benzatin benzilpenisilin - INJEKSI 1200000 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "benzatin benzilpenisilin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1.200.000",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 vial/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "benzatin benzilpenisilin - INJEKSI 2400000 INTERNASIONAL UNIT / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "benzatin benzilpenisilin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2.400.000",
+                "satuan": "INTERNASIONAL UNIT / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "beraprost sodium",
+        "subdrugs": [
+            {
+                "name": "beraprost sodium - TABLET 20 MICROGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Pulmonal",
+                "nama obat": "beraprost sodium",
+                "sediaan": "TABLET",
+                "kekuatan": "20",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "betahistin",
+        "subdrugs": [
+            {
+                "name": "betahistin - TABLET 24 MILIGRAM",
+                "kelas terapi": "ANTIMIGREN DAN ANTIVERTIGO",
+                "sub kelas terapi": "ANTIVERTIGO",
+                "nama obat": "betahistin",
+                "sediaan": "TABLET",
+                "kekuatan": "24",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi sediaan": "Hanya untuk sindrom meniere."
+            },
+            {
+                "name": "betahistin - TABLET 6 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "betaksolol",
+        "subdrugs": [
+            {
+                "name": "betaksolol - TETES MATA 0,5 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIOTIK dan ANTIGLAUKOMA",
+                "nama obat": "betaksolol",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,5",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "betametason",
+        "subdrugs": [
+            {
+                "name": "betametason - KRIM 0,05 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTIINFLAMASI dan ANTIPRURITIK",
+                "nama obat": "betametason",
+                "sediaan": "KRIM",
+                "kekuatan": "0,05",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "betametason - KRIM 0,1 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTISKABIES dan ANTIPEDIKULOSIS",
+                "nama obat": "betametason",
+                "sediaan": "KRIM",
+                "kekuatan": "0,1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "betametason - TETES MATA 1 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIINFLAMASI",
+                "nama obat": "betametason",
+                "sediaan": "TETES MATA",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "bikalutamid",
+        "subdrugs": [
+            {
+                "name": "bikalutamid - TABLET SALUT 150 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "TERAPI ENDOKRIN",
+                "sub sub kelas terapi": "Antagonis Hormon Dan Senyawa Sejenis",
+                "nama obat": "bikalutamid",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Hanya diberikan untuk \nkanker prostat."
+            },
+            {
+                "name": "bikalutamid - TABLET SALUT 50 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "TERAPI ENDOKRIN",
+                "sub sub kelas terapi": "Antagonis Hormon Dan Senyawa Sejenis",
+                "nama obat": "bikalutamid",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sediaan": "a) Untuk kanker prostat, diberikan 5-7 hari sebelum atau bersamaan dengan pemberian goserelin asetat atau leuprorelin asetat. Diberikan sampai PSA (Prostate Spesific Antigen) membaik atau terjadi progres.\nb) Pemeriksaan PSA dilakukan setiap 3 bulan.\nc) Obat dihentikan jika terjadi progres (2 kali pemeriksaan PSA berturut-turut terjadi peningkatan > 50%)."
+            }
+        ]
+    },
+    {
+        "name": "bisakodil",
+        "subdrugs": [
+            {
+                "name": "bisakodil - SUPOSITORIA 10 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "KATARTIK",
+                "nama obat": "bisakodil",
+                "sediaan": "SUPOSITORIA",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 sup/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "bisakodil - SUPOSITORIA 5 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "KATARTIK",
+                "nama obat": "bisakodil",
+                "sediaan": "SUPOSITORIA",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 sup/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "bisakodil - TABLET SALUT 5 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "KATARTIK",
+                "nama obat": "bisakodil",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 tab/hari selama 5 hari kecuali untuk konstipasi kronis.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "bisoprolol",
+        "subdrugs": [
+            {
+                "name": "bisoprolol - TABLET 10 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "bisoprolol",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Hanya untuk gagal jantung kronis dengan penurunan fungsi ventrikular sistolik yang sudah terkompensasi."
+            },
+            {
+                "name": "bisoprolol - TABLET 10 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "bisoprolol",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "bisoprolol - TABLET 1,25 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "bisoprolol",
+                "sediaan": "TABLET",
+                "kekuatan": "1,25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Hanya untuk gagal jantung kronis dengan penurunan fungsi ventrikular sistolik yang sudah terkompensasi."
+            },
+            {
+                "name": "bisoprolol - TABLET 2,5 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "bisoprolol",
+                "sediaan": "TABLET",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Hanya untuk gagal jantung kronis dengan penurunan fungsi ventrikular sistolik yang sudah terkompensasi."
+            },
+            {
+                "name": "bisoprolol - TABLET 2,5 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "bisoprolol",
+                "sediaan": "TABLET",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "bisoprolol - TABLET 5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "bleomisin",
+        "subdrugs": [
+            {
+                "name": "bleomisin - INJEKSI 15 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibiotik Sitotoksik Dan Senyawa Sejenis",
+                "nama obat": "bleomisin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "15",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "12x pemberian.",
+                "restriksi obat": "a) Untuk squamous cell carcinoma pada daerah kepala dan leher, esofagus, serviks, ovarium, penis, testis, kulit, paru, glioma, limfoma, germ cell tumor, dibuktikan dengan hasil pemeriksaan PA. \natau\nb) Sebagai terapi lini pertama pada Hodgkin atau Non Hodgkin disease dibuktikan dengan hasil pemeriksaan PA.\nc) Pemeriksaan PA dapat dikecualikan untuk nefroblastoma, pleurodesis, dan tumor otak."
+            }
+        ]
+    },
+    {
+        "name": "bortezomib",
+        "subdrugs": [
+            {
+                "name": "bortezomib - SERBUK INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antineoplastik Lain",
+                "nama obat": "bortezomib",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Diberikan hari ke-1, 4, 8, dan 11 setiap siklus 3 minggu. Maks 8 siklus atau sampai terjadi progres.",
+                "restriksi obat": "a) Hanya untuk pasien dengan \nMultiple Myeloma. \nb) Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu hematologi onkologi medik."
+            },
+            {
+                "name": "bortezomib - SERBUK INJEKSI 3,5 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antineoplastik Lain",
+                "nama obat": "bortezomib",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "3,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Diberikan hari ke-1, 4, 8, dan 11 setiap siklus 3 minggu. Maks 8 siklus atau sampai terjadi progres.",
+                "restriksi obat": "a) Hanya untuk pasien dengan \nMultiple Myeloma. \nb) Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu hematologi onkologi medik."
+            }
+        ]
+    },
+    {
+        "name": "brentuksimab vedotin",
+        "subdrugs": [
+            {
+                "name": "brentuksimab vedotin - SERBUK INJEKSI 50 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibodi Monoklonal Dan Antibody Drug Conjugates",
+                "nama obat": "brentuksimab vedotin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "16 siklus.",
+                "restriksi obat": "Digunakan pada salah satu kondisi berikut: \na) Untuk pasien limfoma Hodgkin CD³⁰ positif yang relapse setelah atau refrakter terhadap regimen lini pertama.\nb) Untuk pasien limfoma Hodgkin CD³⁰ positif yang relapse atau refrakter pasca Autologous Stem Cell Transplant (ASCT); atau sedikitnya dua regimen terapi sebelumnya bila ASCT; atau bila kemoterapi multi-agen tidak layak diberikan.\nc) Untuk pasien systemic Anaplastic Large Cell Lymphoma (sALCL) yang relapse atau refrakter terhadap regimen lini pertama."
+            }
+        ]
+    },
+    {
+        "name": "brinzolamid",
+        "subdrugs": [
+            {
+                "name": "brinzolamid - TETES MATA 1 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIOTIK dan ANTIGLAUKOMA",
+                "nama obat": "brinzolamid",
+                "sediaan": "TETES MATA",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "bromokriptin",
+        "subdrugs": [
+            {
+                "name": "bromokriptin - TABLET 2,5 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "bromokriptin",
+                "sediaan": "TABLET",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk hiperprolaktinemia."
+            }
+        ]
+    },
+    {
+        "name": "budesonid",
+        "subdrugs": [
+            {
+                "name": "budesonid - CAIRAN INHALASI 0,25 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "budesonid",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "0,25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Hari pertama maks 10 mL perhari, selanjutnya 4âˆ’8 mL perhari selama 5 hari.",
+                "restriksi sediaan": "Hanya untuk serangan asma akut."
+            },
+            {
+                "name": "budesonid - CAIRAN INHALASI 0,5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "budesonid",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Hari pertama maks 10 mL perhari, selanjutnya 4âˆ’8 mL perhari selama 5 hari.",
+                "restriksi sediaan": "Hanya untuk serangan asma akut."
+            },
+            {
+                "name": "budesonid - CAIRAN INHALASI 0,5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "OBAT untuk PENYAKIT PARU OBSTRUKSI KRONIS",
+                "nama obat": "budesonid",
+                "sediaan": "CAIRAN INHALASI",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks selama 10 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "budesonid - SERBUK INHALASI 200 MICROGRAM / DOSIS",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "budesonid",
+                "sediaan": "SERBUK INHALASI",
+                "kekuatan": "200",
+                "satuan": "MICROGRAM / DOSIS",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "Asma persisten berat: 2 tbg/bulan.",
+                "restriksi sediaan": "Untuk rumatan asma (tidak untuk serangan asma akut)."
+            }
+        ]
+    },
+    {
+        "name": "bupivakain",
+        "subdrugs": [
+            {
+                "name": "bupivakain - INJEKSI 0,5 PERSEN"
+            }
+        ]
+    },
+    {
+        "name": "bupivakain heavy",
+        "subdrugs": [
+            {
+                "name": "bupivakain heavy - INJEKSI + GLUKOSA 8% 0,5 PERSEN",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "ANESTETIK LOKAL",
+                "nama obat": "bupivakain heavy",
+                "sediaan": "INJEKSI + GLUKOSA 8%",
+                "kekuatan": "0,5",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Khusus untuk analgesia spinal."
+            }
+        ]
+    },
+    {
+        "name": "busulfan",
+        "subdrugs": [
+            {
+                "name": "busulfan - INJEKSI 6 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkilator",
+                "nama obat": "busulfan",
+                "sediaan": "INJEKSI",
+                "kekuatan": "6",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 16 dosis/kasus.",
+                "restriksi sediaan": "Hanya dapat diberikan di faskes yang memberikan layanan cangkok sumsum tulang."
+            },
+            {
+                "name": "busulfan - TABLET 2 MILIGRAM"
+            }
+        ]
+    }
+]

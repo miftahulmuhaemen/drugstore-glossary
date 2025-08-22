@@ -1,0 +1,125 @@
+[
+    {
+        "name": "zidovudin",
+        "subdrugs": [
+            {
+                "name": "zidovudin - KAPSUL 100 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)",
+                "nama obat": "zidovudin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            },
+            {
+                "name": "zidovudin - SIRUP 50 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)",
+                "nama obat": "zidovudin",
+                "sediaan": "SIRUP",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 6 minggu.",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "Dapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            }
+        ]
+    },
+    {
+        "name": "zinc",
+        "subdrugs": [
+            {
+                "name": "zinc - DROPS 10 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "OBAT untuk DIARE",
+                "nama obat": "zinc",
+                "sediaan": "DROPS",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 btl/kasus.",
+                "restriksi obat": "Harus diberikan bersama oralit selama 10 hari.",
+                "restriksi sediaan": "Untuk anak usia < 2 tahun."
+            },
+            {
+                "name": "zinc - DROPS 10 MILIGRAM / MILILITER",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "ORAL",
+                "nama obat": "zinc",
+                "sediaan": "DROPS",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 btl/kasus.",
+                "restriksi obat": "Untuk anak usia < 2 tahun."
+            },
+            {
+                "name": "zinc - SIRUP 20 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "OBAT untuk DIARE",
+                "nama obat": "zinc",
+                "sediaan": "SIRUP",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Harus diberikan bersama oralit selama 10 hari."
+            },
+            {
+                "name": "zinc - TABLET DISPERSIBLE 20 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "OBAT untuk DIARE",
+                "nama obat": "zinc",
+                "sediaan": "TABLET DISPERSIBLE",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Harus diberikan bersama oralit selama 10 hari."
+            }
+        ]
+    },
+    {
+        "name": "zonisamid",
+        "subdrugs": [
+            {
+                "name": "zonisamid - TABLET SALUT SELAPUT 100 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "zonisamid",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi obat": "Hanya digunakan pada pasien yang sudah pernah mendapat topiramat atau levetirasetam, namun tidak mencapai remisi (bebas serangan 1 tahun berturut-turut)."
+            }
+        ]
+    }
+]

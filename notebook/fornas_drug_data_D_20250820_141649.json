@@ -1,0 +1,1307 @@
+[
+    {
+        "name": "dabigatran eteksilat",
+        "subdrugs": [
+            {
+                "name": "dabigatran eteksilat - KAPSUL 110 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "dabigatran eteksilat",
+                "sediaan": "KAPSUL",
+                "kekuatan": "110",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps, pascaoperasi.",
+                "restriksi obat": "Untuk pencegahan VTE (Venous Thrombo Embolism) pada hip dan knee replacement."
+            },
+            {
+                "name": "dabigatran eteksilat - KAPSUL 75 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "dabigatran eteksilat",
+                "sediaan": "KAPSUL",
+                "kekuatan": "75",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps, pascaoperasi.",
+                "restriksi obat": "Untuk pencegahan VTE (Venous Thrombo Embolism) pada hip dan knee replacement."
+            }
+        ]
+    },
+    {
+        "name": "dakarbazin",
+        "subdrugs": [
+            {
+                "name": "dakarbazin - INJEKSI 100 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkilator",
+                "nama obat": "dakarbazin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "12x pemberian.",
+                "restriksi obat": "Untuk melanoma maligna metastatik, sarkoma, penyakit Hodgkin."
+            },
+            {
+                "name": "dakarbazin - INJEKSI 200 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkilator",
+                "nama obat": "dakarbazin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "12x pemberian.",
+                "restriksi obat": "Untuk melanoma maligna metastatik, sarkoma, penyakit Hodgkin."
+            }
+        ]
+    },
+    {
+        "name": "daklatasvir",
+        "subdrugs": [
+            {
+                "name": "daklatasvir - TABLET SALUT SELAPUT 30 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "daklatasvir",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 12 minggu kombinasi dengan sofosbuvir untuk pasien non sirosis.\n- 24 minggu kombinasi dengan sofosbuvir untuk pasien sirosis.",
+                "restriksi obat": "Catatan: Disediakan oleh Program \nKemenkes.\na) Tidak digunakan sebagai monoterapi.\nb)Diberikan bersama dengan sofosbuvir untuk pasien hepatitis C.\nc) Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi atau penyakit dalam.\nd) Dapat diberikan tanpa melakukan pemeriksaan genotipe, sesuai dengan SK Penetapan Rumah Sakit Layanan Hepatitis C dari Kementerian Kesehatan."
+            },
+            {
+                "name": "daklatasvir - TABLET SALUT SELAPUT 60 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "daklatasvir",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "60",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 12 minggu kombinasi dengan sofosbuvir untuk pasien non sirosis.\n- 24 minggu kombinasi dengan sofosbuvir untuk pasien sirosis.",
+                "restriksi obat": "Catatan: Disediakan oleh Program \nKemenkes.\na) Tidak digunakan sebagai monoterapi.\nb)Diberikan bersama dengan sofosbuvir untuk pasien hepatitis C.\nc) Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi atau penyakit dalam.\nd) Dapat diberikan tanpa melakukan pemeriksaan genotipe, sesuai dengan SK Penetapan Rumah Sakit Layanan Hepatitis C dari Kementerian Kesehatan."
+            }
+        ]
+    },
+    {
+        "name": "daktinomisin",
+        "subdrugs": [
+            {
+                "name": "daktinomisin - INJEKSI 0,5 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibiotik Sitotoksik Dan Senyawa Sejenis",
+                "nama obat": "daktinomisin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "12x pemberian.",
+                "restriksi obat": "Dapat diberikan pada salah satu kondisi berikut:\na) Untuk tumor Wilms, rabdomiosarkoma pada anak, sarkoma Ewings, kanker testis non seminoma metastatik.\nb) Untuk Neoplasia trofoblastik gestasional.\nc) Untuk soft tissue sarcoma, kecuali leiomyosarcoma dan angiosarcoma."
+            }
+        ]
+    },
+    {
+        "name": "dapson",
+        "subdrugs": [
+            {
+                "name": "dapson - TABLET 100 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "daunorubisin",
+        "subdrugs": [
+            {
+                "name": "daunorubisin - INJEKSI 20 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibiotik Sitotoksik Dan Senyawa Sejenis",
+                "nama obat": "daunorubisin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk leukemia akut."
+            }
+        ]
+    },
+    {
+        "name": "deferasiroks",
+        "subdrugs": [
+            {
+                "name": "deferasiroks - TABLET DISPERSIBLE 250 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT untuk KELEBIHAN BESI",
+                "nama obat": "deferasiroks",
+                "sediaan": "TABLET DISPERSIBLE",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 40 mg/kgBB/ hari.",
+                "restriksi obat": "a) Untuk terapi kelasi besi.\nb) Tidak diberikan untuk anak usia < 2 tahun.\nc) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
+            },
+            {
+                "name": "deferasiroks - TABLET DISPERSIBLE 500 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT untuk KELEBIHAN BESI",
+                "nama obat": "deferasiroks",
+                "sediaan": "TABLET DISPERSIBLE",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 40 mg/kgBB/ hari.",
+                "restriksi obat": "a) Untuk terapi kelasi besi.\nb) Tidak diberikan untuk anak usia < 2 tahun.\nc) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
+            },
+            {
+                "name": "deferasiroks - TABLET SALUT SELAPUT 180 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT untuk KELEBIHAN BESI",
+                "nama obat": "deferasiroks",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "180",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 40 mg/kgBB/ hari.",
+                "restriksi obat": "a) Untuk terapi kelasi besi.\nb) Tidak diberikan untuk anak usia < 2 tahun.\nc) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
+            },
+            {
+                "name": "deferasiroks - TABLET SALUT SELAPUT 360 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT untuk KELEBIHAN BESI",
+                "nama obat": "deferasiroks",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "360",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 40 mg/kgBB/ hari.",
+                "restriksi obat": "a) Untuk terapi kelasi besi.\nb) Tidak diberikan untuk anak usia < 2 tahun.\nc) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
+            }
+        ]
+    },
+    {
+        "name": "deferipron",
+        "subdrugs": [
+            {
+                "name": "deferipron - SIRUP 100 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT untuk KELEBIHAN BESI",
+                "nama obat": "deferipron",
+                "sediaan": "SIRUP",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "50âˆ’75 mg/kgBB/hari, maks 1 btl/bulan.",
+                "restriksi sediaan": "Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa"
+            },
+            {
+                "name": "deferipron - TABLET SALUT SELAPUT 500 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT untuk KELEBIHAN BESI",
+                "nama obat": "deferipron",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "50âˆ’75 mg/kgBB/hari.",
+                "restriksi sediaan": "a) Untuk terapi kelasi besi. \nb) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
+            },
+            {
+                "name": "deferipron - TABLET SALUT ENTERIK PELEPASAN LAMBAT 1000 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT untuk KELEBIHAN BESI",
+                "nama obat": "deferipron",
+                "sediaan": "TABLET SALUT ENTERIK PELEPASAN LAMBAT",
+                "kekuatan": "1.000",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "50âˆ’75 mg/kgBB/hari.",
+                "restriksi sediaan": "a) Untuk terapi kelasi besi. \nb) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
+            }
+        ]
+    },
+    {
+        "name": "deferoksamin",
+        "subdrugs": [
+            {
+                "name": "deferoksamin - INJEKSI 500 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT untuk KELEBIHAN BESI",
+                "nama obat": "deferoksamin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Dosis anak usia\n< 3 tahun: 20âˆ’30 mg/kgBB/hari, maks 5âˆ’7 hari.\n- Dosis usia > 3 tahun: 40âˆ’60 mg/kgBB/hari, maks 5âˆ’7 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "deksametason",
+        "subdrugs": [
+            {
+                "name": "deksametason - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "deksametason",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk menyertai terapi antineoplastik."
+            },
+            {
+                "name": "deksametason - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "KORTIKOSTEROID",
+                "nama obat": "deksametason",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "deksametason - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIALERGI dan OBAT untuk ANAFILAKSIS",
+                "nama obat": "deksametason",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "20 mg/hari",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "deksametason - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "deksametason",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "pp": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "deksametason - TABLET 0,5 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "KORTIKOSTEROID",
+                "nama obat": "deksametason",
+                "sediaan": "TABLET",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "deksametason - TABLET 0,5 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "deksametason",
+                "sediaan": "TABLET",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "deksmedetomidin",
+        "subdrugs": [
+            {
+                "name": "deksmedetomidin - INJEKSI 100 MICROGRAM / MILILITER",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "ANESTETIK UMUM dan OKSIGEN",
+                "nama obat": "deksmedetomidin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MICROGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk sedasi pada pasien di ICU, kraniotomi, bedah jantung atau operasi yang memerlukan waktu pembedahan yang lama."
+            }
+        ]
+    },
+    {
+        "name": "delamanid",
+        "subdrugs": [
+            {
+                "name": "delamanid - TABLET 50 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "delamanid",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB.",
+                "restriksi obat": "a) Hanya dapat diberikan di FPKTL, sesuai dengan SK Penetapan Rumah Sakit dan Balai Kesehatan Pelaksana Layanan Tuberkulosis Resistan Obat. (Kepmenkes No. HK.01.07/MENKES/350/2017).\nb) Hanya digunakan untuk paduan pada TB Resistan Obat."
+            }
+        ]
+    },
+    {
+        "name": "desfluran",
+        "subdrugs": [
+            {
+                "name": "desfluran - INHALASI N/A"
+            }
+        ]
+    },
+    {
+        "name": "desmopresin",
+        "subdrugs": [
+            {
+                "name": "desmopresin - NASAL SPRAY 10 MICROGRAM / PUFF",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON ANTIDIURETIK",
+                "nama obat": "desmopresin",
+                "sediaan": "NASAL SPRAY",
+                "kekuatan": "10",
+                "satuan": "MICROGRAM / PUFF",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 btl spray/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "desmopresin - TABLET 0,1 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON ANTIDIURETIK",
+                "nama obat": "desmopresin",
+                "sediaan": "TABLET",
+                "kekuatan": "0,1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "desmopresin - TABLET 0,2 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON ANTIDIURETIK",
+                "nama obat": "desmopresin",
+                "sediaan": "TABLET",
+                "kekuatan": "0,2",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "desogestrel",
+        "subdrugs": [
+            {
+                "name": "desogestrel - TABLET 75 MICROGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Kontrasepsi",
+                "sub sub sub kelas terapi": "Kontrasepsi, Oral",
+                "nama obat": "desogestrel",
+                "sediaan": "TABLET",
+                "kekuatan": "75",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "desoksimetason",
+        "subdrugs": [
+            {
+                "name": "desoksimetason - KRIM 0,25 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTISKABIES dan ANTIPEDIKULOSIS",
+                "nama obat": "desoksimetason",
+                "sediaan": "KRIM",
+                "kekuatan": "0,25",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "desoksimetason - SALEP 0,25 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTISKABIES dan ANTIPEDIKULOSIS",
+                "nama obat": "desoksimetason",
+                "sediaan": "SALEP",
+                "kekuatan": "0,25",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "dialisa peritoneal",
+        "subdrugs": [
+            {
+                "name": "dialisa peritoneal - LARUTAN INTRAPERITONEAL N/A",
+                "kelas terapi": "LARUTAN DIALISIS PERITONEAL",
+                "nama obat": "dialisa peritoneal",
+                "sediaan": "LARUTAN INTRAPERITONEAL",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "diazepam",
+        "subdrugs": [
+            {
+                "name": "diazepam - ENEMA 10 MILIGRAM / 2,5 MILILITER",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "diazepam",
+                "sediaan": "ENEMA",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / 2,5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 tube/hari, bila kejang.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "diazepam - ENEMA 5 MILIGRAM / 2,5 MILILITER",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "diazepam",
+                "sediaan": "ENEMA",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / 2,5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "2 tube/hari, bila kejang.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "diazepam - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "diazepam",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 amp/kasus, kecuali untuk kasus di ICU.",
+                "restriksi sediaan": "Tidak untuk i.m."
+            },
+            {
+                "name": "diazepam - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "OBAT untuk PROSEDUR PRE OPERATIF",
+                "nama obat": "diazepam",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "diazepam - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIANSIETAS",
+                "nama obat": "diazepam",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "diazepam - TABLET 2 MILIGRAM"
+            },
+            {
+                "name": "diazepam - TABLET 5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "dienogest",
+        "subdrugs": [
+            {
+                "name": "dienogest - TABLET 2 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "dietilkarbamazin",
+        "subdrugs": [
+            {
+                "name": "dietilkarbamazin - TABLET 100 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTELMINTIK",
+                "sub sub kelas terapi": "Antifilaria",
+                "nama obat": "dietilkarbamazin",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Tidak digunakan untuk ibu hamil atau ibu menyusui."
+            }
+        ]
+    },
+    {
+        "name": "difenhidramin",
+        "subdrugs": [
+            {
+                "name": "difenhidramin - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIALERGI dan OBAT untuk ANAFILAKSIS",
+                "nama obat": "difenhidramin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 mg/hari",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "diflukortolon valerat",
+        "subdrugs": [
+            {
+                "name": "diflukortolon valerat - SALEP 0,1 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTISKABIES dan ANTIPEDIKULOSIS",
+                "nama obat": "diflukortolon valerat",
+                "sediaan": "SALEP",
+                "kekuatan": "0,1",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "digoksin",
+        "subdrugs": [
+            {
+                "name": "digoksin - INJEKSI 0,25 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "digoksin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "digoksin - INJEKSI 0,25 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIARITMIA",
+                "nama obat": "digoksin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "digoksin - TABLET 0,25 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "digoksin",
+                "sediaan": "TABLET",
+                "kekuatan": "0,25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sediaan": "Hanya untuk gagal jantung dengan atrial fibrilasi atau sinus takikardia."
+            },
+            {
+                "name": "digoksin - TABLET 0,25 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIARITMIA",
+                "nama obat": "digoksin",
+                "sediaan": "TABLET",
+                "kekuatan": "0,25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "diltiazem",
+        "subdrugs": [
+            {
+                "name": "diltiazem - KAPSUL PELEPASAN LAMBAT 100 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "diltiazem",
+                "sediaan": "KAPSUL PELEPASAN LAMBAT",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "diltiazem - KAPSUL PELEPASAN LAMBAT 200 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "diltiazem",
+                "sediaan": "KAPSUL PELEPASAN LAMBAT",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "diltiazem - INJEKSI 10 MILIGRAM"
+            },
+            {
+                "name": "diltiazem - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "diltiazem",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik.",
+                "restriksi sediaan": "Untuk hipertensi berat atau angina pektoris pada kasus\nrawat inap."
+            },
+            {
+                "name": "diltiazem - INJEKSI 50 MILIGRAM"
+            },
+            {
+                "name": "diltiazem - TABLET 30 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "dimenhidrinat",
+        "subdrugs": [
+            {
+                "name": "dimenhidrinat - TABLET 50 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "dimenhidrinat",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "dinatrium edetat",
+        "subdrugs": [
+            {
+                "name": "dinatrium edetat - TETES MATA 3,5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "dinatrium edetat",
+                "sediaan": "TETES MATA",
+                "kekuatan": "3,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "dinatrium klodronat",
+        "subdrugs": [
+            {
+                "name": "dinatrium klodronat - INJEKSI 60 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "dinatrium klodronat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "60",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dosis kumulatif maks 1.500 mg/hari selama 5 hari.",
+                "restriksi obat": "a) Untuk hiperkalsemia akibat keganasan.\nb) Metastatik tulang."
+            }
+        ]
+    },
+    {
+        "name": "DMSA (dimercaptosuccinic acid)",
+        "subdrugs": [
+            {
+                "name": "DMSA (dimercaptosuccinic acid) - N/A 1,1 MILIGRAM meso-2, 3-dimercaptosuccinic acid / vial",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
+                "nama obat": "DMSA (dimercaptosuccinic acid)",
+                "sediaan": "N/A",
+                "kekuatan": "1,1",
+                "satuan": "MILIGRAM meso-2, 3-dimercaptosuccinic acid / vial",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "dobutamin",
+        "subdrugs": [
+            {
+                "name": "dobutamin - INJEKSI 12,5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk SYOK KARDIOGENIK dan SEPSIS",
+                "nama obat": "dobutamin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "12,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Hanya untuk infark miokard akut dan syok kardiogenik."
+            },
+            {
+                "name": "dobutamin - INJEKSI 25 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk SYOK KARDIOGENIK dan SEPSIS",
+                "nama obat": "dobutamin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "dobutamin - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk SYOK KARDIOGENIK dan SEPSIS",
+                "nama obat": "dobutamin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "doksazosin",
+        "subdrugs": [
+            {
+                "name": "doksazosin - TABLET 1 MILIGRAM",
+                "kelas terapi": "DIURETIK dan OBAT untuk HIPERTROFI PROSTAT",
+                "sub kelas terapi": "OBAT untuk HIPERTROFI PROSTAT",
+                "nama obat": "doksazosin",
+                "sediaan": "TABLET",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "doksazosin - TABLET 1 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "doksazosin",
+                "sediaan": "TABLET",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "doksazosin - TABLET 2 MILIGRAM",
+                "kelas terapi": "DIURETIK dan OBAT untuk HIPERTROFI PROSTAT",
+                "sub kelas terapi": "OBAT untuk HIPERTROFI PROSTAT",
+                "nama obat": "doksazosin",
+                "sediaan": "TABLET",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "doksazosin - TABLET 2 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "doksazosin",
+                "sediaan": "TABLET",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            }
+        ]
+    },
+    {
+        "name": "doksisiklin",
+        "subdrugs": [
+            {
+                "name": "doksisiklin - KAPSUL 100 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Tetrasiklin",
+                "nama obat": "doksisiklin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 2 kaps/hari selama 10 hari.\n- Acne vulgaris: 50âˆ’100 mg/ hari hingga 12 minggu.",
+                "restriksi obat": "Tidak digunakan untuk anak usia < 6 tahun, ibu hamil, atau ibu menyusui."
+            },
+            {
+                "name": "doksisiklin - KAPSUL 100 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIPROTOZOA",
+                "sub sub kelas terapi": "Antimalaria",
+                "nama obat": "doksisiklin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan: Disediakan oleh Program \nKemenkes."
+            },
+            {
+                "name": "doksisiklin - KAPSUL 50 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Tetrasiklin",
+                "nama obat": "doksisiklin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 2 kaps/hari selama 10 hari.\n- Acne vulgaris: 50âˆ’100 mg/ hari hingga 12 minggu.",
+                "restriksi obat": "Tidak digunakan untuk anak usia < 6 tahun, ibu hamil, atau ibu menyusui.",
+                "restriksi sediaan": "Hanya untuk penggunaan pada mata dan kulit."
+            }
+        ]
+    },
+    {
+        "name": "doksorubisin",
+        "subdrugs": [
+            {
+                "name": "doksorubisin - INJEKSI 10 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibiotik Sitotoksik Dan Senyawa Sejenis",
+                "nama obat": "doksorubisin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dosis kumulatif maks (seumur hidup): 500 mg/mÂ².",
+                "restriksi obat": "Pemeriksaan echocardiogram dilakukan sebelum pemberian siklus pertama dan setiap kali setelah mencapai dosis kumulatif 200 mg/m², kecuali bila terjadi perubahan klinis (gangguan kardiologis) atau komorbiditas yang menyebabkan komplikasi kardiologis."
+            },
+            {
+                "name": "doksorubisin - INJEKSI 50 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibiotik Sitotoksik Dan Senyawa Sejenis",
+                "nama obat": "doksorubisin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dosis kumulatif maks (seumur hidup): 500 mg/mÂ².",
+                "restriksi obat": "Pemeriksaan echocardiogram dilakukan sebelum pemberian siklus pertama dan setiap kali setelah mencapai dosis kumulatif 200 mg/m², kecuali bila terjadi perubahan klinis (gangguan kardiologis) atau komorbiditas yang menyebabkan komplikasi kardiologis."
+            }
+        ]
+    },
+    {
+        "name": "dolutegravir",
+        "subdrugs": [
+            {
+                "name": "dolutegravir - TABLET 10 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Integrase Inhibitor",
+                "nama obat": "dolutegravir",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes\n\nDapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat.",
+                "restriksi sediaan": "Dapat digunakan untuk pengobatan HIV pada anak."
+            },
+            {
+                "name": "dolutegravir - TABLET 50 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Integrase Inhibitor",
+                "nama obat": "dolutegravir",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes\n\nDapat diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            }
+        ]
+    },
+    {
+        "name": "domperidon",
+        "subdrugs": [
+            {
+                "name": "domperidon - DROPS 5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "domperidon",
+                "sediaan": "DROPS",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "domperidon - SIRUP 5 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "domperidon",
+                "sediaan": "SIRUP",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "domperidon - TABLET 10 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "domperidon",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "donepezil",
+        "subdrugs": [
+            {
+                "name": "donepezil - TABLET DISPERSIBLE 10 MILIGRAM",
+                "kelas terapi": "RELAKSAN OTOT PERIFER dan PENGHAMBAT KOLINESTERASE",
+                "sub kelas terapi": "OBAT ANTI DEMENSIA",
+                "nama obat": "donepezil",
+                "sediaan": "TABLET DISPERSIBLE",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "a) Hanya untuk demensia alzheimer ringan sampai sedang.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu neurologi, penyakit dalam geriatri, atau ilmu kedokteran jiwa berdasarkan pemeriksaan neurobehaviour atau neuropsikiatri."
+            },
+            {
+                "name": "donepezil - TABLET SALUT SELAPUT 5 MILIGRAM",
+                "kelas terapi": "RELAKSAN OTOT PERIFER dan PENGHAMBAT KOLINESTERASE",
+                "sub kelas terapi": "OBAT ANTI DEMENSIA",
+                "nama obat": "donepezil",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "a) Hanya untuk demensia alzheimer ringan sampai sedang.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu neurologi, penyakit dalam geriatri, atau ilmu kedokteran jiwa berdasarkan pemeriksaan neurobehaviour atau neuropsikiatri."
+            }
+        ]
+    },
+    {
+        "name": "dopamin",
+        "subdrugs": [
+            {
+                "name": "dopamin - INJEKSI 40 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk SYOK KARDIOGENIK dan SEPSIS",
+                "nama obat": "dopamin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Hanya untuk syok kardiogenik, dekompensasi kordis akut dan syok septik.\nb) Tidak untuk syok hipovolemik."
+            }
+        ]
+    },
+    {
+        "name": "dosetaksel",
+        "subdrugs": [
+            {
+                "name": "dosetaksel - INJEKSI 20 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkaloid Dan Produk Natural Lain",
+                "nama obat": "dosetaksel",
+                "sediaan": "INJEKSI",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Untuk kombinasi: 75 mg/mÂ² setiap 3 minggu. \n- Untuk kemoterapi tunggal: 100 mg/mÂ² setiap 3 minggu.",
+                "restriksi obat": "Untuk kanker kepala dan leher, \nparu, payudara, ovarium, prostat, \nadenokarsinoma gaster."
+            },
+            {
+                "name": "dosetaksel - INJEKSI 40 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkaloid Dan Produk Natural Lain",
+                "nama obat": "dosetaksel",
+                "sediaan": "INJEKSI",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Untuk kombinasi: 75 mg/mÂ² setiap 3 minggu. \n- Untuk kemoterapi tunggal: 100 mg/mÂ² setiap 3 minggu.",
+                "restriksi obat": "Untuk kanker kepala dan leher, \nparu, payudara, ovarium, prostat, \nadenokarsinoma gaster."
+            },
+            {
+                "name": "dosetaksel - INJEKSI 80 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Alkaloid Dan Produk Natural Lain",
+                "nama obat": "dosetaksel",
+                "sediaan": "INJEKSI",
+                "kekuatan": "80",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Untuk kombinasi: 75 mg/mÂ² setiap 3 minggu. \n- Untuk kemoterapi tunggal: 100 mg/mÂ² setiap 3 minggu.",
+                "restriksi obat": "Untuk kanker kepala dan leher, \nparu, payudara, ovarium, prostat, \nadenokarsinoma gaster."
+            }
+        ]
+    },
+    {
+        "name": "DTPA (diethylenetriamine pentaacetic acid)",
+        "subdrugs": [
+            {
+                "name": "DTPA (diethylenetriamine pentaacetic acid) - SERBUK INJEKSI N/A",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
+                "nama obat": "DTPA (diethylenetriamine pentaacetic acid)",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "dutasterid",
+        "subdrugs": [
+            {
+                "name": "dutasterid - KAPSUL LUNAK 0,5 MILIGRAM",
+                "kelas terapi": "DIURETIK dan OBAT untuk HIPERTROFI PROSTAT",
+                "sub kelas terapi": "OBAT untuk HIPERTROFI PROSTAT",
+                "nama obat": "dutasterid",
+                "sediaan": "KAPSUL LUNAK",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    }
+]

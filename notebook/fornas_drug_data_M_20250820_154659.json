@@ -1,0 +1,1543 @@
+[
+    {
+        "name": "MAA (macro aggregate albumin)",
+        "subdrugs": [
+            {
+                "name": "MAA (macro aggregate albumin) - N/A 0,11-2,5 MILIGRAM albumin aggregated / reaction vial",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
+                "nama obat": "MAA (macro aggregate albumin)",
+                "sediaan": "N/A",
+                "kekuatan": "0,11-2,5",
+                "satuan": "MILIGRAM albumin aggregated / reaction vial",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "MAG3 (mercaptoacetyltriglysine)",
+        "subdrugs": [
+            {
+                "name": "MAG3 (mercaptoacetyltriglysine) - N/A 1 MILIGRAM betiatide / vial",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
+                "nama obat": "MAG³ (mercaptoacetyltriglysine)",
+                "sediaan": "N/A",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM betiatide / vial",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "magnesium sulfat",
+        "subdrugs": [
+            {
+                "name": "magnesium sulfat - INJEKSI 20 PERSEN",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "magnesium sulfat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "20",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk kejang pada preeklampsia atau eklampsia. Tidak digunakan untuk kejang lainnya."
+            },
+            {
+                "name": "magnesium sulfat - INJEKSI 40 PERSEN",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "magnesium sulfat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "40",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk kejang pada preeklampsia atau eklampsia. Tidak digunakan untuk kejang lainnya."
+            },
+            {
+                "name": "magnesium sulfat - SERBUK N/A"
+            }
+        ]
+    },
+    {
+        "name": "manitol",
+        "subdrugs": [
+            {
+                "name": "manitol - INFUS 20 PERSEN"
+            }
+        ]
+    },
+    {
+        "name": "maprotilin",
+        "subdrugs": [
+            {
+                "name": "maprotilin - TABLET SALUT SELAPUT 25 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIDEPRESI",
+                "nama obat": "maprotilin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "maprotilin - TABLET SALUT SELAPUT 50 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIDEPRESI",
+                "nama obat": "maprotilin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "MDP (methylene diphosphonate)",
+        "subdrugs": [
+            {
+                "name": "MDP (methylene diphosphonate) - SERBUK INJEKSI N/A",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
+                "nama obat": "MDP (methylene diphosphonate)",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "mebendazol",
+        "subdrugs": [
+            {
+                "name": "mebendazol - SIRUP 100 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTELMINTIK",
+                "sub sub kelas terapi": "Antelmintik Intestinal",
+                "nama obat": "mebendazol",
+                "sediaan": "SIRUP",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "mebendazol - TABLET 100 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTELMINTIK",
+                "sub sub kelas terapi": "Antelmintik Intestinal",
+                "nama obat": "mebendazol",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "mebendazol - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTELMINTIK",
+                "sub sub kelas terapi": "Antelmintik Intestinal",
+                "nama obat": "mebendazol",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "medroksi progesteron asetat",
+        "subdrugs": [
+            {
+                "name": "medroksi progesteron asetat - INJEKSI 150 MILIGRAM / MILILITER",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Kontrasepsi",
+                "sub sub sub kelas terapi": "Kontrasepsi, Parenteral",
+                "nama obat": "medroksi progesteron asetat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh program\nBKKBN."
+            },
+            {
+                "name": "medroksi progesteron asetat - INJEKSI 150 MILIGRAM / MILILITER",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Progestogen",
+                "nama obat": "medroksi progesteron asetat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk amenorea sekunder, perdarahan uterus abnormal atau endometriosis."
+            },
+            {
+                "name": "medroksi progesteron asetat - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Progestogen",
+                "nama obat": "medroksi progesteron asetat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk amenorea sekunder, perdarahan uterus abnormal atau endometriosis."
+            },
+            {
+                "name": "medroksi progesteron asetat - TABLET 10 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Progestogen",
+                "nama obat": "medroksi progesteron asetat",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Hanya untuk amenorea sekunder, perdarahan uterus abnormal atau endometriosis."
+            },
+            {
+                "name": "medroksi progesteron asetat - TABLET 100 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "medroksi progesteron asetat",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "medroksi progesteron asetat - TABLET 5 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Progestogen",
+                "nama obat": "medroksi progesteron asetat",
+                "sediaan": "TABLET",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Hanya untuk amenorea sekunder, perdarahan uterus abnormal atau endometriosis."
+            }
+        ]
+    },
+    {
+        "name": "melfalan",
+        "subdrugs": [
+            {
+                "name": "melfalan - TABLET 2 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "merkaptopurin",
+        "subdrugs": [
+            {
+                "name": "merkaptopurin - TABLET 50 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "merkaptopurin",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "meropenem",
+        "subdrugs": [
+            {
+                "name": "meropenem - SERBUK INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "meropenem",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "a) Febrile neutropenia: \nDosis 1âˆ’3 g/hari, sampai ANC > 500/mm³.\nb) Sepsis dan infeksi berat mengancam jiwa:\n- Dosis 1âˆ’3 g/hari sampai diperoleh hasil kultur, maks 7 hari.\n- Setelah hasil kultur diperoleh, maka digantikan dengan antibiotik spektrum sempit yang masih efektif.\n- Meropenem hanya dapat dilanjutkan apabila hasil kultur yang diambil dari tempat yang dicurigai sebagai sumber infeksi menunjukkan bahwa bakteri penyebab hanya sensitif terhadap meropenem.",
+                "restriksi obat": "a) Diberikan atas persetujuan KFT/KPRA/pimpinan RS untuk antibiotik lini ketiga (reserved antibiotic) pada infeksi oleh kuman penghasil ESBL.\nb) Tidak untuk profilaksis prabedah."
+            },
+            {
+                "name": "meropenem - SERBUK INJEKSI 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "meropenem",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "a) Febrile neutropenia: \nDosis 1âˆ’3 g/hari, sampai ANC > 500/mm³.\nb) Sepsis dan infeksi berat mengancam jiwa:\n- Dosis 1âˆ’3 g/hari sampai diperoleh hasil kultur, maks 7 hari.\n- Setelah hasil kultur diperoleh, maka digantikan dengan antibiotik spektrum sempit yang masih efektif.\n- Meropenem hanya dapat dilanjutkan apabila hasil kultur yang diambil dari tempat yang dicurigai sebagai sumber infeksi menunjukkan bahwa bakteri penyebab hanya sensitif terhadap meropenem.",
+                "restriksi obat": "a) Diberikan atas persetujuan KFT/KPRA/pimpinan RS untuk antibiotik lini ketiga (reserved antibiotic) pada infeksi oleh kuman penghasil ESBL.\nb) Tidak untuk profilaksis prabedah."
+            }
+        ]
+    },
+    {
+        "name": "mesalazin",
+        "subdrugs": [
+            {
+                "name": "mesalazin - ENEMA 1 GRAM"
+            },
+            {
+                "name": "mesalazin - ENEMA 4 GRAM"
+            },
+            {
+                "name": "mesalazin - GRANUL PELEPASAN LAMBAT 2000 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "OBAT untuk ANTIINFLAMASI",
+                "nama obat": "mesalazin",
+                "sediaan": "GRANUL PELEPASAN LAMBAT",
+                "kekuatan": "2.000",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 2 sachet/hari.",
+                "restriksi sediaan": "Digunakan untuk colitis ulcerativa mild to moderate, baik untuk terapi induksi atau maintenance yang hipersensitif terhadap sulfonamida."
+            },
+            {
+                "name": "mesalazin - SUPOSITORIA 1 GRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "OBAT untuk ANTIINFLAMASI",
+                "nama obat": "mesalazin",
+                "sediaan": "SUPOSITORIA",
+                "kekuatan": "1",
+                "satuan": "GRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1â€“2 kali sehari, maks 7 hari.",
+                "restriksi sediaan": "Digunakan untuk pengobatan proktitis ulseratif."
+            },
+            {
+                "name": "mesalazin - TABLET SALUT ENTERIK 250 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "OBAT untuk ANTIINFLAMASI",
+                "nama obat": "mesalazin",
+                "sediaan": "TABLET SALUT ENTERIK",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Untuk episode akut colitis ulcerativa atau colitis ulcerativa yang hipersensitif terhadap sulfonamida."
+            }
+        ]
+    },
+    {
+        "name": "mesna",
+        "subdrugs": [
+            {
+                "name": "mesna - INJEKSI 100 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "mesna",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "a)Â  Untuk pemberian bersama ifosfamid, mesna diberikan dengan dosis maks 100% dari dosis ifosfamid/ hari, maks selama 5 hari tiap 3 minggu.\nb) Untuk pemberian bersama siklofosfamid dosis tinggi (>1 g/m²), mesna diberikan dengan dosis maks 100% dari dosis siklofosfamid/ hari.",
+                "restriksi obat": "Hanya diberikan untuk terapi yang menggunakan ifosfamid atau siklofosfamid dosis tinggi."
+            }
+        ]
+    },
+    {
+        "name": "metadon",
+        "subdrugs": [
+            {
+                "name": "metadon - SIRUP 50 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "OBAT untuk PROGRAM KETERGANTUNGAN",
+                "nama obat": "metadon",
+                "sediaan": "SIRUP",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes.\n\nHanya diberikan di Puskesmas yang sudah terlatih dan mempunyai sertifikat yang ditunjuk oleh Kementerian Kesehatan."
+            }
+        ]
+    },
+    {
+        "name": "meta-iodobenzylguanidine (131I-MIBG)",
+        "subdrugs": [
+            {
+                "name": "meta-iodobenzylguanidine (131I-MIBG) - INJEKSI N/A",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Radiofarmaka Kedokteran Nuklir Diagnostik",
+                "nama obat": "meta-iodobenzylguanidine (131I-MIBG)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "metamizol",
+        "subdrugs": [
+            {
+                "name": "metamizol - INJEKSI 500 MILIGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "metamizol",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 amp/hari maks. 5 hari.",
+                "restriksi obat": "Untuk nyeri post operatif dan hanya dalam waktu singkat."
+            }
+        ]
+    },
+    {
+        "name": "metenamin mandelat (heksamin mandelat)",
+        "subdrugs": [
+            {
+                "name": "metenamin mandelat (heksamin mandelat) - TABLET SALUT ENTERIK 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antiseptik Saluran kemih",
+                "nama obat": "metenamin mandelat (heksamin mandelat)",
+                "sediaan": "TABLET SALUT ENTERIK",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "metformin",
+        "subdrugs": [
+            {
+                "name": "metformin - TABLET 500 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Oral",
+                "nama obat": "metformin",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metformin - TABLET 850 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Oral",
+                "nama obat": "metformin",
+                "sediaan": "TABLET",
+                "kekuatan": "850",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "metildopa",
+        "subdrugs": [
+            {
+                "name": "metildopa - TABLET 250 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "metildopa",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik.",
+                "restriksi obat": "Untuk hipertensi pada wanita hamil."
+            }
+        ]
+    },
+    {
+        "name": "metilergometrin",
+        "subdrugs": [
+            {
+                "name": "metilergometrin - INJEKSI 0,2 MILIGRAM / MILILITER",
+                "kelas terapi": "OKSITOSIK",
+                "nama obat": "metilergometrin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,2",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metilergometrin - TABLET 0,125 MILIGRAM",
+                "kelas terapi": "OKSITOSIK",
+                "nama obat": "metilergometrin",
+                "sediaan": "TABLET",
+                "kekuatan": "0,125",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "metilfenidat",
+        "subdrugs": [
+            {
+                "name": "metilfenidat - TABLET 10 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "OBAT untuk ADHD (Attention Deficit Hyperactivity Disorder)",
+                "nama obat": "metilfenidat",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metilfenidat - TABLET PELEPASAN LAMBAT 18 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "OBAT untuk ADHD (Attention Deficit Hyperactivity Disorder)",
+                "nama obat": "metilfenidat",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "18",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metilfenidat - TABLET PELEPASAN LAMBAT 36 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "OBAT untuk ADHD (Attention Deficit Hyperactivity Disorder)",
+                "nama obat": "metilfenidat",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "36",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "metilprednisolon",
+        "subdrugs": [
+            {
+                "name": "metilprednisolon - INJEKSI 125 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "KORTIKOSTEROID",
+                "nama obat": "metilprednisolon",
+                "sediaan": "INJEKSI",
+                "kekuatan": "125",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "pp": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Hanya digunakan untuk kasus spesialistik, digunakan dalam waktu relatif singkat."
+            },
+            {
+                "name": "metilprednisolon - INJEKSI 125 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "metilprednisolon",
+                "sediaan": "INJEKSI",
+                "kekuatan": "125",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Pemberian di FPKTP hanya untuk serangan asma akut."
+            },
+            {
+                "name": "metilprednisolon - INJEKSI 500 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "KORTIKOSTEROID",
+                "nama obat": "metilprednisolon",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Hanya digunakan untuk kasus spesialistik, digunakan dalam waktu relatif singkat."
+            },
+            {
+                "name": "metilprednisolon - TABLET 16 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "KORTIKOSTEROID",
+                "nama obat": "metilprednisolon",
+                "sediaan": "TABLET",
+                "kekuatan": "16",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metilprednisolon - TABLET 16 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "metilprednisolon",
+                "sediaan": "TABLET",
+                "kekuatan": "16",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metilprednisolon - TABLET 16 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "metilprednisolon",
+                "sediaan": "TABLET",
+                "kekuatan": "16",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metilprednisolon - TABLET 4 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "metilprednisolon",
+                "sediaan": "TABLET",
+                "kekuatan": "4",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 10 tab/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metilprednisolon - TABLET 4 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "metilprednisolon",
+                "sediaan": "TABLET",
+                "kekuatan": "4",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metilprednisolon - TABLET 4 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "KORTIKOSTEROID",
+                "nama obat": "metilprednisolon",
+                "sediaan": "TABLET",
+                "kekuatan": "4",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metilprednisolon - TABLET 8 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "metilprednisolon",
+                "sediaan": "TABLET",
+                "kekuatan": "8",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metilprednisolon - TABLET 8 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "KORTIKOSTEROID",
+                "nama obat": "metilprednisolon",
+                "sediaan": "TABLET",
+                "kekuatan": "8",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "metoklopramid",
+        "subdrugs": [
+            {
+                "name": "metoklopramid - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "metoklopramid",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metoklopramid - TABLET 10 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "metoklopramid",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metoklopramid - TABLET 5 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIEMETIK",
+                "nama obat": "metoklopramid",
+                "sediaan": "TABLET",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "metoksi polietilen glikol-epoetin beta",
+        "subdrugs": [
+            {
+                "name": "metoksi polietilen glikol-epoetin beta - INJEKSI 50 MICROGRAM / 0,3 MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "metoksi polietilen glikol-epoetin beta",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MICROGRAM / 0,3 MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/bulan.",
+                "restriksi obat": "Hanya untuk penderita CKD Stadium 4, 5, dan 5 dengan dialisis (HD, CAPD) dengan kriteria berikut:\na) Kadar Hb <10 g/dL (terapi awal) dan 10âˆ’12 g/dL (terapi rumatan).\nb) Kadar besi normal (SI > 60 mcg/dL) dan/atau indeks saturasi besi (SI/TIBC X 100%) > 20%.\nc) Tidak digunakan untuk pasien anak."
+            },
+            {
+                "name": "metoksi polietilen glikol-epoetin beta - INJEKSI 75 MICROGRAM / 0,3 MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "metoksi polietilen glikol-epoetin beta",
+                "sediaan": "INJEKSI",
+                "kekuatan": "75",
+                "satuan": "MICROGRAM / 0,3 MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/bulan.",
+                "restriksi obat": "Hanya untuk penderita CKD Stadium 4, 5, dan 5 dengan dialisis (HD, CAPD) dengan kriteria berikut:\na) Kadar Hb <10 g/dL (terapi awal) dan 10âˆ’12 g/dL (terapi rumatan).\nb) Kadar besi normal (SI > 60 mcg/dL) dan/atau indeks saturasi besi (SI/TIBC X 100%) > 20%.\nc) Tidak digunakan untuk pasien anak."
+            }
+        ]
+    },
+    {
+        "name": "metoprolol",
+        "subdrugs": [
+            {
+                "name": "metoprolol - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "metoprolol",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik.",
+                "restriksi obat": "Emergency anaesthesia, krisis hipertiroid"
+            }
+        ]
+    },
+    {
+        "name": "metotreksat",
+        "subdrugs": [
+            {
+                "name": "metotreksat - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "metotreksat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk trofoblastik ganas: 12.000 mg/mÂ²/hari.",
+                "restriksi sediaan": "a) Untuk penggunaan intratekal, hanya boleh digunakan sediaan preservative free. \nb) Jika diperlukan dapat \ndiberikan bersama kalsium folinat (leukovorin, Ca) sebagai rescue medication."
+            },
+            {
+                "name": "metotreksat - INJEKSI 2,5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "metotreksat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk trofoblastik ganas: 12.000 mg/mÂ²/hari.",
+                "restriksi sediaan": "a) Untuk penggunaan intratekal, hanya boleh digunakan sediaan preservative free.\nb) Jika diperlukan dapat diberikan bersama kalsium folinat (leukovorin, Ca) sebagai rescue medication."
+            },
+            {
+                "name": "metotreksat - INJEKSI 2,5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "metotreksat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "a) Untuk penggunaan intratekal, hanya boleh digunakan sediaan preservative free.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi medik dewasa, atau hematologi onkologi anak, atau neurologi."
+            },
+            {
+                "name": "metotreksat - INJEKSI 25 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "metotreksat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk trofoblastik ganas: 12.000 mg/mÂ²/hari.",
+                "restriksi sediaan": "a) Untuk penggunaan intratekal, hanya boleh digunakan sediaan preservative free. \nb) Jika diperlukan dapat \ndiberikan bersama kalsium folinat (leukovorin, Ca) sebagai rescue medication."
+            },
+            {
+                "name": "metotreksat - INJEKSI 5 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "metotreksat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "15 mg/minggu.",
+                "restriksi sediaan": "Untuk penggunaan intratekal, hanya boleh digunakan sediaan preservative free."
+            },
+            {
+                "name": "metotreksat - TABLET 2,5 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "metotreksat",
+                "sediaan": "TABLET",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Untuk maintenance leukemia: \n7,5 mg/hari setiap minggu.\n- Untuk trofoblastik ganas: \n30 mg/hari selama 5 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metotreksat - TABLET 2,5 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "metotreksat",
+                "sediaan": "TABLET",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "a) Untuk imunosupresi.\nb) Untuk pasien dengan \nluas psoriasis di atas \n10%."
+            }
+        ]
+    },
+    {
+        "name": "metronidazol",
+        "subdrugs": [
+            {
+                "name": "metronidazol - INFUS 5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIPROTOZOA",
+                "sub sub kelas terapi": "Antiamubiasis dan Antigiardiasis",
+                "nama obat": "metronidazol",
+                "sediaan": "INFUS",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 btl/hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metronidazol - INFUS 5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "metronidazol",
+                "sediaan": "INFUS",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 btl/hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metronidazol - OVULA 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "metronidazol",
+                "sediaan": "OVULA",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 15 ovula/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metronidazol - SUSPENSI 125 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "metronidazol",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "125",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk infeksi akibat bakteri anaerob, dapat diberikan maksimum 2 minggu/kasus, kecuali pada kasus abses paru, otak, hepar dan organ lain disesuaikan dengan kebutuhan pasien.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metronidazol - SUSPENSI 125 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIPROTOZOA",
+                "sub sub kelas terapi": "Antiamubiasis dan Antigiardiasis",
+                "nama obat": "metronidazol",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "125",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metronidazol - SUPOSITORIA 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "metronidazol",
+                "sediaan": "SUPOSITORIA",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metronidazol - TABLET 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIPROTOZOA",
+                "sub sub kelas terapi": "Antiamubiasis dan Antigiardiasis",
+                "nama obat": "metronidazol",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metronidazol - TABLET 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "metronidazol",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk infeksi akibat bakteri anaerob, dapat diberikan maksimum 2 minggu/kasus, kecuali pada kasus abses paru, otak, hepar dan organ lain disesuaikan dengan kebutuhan pasien.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metronidazol - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIPROTOZOA",
+                "sub sub kelas terapi": "Antiamubiasis dan Antigiardiasis",
+                "nama obat": "metronidazol",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "metronidazol - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "metronidazol",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk infeksi akibat bakteri anaerob, dapat diberikan maksimum 2 minggu/kasus, kecuali pada kasus abses paru, otak, hepar dan organ lain disesuaikan dengan kebutuhan pasien.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "MIBI (methoxyisobutyl isonitrile)",
+        "subdrugs": [
+            {
+                "name": "MIBI (methoxyisobutyl isonitrile) - SERBUK INJEKSI N/A",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
+                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
+                "nama obat": "MIBI (methoxyisobutyl isonitrile)",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "midazolam",
+        "subdrugs": [
+            {
+                "name": "midazolam - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "OBAT untuk PROSEDUR PRE OPERATIF",
+                "nama obat": "midazolam",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Dosis rumatan: 1 mg/jam (24 mg/hari).\n- Dosis premedikasi: 8 vial/kasus.",
+                "restriksi obat": "Dapat digunakan untuk premedikasi sebelum induksi anestesi dan rumatan untuk sedasi di ruang perawatan intensif."
+            },
+            {
+                "name": "midazolam - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "OBAT untuk PROSEDUR PRE OPERATIF",
+                "nama obat": "midazolam",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Dosis rumatan: 1 mg/jam (24 mg/hari).\n- Dosis premedikasi: 8 vial/kasus.",
+                "restriksi obat": "Dapat digunakan untuk premedikasi sebelum induksi anestesi dan rumatan untuk sedasi di ruang perawatan intensif.",
+                "restriksi sediaan": "Hanya digunakan untuk sedasi pada pasien di ruang perawatan intensif."
+            }
+        ]
+    },
+    {
+        "name": "mikafungin",
+        "subdrugs": [
+            {
+                "name": "mikafungin - SERBUK INJEKSI 50 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "mikafungin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya digunakan untuk kandidiasis sistemik yang sudah tidak respons dengan flukonazol."
+            }
+        ]
+    },
+    {
+        "name": "mikofenolat mofetil",
+        "subdrugs": [
+            {
+                "name": "mikofenolat mofetil - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "mikofenolat mofetil",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "180 tab/bulan.",
+                "restriksi obat": "a) Untuk kasus transplantasi organ \nginjal, jantung, atau hati.\natau\nb) Untuk lupus nefritis."
+            }
+        ]
+    },
+    {
+        "name": "mikofenolat sodium",
+        "subdrugs": [
+            {
+                "name": "mikofenolat sodium - TABLET SALUT 180 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "mikofenolat sodium",
+                "sediaan": "TABLET SALUT",
+                "kekuatan": "180",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk dewasa: 60 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "mikonazol",
+        "subdrugs": [
+            {
+                "name": "mikonazol - KRIM 2 PERSEN"
+            },
+            {
+                "name": "mikonazol - SERBUK 2 PERSEN"
+            }
+        ]
+    },
+    {
+        "name": "milrinon",
+        "subdrugs": [
+            {
+                "name": "milrinon - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "OBAT untuk GAGAL JANTUNG",
+                "nama obat": "milrinon",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 2 hari.",
+                "restriksi obat": "Hanya diberikan di ruang intensif."
+            }
+        ]
+    },
+    {
+        "name": "minosiklin",
+        "subdrugs": [
+            {
+                "name": "minosiklin - KAPSUL 100 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antilepra",
+                "nama obat": "minosiklin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 x 1 hari selama 24 bulan.",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes.\n\na) Hanya diberikan pada kasus kusta dengan kondisi resistensi atau alergi obat dari jenis obat di lini pertama.\nb) Tidak digunakan sebagai monoterapi melainkan dikombinasikan dengan obat anti kusta lain seperti rifampisin atau ofloksasin atau klaritromisin atau klofazimin.\nc) Tidak diberikan pada kasus â‰¤ 12 tahun."
+            }
+        ]
+    },
+    {
+        "name": "mitomisin",
+        "subdrugs": [
+            {
+                "name": "mitomisin - SERBUK INJEKSI 10 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibiotik Sitotoksik Dan Senyawa Sejenis",
+                "nama obat": "mitomisin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya digunakan secara kombinasi dengan kemoterapi lain untuk kasus adenokarsinoma gaster atau pankreas yang gagal dengan kemoterapi lini pertama.",
+                "restriksi sediaan": "Untuk kemoterapi lokal (instilasi vesika) pada kanker kandung kemih."
+            },
+            {
+                "name": "mitomisin - SERBUK INJEKSI 2 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antibiotik Sitotoksik Dan Senyawa Sejenis",
+                "nama obat": "mitomisin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya digunakan secara kombinasi dengan kemoterapi lain untuk kasus adenokarsinoma gaster atau pankreas yang gagal dengan kemoterapi lini pertama."
+            }
+        ]
+    },
+    {
+        "name": "moksifloksasin",
+        "subdrugs": [
+            {
+                "name": "moksifloksasin - INFUS 1,6 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kuinolon",
+                "nama obat": "moksifloksasin",
+                "sediaan": "INFUS",
+                "kekuatan": "1,6",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi obat": "Tidak digunakan untuk pasien usia \n< 18 tahun, ibu hamil, atau ibu \nmenyusui."
+            },
+            {
+                "name": "moksifloksasin - TABLET SALUT SELAPUT 400 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kuinolon",
+                "nama obat": "moksifloksasin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "400",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi obat": "Tidak digunakan untuk pasien usia \n< 18 tahun, ibu hamil, atau ibu \nmenyusui."
+            },
+            {
+                "name": "moksifloksasin - TETES MATA 0,5 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "moksifloksasin",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,5",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "molnupiravir",
+        "subdrugs": [
+            {
+                "name": "molnupiravir - KAPSUL 200 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Anti Covid-19",
+                "nama obat": "molnupiravir",
+                "sediaan": "KAPSUL",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "5 hari.",
+                "restriksi obat": "a) Hanya untuk pasien Covid-19 ringan-sedang yang berisiko menjadi berat.\nb) Hanya untuk diberikan pada 5 hari pertama sejak muncul gejala.\nc) Pemeriksaan Covid-19 terkonfirmasi dengan pemeriksaan antigen atau PCR."
+            }
+        ]
+    },
+    {
+        "name": "mometason furoat",
+        "subdrugs": [
+            {
+                "name": "mometason furoat - KRIM 0,1 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTISKABIES dan ANTIPEDIKULOSIS",
+                "nama obat": "mometason furoat",
+                "sediaan": "KRIM",
+                "kekuatan": "0,1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "mometason furoat - SALEP 0,1 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTISKABIES dan ANTIPEDIKULOSIS",
+                "nama obat": "mometason furoat",
+                "sediaan": "SALEP",
+                "kekuatan": "0,1",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "morfin",
+        "subdrugs": [
+            {
+                "name": "morfin - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "morfin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Infus per 24 jam.",
+                "restriksi obat": "Diberikan pada salah satu atau lebih kondisi berikut:\na) Untuk pemakaian pada tindakan anestesi atau perawatan di Rumah Sakit;\nb) Untuk mengatasi nyeri kanker yang tidak respons terhadap analgesik non narkotik;\nc) Untuk nyeri pada sindrom koroner akut."
+            },
+            {
+                "name": "morfin - TABLET 10 MILIGRAM"
+            },
+            {
+                "name": "morfin - TABLET PELEPASAN LAMBAT 10 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "morfin",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Diberikan pada salah satu atau lebih kondisi berikut:\na) Untuk pemakaian pada tindakan anestesi atau perawatan di Rumah Sakit;\nb) Untuk mengatasi nyeri kanker yang tidak respons terhadap analgesik non narkotik;\nc) Untuk nyeri pada sindrom koroner akut."
+            },
+            {
+                "name": "morfin - TABLET PELEPASAN LAMBAT 15 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "morfin",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "15",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Diberikan pada salah satu atau lebih kondisi berikut:\na) Untuk pemakaian pada tindakan anestesi atau perawatan di Rumah Sakit;\nb) Untuk mengatasi nyeri kanker yang tidak respons terhadap analgesik non narkotik;\nc) Untuk nyeri pada sindrom koroner akut."
+            },
+            {
+                "name": "morfin - TABLET PELEPASAN LAMBAT 30 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NARKOTIK",
+                "nama obat": "morfin",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Diberikan pada salah satu atau lebih kondisi berikut:\na) Untuk pemakaian pada tindakan anestesi atau perawatan di Rumah Sakit;\nb) Untuk mengatasi nyeri kanker yang tidak respons terhadap analgesik non narkotik;\nc) Untuk nyeri pada sindrom koroner akut."
+            }
+        ]
+    },
+    {
+        "name": "mupirosin",
+        "subdrugs": [
+            {
+                "name": "mupirosin - KRIM 2 PERSEN"
+            },
+            {
+                "name": "mupirosin - SALEP 2 PERSEN"
+            }
+        ]
+    }
+]

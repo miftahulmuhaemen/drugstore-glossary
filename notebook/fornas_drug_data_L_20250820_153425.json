@@ -1,0 +1,992 @@
+[
+    {
+        "name": "laktulosa",
+        "subdrugs": [
+            {
+                "name": "laktulosa - SIRUP 3335 GRAM / 5 MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "KATARTIK",
+                "nama obat": "laktulosa",
+                "sediaan": "SIRUP",
+                "kekuatan": "3.335",
+                "satuan": "GRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "lamivudin",
+        "subdrugs": [
+            {
+                "name": "lamivudin - TABLET 100 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antihepatitis",
+                "nama obat": "lamivudin",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi, atau gastroentero-hepatologi anak, atau penyakit dalam dengan melampirkan:\na) Hasil pemeriksaan HBeAg.\nb) Pemeriksaan ALT meningkat 2x di atas batas atas normal dalam 3 bulan, atau \nc) Histologi/transient elastography atau AST Platelet Ratio Index (APRI) sesuai minimal dengan F².\nd) Pengobatan dihentikan apabila terjadi serokonversi HBsAg.\ne) Apabila HBV DNA setelah 6 bulan masih positif harus ditambahkan atau digantikan obat lain."
+            },
+            {
+                "name": "lamivudin - TABLET 150 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)",
+                "nama obat": "lamivudin",
+                "sediaan": "TABLET",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes",
+                "restriksi obat": "t diberikan oleh FPKTP yang memiliki kemampuan pengobatan antiretroviral dengan persyaratan memiliki SK Penunjukan sebagai unit pelayanan yang berhak memberikan obat ARV dari Dinas Kesehatan setempat."
+            }
+        ]
+    },
+    {
+        "name": "lamotrigin",
+        "subdrugs": [
+            {
+                "name": "lamotrigin - TABLET 100 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "lamotrigin",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi obat": "Tidak digunakan sebagai lini pertama untuk epilepsi."
+            },
+            {
+                "name": "lamotrigin - TABLET 50 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "lamotrigin",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "400 mg/hari.",
+                "restriksi obat": "Tidak digunakan sebagai lini pertama untuk epilepsi."
+            },
+            {
+                "name": "lamotrigin - TABLET DISPERSIBLE 25 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "lamotrigin",
+                "sediaan": "TABLET DISPERSIBLE",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan (hanya untuk titrasi dosis).",
+                "restriksi obat": "Tidak digunakan sebagai lini pertama untuk epilepsi."
+            }
+        ]
+    },
+    {
+        "name": "lansoprazol",
+        "subdrugs": [
+            {
+                "name": "lansoprazol - KAPSUL 30 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTASIDA dan ANTIULKUS",
+                "nama obat": "lansoprazol",
+                "sediaan": "KAPSUL",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps/bulan.",
+                "restriksi sediaan": "a) Untuk terapi jangka pendek pada kasus tukak lambung, tukak duodenum dan refluks esofagitis.\nb) Diberikan 1 jam sebelum makan."
+            },
+            {
+                "name": "lansoprazol - SERBUK INJEKSI 30 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTASIDA dan ANTIULKUS",
+                "nama obat": "lansoprazol",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1âˆ’3 amp/hari maks 3 hari.",
+                "restriksi sediaan": "Untuk pasien IGD atau rawat inap dengan riwayat perdarahan saluran cerna."
+            }
+        ]
+    },
+    {
+        "name": "lapatinib",
+        "subdrugs": [
+            {
+                "name": "lapatinib - TABLET 250 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "lapatinib",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk HER² positif+hormon ER dan/atau PR positif dan post menopause pemberian bersama letrozol, dosis 1.500 mg/hari (6 tab/hari).",
+                "restriksi obat": "Diberikan kombinasi dengan letrozol untuk kanker payudara metastatik dengan HER² IHK positif 3 (+++) atau HER² IHK positif 2 (++) dengan konfirmasi FISH atau CISH positif, pada post menopause dengan reseptor hormon positif (ER/PR positif) dan memerlukan terapi hormon."
+            }
+        ]
+    },
+    {
+        "name": "larutan kardioplegia",
+        "subdrugs": [
+            {
+                "name": "larutan kardioplegia - INJEKSI N/A",
+                "kelas terapi": "LAIN - LAIN",
+                "nama obat": "larutan kardioplegia",
+                "sediaan": "INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "larutan Mengandung Asam Amino",
+        "subdrugs": [
+            {
+                "name": "larutan Mengandung Asam Amino - N/A N/A",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "PARENTERAL",
+                "nama obat": "larutan Mengandung Asam Amino",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "Larutan Mengandung Asam Amino+ Elektrolit+Karbohidrat+Lipid",
+        "subdrugs": [
+            {
+                "name": "Larutan Mengandung Asam Amino+ Elektrolit+Karbohidrat+Lipid - N/A N/A",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "PARENTERAL",
+                "nama obat": "Larutan Mengandung Asam Amino+ Elektrolit+Karbohidrat+Lipid",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Hanya digunakan untuk pasien dengan Total Parenteral Nutrition\n(TPN)."
+            }
+        ]
+    },
+    {
+        "name": "Larutan Mengandung Elektrolit",
+        "subdrugs": [
+            {
+                "name": "Larutan Mengandung Elektrolit - N/A N/A",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "PARENTERAL",
+                "nama obat": "Larutan Mengandung Elektrolit",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "larutan elektrolit pekat",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "Larutan Mengandung Elektrolit - N/A N/A",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "PARENTERAL",
+                "nama obat": "Larutan Mengandung Elektrolit",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "larutan garam fisiologis",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "Larutan Mengandung Fosfat dengan/tanpa vitamin yang larut dalam air",
+        "subdrugs": [
+            {
+                "name": "Larutan Mengandung Fosfat dengan/tanpa vitamin yang larut dalam air - N/A N/A",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "PARENTERAL",
+                "nama obat": "Larutan Mengandung Fosfat dengan/tanpa vitamin yang larut dalam air",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Digunakan pada pasien dengan hipofosfatemia yang tidak bisa diatasi dengan pemberian per oral, termasuk neonatus."
+            }
+        ]
+    },
+    {
+        "name": "Larutan Mengandung Karbohidrat",
+        "subdrugs": [
+            {
+                "name": "Larutan Mengandung Karbohidrat - N/A N/A",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "PARENTERAL",
+                "nama obat": "Larutan Mengandung Karbohidrat",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "Larutan Mengandung Karbohidrat+Elektrolit",
+        "subdrugs": [
+            {
+                "name": "Larutan Mengandung Karbohidrat+Elektrolit - N/A N/A",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "PARENTERAL",
+                "nama obat": "Larutan Mengandung Karbohidrat+Elektrolit",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "Larutan Mengandung Lipid",
+        "subdrugs": [
+            {
+                "name": "Larutan Mengandung Lipid - N/A N/A",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "PARENTERAL",
+                "nama obat": "Larutan Mengandung Lipid",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "Larutan Mengandung Vitamin yang larut dalam lemak (Vitamin A, D, E, K)",
+        "subdrugs": [
+            {
+                "name": "Larutan Mengandung Vitamin yang larut dalam lemak (Vitamin A, D, E, K) - N/A N/A",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "PARENTERAL",
+                "nama obat": "Larutan Mengandung Vitamin yang larut dalam lemak (Vitamin A, D, E, K)",
+                "sediaan": "N/A",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "latanoprost",
+        "subdrugs": [
+            {
+                "name": "latanoprost - TETES MATA 0,005 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIOTIK dan ANTIGLAUKOMA",
+                "nama obat": "latanoprost",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,005",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/bulan.",
+                "restriksi obat": "Hanya untuk pasien glaukoma yang tidak memberikan respons pada timolol."
+            }
+        ]
+    },
+    {
+        "name": "leflunomid",
+        "subdrugs": [
+            {
+                "name": "leflunomid - TABLET SALUT SELAPUT 20 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "leflunomid",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "a) Untuk pasien RA (Rheumatoid Arthritis) atau artritis psoriatik yang gagal atau intoleran dengan metotreksat sebagai pilihan pertama. Obat ini tidak untuk initial treatment.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu reumatologi atau penyakit dalam."
+            }
+        ]
+    },
+    {
+        "name": "lenalidomid",
+        "subdrugs": [
+            {
+                "name": "lenalidomid - KAPSUL 10 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antineoplastik Lain",
+                "nama obat": "lenalidomid",
+                "sediaan": "KAPSUL",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 20 mg/hari.",
+                "restriksi obat": "a) Digunakan bersama dengan deksametason untuk Multiple Myeloma pada pasien yang belum pernah mendapat terapi dan tidak memenuhi syarat untuk transplantasi.\nb) Digunakan bersama dengan melfalan dan prednison untuk Multiple Myeloma pada pasien â‰¥ 65 tahun yang belum pernah mendapat terapi dan tidak memenuhi syarat untuk transplantasi.\nc) Digunakan bersama dengan deksametason untuk Multiple Myeloma pada pasien yang relapse atau mengalami progressive disease setelah mendapat terapi utama.\nd) Digunakan sebagai monoterapi pada pasien dewasa dengan anemia yang bergantung pada transfusi darah karena Myelodysplastic syndrome (MDS) dengan kelompok risiko rendah atau intermediate-1, dimana MDS tersebut terkait dengan adanya kelainan sitogenetik delesi 5q serta tidak ada pilihan terapi yang lain.\ne) Sangat diperlukan kehati-hatian terhadap risiko terjadinya trombosis."
+            },
+            {
+                "name": "lenalidomid - KAPSUL 15 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antineoplastik Lain",
+                "nama obat": "lenalidomid",
+                "sediaan": "KAPSUL",
+                "kekuatan": "15",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 20 mg/hari.",
+                "restriksi obat": "a) Digunakan bersama dengan deksametason untuk Multiple Myeloma pada pasien yang belum pernah mendapat terapi dan tidak memenuhi syarat untuk transplantasi.\nb) Digunakan bersama dengan melfalan dan prednison untuk Multiple Myeloma pada pasien â‰¥ 65 tahun yang belum pernah mendapat terapi dan tidak memenuhi syarat untuk transplantasi.\nc) Digunakan bersama dengan deksametason untuk Multiple Myeloma pada pasien yang relapse atau mengalami progressive disease setelah mendapat terapi utama.\nd) Digunakan sebagai monoterapi pada pasien dewasa dengan anemia yang bergantung pada transfusi darah karena Myelodysplastic syndrome (MDS) dengan kelompok risiko rendah atau intermediate-1, dimana MDS tersebut terkait dengan adanya kelainan sitogenetik delesi 5q serta tidak ada pilihan terapi yang lain.\ne) Sangat diperlukan kehati-hatian terhadap risiko terjadinya trombosis."
+            }
+        ]
+    },
+    {
+        "name": "lenograstim",
+        "subdrugs": [
+            {
+                "name": "lenograstim - SERBUK INJEKSI 263 MICROGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "HEMATOPOETIK",
+                "nama obat": "lenograstim",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "263",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/hari selama 5 hari.",
+                "restriksi obat": "a) Hanya untuk leukopenia berat pra dan pascakemoterapi (leukosit kurang dari 4.000/mm³ dan neutrofil kurang dari 1.500/mm³).\nb) Pemakaian protokol FLAG dan RICE."
+            }
+        ]
+    },
+    {
+        "name": "lenvatinib",
+        "subdrugs": [
+            {
+                "name": "lenvatinib - KAPSUL 10 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "lenvatinib",
+                "sediaan": "KAPSUL",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Untuk HCC: maksimal 12 mg (BB â‰¥ 60 kg) atau 8 mg (BB < 60 kg), satu kali sehari diberikan hingga progresi penyakit atau toksisitas yang tidak dapat diterima oleh pasien. \n- Untuk DTC: maksimal 24 mg, satu kali sehari diberikan hingga progresi penyakit atau toksisitas yang tidak dapat diterima oleh pasien.",
+                "restriksi obat": "a) Untuk pasien differentiated thyroid carcinoma (DTC):\n-Â Digunakan pada pasien DTC yang progresif, locally advanced atau metastatik, dan tidak memberikan respons terhadap radio ablasi interna (refrakter). Dibuktikan dengan hasil pemeriksaan histopatologi DTC (papillary/follicular/Hurthle cell).\n-Â Â Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu onkologi.\natau\nb) Untuk pasien hepatocellular carcinoma (HCC):\n- Digunakan sebagai monoterapi pada pasien advanced atau unresectable HCC yang belum pernah mendapat terapi sistemik sebelumnya.\n- Tidak diberikan untuk pasien dengan ukuran tumor > 50% dari ukuran hati.\n- Child-Pugh A.\n- ECOG performance status (PS) 0 atau 1.\n- Tidak mengenai sistem bilier.\n- Tidak ada trombus pada vena porta utama.\n- Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero hepatologi, atau hematologi onkologi medik, atau penyakit dalam."
+            },
+            {
+                "name": "lenvatinib - KAPSUL 4 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "lenvatinib",
+                "sediaan": "KAPSUL",
+                "kekuatan": "4",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Untuk HCC: maksimal 12 mg (BB â‰¥ 60 kg) atau 8 mg (BB < 60 kg), satu kali sehari diberikan hingga progresi penyakit atau toksisitas yang tidak dapat diterima oleh pasien. \n- Untuk DTC: maksimal 24 mg, satu kali sehari diberikan hingga progresi penyakit atau toksisitas yang tidak dapat diterima oleh pasien.",
+                "restriksi obat": "a) Untuk pasien differentiated thyroid carcinoma (DTC):\n-Â Digunakan pada pasien DTC yang progresif, locally advanced atau metastatik, dan tidak memberikan respons terhadap radio ablasi interna (refrakter). Dibuktikan dengan hasil pemeriksaan histopatologi DTC (papillary/follicular/Hurthle cell).\n-Â Â Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu onkologi.\natau\nb) Untuk pasien hepatocellular carcinoma (HCC):\n- Digunakan sebagai monoterapi pada pasien advanced atau unresectable HCC yang belum pernah mendapat terapi sistemik sebelumnya.\n- Tidak diberikan untuk pasien dengan ukuran tumor > 50% dari ukuran hati.\n- Child-Pugh A.\n- ECOG performance status (PS) 0 atau 1.\n- Tidak mengenai sistem bilier.\n- Tidak ada trombus pada vena porta utama.\n- Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero hepatologi, atau hematologi onkologi medik, atau penyakit dalam."
+            }
+        ]
+    },
+    {
+        "name": "letrozol",
+        "subdrugs": [
+            {
+                "name": "letrozol - TABLET 2,5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "leuprorelin asetat",
+        "subdrugs": [
+            {
+                "name": "leuprorelin asetat - SERBUK INJEKSI 11,25 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "TERAPI ENDOKRIN",
+                "sub sub kelas terapi": "Hormon Dan Senyawa Sejenis",
+                "nama obat": "leuprorelin asetat",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "11,25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/3 bulan.",
+                "restriksi sediaan": "a) Dapat digunakan untuk kanker payudara dengan hormonal reseptor ER dan/atau PR positif premenopause. \nb) Dapat digunakan untuk kanker prostat, boleh diberikan bersama dengan bikalutamid tab 50 mg."
+            },
+            {
+                "name": "leuprorelin asetat - SERBUK INJEKSI 1,88 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "leuprorelin asetat",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "1,88",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/bulan selama 3 bulan.",
+                "restriksi obat": "Untuk endometriosis, adenomiosis atau mioma uteri."
+            },
+            {
+                "name": "leuprorelin asetat - SERBUK INJEKSI 22,5 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "TERAPI ENDOKRIN",
+                "sub sub kelas terapi": "Hormon Dan Senyawa Sejenis",
+                "nama obat": "leuprorelin asetat",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "22,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/3 bulan.",
+                "restriksi sediaan": "a) Diagnosis ditegakkan dengan pemeriksaan hasil PA.\nb) Diberikan di FPKTL yang dapat melakukan pemeriksaan PSA.\nc) Dapat digunakan untuk kanker prostat, boleh diberikan bersama dengan bikalutamid tab 50 mg."
+            },
+            {
+                "name": "leuprorelin asetat - SERBUK INJEKSI 3,75 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "leuprorelin asetat",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "3,75",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/bulan selama 3 bulan.",
+                "restriksi obat": "Untuk endometriosis, adenomiosis atau mioma uteri."
+            },
+            {
+                "name": "leuprorelin asetat - SERBUK INJEKSI 3,75 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "TERAPI ENDOKRIN",
+                "sub sub kelas terapi": "Hormon Dan Senyawa Sejenis",
+                "nama obat": "leuprorelin asetat",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "3,75",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/bulan.",
+                "restriksi sediaan": "a) Dapat digunakan untuk kanker payudara dengan hormonal reseptor ER dan/atau PR positif premenopause. \nb) Dapat digunakan untuk kanker prostat, boleh diberikan bersama dengan bikalutamid tab 50 mg.\nc) Dapat digunakan untuk terapi pubertas prekoks disertai dengan pemeriksaan 2 dari 3 tanda-tanda seks sekunder pubertas prekoks.\nd) Kadar LH basal pada awal terdiagnosis adalah > 0,83 IU/L pada perempuan dan > 0,6 IU/L pada lelaki."
+            },
+            {
+                "name": "leuprorelin asetat - SERBUK INJEKSI 7,5 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "TERAPI ENDOKRIN",
+                "sub sub kelas terapi": "Hormon Dan Senyawa Sejenis",
+                "nama obat": "leuprorelin asetat",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "7,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/bulan.",
+                "restriksi sediaan": "a) Diagnosis ditegakkan dengan pemeriksaan hasil PA.\nb) Diberikan di FPKTL yang dapat melakukan pemeriksaan PSA.\nc) Dapat digunakan untuk kanker prostat, boleh diberikan bersama dengan bikalutamid tab 50 mg."
+            }
+        ]
+    },
+    {
+        "name": "levetirasetam",
+        "subdrugs": [
+            {
+                "name": "levetirasetam - INJEKSI 100 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "levetirasetam",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 vial/kasus.",
+                "restriksi obat": "Sebagai terapi tambahan pada pasien epilepsi onset parsial."
+            },
+            {
+                "name": "levetirasetam - TABLET 250 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "levetirasetam",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Sebagai terapi tambahan pada pasien epilepsi onset parsial."
+            },
+            {
+                "name": "levetirasetam - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIEPILEPSI - ANTIKONVULSI",
+                "nama obat": "levetirasetam",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "180 tab/bulan.",
+                "restriksi obat": "Sebagai terapi tambahan pada pasien epilepsi onset parsial."
+            }
+        ]
+    },
+    {
+        "name": "levofloksasin",
+        "subdrugs": [
+            {
+                "name": "levofloksasin - INFUS 5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kuinolon",
+                "nama obat": "levofloksasin",
+                "sediaan": "INFUS",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi obat": "Tidak digunakan untuk pasien usia \n< 18 tahun, ibu hamil, atau ibu \nmenyusui."
+            },
+            {
+                "name": "levofloksasin - TABLET SALUT SELAPUT 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Kuinolon",
+                "nama obat": "levofloksasin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi obat": "Tidak digunakan untuk pasien usia \n< 18 tahun, ibu hamil, atau ibu \nmenyusui."
+            },
+            {
+                "name": "levofloksasin - TETES MATA 0,5 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "levofloksasin",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,5",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya digunakan untuk operasi intraokular, keratitis, operasi katarak atau infeksi berat."
+            }
+        ]
+    },
+    {
+        "name": "levonorgestrel",
+        "subdrugs": [
+            {
+                "name": "levonorgestrel - IMPLANT 2 RODS @ 75 MILIGRAM (3-4 tahun)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Kontrasepsi",
+                "sub sub sub kelas terapi": "Kontrasepsi, Implan",
+                "nama obat": "levonorgestrel",
+                "sediaan": "IMPLANT 2 RODS",
+                "kekuatan": "@ 75",
+                "satuan": "MILIGRAM (3-4 tahun)",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh program BKKBN."
+            },
+            {
+                "name": "levonorgestrel - IMPLANT 1 ROD 160 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Kontrasepsi",
+                "sub sub sub kelas terapi": "Kontrasepsi, Implan",
+                "nama obat": "levonorgestrel",
+                "sediaan": "IMPLANT 1 ROD",
+                "kekuatan": "160",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh program BKKBN."
+            }
+        ]
+    },
+    {
+        "name": "levotiroksin",
+        "subdrugs": [
+            {
+                "name": "levotiroksin - TABLET 100 MICROGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON TIROID dan ANTITIROID",
+                "nama obat": "levotiroksin",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "levotiroksin - TABLET 150 MICROGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON TIROID dan ANTITIROID",
+                "nama obat": "levotiroksin",
+                "sediaan": "TABLET",
+                "kekuatan": "150",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "levotiroksin - TABLET 25 MICROGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON TIROID dan ANTITIROID",
+                "nama obat": "levotiroksin",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk substitusi 150âˆ’200 mcg/hari. 90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "levotiroksin - TABLET 50 MICROGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON TIROID dan ANTITIROID",
+                "nama obat": "levotiroksin",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk substitusi 150âˆ’200 mcg/hari. 90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "lidokain",
+        "subdrugs": [
+            {
+                "name": "lidokain - GEL 2 PERSEN"
+            },
+            {
+                "name": "lidokain - INJEKSI 2 PERSEN"
+            },
+            {
+                "name": "lidokain - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIARITMIA",
+                "nama obat": "lidokain",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "lidokain - SPRAY TOPIKAL 10 PERSEN",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "ANESTETIK LOKAL",
+                "nama obat": "lidokain",
+                "sediaan": "SPRAY TOPIKAL",
+                "kekuatan": "10",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "lidokain - SPRAY TOPIKAL 10 PERSEN",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "PREPARAT LAINNYA",
+                "nama obat": "lidokain",
+                "sediaan": "SPRAY TOPIKAL",
+                "kekuatan": "10",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "lidokain - SPRAY TOPIKAL 10 PERSEN",
+                "kelas terapi": "OBAT untuk TELINGA, HIDUNG, dan TENGGOROK",
+                "nama obat": "lidokain",
+                "sediaan": "SPRAY TOPIKAL",
+                "kekuatan": "10",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "linestrenol",
+        "subdrugs": [
+            {
+                "name": "linestrenol - TABLET 0,5 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "HORMON KELAMIN dan OBAT yang MEMENGARUHI FERTILITAS",
+                "sub sub kelas terapi": "Kontrasepsi",
+                "sub sub sub kelas terapi": "Kontrasepsi, Oral",
+                "nama obat": "linestrenol",
+                "sediaan": "TABLET",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "linestrenol - TABLET 5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "liquor carbonis detergens",
+        "subdrugs": [
+            {
+                "name": "liquor carbonis detergens - LARUTAN 5 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "liquor carbonis detergens",
+                "sediaan": "LARUTAN",
+                "kekuatan": "5",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "lisinopril",
+        "subdrugs": [
+            {
+                "name": "lisinopril - TABLET 10 MILIGRAM"
+            },
+            {
+                "name": "lisinopril - TABLET 5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "litium karbonat",
+        "subdrugs": [
+            {
+                "name": "litium karbonat - TABLET 200 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "OBAT untuk GANGGUAN BIPOLAR",
+                "nama obat": "litium karbonat",
+                "sediaan": "TABLET",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "180 tab/bulan.",
+                "restriksi obat": "Harus dilakukan pemeriksaan fungsi ginjal (creatinin clearance > 60 mL/min)."
+            },
+            {
+                "name": "litium karbonat - TABLET 400 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "OBAT untuk GANGGUAN BIPOLAR",
+                "nama obat": "litium karbonat",
+                "sediaan": "TABLET",
+                "kekuatan": "400",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi obat": "Harus dilakukan pemeriksaan fungsi ginjal (creatinin clearance > 60 mL/min)."
+            }
+        ]
+    },
+    {
+        "name": "loperamid",
+        "subdrugs": [
+            {
+                "name": "loperamid - TABLET 2 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "loratadin",
+        "subdrugs": [
+            {
+                "name": "loratadin - TABLET 10 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "lorazepam",
+        "subdrugs": [
+            {
+                "name": "lorazepam - TABLET 0,5 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIANSIETAS",
+                "nama obat": "lorazepam",
+                "sediaan": "TABLET",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "lorazepam - TABLET 1 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIANSIETAS",
+                "nama obat": "lorazepam",
+                "sediaan": "TABLET",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "lorazepam - TABLET 2 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIANSIETAS",
+                "nama obat": "lorazepam",
+                "sediaan": "TABLET",
+                "kekuatan": "2",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "low molecule ferri sucrose",
+        "subdrugs": [
+            {
+                "name": "low molecule ferri sucrose - INJEKSI 20 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "ANTIANEMI",
+                "nama obat": "low molecule ferri sucrose",
+                "sediaan": "INJEKSI",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk kasus dialisis dengan defisiensi zat besi dan kadar Hb < 10 g/dL."
+            }
+        ]
+    }
+]

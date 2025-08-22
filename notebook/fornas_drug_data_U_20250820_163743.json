@@ -1,0 +1,13 @@
+[
+    {
+        "name": "urea",
+        "subdrugs": [
+            {
+                "name": "urea - KRIM 10 PERSEN"
+            },
+            {
+                "name": "urea - KRIM 20 PERSEN"
+            }
+        ]
+    }
+]

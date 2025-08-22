@@ -1,0 +1,1894 @@
+[
+    {
+        "name": "abakavir",
+        "subdrugs": [
+            {
+                "name": "abakavir - TABLET 300 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiretroviral",
+                "sub sub sub kelas terapi": "Nucleoside Reverse Transcriptase Inhibitor (NRTI)",
+                "nama obat": "abakavir",
+                "sediaan": "TABLET",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub sub kelas terapi": "Catatan: Disediakan oleh Program Kemenkes"
+            }
+        ]
+    },
+    {
+        "name": "adenosin",
+        "subdrugs": [
+            {
+                "name": "adenosin - INJEKSI 3 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIARITMIA",
+                "nama obat": "adenosin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "3",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 5 ampul.",
+                "restriksi obat": "a) Digunakan untuk mengatasi SVT (dibuktikan dengan EKG).\nb) Digunakan untuk uji pembebanan jantung."
+            }
+        ]
+    },
+    {
+        "name": "afatinib",
+        "subdrugs": [
+            {
+                "name": "afatinib - TABLET SALUT SELAPUT 20 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "afatinib",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Obat dihentikan jika respons terhadap obat kurang dari 50%, setelah 3 siklus.",
+                "restriksi obat": "a) Untuk NSCLC jenis non squamous yang locally advanced atau metastatik dengan EGFR exon 19 delesi atau mutasi subsitusi exon 21 (L858R atau L861Q), substitusi exon 18 (G719X), atau substitusi mutasi exon 20 (S⁷⁶⁸¹), pada pasien yang belum pernah mendapatkan TKI sebelumnya.\nb) Dosis terapi adalah 40 mg, diberikan 1x¹ sehari.\nc) Tidak digunakan sebagai lini kedua.\nd) Jika terjadi progresi pada salah satu (gefitinib, erlotinib, atau afatinib), maka tidak dapat diganti dengan obat-obat tersebut.",
+                "restriksi sediaan": "Dosis 20 mg bukan dosis terapeutik tetapi digunakan apabila muncul efek samping. Dosis dikembalikan ke 40 mg untuk mendapat efikasi yang diharapkan."
+            },
+            {
+                "name": "afatinib - TABLET SALUT SELAPUT 30 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "afatinib",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "Obat dihentikan jika respons terhadap obat kurang dari 50%, setelah 3 siklus.",
+                "restriksi obat": "a) Untuk NSCLC jenis non squamous yang locally advanced atau metastatik dengan EGFR exon 19 delesi atau mutasi subsitusi exon 21 (L858R atau L861Q), substitusi exon 18 (G719X), atau substitusi mutasi exon 20 (S⁷⁶⁸¹), pada pasien yang belum pernah mendapatkan TKI sebelumnya.\nb) Dosis terapi adalah 40 mg, diberikan 1x¹ sehari.\nc) Tidak digunakan sebagai lini kedua.\nd) Jika terjadi progresi pada salah satu (gefitinib, erlotinib, atau afatinib), maka tidak dapat diganti dengan obat-obat tersebut.",
+                "restriksi sediaan": "Dosis 30 mg bukan dosis terapeutik tetapi digunakan apabila muncul efek samping. Dosis dikembalikan ke 40 mg untuk mendapat efikasi yang diharapkan."
+            },
+            {
+                "name": "afatinib - TABLET SALUT SELAPUT 40 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "afatinib",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "- 30 tab/bulan.\n- Obat dihentikan jika respons terhadap obat kurang dari 50%, setelah 3 siklus.",
+                "restriksi obat": "a) Untuk NSCLC jenis non squamous yang locally advanced atau metastatik dengan EGFR exon 19 delesi atau mutasi subsitusi exon 21 (L858R atau L861Q), substitusi exon 18 (G719X), atau substitusi mutasi exon 20 (S⁷⁶⁸¹), pada pasien yang belum pernah mendapatkan TKI sebelumnya.\nb) Dosis terapi adalah 40 mg, diberikan 1x¹ sehari.\nc) Tidak digunakan sebagai lini kedua.\nd) Jika terjadi progresi pada salah satu (gefitinib, erlotinib, atau afatinib), maka tidak dapat diganti dengan obat-obat tersebut."
+            }
+        ]
+    },
+    {
+        "name": "air steril untuk injeksi",
+        "subdrugs": [
+            {
+                "name": "air steril untuk injeksi - CAIRAN INJEKSI N/A",
+                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "air steril untuk injeksi",
+                "sediaan": "CAIRAN INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "air untuk irigasi",
+        "subdrugs": [
+            {
+                "name": "air untuk irigasi - INFUS N/A"
+            }
+        ]
+    },
+    {
+        "name": "akarbose",
+        "subdrugs": [
+            {
+                "name": "akarbose - TABLET 100 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Oral",
+                "nama obat": "akarbose",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "akarbose - TABLET 50 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Oral",
+                "nama obat": "akarbose",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "akuades",
+        "subdrugs": [
+            {
+                "name": "akuades - CAIRAN 500 MILILITER",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "PREPARAT LAINNYA",
+                "nama obat": "akuades",
+                "sediaan": "CAIRAN",
+                "kekuatan": "500",
+                "satuan": "MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "albendazol",
+        "subdrugs": [
+            {
+                "name": "albendazol - SUSPENSI 200 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTELMINTIK",
+                "sub sub kelas terapi": "Antelmintik Intestinal",
+                "nama obat": "albendazol",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "albendazol - SUSPENSI 400 MILIGRAM / 20 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTELMINTIK",
+                "sub sub kelas terapi": "Antelmintik Intestinal",
+                "nama obat": "albendazol",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "400",
+                "satuan": "MILIGRAM / 20 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "albendazol - TABLET 400 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTELMINTIK",
+                "sub sub kelas terapi": "Antelmintik Intestinal",
+                "nama obat": "albendazol",
+                "sediaan": "TABLET",
+                "kekuatan": "400",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "albumin serum normal (human albumin)",
+        "subdrugs": [
+            {
+                "name": "albumin serum normal (human albumin) - INJEKSI 20 PERSEN",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PENGGANTI PLASMA dan PLASMA EKSPANDER",
+                "nama obat": "albumin serum normal (human albumin)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "20",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Dapat digunakan pada salah satu atau lebih kondisi berikut:\na) Kadar albumin < 2,5 g/dL.\nb) Kadar albumin < 2,5 g/dL pada sindrom nefrotik yang disertai edema anasarka dan/atau renjatan.\nc) Diberikan apabila terdapat kondisi presyok atau syok, dan/atau untuk kasus asites masif dengan penekanan organ pernapasan atau perut."
+            },
+            {
+                "name": "albumin serum normal (human albumin) - INJEKSI 25 PERSEN",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PENGGANTI PLASMA dan PLASMA EKSPANDER",
+                "nama obat": "albumin serum normal (human albumin)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "25",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Dapat digunakan pada salah satu atau lebih kondisi berikut:\na) Kadar albumin < 2,5 g/dL.\nb) Kadar albumin < 2,5 g/dL pada sindrom nefrotik yang disertai edema anasarka dan/atau renjatan.\nc) Diberikan apabila terdapat kondisi presyok atau syok, dan/atau untuk kasus asites masif dengan penekanan organ pernapasan atau perut."
+            },
+            {
+                "name": "albumin serum normal (human albumin) - INJEKSI 5 PERSEN",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PENGGANTI PLASMA dan PLASMA EKSPANDER",
+                "nama obat": "albumin serum normal (human albumin)",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Diberikan selama 24 jam. Perhitungkan kebutuhan albumin berdasarkan BB.",
+                "restriksi sediaan": "a) Untuk luka bakar tingkat 2 (luas permukaan terbakar lebih dari 30%) dan kadar albumin < 2,5 g/dL.\natau\nb) Untuk plasmaferesis."
+            }
+        ]
+    },
+    {
+        "name": "alektinib",
+        "subdrugs": [
+            {
+                "name": "alektinib - KAPSUL 150 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Penghambat Protein Kinase",
+                "nama obat": "alektinib",
+                "sediaan": "KAPSUL",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "240 kapsul/bulan.",
+                "restriksi obat": "a) Hanya untuk kanker paru dengan ALK positif yang locally advanced atau metastatik NSCLC pada pasien yang belum pernah mendapatkan obat golongan penghambat (inhibitor) mutasi gen ALK positif sebelumnya.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi dan onkologi medik, atau onkologi lain, atau penyakit dalam, atau penyakit paru."
+            }
+        ]
+    },
+    {
+        "name": "alendronat",
+        "subdrugs": [
+            {
+                "name": "alendronat - TABLET 70 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI STRUKTUR dan MINERALISASI TULANG",
+                "nama obat": "alendronat",
+                "sediaan": "TABLET",
+                "kekuatan": "70",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "4 tab/bulan.",
+                "restriksi obat": "a) Pasien dengan osteoporosis, hasil pemeriksaan BMD DXA, T score < -2,5 (bukan BMD ultrasound); atau\nb) Riwayat fraktur osteoporosis."
+            }
+        ]
+    },
+    {
+        "name": "alopurinol",
+        "subdrugs": [
+            {
+                "name": "alopurinol - TABLET 100 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANTIPIRAI",
+                "nama obat": "alopurinol",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi obat": "Tidak diberikan pada saat nyeri akut."
+            },
+            {
+                "name": "alopurinol - TABLET 300 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANTIPIRAI",
+                "nama obat": "alopurinol",
+                "sediaan": "TABLET",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi obat": "Tidak diberikan pada saat nyeri akut."
+            }
+        ]
+    },
+    {
+        "name": "alprazolam",
+        "subdrugs": [
+            {
+                "name": "alprazolam - TABLET 0,25 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIANSIETAS",
+                "nama obat": "alprazolam",
+                "sediaan": "TABLET",
+                "kekuatan": "0,25",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 2 minggu/kasus, 30 tab/bulan.",
+                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu kedokteran jiwa atau penyakit dalam.\nb) Hanya untuk kasus:\n- Panic attack\n- Panic disorder"
+            },
+            {
+                "name": "alprazolam - TABLET 0,5 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIANSIETAS",
+                "nama obat": "alprazolam",
+                "sediaan": "TABLET",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 2 minggu/kasus, 30 tab/bulan.",
+                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu kedokteran jiwa atau penyakit dalam.\nb) Hanya untuk kasus:\n- Panic attack\n- Panic disorder"
+            },
+            {
+                "name": "alprazolam - TABLET 1 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIANSIETAS",
+                "nama obat": "alprazolam",
+                "sediaan": "TABLET",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "Maks 2 minggu/kasus, 30 tab/bulan.",
+                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu kedokteran jiwa atau penyakit dalam.\nb) Hanya untuk kasus:\n- Panic attack\n- Panic disorder"
+            }
+        ]
+    },
+    {
+        "name": "alteplase",
+        "subdrugs": [
+            {
+                "name": "alteplase - SERBUK INJEKSI 50 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "TROMBOLITIK",
+                "nama obat": "alteplase",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Untuk infark miokard akut dengan onset < 12 jam.\nb) Untuk stroke non hemoragik dengan onset < 4,5 jam.Untuk stroke non hemoragik dengan onset < 4,5 jam.\nc) Dapat diberikan di FPKTL yang memiliki fasilitas ICCU/ICU/unit stroke.\nd) Kontraindikasi: tidak digunakan untuk stroke iskemik dengan riwayat perdarahan intrakranial dan cedera kepala berat dalam waktu 3 bulan terakhir, operasi mayor dalam waktu 3 bulan terakhir, riwayat gangguan koagulasi, hipertensi yang tidak terkendali."
+            }
+        ]
+    },
+    {
+        "name": "amfoterisin B",
+        "subdrugs": [
+            {
+                "name": "amfoterisin B - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "amfoterisin B",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "amfoterisin B - INJEKSI 50 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "amfoterisin B",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 x 1 vial selama 14 hari.",
+                "restriksi sediaan": "a) Disediakan oleh Program Kemenkes.\nb) Digunakan oleh ODHIV yang mengalami Infeksi oportunistik jenis meningitis karena cryptococcus.\nc) Digunakan untuk kondisi sub akut cryptococcus.\nd) Pengobatan selama 14 hari."
+            },
+            {
+                "name": "amfoterisin B - SALEP MATA 1 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "amfoterisin B",
+                "sediaan": "SALEP MATA",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "amikasin",
+        "subdrugs": [
+            {
+                "name": "amikasin - INJEKSI 250 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Aminoglikosida",
+                "nama obat": "amikasin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya digunakan untuk infeksi oleh bakteri gram negatif yang resistan terhadap gentamisin."
+            },
+            {
+                "name": "amikasin - INJEKSI 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antituberkulosis",
+                "nama obat": "amikasin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan:\na) Disediakan oleh Program Kemenkes.\nb) Penggunaan sesuai dengan Program Nasional Pengendalian TB.",
+                "restriksi obat": "Digunakan untuk paduan pengobatan pasien TB resistan obat (TB-RO)."
+            }
+        ]
+    },
+    {
+        "name": "aminofilin",
+        "subdrugs": [
+            {
+                "name": "aminofilin - INJEKSI 24 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "aminofilin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "24",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "pp": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "aminofilin - TABLET 150 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "aminofilin",
+                "sediaan": "TABLET",
+                "kekuatan": "150",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "aminofilin - TABLET 200 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "ANTIASMA",
+                "nama obat": "aminofilin",
+                "sediaan": "TABLET",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "amiodaron",
+        "subdrugs": [
+            {
+                "name": "amiodaron - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIARITMIA",
+                "nama obat": "amiodaron",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "Untuk kasus rawat inap."
+            },
+            {
+                "name": "amiodaron - TABLET 200 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIARITMIA",
+                "nama obat": "amiodaron",
+                "sediaan": "TABLET",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "amitriptilin",
+        "subdrugs": [
+            {
+                "name": "amitriptilin - TABLET 25 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "NYERI NEUROPATIK",
+                "nama obat": "amitriptilin",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "amitriptilin - TABLET 25 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIDEPRESI",
+                "nama obat": "amitriptilin",
+                "sediaan": "TABLET",
+                "kekuatan": "25",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "amlodipin",
+        "subdrugs": [
+            {
+                "name": "amlodipin - TABLET 10 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "amlodipin",
+                "sediaan": "TABLET",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "amlodipin - TABLET 5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "amoksisilin",
+        "subdrugs": [
+            {
+                "name": "amoksisilin - DROPS 100 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "amoksisilin",
+                "sediaan": "DROPS",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "amoksisilin - SIRUP KERING 125 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "amoksisilin",
+                "sediaan": "SIRUP KERING",
+                "kekuatan": "125",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "amoksisilin - SIRUP KERING 250 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "amoksisilin",
+                "sediaan": "SIRUP KERING",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 btl/kasus.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "amoksisilin - TABLET 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "amoksisilin",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "amoksisilin - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "amoksisilin",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "ampisilin",
+        "subdrugs": [
+            {
+                "name": "ampisilin - INJEKSI 1 MILIGRAM"
+            },
+            {
+                "name": "ampisilin - INJEKSI 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Beta laktam",
+                "nama obat": "ampisilin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "pp": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "10 hari.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "Analog Insulin Basal: insulin detemir",
+        "subdrugs": [
+            {
+                "name": "Analog Insulin Basal: insulin detemir - INJEKSI 100 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Analog Insulin Basal: insulin detemir",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dalam kondisi tertentu, Dokter di FPKTP dapat melakukan penyesuaian dosis (titrasi) insulin basal hingga 20 IU/hari.",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia.",
+                "restriksi obat": "a) Pasien diabetes melitus tipe 2 yang sudah diberikan kombinasi metformin dan obat diabetes oral lainnya dengan dosis optimal masing-masing obat telah diberikan minimal dalam 3 bulan namun kadar glukosa darahnya belum terkendali (HbA1C > 7,5% atau gula darah rerata > 169 mg/dL).\natau\nb) Pasien diabetes melitus tipe 2 dengan kadar HbA1C nya > 9% disertai dengan gejala-gejala dekompensasi metabolik.\nc) Pemberian insulin pada (a) dan (b) dapat dilanjutkan untuk pasien diabetes melitus tipe 2, jika insulin dibutuhkan untuk mempertahankan pengendalian glukosa darah."
+            }
+        ]
+    },
+    {
+        "name": "Analog Insulin Basal: insulin glargine",
+        "subdrugs": [
+            {
+                "name": "Analog Insulin Basal: insulin glargine - INJEKSI 100 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Analog Insulin Basal: insulin glargine",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dalam kondisi tertentu, Dokter di FPKTP dapat melakukan penyesuaian dosis (titrasi) insulin basal hingga 20 IU/hari.",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia.",
+                "restriksi obat": "a) Pasien diabetes melitus tipe 2 yang sudah diberikan kombinasi metformin dan obat diabetes oral lainnya dengan dosis optimal masing-masing obat telah diberikan minimal dalam 3 bulan namun kadar glukosa darahnya belum terkendali (HbA1C > 7,5% atau gula darah rerata > 169 mg/dL).\natau\nb) Pasien diabetes melitus tipe 2 dengan kadar HbA1C nya > 9% disertai dengan gejala-gejala dekompensasi metabolik.\nc) Pemberian insulin pada (a) dan (b) dapat dilanjutkan untuk pasien diabetes melitus tipe 2, jika insulin dibutuhkan untuk mempertahankan pengendalian glukosa darah."
+            },
+            {
+                "name": "Analog Insulin Basal: insulin glargine - INJEKSI 300 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Analog Insulin Basal: insulin glargine",
+                "sediaan": "INJEKSI",
+                "kekuatan": "300",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia.",
+                "restriksi obat": "a) Pasien diabetes melitus tipe 2 yang sudah diberikan kombinasi metformin dan obat diabetes oral lainnya dengan dosis optimal masing-masing obat telah diberikan minimal dalam 3 bulan namun kadar glukosa darahnya belum terkendali (HbA1C > 7,5% atau gula darah rerata > 169 mg/dL).\natau\nb) Pasien diabetes melitus tipe 2 dengan kadar HbA1C nya > 9% disertai dengan gejala-gejala dekompensasi metabolik.\nc) Pemberian insulin pada (a) dan (b) dapat dilanjutkan untuk pasien diabetes melitus tipe 2, jika insulin dibutuhkan untuk mempertahankan pengendalian glukosa darah."
+            }
+        ]
+    },
+    {
+        "name": "Analog Insulin Campuran: Co-formulation 70% insulin degludec (ultra-long acting insulin) dan 30% insulin aspart",
+        "subdrugs": [
+            {
+                "name": "Analog Insulin Campuran: Co-formulation 70% insulin degludec (ultra-long acting insulin) dan 30% insulin aspart - INJEKSI 100 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Analog Insulin Campuran: Co-formulation 70% insulin degludec (ultra-long acting insulin) dan 30% insulin aspart",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia.",
+                "restriksi obat": "a) Pasien diabetes melitus tipe 2 yang sudah diberikan kombinasi metformin dan obat diabetes oral lainnya dengan dosis optimal masing-masing obat telah diberikan minimal dalam 3 bulan namun kadar glukosa darahnya belum terkendali (HbA1C > 7,5% atau gula darah rerata > 169 mg/dL).\natau\nb) Pasien diabetes melitus tipe 2 dengan kadar HbA1C nya > 9% disertai dengan gejala-gejala dekompensasi metabolik.\nc) Pemberian insulin pada (a) dan (b) dapat dilanjutkan untuk pasien diabetes melitus tipe 2, jika insulin dibutuhkan untuk mempertahankan pengendalian glukosa darah."
+            }
+        ]
+    },
+    {
+        "name": "Analog Insulin Campuran: kombinasi 50% insulin protamine lispro dan 50% insulin lispro",
+        "subdrugs": [
+            {
+                "name": "Analog Insulin Campuran: kombinasi 50% insulin protamine lispro dan 50% insulin lispro - INJEKSI 100 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Analog Insulin Campuran: kombinasi 50% insulin protamine lispro dan 50% insulin lispro",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia.",
+                "restriksi obat": "a) Pasien diabetes melitus tipe 2 yang sudah diberikan kombinasi metformin dan obat diabetes oral lainnya dengan dosis optimal masing-masing obat telah diberikan minimal dalam 3 bulan namun kadar glukosa darahnya belum terkendali (HbA1C > 7,5% atau gula darah rerata > 169 mg/dL).\natau\nb) Pasien diabetes melitus tipe 2 dengan kadar HbA1C nya > 9% disertai dengan gejala-gejala dekompensasi metabolik.\nc) Pemberian insulin pada (a) dan (b) dapat dilanjutkan untuk pasien diabetes melitus tipe 2, jika insulin dibutuhkan untuk mempertahankan pengendalian glukosa darah."
+            }
+        ]
+    },
+    {
+        "name": "Analog Insulin Campuran: kombinasi 70% insulin protamine aspart dan 30% insulin aspart",
+        "subdrugs": [
+            {
+                "name": "Analog Insulin Campuran: kombinasi 70% insulin protamine aspart dan 30% insulin aspart - INJEKSI 100 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Analog Insulin Campuran: kombinasi 70% insulin protamine aspart dan 30% insulin aspart",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia.",
+                "restriksi obat": "a) Pasien diabetes melitus tipe 2 yang sudah diberikan kombinasi metformin dan obat diabetes oral lainnya dengan dosis optimal masing-masing obat telah diberikan minimal dalam 3 bulan namun kadar glukosa darahnya belum terkendali (HbA1C > 7,5% atau gula darah rerata > 169 mg/dL).\natau\nb) Pasien diabetes melitus tipe 2 dengan kadar HbA1C nya > 9% disertai dengan gejala-gejala dekompensasi metabolik.\nc) Pemberian insulin pada (a) dan (b) dapat dilanjutkan untuk pasien diabetes melitus tipe 2, jika insulin dibutuhkan untuk mempertahankan pengendalian glukosa darah."
+            }
+        ]
+    },
+    {
+        "name": "Analog Insulin Campuran: kombinasi 75% insulin protamine lispro dan 25% insulin lispro",
+        "subdrugs": [
+            {
+                "name": "Analog Insulin Campuran: kombinasi 75% insulin protamine lispro dan 25% insulin lispro - INJEKSI 100 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Analog Insulin Campuran: kombinasi 75% insulin protamine lispro dan 25% insulin lispro",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia.",
+                "restriksi obat": "a) Pasien diabetes melitus tipe 2 yang sudah diberikan kombinasi metformin dan obat diabetes oral lainnya dengan dosis optimal masing-masing obat telah diberikan minimal dalam 3 bulan namun kadar glukosa darahnya belum terkendali (HbA1C > 7,5% atau gula darah rerata > 169 mg/dL).\natau\nb) Pasien diabetes melitus tipe 2 dengan kadar HbA1C nya > 9% disertai dengan gejala-gejala dekompensasi metabolik.\nc) Pemberian insulin pada (a) dan (b) dapat dilanjutkan untuk pasien diabetes melitus tipe 2, jika insulin dibutuhkan untuk mempertahankan pengendalian glukosa darah."
+            }
+        ]
+    },
+    {
+        "name": "Analog Insulin Prandial: insulin aspart",
+        "subdrugs": [
+            {
+                "name": "Analog Insulin Prandial: insulin aspart - INJEKSI 100 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Analog Insulin Prandial: insulin aspart",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia."
+            }
+        ]
+    },
+    {
+        "name": "Analog Insulin Prandial: insulin glulisin",
+        "subdrugs": [
+            {
+                "name": "Analog Insulin Prandial: insulin glulisin - INJEKSI 100 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Analog Insulin Prandial: insulin glulisin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia."
+            }
+        ]
+    },
+    {
+        "name": "Analog Insulin Prandial: insulin lispro",
+        "subdrugs": [
+            {
+                "name": "Analog Insulin Prandial: insulin lispro - INJEKSI 100 INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Parenteral",
+                "nama obat": "Analog Insulin Prandial: insulin lispro",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "INTERNASIONAL UNIT / MILILITER (KEMASAN VIAL, DISPOSABLE CARTRIDGE, PENFILL CARTRIDGE)",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "a) Dapat digunakan untuk pasien DM tipe 1 atau DM tipe 2.\nb) Untuk DM tipe 1 dapat dimulai dengan Human Insulin atau Analog Insulin.\nc) Wanita hamil yang memerlukan insulin maka diutamakan menggunakan human insulin.\nd) Diperlukan kehati-hatian terhadap risiko terjadinya hipoglikemia yang penanganannya merujuk pada penatalaksanaan hipoglikemia."
+            }
+        ]
+    },
+    {
+        "name": "anastrozol",
+        "subdrugs": [
+            {
+                "name": "anastrozol - TABLET 1 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "anestetik lokal gigi, kombinasi KDT/FDC mengandung lidokain dan epinefrin",
+        "subdrugs": [
+            {
+                "name": "anestetik lokal gigi, kombinasi KDT/FDC mengandung lidokain dan epinefrin - INJEKSI 2 MILILITER",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "PREPARAT LAINNYA",
+                "nama obat": "anestetik lokal gigi, kombinasi KDT/FDC mengandung lidokain dan epinefrin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "2",
+                "satuan": "MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "lidokain 2 %\nepinefrin 1:80.000",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "antasida, kombinasi aluminium hidroksida dan magnesium hidroksida",
+        "subdrugs": [
+            {
+                "name": "antasida, kombinasi aluminium hidroksida dan magnesium hidroksida - SUSPENSI 200;200 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTASIDA dan ANTIULKUS",
+                "nama obat": "antasida, kombinasi aluminium hidroksida dan magnesium hidroksida",
+                "sediaan": "SUSPENSI",
+                "kekuatan": "200;200",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "aluminium hidroksida 200 mg\nmagnesium hidroksida 20 mg",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "antasida, kombinasi aluminium hidroksida dan magnesium hidroksida - TABLET KUNYAH 200;200 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTASIDA dan ANTIULKUS",
+                "nama obat": "antasida, kombinasi aluminium hidroksida dan magnesium hidroksida",
+                "sediaan": "TABLET KUNYAH",
+                "kekuatan": "200;200",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "aluminium hidroksida 200 mg\nmagnesium hidroksida 20 mg",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "antibakteri, kombinasi KDT/FDC mengandung basitrasin dan polimiksin B",
+        "subdrugs": [
+            {
+                "name": "antibakteri, kombinasi KDT/FDC mengandung basitrasin dan polimiksin B - SALEP 500;10000 INTERNASIONAL UNIT / GRAM",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "nama obat": "antibakteri, kombinasi KDT/FDC mengandung basitrasin dan polimiksin B",
+                "sediaan": "SALEP",
+                "kekuatan": "500;10000",
+                "satuan": "INTERNASIONAL UNIT / GRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "basitrasin 500 IU/g\npolimiksin B 10.000 IU/g",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "anti-D (Rho(D)) imunoglobulin",
+        "subdrugs": [
+            {
+                "name": "anti-D (Rho(D)) imunoglobulin - INJEKSI 1500 INTERNASIONAL UNIT",
+                "kelas terapi": "PRODUK DARAH dan PENGGANTI PLASMA",
+                "sub kelas terapi": "PENGGANTI PLASMA dan PLASMA EKSPANDER",
+                "nama obat": "anti-D (Rho(D)) imunoglobulin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1.500",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "antifungi, kombinasi KDT/FDC mengandung asam benzoat dan asam salisilat",
+        "subdrugs": [
+            {
+                "name": "antifungi, kombinasi KDT/FDC mengandung asam benzoat dan asam salisilat - SALEP 6;3 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTIFUNGI",
+                "nama obat": "antifungi, kombinasi KDT/FDC mengandung asam benzoat dan asam salisilat",
+                "sediaan": "SALEP",
+                "kekuatan": "6;3",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "asam benzoat 6 %\nasam salisilat 3 %",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "antihemoroid, kombinasi KDT/FDC mengandung bismut subgalat, heksaklorofen, lidokain, dan seng oksida",
+        "subdrugs": [
+            {
+                "name": "antihemoroid, kombinasi KDT/FDC mengandung bismut subgalat, heksaklorofen, lidokain, dan seng oksida - SUPOSITORIA N/A",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTIHEMOROID",
+                "nama obat": "antihemoroid, kombinasi KDT/FDC mengandung bismut subgalat, heksaklorofen, lidokain, dan seng oksida",
+                "sediaan": "SUPOSITORIA",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "bismut subgalat\nheksaklorofen\nlidokain\nseng oksida",
+                "peresepan maksimal": "5 sup/kasus.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "aripiprazol",
+        "subdrugs": [
+            {
+                "name": "aripiprazol - ORAL SOLUTION 1 MILIGRAM / MILILITER",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "aripiprazol",
+                "sediaan": "ORAL SOLUTION",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "15 mg/hari.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa, atau neurologi, atau neurologi anak. Termasuk untuk kasus iritabilitas terkait dengan gangguan autisme."
+            },
+            {
+                "name": "aripiprazol - TABLET 5 MILIGRAM"
+            },
+            {
+                "name": "aripiprazol - TABLET DISPERSIBLE 10 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "aripiprazol",
+                "sediaan": "TABLET DISPERSIBLE",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "15 mg/hari.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa, atau neurologi, atau neurologi anak. Termasuk untuk kasus iritabilitas terkait dengan gangguan autisme."
+            },
+            {
+                "name": "aripiprazol - TABLET DISPERSIBLE 15 MILIGRAM",
+                "kelas terapi": "PSIKOFARMAKA",
+                "sub kelas terapi": "ANTIPSIKOTIK",
+                "nama obat": "aripiprazol",
+                "sediaan": "TABLET DISPERSIBLE",
+                "kekuatan": "15",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "15 mg/hari.",
+                "restriksi obat": "Diresepkan oleh dokter yang memiliki kompetensi dibidang ilmu kedokteran jiwa, atau neurologi, atau neurologi anak. Termasuk untuk kasus iritabilitas terkait dengan gangguan autisme."
+            }
+        ]
+    },
+    {
+        "name": "artesunat",
+        "subdrugs": [
+            {
+                "name": "artesunat - INJEKSI 60 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIPROTOZOA",
+                "sub sub kelas terapi": "Antimalaria",
+                "nama obat": "artesunat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "60",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sub sub kelas terapi": "Catatan: Disediakan oleh Program \nKemenkes.",
+                "restriksi obat": "a) Diberikan pada malaria berat.\nb) Khusus di FPKTP, pemberian hanya 1 kali yang segera dirujuk ke FPKTL."
+            }
+        ]
+    },
+    {
+        "name": "articulating paper",
+        "subdrugs": [
+            {
+                "name": "articulating paper - KERTAS WARNA PENANDA OKLUSI N/A",
+                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
+                "sub kelas terapi": "PREPARAT LAINNYA",
+                "nama obat": "articulating paper",
+                "sediaan": "KERTAS WARNA PENANDA OKLUSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "asam asetat",
+        "subdrugs": [
+            {
+                "name": "asam asetat - TETES TELINGA 2 PERSEN",
+                "kelas terapi": "OBAT untuk TELINGA, HIDUNG, dan TENGGOROK",
+                "nama obat": "asam asetat",
+                "sediaan": "TETES TELINGA",
+                "kekuatan": "2",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: dibuat baru, recenter\nparatus (r.p.)."
+            }
+        ]
+    },
+    {
+        "name": "asam asetilsalisilat (asetosal)",
+        "subdrugs": [
+            {
+                "name": "asam asetilsalisilat (asetosal) - TABLET 80 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIAGREGASI PLATELET",
+                "nama obat": "asam asetilsalisilat (asetosal)",
+                "sediaan": "TABLET",
+                "kekuatan": "80",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "asam asetilsalisilat (asetosal) - TABLET SALUT ENTERIK 100 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIAGREGASI PLATELET",
+                "nama obat": "asam asetilsalisilat (asetosal)",
+                "sediaan": "TABLET SALUT ENTERIK",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "asam askorbat (vitamin C)",
+        "subdrugs": [
+            {
+                "name": "asam askorbat (vitamin C) - TABLET 250 MILIGRAM",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "asam askorbat (vitamin C)",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "asam askorbat (vitamin C) - TABLET 50 MILIGRAM",
+                "kelas terapi": "VITAMIN dan MINERAL",
+                "nama obat": "asam askorbat (vitamin C)",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "asam folat",
+        "subdrugs": [
+            {
+                "name": "asam folat - TABLET 0,4 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "ANTIANEMI",
+                "nama obat": "asam folat",
+                "sediaan": "TABLET",
+                "kekuatan": "0,4",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "asam folat - TABLET 1 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "ANTIANEMI",
+                "nama obat": "asam folat",
+                "sediaan": "TABLET",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "asam folat - TABLET 5 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "ANTIANEMI",
+                "nama obat": "asam folat",
+                "sediaan": "TABLET",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "asam fusidat",
+        "subdrugs": [
+            {
+                "name": "asam fusidat - TETES MATA 1 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "asam fusidat",
+                "sediaan": "TETES MATA",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "asam ibandronat",
+        "subdrugs": [
+            {
+                "name": "asam ibandronat - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "asam ibandronat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/bulan.",
+                "restriksi obat": "a) Hiperkalsemia akibat keganasan. \nb) Metastatik tulang."
+            }
+        ]
+    },
+    {
+        "name": "asam mefenamat",
+        "subdrugs": [
+            {
+                "name": "asam mefenamat - KAPSUL 250 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "asam mefenamat",
+                "sediaan": "KAPSUL",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "asam mefenamat - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "ANALGESIK NON NARKOTIK",
+                "nama obat": "asam mefenamat",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "asam pipemidat",
+        "subdrugs": [
+            {
+                "name": "asam pipemidat - KAPSUL 400 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antiseptik Saluran kemih",
+                "nama obat": "asam pipemidat",
+                "sediaan": "KAPSUL",
+                "kekuatan": "400",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "28 kaps/kasus.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "asam retinoat",
+        "subdrugs": [
+            {
+                "name": "asam retinoat - KRIM 0,05 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTIAKNE",
+                "nama obat": "asam retinoat",
+                "sediaan": "KRIM",
+                "kekuatan": "0,05",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "asam retinoat - KRIM 0,1 PERSEN",
+                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
+                "sub kelas terapi": "ANTIAKNE",
+                "nama obat": "asam retinoat",
+                "sediaan": "KRIM",
+                "kekuatan": "0,1",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi sediaan": "a) Tidak digunakan pada pagi dan siang hari.\nb) Tidak untuk ibu hamil."
+            }
+        ]
+    },
+    {
+        "name": "asam salisilat",
+        "subdrugs": [
+            {
+                "name": "asam salisilat - SALEP 10 PERSEN"
+            },
+            {
+                "name": "asam salisilat - SALEP 2 PERSEN"
+            },
+            {
+                "name": "asam salisilat - SALEP 5 PERSEN"
+            }
+        ]
+    },
+    {
+        "name": "asam traneksamat",
+        "subdrugs": [
+            {
+                "name": "asam traneksamat - KAPSUL 250 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "asam traneksamat",
+                "sediaan": "KAPSUL",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk perdarahan masif atau berpotensi perdarahan > 600 cc."
+            },
+            {
+                "name": "asam traneksamat - INJEKSI 100 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "asam traneksamat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk perdarahan masif atau berpotensi perdarahan > 600 cc."
+            },
+            {
+                "name": "asam traneksamat - INJEKSI 50 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "asam traneksamat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "pp": true,
+                "komposisi": "",
+                "peresepan maksimal": "Untuk FPKTP (PP): 4 amp/hari, maks. 3 hari.",
+                "restriksi obat": "Untuk perdarahan masif atau berpotensi perdarahan > 600 cc."
+            },
+            {
+                "name": "asam traneksamat - TABLET SALUT SELAPUT 500 MILIGRAM",
+                "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
+                "sub kelas terapi": "OBAT yang MEMENGARUHI KOAGULASI",
+                "nama obat": "asam traneksamat",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk perdarahan masif atau berpotensi perdarahan > 600 cc."
+            }
+        ]
+    },
+    {
+        "name": "asam ursodeoksikolat",
+        "subdrugs": [
+            {
+                "name": "asam ursodeoksikolat - KAPSUL 250 MILIGRAM",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "asam ursodeoksikolat",
+                "sediaan": "KAPSUL",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 kaps/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "asam zoledronat",
+        "subdrugs": [
+            {
+                "name": "asam zoledronat - INFUS 4 MILIGRAM / 100 MILILITER",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "asam zoledronat",
+                "sediaan": "INFUS",
+                "kekuatan": "4",
+                "satuan": "MILIGRAM / 100 MILILITER",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/bulan.",
+                "restriksi obat": "a) Hiperkalsemia akibat keganasan. \nb) Metastatik tulang."
+            },
+            {
+                "name": "asam zoledronat - INFUS 5 MILIGRAM / 100 MILILITER",
+                "kelas terapi": "OBAT yang MEMENGARUHI STRUKTUR dan MINERALISASI TULANG",
+                "nama obat": "asam zoledronat",
+                "sediaan": "INFUS",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / 100 MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "a) Pasien dengan osteoporosis, hasil pemeriksaan BMD DXA, T score < -2,5 (bukan BMD ultrasound); atau\nb) Riwayat fraktur osteoporosis."
+            }
+        ]
+    },
+    {
+        "name": "asetazolamid",
+        "subdrugs": [
+            {
+                "name": "asetazolamid - TABLET 250 MILIGRAM",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIOTIK dan ANTIGLAUKOMA",
+                "nama obat": "asetazolamid",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "- Glaukoma kronis: 120 tab/bulan\n-Â Glaukoma akut: 30 tab/minggu (maks. 2 minggu)",
+                "restriksi obat": "a) Hati-hati pemberian pada pasien dengan gangguan fungsi ginjal.\nb) Sebagai penanganan awal dan sementara di FPKTP pada pasien glaukoma akut sebelum dirujuk."
+            }
+        ]
+    },
+    {
+        "name": "asiklovir",
+        "subdrugs": [
+            {
+                "name": "asiklovir - KRIM 5 PERSEN"
+            },
+            {
+                "name": "asiklovir - SALEP MATA 3 PERSEN"
+            },
+            {
+                "name": "asiklovir - SERBUK INJEKSI 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Antiherpes",
+                "nama obat": "asiklovir",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "asiklovir - TABLET 200 MILIGRAM"
+            },
+            {
+                "name": "asiklovir - TABLET 400 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "asparaginase",
+        "subdrugs": [
+            {
+                "name": "asparaginase - INJEKSI 10 INTERNASIONAL UNIT",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antineoplastik Lain",
+                "nama obat": "asparaginase",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "INTERNASIONAL UNIT",
+                "fpktl": true,
+                "oen": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk leukemia limfoblastik akut."
+            }
+        ]
+    },
+    {
+        "name": "atapulgit",
+        "subdrugs": [
+            {
+                "name": "atapulgit - TABLET N/A"
+            }
+        ]
+    },
+    {
+        "name": "atenolol",
+        "subdrugs": [
+            {
+                "name": "atenolol - TABLET 100 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERTENSI",
+                "sub sub kelas terapi": "Antihipertensi Sistemik",
+                "nama obat": "atenolol",
+                "sediaan": "TABLET",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
+            },
+            {
+                "name": "atenolol - TABLET 50 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "atorvastatin",
+        "subdrugs": [
+            {
+                "name": "atorvastatin - TABLET SALUT SELAPUT 10 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERLIPIDEMIA",
+                "nama obat": "atorvastatin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi sub kelas terapi": "Sebagai terapi tambahan terhadap terapi diet pada pasien hiperlipidemia.",
+                "restriksi obat": "a) Jika setelah pemberian simvastatin selama 3 bulan berturut-turut dengan dosis 40 mg/hari pasien tidak mencapai target penurunan LDL < 100 mg/dL, disamping diet ketat lemak.\natau\nb) Pasien ASCVD (pasca PCI/CABG, stroke iskemi dan/atau PAD, pascainfark) yang dibuktikan dengan EKG atau MSCT atau riwayat angiografi. Target LDL adalah â‰¤ 55 mg/dL, yang harus diperiksa setiap 6 bulan. Pemberian dapat dilanjutkan untuk mempertahankan pengendalian LDL, kecuali apabila ada kontraindikasi."
+            },
+            {
+                "name": "atorvastatin - TABLET SALUT SELAPUT 20 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERLIPIDEMIA",
+                "nama obat": "atorvastatin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "20",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "60 tab/bulan.",
+                "restriksi sub kelas terapi": "Sebagai terapi tambahan terhadap terapi diet pada pasien hiperlipidemia.",
+                "restriksi obat": "a) Jika setelah pemberian simvastatin selama 3 bulan berturut-turut dengan dosis 40 mg/hari pasien tidak mencapai target penurunan LDL < 100 mg/dL, disamping diet ketat lemak.\natau\nb) Pasien ASCVD (pasca PCI/CABG, stroke iskemi dan/atau PAD, pascainfark) yang dibuktikan dengan EKG atau MSCT atau riwayat angiografi. Target LDL adalah â‰¤ 55 mg/dL, yang harus diperiksa setiap 6 bulan. Pemberian dapat dilanjutkan untuk mempertahankan pengendalian LDL, kecuali apabila ada kontraindikasi."
+            }
+        ]
+    },
+    {
+        "name": "atrakurium",
+        "subdrugs": [
+            {
+                "name": "atrakurium - INJEKSI 10 MILIGRAM / MILILITER",
+                "kelas terapi": "RELAKSAN OTOT PERIFER dan PENGHAMBAT KOLINESTERASE",
+                "sub kelas terapi": "RELAKSAN OTOT PERIFER",
+                "nama obat": "atrakurium",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Hanya untuk tindakan anestesi dan pasien ICU yang memerlukan, karena menggunakan ventilator."
+            }
+        ]
+    },
+    {
+        "name": "atropin",
+        "subdrugs": [
+            {
+                "name": "atropin - INJEKSI 0,25 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIDOT dan OBAT LAIN untuk KERACUNAN",
+                "sub kelas terapi": "KHUSUS",
+                "nama obat": "atropin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "atropin - INJEKSI 0,25 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "ANTISPASMODIK",
+                "nama obat": "atropin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "atropin - INJEKSI 0,25 MILIGRAM / MILILITER",
+                "kelas terapi": "ANESTETIK",
+                "sub kelas terapi": "OBAT untuk PROSEDUR PRE OPERATIF",
+                "nama obat": "atropin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,25",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "atropin - TABLET 0,5 MILIGRAM"
+            },
+            {
+                "name": "atropin - TETES MATA 0,5 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "MIDRIATIK",
+                "nama obat": "atropin",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,5",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "atropin - TETES MATA 1 PERSEN"
+            }
+        ]
+    },
+    {
+        "name": "azatioprin",
+        "subdrugs": [
+            {
+                "name": "azatioprin - TABLET 50 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "IMUNOSUPRESAN",
+                "nama obat": "azatioprin",
+                "sediaan": "TABLET",
+                "kekuatan": "50",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "120 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "azitromisin",
+        "subdrugs": [
+            {
+                "name": "azitromisin - SERBUK INJEKSI 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Makrolid",
+                "nama obat": "azitromisin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 hari.",
+                "restriksi obat": "Diberikan atas persetujuan dokter yang memiliki kompetensi di bidang ilmu penyakit tropik dan/atau infeksi atau DPJP yang ditunjuk oleh KFT/KPRA untuk:\na) Antibiotik kategori Watch.\nb) Ketika antibiotik kategori Access tidak efektif."
+            },
+            {
+                "name": "azitromisin - SIRUP KERING 200 MILIGRAM / 5 MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Makrolid",
+                "nama obat": "azitromisin",
+                "sediaan": "SIRUP KERING",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM / 5 MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 hari.",
+                "restriksi obat": "Diberikan atas persetujuan dokter yang memiliki kompetensi di bidang ilmu penyakit tropik dan/atau infeksi atau DPJP yang ditunjuk oleh KFT/KPRA untuk:\na) Antibiotik kategori Watch.\nb) Ketika antibiotik kategori Access tidak efektif."
+            },
+            {
+                "name": "azitromisin - TABLET 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Makrolid",
+                "nama obat": "azitromisin",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 hari.",
+                "restriksi obat": "Diberikan atas persetujuan dokter yang memiliki kompetensi di bidang ilmu penyakit tropik dan/atau infeksi atau DPJP yang ditunjuk oleh KFT/KPRA untuk:\na) Antibiotik kategori Watch.\nb) Ketika antibiotik kategori Access tidak efektif."
+            },
+            {
+                "name": "azitromisin - TABLET SALUT SELAPUT 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Makrolid",
+                "nama obat": "azitromisin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "3 hari.",
+                "restriksi obat": "Diberikan atas persetujuan dokter yang memiliki kompetensi di bidang ilmu penyakit tropik dan/atau infeksi atau DPJP yang ditunjuk oleh KFT/KPRA untuk:\na) Antibiotik kategori Watch.\nb) Ketika antibiotik kategori Access tidak efektif."
+            },
+            {
+                "name": "azitromisin - TABLET SALUT SELAPUT 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIINFEKSI KHUSUS",
+                "sub sub kelas terapi": "Antiframbusia",
+                "nama obat": "azitromisin",
+                "sediaan": "TABLET SALUT SELAPUT",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes.\n\nDapat diberikan pada penderita frambusia dan kontaknya sesuai dengan Permenkes No. 8 Tahun 2017 tentang Eradikasi Frambusia."
+            }
+        ]
+    }
+]

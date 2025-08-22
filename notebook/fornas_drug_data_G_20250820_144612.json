@@ -1,0 +1,621 @@
+[
+    {
+        "name": "gabapentin",
+        "subdrugs": [
+            {
+                "name": "gabapentin - KAPSUL 100 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "NYERI NEUROPATIK",
+                "nama obat": "gabapentin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "100",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 kaps/bulan.",
+                "restriksi obat": "Hanya untuk neuralgia pascaherpes atau nyeri neuropati diabetik."
+            },
+            {
+                "name": "gabapentin - KAPSUL 300 MILIGRAM",
+                "kelas terapi": "ANALGESIK, ANTIPIRETIK, ANTIINFLAMASI NON STEROID, ANTIPIRAI",
+                "sub kelas terapi": "NYERI NEUROPATIK",
+                "nama obat": "gabapentin",
+                "sediaan": "KAPSUL",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 kaps/bulan.",
+                "restriksi obat": "Hanya untuk neuralgia pascaherpes atau nyeri neuropati diabetik."
+            }
+        ]
+    },
+    {
+        "name": "gadobutrol",
+        "subdrugs": [
+            {
+                "name": "gadobutrol - INJEKSI 1 MILIMOL / MILILITER",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "MAGNETIC RESONANCE CONTRAST MEDIA",
+                "nama obat": "gadobutrol",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIMOL / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "gadoksetat disodium",
+        "subdrugs": [
+            {
+                "name": "gadoksetat disodium - INJEKSI 0,25 MILIMOL / MILILITER",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "MAGNETIC RESONANCE CONTRAST MEDIA",
+                "nama obat": "gadoksetat disodium",
+                "sediaan": "INJEKSI",
+                "kekuatan": "0,25",
+                "satuan": "MILIMOL / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "gadoteric acid",
+        "subdrugs": [
+            {
+                "name": "gadoteric acid - INJEKSI 279,32 MILIGRAM / MILILITER",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "MAGNETIC RESONANCE CONTRAST MEDIA",
+                "nama obat": "gadoteric acid",
+                "sediaan": "INJEKSI",
+                "kekuatan": "279,32",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Dapat digunakan pada bayi baru lahir cukup bulan (full term neonates) atau pasien anak atau pasien dewasa."
+            }
+        ]
+    },
+    {
+        "name": "galactose microparticle",
+        "subdrugs": [
+            {
+                "name": "galactose microparticle - N/A 200-400 MILIGRAM MICROPART / MILILITER",
+                "kelas terapi": "DIAGNOSTIK",
+                "sub kelas terapi": "ULTRASOUND",
+                "nama obat": "galactose microparticle",
+                "sediaan": "N/A",
+                "kekuatan": "200-400",
+                "satuan": "MILIGRAM MICROPART / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "gansiklovir",
+        "subdrugs": [
+            {
+                "name": "gansiklovir - SERBUK INJEKSI 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIVIRUS",
+                "sub sub kelas terapi": "Anti Sitomegalovirus (CMV)",
+                "nama obat": "gansiklovir",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Untuk pengobatan infeksi CMV yang mengancam jiwa atau penglihatan pada pasien immunocompromised, termasuk HIV/AIDS dengan CD 4 <100, atau untuk transplantasi organ dari donor yang menderita CMV."
+            }
+        ]
+    },
+    {
+        "name": "garam oralit",
+        "subdrugs": [
+            {
+                "name": "garam oralit - SERBUK N/A"
+            }
+        ]
+    },
+    {
+        "name": "gefitinib",
+        "subdrugs": [
+            {
+                "name": "gefitinib - TABLET 250 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "gemfibrozil",
+        "subdrugs": [
+            {
+                "name": "gemfibrozil - KAPLET 300 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERLIPIDEMIA",
+                "nama obat": "gemfibrozil",
+                "sediaan": "KAPLET",
+                "kekuatan": "300",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kapl/bulan",
+                "restriksi obat": "a) Hanya untuk hipertrigliseridemia.\nb)Tidak dianjurkan diberikan bersama statin."
+            },
+            {
+                "name": "gemfibrozil - KAPLET 600 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIHIPERLIPIDEMIA",
+                "nama obat": "gemfibrozil",
+                "sediaan": "KAPLET",
+                "kekuatan": "600",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kapl/bulan",
+                "restriksi obat": "a) Hanya untuk hipertrigliseridemia.\nb)Tidak dianjurkan diberikan bersama statin."
+            }
+        ]
+    },
+    {
+        "name": "gemsitabin",
+        "subdrugs": [
+            {
+                "name": "gemsitabin - INJEKSI 1 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "gemsitabin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "1.250 mg/mÂ²/minggu.",
+                "restriksi obat": "a) Untuk NSCLC yang locally advanced (stadium IIIA, IIIB) atau metastatik (stadium IV).\nb) Untuk adenokarsinoma pankreas yang locally advanced (non resectable stadium II atau stadium III) atau metastatik (stadium IV).\nc) Hanya untuk muscle invasive bladder cancer.\nd) Kombinasi dengan paklitaksel untuk kanker payudara stadium lanjut yang telah mengalami kekambuhan setelah menjalani pengobatan sekurang-kurangnya dengan golongan antrasiklin sebelumnya.\ne) Untuk kanker ovarium yang mengalami kekambuhan setelah menggunakan terapi berbasis platinum."
+            },
+            {
+                "name": "gemsitabin - INJEKSI 200 MILIGRAM",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "ANTINEOPLASTIK",
+                "sub sub kelas terapi": "Antimetabolit",
+                "nama obat": "gemsitabin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "200",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "1.250 mg/mÂ²/minggu.",
+                "restriksi obat": "a) Untuk NSCLC yang locally advanced (stadium IIIA, IIIB) atau metastatik (stadium IV).\nb) Untuk adenokarsinoma pankreas yang locally advanced (non resectable stadium II atau stadium III) atau metastatik (stadium IV).\nc) Hanya untuk muscle invasive bladder cancer.\nd) Kombinasi dengan paklitaksel untuk kanker payudara stadium lanjut yang telah mengalami kekambuhan setelah menjalani pengobatan sekurang-kurangnya dengan golongan antrasiklin sebelumnya.\ne) Untuk kanker ovarium yang mengalami kekambuhan setelah menggunakan terapi berbasis platinum."
+            }
+        ]
+    },
+    {
+        "name": "gentamisin",
+        "subdrugs": [
+            {
+                "name": "gentamisin - INJEKSI 40 MILIGRAM / MILILITER",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIBAKTERI",
+                "sub sub kelas terapi": "Antibakteri Lain",
+                "sub sub sub kelas terapi": "Aminoglikosida",
+                "nama obat": "gentamisin",
+                "sediaan": "INJEKSI",
+                "kekuatan": "40",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "gentamisin - SALEP MATA 0,3 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "gentamisin",
+                "sediaan": "SALEP MATA",
+                "kekuatan": "0,3",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "gentamisin - TETES MATA 0,3 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "gentamisin",
+                "sediaan": "TETES MATA",
+                "kekuatan": "0,3",
+                "satuan": "PERSEN",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "gentamisin - TETES MATA 1 PERSEN",
+                "kelas terapi": "OBAT untuk MATA",
+                "sub kelas terapi": "ANTIMIKROBA",
+                "nama obat": "gentamisin",
+                "sediaan": "TETES MATA",
+                "kekuatan": "1",
+                "satuan": "PERSEN",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "glibenklamid",
+        "subdrugs": [
+            {
+                "name": "glibenklamid - TABLET 2,5 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Oral",
+                "nama obat": "glibenklamid",
+                "sediaan": "TABLET",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dosis maks 15 mg per hari. Maks 90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "glibenklamid - TABLET 5 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Oral",
+                "nama obat": "glibenklamid",
+                "sediaan": "TABLET",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "Dosis maks 15 mg per hari. Maks 90 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "gliklazid",
+        "subdrugs": [
+            {
+                "name": "gliklazid - TABLET 80 MILIGRAM"
+            },
+            {
+                "name": "gliklazid - TABLET PELEPASAN LAMBAT 30 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Oral",
+                "nama obat": "gliklazid",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "30",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "gliklazid - TABLET PELEPASAN LAMBAT 60 MILIGRAM",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "ANTIDIABETES",
+                "sub sub kelas terapi": "Antidiabetes Oral",
+                "nama obat": "gliklazid",
+                "sediaan": "TABLET PELEPASAN LAMBAT",
+                "kekuatan": "60",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 tab/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "glikopironium",
+        "subdrugs": [
+            {
+                "name": "glikopironium - SERBUK INHALASI 50 MICROGRAM",
+                "kelas terapi": "OBAT untuk SALURAN NAPAS",
+                "sub kelas terapi": "OBAT untuk PENYAKIT PARU OBSTRUKSI KRONIS",
+                "nama obat": "glikopironium",
+                "sediaan": "SERBUK INHALASI",
+                "kekuatan": "50",
+                "satuan": "MICROGRAM",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "30 kaps inhalasi/bulan.",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "glikuidon",
+        "subdrugs": [
+            {
+                "name": "glikuidon - TABLET 30 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "glimepirid",
+        "subdrugs": [
+            {
+                "name": "glimepirid - TABLET 1 MILIGRAM"
+            },
+            {
+                "name": "glimepirid - TABLET 2 MILIGRAM"
+            },
+            {
+                "name": "glimepirid - TABLET 3 MILIGRAM"
+            },
+            {
+                "name": "glimepirid - TABLET 4 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "glipizid",
+        "subdrugs": [
+            {
+                "name": "glipizid - TABLET 10 MILIGRAM"
+            },
+            {
+                "name": "glipizid - TABLET 5 MILIGRAM"
+            }
+        ]
+    },
+    {
+        "name": "gliseril trinitrat",
+        "subdrugs": [
+            {
+                "name": "gliseril trinitrat - KAPSUL PELEPASAN LAMBAT 2,5 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIANGINA",
+                "nama obat": "gliseril trinitrat",
+                "sediaan": "KAPSUL PELEPASAN LAMBAT",
+                "kekuatan": "2,5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 kaps/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "gliseril trinitrat - KAPSUL PELEPASAN LAMBAT 5 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIANGINA",
+                "nama obat": "gliseril trinitrat",
+                "sediaan": "KAPSUL PELEPASAN LAMBAT",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM",
+                "fpktl": true,
+                "prb": true,
+                "komposisi": "",
+                "peresepan maksimal": "90 kaps/bulan.",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "gliseril trinitrat - INJEKSI 1 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIANGINA",
+                "nama obat": "gliseril trinitrat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "1",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "gliseril trinitrat - INJEKSI 5 MILIGRAM / MILILITER",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIANGINA",
+                "nama obat": "gliseril trinitrat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "5",
+                "satuan": "MILIGRAM / MILILITER",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "gliseril trinitrat - TABLET 0,5 MILIGRAM",
+                "kelas terapi": "OBAT KARDIOVASKULAR",
+                "sub kelas terapi": "ANTIANGINA",
+                "nama obat": "gliseril trinitrat",
+                "sediaan": "TABLET",
+                "kekuatan": "0,5",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "prb": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "gliserol",
+        "subdrugs": [
+            {
+                "name": "gliserol - LARUTAN 50 PERSEN"
+            },
+            {
+                "name": "gliserol - OBAT LUAR 100 MILILITER",
+                "kelas terapi": "OBAT untuk SALURAN CERNA",
+                "sub kelas terapi": "KATARTIK",
+                "nama obat": "gliserol",
+                "sediaan": "OBAT LUAR",
+                "kekuatan": "100",
+                "satuan": "MILILITER",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    },
+    {
+        "name": "goserelin asetat",
+        "subdrugs": [
+            {
+                "name": "goserelin asetat - INJEKSI 10,8 MILIGRAM / DEPOT",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "TERAPI ENDOKRIN",
+                "sub sub kelas terapi": "Hormon Dan Senyawa Sejenis",
+                "nama obat": "goserelin asetat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "10,8",
+                "satuan": "MILIGRAM / DEPOT",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/3 bulan.",
+                "restriksi sediaan": "a) Dapat digunakan untuk kanker payudara dengan hormonal reseptor ER dan/atau PR positif premenopause. \natau\nb) Dapat digunakan untuk kanker prostat, boleh diberikan bersama dengan bikalutamid tab 50 mg."
+            },
+            {
+                "name": "goserelin asetat - INJEKSI 3,6 MILIGRAM / DEPOT",
+                "kelas terapi": "ANTINEOPLASTIK dan IMUNOMODULATOR",
+                "sub kelas terapi": "TERAPI ENDOKRIN",
+                "sub sub kelas terapi": "Hormon Dan Senyawa Sejenis",
+                "nama obat": "goserelin asetat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "3,6",
+                "satuan": "MILIGRAM / DEPOT",
+                "fpktl": true,
+                "kanker": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/bulan.",
+                "restriksi sediaan": "a) Dapat digunakan untuk kanker payudara dengan hormonal reseptor ER dan/atau PR positif premenopause. \natau\nb) Dapat digunakan untuk kanker prostat, boleh diberikan bersama dengan bikalutamid tab 50 mg."
+            },
+            {
+                "name": "goserelin asetat - INJEKSI 3,6 MILIGRAM / DEPOT",
+                "kelas terapi": "HORMON, OBAT ENDOKRIN LAIN dan KONTRASEPSI",
+                "sub kelas terapi": "LAIN - LAIN",
+                "nama obat": "goserelin asetat",
+                "sediaan": "INJEKSI",
+                "kekuatan": "3,6",
+                "satuan": "MILIGRAM / DEPOT",
+                "fpktl": true,
+                "komposisi": "",
+                "peresepan maksimal": "1 vial/bulan; maks 3 vial/kasus.",
+                "restriksi sediaan": "Dapat digunakan untuk endometriosis."
+            }
+        ]
+    },
+    {
+        "name": "green pit viper antivenin",
+        "subdrugs": [
+            {
+                "name": "green pit viper antivenin - SERBUK INJEKSI N/A",
+                "kelas terapi": "OBAT yang MEMENGARUHI SISTEM IMUN",
+                "sub kelas terapi": "SERUM dan IMUNOGLOBULIN",
+                "nama obat": "green pit viper antivenin",
+                "sediaan": "SERBUK INJEKSI",
+                "kekuatan": "-",
+                "satuan": "N/A",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "program": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes."
+            }
+        ]
+    },
+    {
+        "name": "griseofulvin",
+        "subdrugs": [
+            {
+                "name": "griseofulvin - TABLET 125 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "griseofulvin",
+                "sediaan": "TABLET",
+                "kekuatan": "125",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "griseofulvin - TABLET 250 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "griseofulvin",
+                "sediaan": "TABLET",
+                "kekuatan": "250",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            },
+            {
+                "name": "griseofulvin - TABLET 500 MILIGRAM",
+                "kelas terapi": "ANTIINFEKSI",
+                "sub kelas terapi": "ANTIFUNGI",
+                "sub sub kelas terapi": "Antifungi Sistemik",
+                "nama obat": "griseofulvin",
+                "sediaan": "TABLET",
+                "kekuatan": "500",
+                "satuan": "MILIGRAM",
+                "fpktp": true,
+                "fpktl": true,
+                "oen": true,
+                "komposisi": "",
+                "peresepan maksimal": "-",
+                "restriksi kelas terapi": "-"
+            }
+        ]
+    }
+]
