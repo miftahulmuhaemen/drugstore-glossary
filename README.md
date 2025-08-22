@@ -5,7 +5,7 @@ A static drug glossary site crawled from https://e-fornas.kemkes.go.id/guest/daf
 ## Flow Process
 
 1. **Crawl Data**
-   - Use `/notebook/drugs.ipynb` to scrape and generate `data/data.json` from the source.
+   - Use `/notebook/drugs.ipynb` to scrape with Selenium and generate `data/data.json` from the source.
 
 2. **Static Site Generation**
    - Build the static website with Node.js scripts.
@@ -13,17 +13,18 @@ A static drug glossary site crawled from https://e-fornas.kemkes.go.id/guest/daf
 
 3. **Deployment**
    - Deploy the built site to GitHub Pages for public access as a static website.
-
+   - Attach custom domain https://sipamanobat.my.id/
 
 ## Project Structure
 
 ```
 drugstore/
+├── .github/        # GitHub Actions workflow
+├── notebook/       # Crawler and ouput JSON
 ├── data/           # JSON data sources
 ├── scripts/        # Build scripts
 ├── dist/           # Built static site (auto-generated)
-├── .github/        # GitHub Actions workflow
-└── index.html      # Main application
+└── index.html    
 ```
 
 ## Quick Start
@@ -45,13 +46,14 @@ bash -lc 'node scripts/build.js >/dev/null 2>&1 && cd dist && python3 -m http.se
 
 ## Deployment
 
-The site automatically deploys to GitHub Pages via GitHub Actions when code is pushed to the `main` or `master` branch.
+The site automatically deploys to GitHub Pages via GitHub Actions when code is pushed to the `main` branch.
 
 **Live Site**: [https://miftahulmuhaemen.github.io/drugstore-glossary/](https://miftahulmuhaemen.github.io/drugstore-glossary/)
 
 ## Technologies
 
-- **Frontend**: Vanilla HTML/CSS/JavaScript
+- **Crawler**: Jupyter Notebook, SeleniumBase, Pandas
+- **Websites**: Vanilla HTML/CSS/JavaScript
 - **Build Tools**: Node.js, CSSo, html-minifier-terser
 - **Deployment**: GitHub Actions, GitHub Pages
 - **Data Format**: JSON
