@@ -2806,7 +2806,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "120 tab/bulan.",
                 "restriksi kelas terapi": "-",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Imuran\n5. Hasil Lab yang menunjang diagnosis",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Imuran\n4. Hasil Lab yang menunjang diagnosis",
                 "alias": "Azatioprin"
             }
         ]
@@ -3922,7 +3922,7 @@
         "name": "deferasirox",
         "subdrugs": [
             {
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis Thalasemia Beta\n3. SEP\n4. Protokol Deferasirox\n5. Hasil lab yang menunjang diagnosis (Kadar Zat Besi)"
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis Thalasemia Beta\n3. Protokol Deferasirox\n4. Hasil lab yang menunjang diagnosis (Kadar Zat Besi)"
             }
         ]
     },
@@ -3974,7 +3974,7 @@
         "name": "deferiprone",
         "subdrugs": [
             {
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis Thalasemia Mayor\n3. SEP\n4. Protokol Deferiprone\n5. Hasil lab yang menunjang diagnosis (Kadar Zat Besi)"
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis Thalasemia Mayor\n3. Protokol Deferiprone\n4. Hasil lab yang menunjang diagnosis (Kadar Zat Besi)"
             }
         ]
     },
@@ -5196,7 +5196,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "- Platelet telah mencapai > 30.000/mm³ tanpa disertai perdarahan.\n- Maks pemberian 2 minggu.",
                 "restriksi obat": "a) Untuk Trombositopenia pada pasien Idiopathic Thrombocytopenic Purpura (ITP) kronik yang tidak respons terhadap terapi kortikosteroid, imunoglobulin atau splenektomi.\nb) Hanya digunakan untuk pasien ITP yang memiliki risiko tinggi untuk terjadinya perdarahan (trombosit < 30.000/mm³).\nc) Obat diberikan dengan target trombosit > 30.000/mm³, dipertahankan stabil minimal selama 2 minggu lalu dikembalikan ke pengobatan awal.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis ITP\n3. SEP\n4. Protokol Rebozet\n5. Hasil lab yang menunjang diagnosis (Trombosit dibawah 30.000)",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis ITP\n3. Protokol Rebozet\n4. Hasil lab yang menunjang diagnosis (Trombosit dibawah 30.000)",
                 "alias": "Eltrombopag"
             },
             {
@@ -5211,7 +5211,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "- Platelet telah mencapai > 30.000/mm³ tanpa disertai perdarahan.\n- Maks pemberian 2 minggu.",
                 "restriksi obat": "a) Untuk Trombositopenia pada pasien Idiopathic Thrombocytopenic Purpura (ITP) kronik yang tidak respons terhadap terapi kortikosteroid, imunoglobulin atau splenektomi.\nb) Hanya digunakan untuk pasien ITP yang memiliki risiko tinggi untuk terjadinya perdarahan (trombosit < 30.000/mm³).\nc) Obat diberikan dengan target trombosit > 30.000/mm³, dipertahankan stabil minimal selama 2 minggu lalu dikembalikan ke pengobatan awal.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis ITP\n3. SEP\n4. Protokol Rebozet\n5. Hasil lab yang menunjang diagnosis (Trombosit dibawah 30.000)",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis ITP\n3. Protokol Rebozet\n4. Hasil lab yang menunjang diagnosis (Trombosit dibawah 30.000)",
                 "alias": "Eltrombopag"
             }
         ]
@@ -5220,7 +5220,7 @@
         "name": "enoksaparin",
         "subdrugs": [
             {
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnose STEMI\n3. SEP\n4. Hasil Lab INR dan troponin",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnose STEMI\n3. Hasil Lab INR dan troponin",
                 "alias": "Enoxaparin"
             }
         ]
@@ -5248,7 +5248,7 @@
         "name": "entekafir",
         "subdrugs": [
             {
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil lab HBV-DNA, Hasil HBSAG,\n5. Melampirkan perhitungan APRI SCore",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab HBV-DNA, Hasil HBSAG,\n4. Melampirkan perhitungan APRI SCore",
                 "alias": "Entecavir"
             }
         ]
@@ -6516,7 +6516,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "1 vial/hari selama 5 hari.",
                 "restriksi obat": "a) Hanya untuk leukopenia berat pra dan pascakemoterapi (leukosit kurang dari 4.000/mm³ dan neutrofil kurang dari 1.500/mm³).\nb) Pemakaian protokol FLAG dan RICE.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Filgastim\n5. Hasil lab leukosit kurang dari 4.000/mm3 dan neutrofil kurang dari 1.500/mm3"
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Filgastim\n4. Hasil lab leukosit kurang dari 4.000/mm3 dan neutrofil kurang dari 1.500/mm3"
             }
         ]
     },
@@ -7033,7 +7033,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "1 vial/hari.",
                 "restriksi obat": "a) Digunakan untuk tromboemboli dan/atau sindrom koroner akut.\nb) Tidak digunakan sebelum dan selama prosedur Intervensi Koroner Perkutan (IKP/PCI) pada pasien sindrom koroner akut (ACS).\nc) Diberikan 6 jam setelah operasi ortopedi tungkai bawah dan tulang belakang, dan operasi abdominal.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa DVT\n3. SEP\n4. Hasil lab INR, Hasil D-Dimer, Hasil CRP, dan Hasil ECHO",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa DVT\n3. Hasil lab INR, Hasil D-Dimer, Hasil CRP, dan Hasil ECHO",
                 "alias": "Fondaparinux"
             }
         ]
@@ -8364,7 +8364,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "60 tab/bulan.",
                 "restriksi obat": "a) Untuk kasus SLE (Systemic \nLupus Erythematosus). \natau\nb) Untuk kasus RA (Rheumatoid \nArthritis).",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Hidroksiklorokuin\n5. Hasil lab yang menunjang diagnosis penyakit",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Hidroksiklorokuin\n4. Hasil lab yang menunjang diagnosis penyakit",
                 "alias": "Hydroxychloroquine"
             }
         ]
@@ -8387,7 +8387,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "40 mg/kgBB/hari selama 30 hari.",
                 "restriksi obat": "Untuk CML.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Hydroxyurea\n5. Hasil Lab yang menunjang diagnosis (Eritrosit, Leukosit, Hitung Jenis, Trombosit)",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Hydroxyurea\n4. Hasil Lab yang menunjang diagnosis (Eritrosit, Leukosit, Hitung Jenis, Trombosit)",
                 "alias": "Hidroksiurea"
             }
         ]
@@ -8478,7 +8478,7 @@
         "name": "human albumin",
         "subdrugs": [
             {
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan menuliskan :\n3. SEP\n4. Hasil lab Albumin"
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan menuliskan :\nStatus Gizi Pasien\nStatus Klinis Pasien dalam keadaan syok atau tidak serta terdapat edema atau tidak\nTanggal Tindakan\n3. Hasil lab Albumin"
             }
         ]
     },
@@ -8802,7 +8802,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "-Â  GBS: 0,4 g/kg BB per hari selama 5 hari.\n-Â  CIDP: 2 g/kg BB per episode.\n-Â  ITP: 0,8-1 g/kg BB pada hari pertama, diulangi sekali lagi dalam waktu 3 hari; atau 0,4 g/kg BB per hari selama 2-5 hari.\n- Imunodefisiensi primer: 0,4 g/kgBB setiap 4 minggu",
                 "restriksi obat": "a) Hanya digunakan apabila syarat untuk plasmaferesis tidak terpenuhi pada terapi Guillainâ€“BarrÃ© syndrome (GBS).\nb) Digunakan untuk Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) yang resistan atau kontraindikasi terhadap kortikosteroid. Pemberian berikutnya harus disertai dengan pemeriksaan elektrofisiologi yang membuktikan adanya perbaikan.\nc) Digunakan untuk Immune Thrombocytopenic Purpura (ITP) akut dengan risiko tinggi perdarahan atau sebelum intervensi bedah, setelah refrakter terhadap kortikosteroid.\nd) Digunakan untuk imunodefisiensi primer dengan defek produksi antibodi, diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu kesehatan anak - alergi imunologi dan penyakit dalam - alergi imunologi.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil lab yang menujang diagnosis penyakit\n5. Pengisian Formulir KFT Permintaan Obat Diluar Restriksi FORNAS\n6. Jurnal EBM",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab yang menujang diagnosis penyakit\n4. Pengisian Formulir KFT Permintaan Obat Diluar Restriksi FORNAS\n5. Jurnal EBM",
                 "alias": "Imunoglobulin Intravena"
             },
             {
@@ -8817,7 +8817,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "-Â  GBS: 0,4 g/kg BB per hari selama 5 hari.\n-Â  CIDP: 2 g/kg BB per episode.\n-Â  ITP: 0,8-1 g/kg BB pada hari pertama, diulangi sekali lagi dalam waktu 3 hari; atau 0,4 g/kg BB per hari selama 2-5 hari.\n- Imunodefisiensi primer: 0,4 g/kgBB setiap 4 minggu",
                 "restriksi obat": "a) Hanya digunakan apabila syarat untuk plasmaferesis tidak terpenuhi pada terapi Guillainâ€“BarrÃ© syndrome (GBS).\nb) Digunakan untuk Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) yang resistan atau kontraindikasi terhadap kortikosteroid. Pemberian berikutnya harus disertai dengan pemeriksaan elektrofisiologi yang membuktikan adanya perbaikan.\nc) Digunakan untuk Immune Thrombocytopenic Purpura (ITP) akut dengan risiko tinggi perdarahan atau sebelum intervensi bedah, setelah refrakter terhadap kortikosteroid.\nd) Digunakan untuk imunodefisiensi primer dengan defek produksi antibodi, diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu kesehatan anak - alergi imunologi dan penyakit dalam - alergi imunologi.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil lab yang menujang diagnosis penyakit\n5. Pengisian Formulir KFT Permintaan Obat Diluar Restriksi FORNAS\n6. Jurnal EBM",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab yang menujang diagnosis penyakit\n4. Pengisian Formulir KFT Permintaan Obat Diluar Restriksi FORNAS\n5. Jurnal EBM",
                 "alias": "Imunoglobulin Intravena"
             }
         ]
@@ -13783,7 +13783,7 @@
         "name": "mesalazine",
         "subdrugs": [
             {
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. SEP\n4. Hasil lab yang menunjang diagnosis penyakit\n5. Hasil USG Abdomen"
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil USG Abdomen"
             }
         ]
     },
@@ -14645,7 +14645,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "180 tab/bulan.",
                 "restriksi obat": "a) Untuk kasus transplantasi organ \nginjal, jantung, atau hati.\natau\nb) Untuk lupus nefritis.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Mikofenolat Mofetil\n5. Hasil lab yang menunjang diagnosis penyakit",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Mikofenolat Mofetil\n4. Hasil lab yang menunjang diagnosis penyakit",
                 "alias": "Kamyfet\nCellCept"
             }
         ]
@@ -14665,7 +14665,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "Untuk dewasa: 60 tab/bulan.",
                 "restriksi kelas terapi": "-",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Mikofenolat Sodium\n5. Hasil lab yang menunjang diagnosis penyakit",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Mikofenolat Sodium\n4. Hasil lab yang menunjang diagnosis penyakit",
                 "alias": "Myfortic"
             }
         ]
@@ -15838,7 +15838,7 @@
         "name": "ocreotide",
         "subdrugs": [
             {
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan riwayat Hepatitis B atau Cirrhosis\n3. SEP\n4. Protokol Ocreotide\n5. Hasil USG Abdomen dan Hasil Lab",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan riwayat Hepatitis B atau Cirrhosis\n3. Protokol Ocreotide\n4. Hasil USG Abdomen dan Hasil Lab",
                 "alias": "Oktreotid"
             }
         ]
@@ -17914,7 +17914,7 @@
         "name": "redax",
         "subdrugs": [
             {
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Surat Masuk\n5. Form Permintaan dan Persetujuan dari Dokter Ira\n6. Hasil Bacaan CXR (Min. 2 x sebelum dan sesudah pemasangan Chest Tube)"
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Surat Masuk\n4. Form Permintaan dan Persetujuan dari Dokter Ira\n5. Hasil Bacaan CXR (Min. 2 x sebelum dan sesudah pemasangan Chest Tube)"
             }
         ]
     },
@@ -18220,7 +18220,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "restriksi a):\n- Untuk knee replacement 12 tab/kasus.\n- Untuk hip replacement 35 tab/kasus.\n\nrestriksi b):\n30 tab/bulan.",
                 "restriksi sediaan": "a) Untuk pencegahan VTE (Venous Thrombo Embolism) pada pasien dewasa yang menjalani hip or knee replacement surgery.\nAtau\nb) Untuk Stroke Prevention in Atrial Fibrillation (SPAF).",
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis DVT / Stroke Prevention in Atrial Fibrillation\n3. SEP\n4. Hasil lab yang menunjang diagnosis",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis DVT / Stroke Prevention in Atrial Fibrillation\n3. Hasil lab yang menunjang diagnosis",
                 "alias": "Rivaroksaban"
             },
             {
@@ -18235,7 +18235,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "restriksi a): 42 tab/kasus.\n\nrestriksi b): 30 tab/bulan.",
                 "restriksi sediaan": "a) Untuk terapi DVT (Deep Vein Thrombosis).\nAtau\nb) Untuk Stroke Prevention in Atrial Fibrillation (SPAF).",
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis DVT / Stroke Prevention in Atrial Fibrillation\n3. SEP\n4. Hasil lab yang menunjang diagnosis",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis DVT / Stroke Prevention in Atrial Fibrillation\n3. Hasil lab yang menunjang diagnosis",
                 "alias": "Rivaroksaban"
             },
             {
@@ -18250,7 +18250,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "restriksi a): 30 tab/bulan, maks 3 bulan.\n\nrestriksi b): 30 tab/bulan.",
                 "restriksi sediaan": "a) Untuk terapi DVT (Deep Vein Thrombosis).\nAtau\nb) Untuk Stroke Prevention in Atrial Fibrillation (SPAF).",
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis DVT / Stroke Prevention in Atrial Fibrillation\n3. SEP\n4. Hasil lab yang menunjang diagnosis",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis DVT / Stroke Prevention in Atrial Fibrillation\n3. Hasil lab yang menunjang diagnosis",
                 "alias": "Rivaroksaban"
             }
         ]
@@ -19434,7 +19434,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "restriksi kelas terapi": "-",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Sandimun\n5. Hasil Lab yang menunjang diagnosis",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Sandimun\n4. Hasil Lab yang menunjang diagnosis",
                 "alias": "Siklosporin"
             },
             {
@@ -19450,7 +19450,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "restriksi kelas terapi": "-",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Sandimun\n5. Hasil Lab yang menunjang diagnosis",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Sandimun\n4. Hasil Lab yang menunjang diagnosis",
                 "alias": "Siklosporin"
             },
             {
@@ -19465,7 +19465,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "90 kaps/bulan.",
                 "restriksi sediaan": "Untuk kasus transplantasi organ atau penyakit autoimun.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Sandimun\n5. Hasil Lab yang menunjang diagnosis",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Sandimun\n4. Hasil Lab yang menunjang diagnosis",
                 "alias": "Siklosporin"
             },
             {
@@ -19481,7 +19481,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "90 kaps/bulan.",
                 "restriksi sediaan": "Untuk kasus transplantasi organ atau penyakit autoimun.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Sandimun\n5. Hasil Lab yang menunjang diagnosis",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Sandimun\n4. Hasil Lab yang menunjang diagnosis",
                 "alias": "Siklosporin"
             },
             {
@@ -19497,7 +19497,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "90 kaps/bulan.",
                 "restriksi sediaan": "Untuk kasus transplantasi organ atau penyakit autoimun.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Sandimun\n5. Hasil Lab yang menunjang diagnosis",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Sandimun\n4. Hasil Lab yang menunjang diagnosis",
                 "alias": "Siklosporin"
             }
         ]
@@ -19518,7 +19518,7 @@
                 "komposisi": null,
                 "peresepan maksimal": "90 tab/bulan.",
                 "restriksi obat": "a) Digunakan untuk Hipertensi Arteri Pulmonal (HAP) pada pasien dewasa. Diagnosis\nditegakkan dengan echocardiography.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit jantung dan pembuluh darah atau bedah jantung.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil lab yang menunjang diagnosis penyakit\n5. Hasil Echo yang menyatakan Hipertensi Pulmonal"
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil Echo yang menyatakan Hipertensi Pulmonal"
             },
             {
                 "name": "sildenafil - SIRUP KERING 10 MILIGRAM / MILILITER",
@@ -19533,7 +19533,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "2 btl/bulan.",
                 "restriksi obat": "a) Digunakan untuk Hipertensi Arteri Pulmonal (HAP) pada pasien anak. Diagnosis ditegakkan dengan echocardiography.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit jantung dan pembuluh darah.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil lab yang menunjang diagnosis penyakit\n5. Hasil Echo yang menyatakan Hipertensi Pulmonal"
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil Echo yang menyatakan Hipertensi Pulmonal"
             }
         ]
     },
@@ -20153,7 +20153,7 @@
         "name": "sulfasalazine",
         "subdrugs": [
             {
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil lab yang menunjang diagnosis penyakit\n5. Hasil Colon In Loop"
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil Colon In Loop"
             }
         ]
     },
@@ -20964,7 +20964,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "1 cartridge/bulan, 1 alat respimat/6 bulan.",
                 "restriksi obat": "Diberikan sebagai pengobatan pemeliharaan tambahan pada pasien asma persisten sedang - berat, berusia â‰¥ 6 tahun, yang tetap bergejala terhadap kombinasi LABA+ICS dan telah mengalami eksaserbasi parah dalam satu tahun terakhir.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa PPOK\n3. SEP\n4. Hasil Spirometri\n5. Riwayat penggunaan Inhaler atau Riwayat Nebulisasi selama Rawat Inap.",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa PPOK\n3. Hasil Spirometri\n4. Riwayat penggunaan Inhaler atau Riwayat Nebulisasi selama Rawat Inap.",
                 "alias": "Tiotropium"
             },
             {
@@ -20980,7 +20980,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "1 cartridge/bulan, 1 alat respimat/6 bulan.",
                 "restriksi obat": "Digunakan pada pasien PPOK, termasuk bronkitis kronik dan emfisema, terapi rumatan dari dyspnea dan pencegahan eksaserbasi.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa PPOK\n3. SEP\n4. Hasil Spirometri\n5. Riwayat penggunaan Inhaler atau Riwayat Nebulisasi selama Rawat Inap.",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa PPOK\n3. Hasil Spirometri\n4. Riwayat penggunaan Inhaler atau Riwayat Nebulisasi selama Rawat Inap.",
                 "alias": "Tiotropium"
             },
             {
@@ -20996,7 +20996,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "1 cartridge/bulan.",
                 "restriksi obat": "Digunakan pada pasien PPOK, termasuk bronkitis kronik dan emfisema, terapi rumatan dari dyspnea dan pencegahan eksaserbasi.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa PPOK\n3. SEP\n4. Hasil Spirometri\n5. Riwayat penggunaan Inhaler atau Riwayat Nebulisasi selama Rawat Inap.",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa PPOK\n3. Hasil Spirometri\n4. Riwayat penggunaan Inhaler atau Riwayat Nebulisasi selama Rawat Inap.",
                 "alias": "Tiotropium"
             },
             {
@@ -21013,7 +21013,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "1 cartridge/bulan.",
                 "restriksi obat": "Diberikan sebagai pengobatan pemeliharaan tambahan pada pasien asma persisten sedang - berat, berusia â‰¥ 6 tahun, yang tetap bergejala terhadap kombinasi LABA+ICS dan telah mengalami eksaserbasi parah dalam satu tahun terakhir.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa PPOK\n3. SEP\n4. Hasil Spirometri\n5. Riwayat penggunaan Inhaler atau Riwayat Nebulisasi selama Rawat Inap.",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa PPOK\n3. Hasil Spirometri\n4. Riwayat penggunaan Inhaler atau Riwayat Nebulisasi selama Rawat Inap.",
                 "alias": "Tiotropium"
             }
         ]
@@ -21334,7 +21334,7 @@
         "name": "uperio",
         "subdrugs": [
             {
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil ECHO Dimana hasil LVEF < 40%\n5. Riwayat penggunaan antihipertensi golongan ACEI dan ARB",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil ECHO Dimana hasil LVEF < 40%\n4. Riwayat penggunaan antihipertensi golongan ACEI dan ARB",
                 "alias": "Sacubitril dan Valsartan"
             }
         ]
@@ -21752,7 +21752,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "restriksi obat": "a) Hanya untuk pasien HIV/AIDS dengan CD 4 <100, serta dibuktikan ada kelainan organik (retinitis CMV) atau untuk profilaksis CMV pada pasien CMV negatif yang menerima transplantasi organ dari donor yang CMV positif.\nb) Kadar transaminase serum dalam batas normal.",
-                "berkas lampiran": "1. E-Resep dari Prof Edi\n2. DPHO\n3. SEP\n4. Hasil Lab CMV dan Fungsi Hati",
+                "berkas lampiran": "1. E-Resep dari Prof Edi\n2. DPHO\n3. Hasil Lab CMV dan Fungsi Hati",
                 "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
                 "kategori antibiotik": "Golongan 3 (Reserve)",
                 "alias": "Valganciclovir"
@@ -21989,7 +21989,7 @@
         "name": "venofer",
         "subdrugs": [
             {
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil Lab yang menunjang diagnosis (Ferritin)"
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil Lab yang menunjang diagnosis (Ferritin)"
             }
         ]
     },
@@ -22209,7 +22209,7 @@
                 "komposisi": null,
                 "peresepan maksimal": "-",
                 "restriksi obat": "a) Untuk pencegahan dan/atau terapi thromboembolism.\nb) Dosis harian disesuaikan dengan target INR (2–3).\nc) Pada pasien dalam kondisi stabil (tidak ada perdarahan), dengan tercapainya target INR (2-3), diperlukan evaluasi INR rutin maksimal setiap 3 bulan.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil lab INR"
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab INR"
             },
             {
                 "name": "warfarin - TABLET 2 MILIGRAM",
@@ -22225,7 +22225,7 @@
                 "komposisi": null,
                 "peresepan maksimal": "-",
                 "restriksi obat": "a) Untuk pencegahan dan/atau terapi thromboembolism.\nb) Dosis harian disesuaikan dengan target INR (2–3).\nc) Pada pasien dalam kondisi stabil (tidak ada perdarahan), dengan tercapainya target INR (2-3), diperlukan evaluasi INR rutin maksimal setiap 3 bulan.",
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil lab INR"
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab INR"
             }
         ]
     },

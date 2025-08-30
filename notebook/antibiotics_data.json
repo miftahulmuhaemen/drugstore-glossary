@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Amfoterisin B / Amphotericin B",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Amikasin / Amikacin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP)\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Hanya untuk resisten Gentamisin",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Amoksisilin / Amoxicillin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 10 Hari",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Amoksisilin-Asam Klavulanat / Amoxicillin-Clavulanic Acid",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Ampisilin / Ampicillin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 10 Hari",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Ampisilin - Sulbactam",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP)\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 10 Hari",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Asiklovir / Acyclovir",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Azithromycin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP)\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 5 hari",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Benzatin Benzyl Penisilin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Colistin",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Deferasirox",
+    "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis Thalasemia Beta\n3. Protokol Deferasirox\n4. Hasil lab yang menunjang diagnosis (Kadar Zat Besi)"
+  },
+  {
+    "name": "Deferiprone",
+    "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis Thalasemia Mayor\n3. Protokol Deferiprone\n4. Hasil lab yang menunjang diagnosis (Kadar Zat Besi)"
+  },
+  {
+    "name": "Doksisiklin / Doxycycline",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 2 Kaps/ Hari Selama 10 Hari",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Doripenem",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Enoksaparin / Enoxaparin",
+    "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnose STEMI\n3. Hasil Lab INR dan troponin"
+  },
+  {
+    "name": "Entekafir / Entecavir",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab HBV-DNA, Hasil HBSAG,\n4. Melampirkan perhitungan APRI SCore"
+  },
+  {
+    "name": "Eritomisin / Erythromycin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 10 hari",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Fenoksimetil Penisilin (Pen V) / Phenoxymethylpenicillin (Penicillin V)",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Filgrastim",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Filgastim\n4. Hasil lab leukosit kurang dari 4.000/mm3 dan neutrofil kurang dari 1.500/mm3"
+  },
+  {
+    "name": "Flukonazol / Fluconazole",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP)\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Fondaparinuks / Fondaparinux",
+    "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa DVT\n3. Hasil lab INR, Hasil D-Dimer, Hasil CRP, dan Hasil ECHO"
+  },
+  {
+    "name": "Fosfomisin / Fosfomycin",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Gansiklovir / Ganciclovir",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Gentamisin / Gentamicin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Griseofulvin",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Hidroksiklorokuin / Hydroxychloroquine",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Hidroksiklorokuin\n4. Hasil lab yang menunjang diagnosis penyakit"
+  },
+  {
+    "name": "Human Albumin",
+    "berkas lampiran": "1. E-Resep\n2. DPHO dengan menuliskan :\nStatus Gizi Pasien\nStatus Klinis Pasien dalam keadaan syok atau tidak serta terdapat edema atau tidak\nTanggal Tindakan\n3. Hasil lab Albumin"
+  },
+  {
+    "name": "Hydroxyurea / Hidroksiurea",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Hydroxyurea\n4. Hasil Lab yang menunjang diagnosis (Eritrosit, Leukosit, Hitung Jenis, Trombosit)"
+  },
+  {
+    "name": "Imipenem",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Imuran / Azatioprin",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Imuran\n4. Hasil Lab yang menunjang diagnosis"
+  },
+  {
+    "name": "IVIG/Imunoglobulin Intravena",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab yang menujang diagnosis penyakit\n4. Pengisian Formulir KFT Permintaan Obat Diluar Restriksi FORNAS\n5. Jurnal EBM"
+  },
+  {
+    "name": "Kanamisin / Kanamycin",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Ketokonazole / Ketoconazole",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Klaritromisin / Clarithromycin",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Klindamisin / Clindamycin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 5 hari, kecuali toksoplasmosi selama 6 minggu",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Kloramfenikol / Chloramphenicol",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Kotrimoksasol / Cotrimoxazole",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 10 hari kecuali immunocompromised selama 21 hari",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Levofloksasin / Levofloxacin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP)\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Tidak digunakan untuk pasien usia < 18 tahun dan Ibu Hamil",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Linezolide",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Meropenem",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan maksimal 7 hari dengan dosis 1-3g/ hari",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Mesalazine",
+    "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil USG Abdomen"
+  },
+  {
+    "name": "Metronidazole",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan maksimal 14 hari",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Mikafungin / Micafungin",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Mikofenolat Mofetil / Kamyfet / CellCept",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Mikofenolat Mofetil\n4. Hasil lab yang menunjang diagnosis penyakit"
+  },
+  {
+    "name": "Mikofenolat Sodium / Myfortic",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Mikofenolat Sodium\n4. Hasil lab yang menunjang diagnosis penyakit"
+  },
+  {
+    "name": "Moksifloksasin / Moxifloxacin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Tidak digunakan untuk pasien usia < 18 tahun dan Ibu Hamil",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Netilmisin / Netilmicin",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Nistatin / Nystatin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Ocreotide / Oktreotid",
+    "berkas lampiran": "1. E-Resep\n2. DPHO dengan riwayat Hepatitis B atau Cirrhosis\n3. Protokol Ocreotide\n4. Hasil USG Abdomen dan Hasil Lab"
+  },
+  {
+    "name": "Ofloksasin / Ofloxacin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP)\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Tidak digunakan untuk pasien usia < 18 tahun dan Ibu Hamil",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Piperasilin-Tazobactam / Piperacillin-Tazobactam",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Pirimetamin / Pyrimethamine",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Polimiksin / Polymyxin",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Prokain Benzyl Penisilin / Procaine benzylpenicillin",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Rebozet / Eltrombopag",
+    "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis ITP\n3. Protokol Rebozet\n4. Hasil lab yang menunjang diagnosis (Trombosit dibawah 30.000)"
+  },
+  {
+    "name": "Redax",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Surat Masuk\n4. Form Permintaan dan Persetujuan dari Dokter Ira\n5. Hasil Bacaan CXR (Min. 2 x sebelum dan sesudah pemasangan Chest Tube)"
+  },
+  {
+    "name": "Roxithromisin / Roxithromycin",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Sandimmun / Siklosporin",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Protokol Sandimun\n4. Hasil Lab yang menunjang diagnosis"
+  },
+  {
+    "name": "Sefadroksil / Cefadroxil",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 10-14 hari",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Sefaleksin / Cefalexin",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Sefazolin / Cefazolin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP)\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Hanya untuk profilaksis Bedah",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Sefepim / Cefepime",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan sampai ANC > 500mm3 dengan dosis 3g/hari",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Sefiksim / Cefixime",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP)\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 10 hari",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Sefoperazon / Cefoperazone",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP)\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 7 hari dengan dosis 3gr / hari",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Sefoperazon-Sulbaktam / Cefoperazone-Sulbactam",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Sefotaksim / Cefotaxime",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP)\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 10 hari",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Sefpirom / Cefpirome",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Sefpodoksim proksetil / Cefpodoxime proxetil",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Seftazidim / Ceftazidime",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Seftizoksim / Ceftizoxime",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Seftriakson / Ceftriaxone",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP)\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 7 hari",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Sefuroksim / Cefuroxime",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Sildenafil",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil Echo yang menyatakan Hipertensi Pulmonal"
+  },
+  {
+    "name": "Siprofloksasin / Ciprofloxacin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Spiramisin / Spiramycin",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Spiriva / Tiotropium",
+    "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa PPOK\n3. Hasil Spirometri\n4. Riwayat penggunaan Inhaler atau Riwayat Nebulisasi selama Rawat Inap."
+  },
+  {
+    "name": "Streptomisin / Streptomycin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Sulfadiazin / Sulfadiazine",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Sulfasalazine",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil Colon In Loop"
+  },
+  {
+    "name": "Teicoplanin",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Terbinafin / Terbinafine",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Tetrasiklin / Tetracycline",
+    "kategori antibiotik": "Golongan 1 (Access)"
+  },
+  {
+    "name": "Tiamfenikol / Thiamphenicol",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Tigecicline / Tigecycline",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Uperio / Sacubitril dan Valsartan",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil ECHO Dimana hasil LVEF < 40%\n4. Riwayat penggunaan antihipertensi golongan ACEI dan ARB"
+  },
+  {
+    "name": "Valasiklovir / Valaciclovir",
+    "kategori antibiotik": "Golongan 2 (Watch)"
+  },
+  {
+    "name": "Valgansiklovir / Valganciclovir",
+    "berkas lampiran": "1. E-Resep dari Prof Edi\n2. DPHO\n3. Hasil Lab CMV dan Fungsi Hati",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Vancomisin / Vancomycin",
+    "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan maksimal 10 hari / kasus.",
+    "kategori antibiotik": "Golongan 3 (Reserve)"
+  },
+  {
+    "name": "Venofer",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil Lab yang menunjang diagnosis (Ferritin)"
+  },
+  {
+    "name": "Warfarin",
+    "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab INR"
+  },
+  {
+    "name": "Xarelto / Rivaroksaban",
+    "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis DVT / Stroke Prevention in Atrial Fibrillation\n3. Hasil lab yang menunjang diagnosis"
+  }
+]

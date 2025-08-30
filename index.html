@@ -143,11 +143,36 @@
         const table = create('table', 'kv');
         const tbody = create('tbody');
         table.appendChild(tbody);
-        Object.keys(state.subdrug).forEach(key => {
-          if (key === 'name') return;
+
+        // Hardcoded order
+        const order = [
+          ['kelas terapi', 'Kelas Terapi'],
+          ['sub kelas terapi', 'Sub Kelas Terapi'],
+          ['sub sub kelas terapi', 'Sub Sub Kelas Terapi'],
+          ['kategori antibiotik', 'Kategori Antibiotik'],
+          ['nama obat', 'Nama Obat'],
+          ['sediaan', 'Sediaan'],
+          ['kekuatan', 'Kekuatan'],
+          ['satuan', 'Satuan Obat'],
+          ['fpktp', 'FPKTP'],
+          ['fpktl', 'FPKTL'],
+          ['pp', 'PP'],
+          ['oen', 'OEN'],
+          ['komposisi', 'Komposisi'],
+          ['peresepan maksimal', 'Peresepan Maksimal'],
+          ['restriksi obat', 'Restriksi Obat'],
+          ['ketentuan tambahan', 'Ketentuan Tambahan'],
+          ['berkas lampiran', 'Berkas Lampiran'],
+          ['alias', 'Alias']
+        ];
+
+        order.forEach(([key, label]) => {
+          if (!(key in state.subdrug)) return;
           const raw = state.subdrug[key];
+          // Hide empty/undefined/null except for booleans
+          if ((raw === undefined || raw === null || String(raw).trim() === '') && typeof raw !== 'boolean') return;
           const tr = create('tr');
-          const tdK = create('td', 'k', key);
+          const tdK = create('td', 'k', label);
           const tdV = create('td', 'v');
           const dv = asDisplayValue(raw);
           if (typeof dv === 'boolean') {
@@ -163,6 +188,7 @@
           tr.appendChild(tdV);
           tbody.appendChild(tr);
         });
+
         detailsBox.appendChild(table);
       }
 
