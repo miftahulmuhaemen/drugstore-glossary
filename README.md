@@ -1,8 +1,12 @@
 # Drugstore Glossary
 
-A static drug glossary site crawled from https://e-fornas.kemkes.go.id/guest/daftar-obat.
+Pharmacists must review detailed drug information before dispensing medication—some drugs require specific conditions to be met before they can be given to patients. In practice, pharmacists often reference this information from scattered sources, sometimes even searching through old WhatsApp chats.
 
-![Homepage Screenshot](screenshot_homepage.png)
+The official e-Fornas Kemkes site lists drugs, but omits these critical requirements. This project was created to clone the drug list and enrich it with essential details that are missing from the official source, making it easier for pharmacists to access all necessary information in one place.
+
+![Homepage Screenshot](screenshot_homepage.png)\
+
+A static drug glossary site crawled from https://e-fornas.kemkes.go.id/guest/daftar-obat.
 
 
 ## Flow Process
@@ -17,6 +21,7 @@ A static drug glossary site crawled from https://e-fornas.kemkes.go.id/guest/daf
 3. **Deployment**
    - Deploy the built site to GitHub Pages for public access as a static website.
    - Attach custom domain https://sipamanobat.my.id/
+   - Protect with Cloudflare
 
 ## Project Structure
 
