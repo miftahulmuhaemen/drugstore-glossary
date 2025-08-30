@@ -146,6 +146,7 @@
 
         // Hardcoded order
         const order = [
+          ['name', 'Nama'],
           ['kelas terapi', 'Kelas Terapi'],
           ['sub kelas terapi', 'Sub Kelas Terapi'],
           ['sub sub kelas terapi', 'Sub Sub Kelas Terapi'],
@@ -157,22 +158,55 @@
           ['fpktp', 'FPKTP'],
           ['fpktl', 'FPKTL'],
           ['pp', 'PP'],
+          ['prb', 'PRB'],
           ['oen', 'OEN'],
+          ['kanker', 'Kanker'],
           ['komposisi', 'Komposisi'],
+          ['program', 'Program'],
           ['peresepan maksimal', 'Peresepan Maksimal'],
           ['restriksi obat', 'Restriksi Obat'],
           ['ketentuan tambahan', 'Ketentuan Tambahan'],
           ['berkas lampiran', 'Berkas Lampiran'],
+          ['restriksi kelas terapi', 'Restriksi Kelas Terapi'],
+          ['restriksi sub sub kelas terapi', 'Restriksi Sub Sub Kelas Terapi'],
+          ['restriksi sediaan', 'Restriksi Sediaan'],
+          ['restriksi sub kelas terapi', 'Restriksi Sub Kelas Terapi'],
           ['alias', 'Alias']
         ];
 
+        const renderedKeys = new Set();
+
+        // Render ordered keys
         order.forEach(([key, label]) => {
           if (!(key in state.subdrug)) return;
           const raw = state.subdrug[key];
-          // Hide empty/undefined/null except for booleans
           if ((raw === undefined || raw === null || String(raw).trim() === '') && typeof raw !== 'boolean') return;
           const tr = create('tr');
           const tdK = create('td', 'k', label);
+          const tdV = create('td', 'v');
+          const dv = asDisplayValue(raw);
+          if (typeof dv === 'boolean') {
+            const cb = document.createElement('input');
+            cb.type = 'checkbox';
+            cb.disabled = true;
+            cb.checked = dv;
+            tdV.appendChild(cb);
+          } else {
+            tdV.textContent = dv;
+          }
+          tr.appendChild(tdK);
+          tr.appendChild(tdV);
+          tbody.appendChild(tr);
+          renderedKeys.add(key);
+        });
+
+        // Render unlisted keys at the end
+        Object.keys(state.subdrug).forEach(key => {
+          if (renderedKeys.has(key)) return;
+          const raw = state.subdrug[key];
+          if ((raw === undefined || raw === null || String(raw).trim() === '') && typeof raw !== 'boolean') return;
+          const tr = create('tr');
+          const tdK = create('td', 'k', key);
           const tdV = create('td', 'v');
           const dv = asDisplayValue(raw);
           if (typeof dv === 'boolean') {
