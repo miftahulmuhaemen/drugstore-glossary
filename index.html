@@ -192,7 +192,7 @@
             cb.checked = dv;
             tdV.appendChild(cb);
           } else {
-            tdV.textContent = dv;
+            tdV.innerHTML = String(dv).replace(/\n/g, '<br>');
           }
           tr.appendChild(tdK);
           tr.appendChild(tdV);
@@ -216,7 +216,7 @@
             cb.checked = dv;
             tdV.appendChild(cb);
           } else {
-            tdV.textContent = dv;
+            tdV.innerHTML = String(dv).replace(/\n/g, '<br>');
           }
           tr.appendChild(tdK);
           tr.appendChild(tdV);
