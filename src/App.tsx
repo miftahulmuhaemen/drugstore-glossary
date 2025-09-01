@@ -148,7 +148,7 @@ const DrugstoreApp: React.FC = memo(() => {
           className="mb-6"
         >
           <div className="flex flex-col tablet:flex-row tablet:items-center tablet:justify-between gap-4">
-            <img src="/src/assets/logo.png" alt="Si Paman Obat Logo" className="h-[100px] object-contain px-2 my-2 w-auto" />
+            <img src="/logo.png" alt="Si Paman Obat Logo" className="h-[100px] object-contain px-2 my-2 w-auto" />
             <SearchBar
               query={query}
               onQueryChange={handleQueryChange}
