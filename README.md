@@ -15,7 +15,7 @@ A static drug glossary site crawled from https://e-fornas.kemkes.go.id/guest/daf
    - Use `/notebook/drugs.ipynb` to scrape with Selenium and generate `data/data.json` from the source.
 
 2. **Static Site Generation**
-   - Build the static website with Node.js scripts.
+   - Build the static website using React with Vite.
    - The frontend fetches drug data from the local `data/data.json`.
 
 3. **Deployment**
