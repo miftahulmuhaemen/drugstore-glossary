@@ -205,63 +205,6 @@
         ]
     },
     {
-        "name": "DMSA (dimercaptosuccinic acid)",
-        "subdrugs": [
-            {
-                "name": "DMSA (dimercaptosuccinic acid) - N/A 1,1 MILIGRAM meso-2, 3-dimercaptosuccinic acid / vial",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
-                "nama obat": "DMSA (dimercaptosuccinic acid)",
-                "sediaan": "N/A",
-                "kekuatan": "1,1",
-                "satuan": "MILIGRAM meso-2, 3-dimercaptosuccinic acid / vial",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "DTPA (diethylenetriamine pentaacetic acid)",
-        "subdrugs": [
-            {
-                "name": "DTPA (diethylenetriamine pentaacetic acid) - SERBUK INJEKSI N/A",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
-                "nama obat": "DTPA (diethylenetriamine pentaacetic acid)",
-                "sediaan": "SERBUK INJEKSI",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "FDG (fluoro deoxy glucose)",
-        "subdrugs": [
-            {
-                "name": "FDG (fluoro deoxy glucose) - N/A sesuai kebutuhan N/A",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Radiofarmaka Kedokteran Nuklir Diagnostik",
-                "nama obat": "FDG (fluoro deoxy glucose)",
-                "sediaan": "N/A",
-                "kekuatan": "sesuai kebutuhan",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
         "name": "Human Insulin Basal: insulin NPH (Neutral Protamine Hagedorn)",
         "subdrugs": [
             {
@@ -473,210 +416,6 @@
         ]
     },
     {
-        "name": "Larutan Mengandung Elektrolit",
-        "subdrugs": [
-            {
-                "name": "Larutan Mengandung Elektrolit - N/A N/A",
-                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
-                "sub kelas terapi": "PARENTERAL",
-                "nama obat": "Larutan Mengandung Elektrolit",
-                "sediaan": "N/A",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "larutan elektrolit pekat",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            },
-            {
-                "name": "Larutan Mengandung Elektrolit - N/A N/A",
-                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
-                "sub kelas terapi": "PARENTERAL",
-                "nama obat": "Larutan Mengandung Elektrolit",
-                "sediaan": "N/A",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "larutan garam fisiologis",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "Larutan Mengandung Fosfat dengan/tanpa vitamin yang larut dalam air",
-        "subdrugs": [
-            {
-                "name": "Larutan Mengandung Fosfat dengan/tanpa vitamin yang larut dalam air - N/A N/A",
-                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
-                "sub kelas terapi": "PARENTERAL",
-                "nama obat": "Larutan Mengandung Fosfat dengan/tanpa vitamin yang larut dalam air",
-                "sediaan": "N/A",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi sediaan": "Digunakan pada pasien dengan hipofosfatemia yang tidak bisa diatasi dengan pemberian per oral, termasuk neonatus."
-            }
-        ]
-    },
-    {
-        "name": "Larutan Mengandung Karbohidrat",
-        "subdrugs": [
-            {
-                "name": "Larutan Mengandung Karbohidrat - N/A N/A",
-                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
-                "sub kelas terapi": "PARENTERAL",
-                "nama obat": "Larutan Mengandung Karbohidrat",
-                "sediaan": "N/A",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "Larutan Mengandung Karbohidrat+Elektrolit",
-        "subdrugs": [
-            {
-                "name": "Larutan Mengandung Karbohidrat+Elektrolit - N/A N/A",
-                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
-                "sub kelas terapi": "PARENTERAL",
-                "nama obat": "Larutan Mengandung Karbohidrat+Elektrolit",
-                "sediaan": "N/A",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "Larutan Mengandung Lipid",
-        "subdrugs": [
-            {
-                "name": "Larutan Mengandung Lipid - N/A N/A",
-                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
-                "sub kelas terapi": "PARENTERAL",
-                "nama obat": "Larutan Mengandung Lipid",
-                "sediaan": "N/A",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "Larutan Mengandung Vitamin yang larut dalam lemak (Vitamin A, D, E, K)",
-        "subdrugs": [
-            {
-                "name": "Larutan Mengandung Vitamin yang larut dalam lemak (Vitamin A, D, E, K) - N/A N/A",
-                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
-                "sub kelas terapi": "PARENTERAL",
-                "nama obat": "Larutan Mengandung Vitamin yang larut dalam lemak (Vitamin A, D, E, K)",
-                "sediaan": "N/A",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "MAA (macro aggregate albumin)",
-        "subdrugs": [
-            {
-                "name": "MAA (macro aggregate albumin) - N/A 0,11-2,5 MILIGRAM albumin aggregated / reaction vial",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
-                "nama obat": "MAA (macro aggregate albumin)",
-                "sediaan": "N/A",
-                "kekuatan": "0,11-2,5",
-                "satuan": "MILIGRAM albumin aggregated / reaction vial",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "MAG3 (mercaptoacetyltriglysine)",
-        "subdrugs": [
-            {
-                "name": "MAG3 (mercaptoacetyltriglysine) - N/A 1 MILIGRAM betiatide / vial",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
-                "nama obat": "MAG³ (mercaptoacetyltriglysine)",
-                "sediaan": "N/A",
-                "kekuatan": "1",
-                "satuan": "MILIGRAM betiatide / vial",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "MDP (methylene diphosphonate)",
-        "subdrugs": [
-            {
-                "name": "MDP (methylene diphosphonate) - SERBUK INJEKSI N/A",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
-                "nama obat": "MDP (methylene diphosphonate)",
-                "sediaan": "SERBUK INJEKSI",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "MIBI (methoxyisobutyl isonitrile)",
-        "subdrugs": [
-            {
-                "name": "MIBI (methoxyisobutyl isonitrile) - SERBUK INJEKSI N/A",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
-                "nama obat": "MIBI (methoxyisobutyl isonitrile)",
-                "sediaan": "SERBUK INJEKSI",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
         "name": "OAT KDT Kategori 1",
         "subdrugs": [
             {
@@ -784,161 +523,6 @@
         ]
     },
     {
-        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur",
-        "subdrugs": [
-            {
-                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur - BUBUK N/A",
-                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
-                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur",
-                "sediaan": "BUBUK",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit anak.\nb) Syarat pemberian:\n1) Bila ASI yang tersedia kurang dari 100 mL/kg BB bayi/hari.\n2) Diberikan susu formula prematur (24 kkal/oz) untuk bayi berat lahir sangat rendah <1.500 gram atau prematur < 32 minggu, selanjutnya dapat diresepkan sampai usia koreksi 40 minggu atau 0 bulan dan/atau sampai berat badan 2.500 gram."
-            },
-            {
-                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur - BUBUK N/A",
-                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
-                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur",
-                "sediaan": "CAIRAN",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit anak.\nb) Syarat pemberian:\n1) Bila ASI yang tersedia kurang dari 100 mL/kg BB bayi/hari.\n2) Diberikan susu formula prematur (24 kkal/oz) untuk bayi berat lahir sangat rendah <1.500 gram atau prematur < 32 minggu, selanjutnya dapat diresepkan sampai usia koreksi 40 minggu atau 0 bulan dan/atau sampai berat badan 2.500 gram."
-            },
-            {
-                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur - CAIRAN N/A",
-                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
-                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur",
-                "sediaan": "BUBUK",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit anak.\nb) Syarat pemberian:\n1) Bila ASI yang tersedia kurang dari 100 mL/kg BB bayi/hari.\n2) Diberikan susu formula prematur (24 kkal/oz) untuk bayi berat lahir sangat rendah <1.500 gram atau prematur < 32 minggu, selanjutnya dapat diresepkan sampai usia koreksi 40 minggu atau 0 bulan dan/atau sampai berat badan 2.500 gram."
-            },
-            {
-                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur - CAIRAN N/A",
-                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
-                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk bayi prematur",
-                "sediaan": "CAIRAN",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit anak.\nb) Syarat pemberian:\n1) Bila ASI yang tersedia kurang dari 100 mL/kg BB bayi/hari.\n2) Diberikan susu formula prematur (24 kkal/oz) untuk bayi berat lahir sangat rendah <1.500 gram atau prematur < 32 minggu, selanjutnya dapat diresepkan sampai usia koreksi 40 minggu atau 0 bulan dan/atau sampai berat badan 2.500 gram."
-            }
-        ]
-    },
-    {
-        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Galaktosemia",
-        "subdrugs": [
-            {
-                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Galaktosemia - BUBUK N/A",
-                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
-                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Galaktosemia",
-                "sediaan": "BUBUK",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "a) Hanya digunakan untuk kelainan kelainan metabolik galaktosemia yang telah didiagnosis dengan pemeriksaan asam amino/asam organik/aktivitas enzim/genetik. \nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu nutrisi dan penyakit metabolik.\nc) Galaktosemia diberikan Formula asam amino bebas galaktosa.\nd) Dapat diberikan untuk:\n- usia 0 -12 bulan atau\n- usia 1 â€“ 18 tahun.\ne) Diberikan sesuai kategori kebutuhan kalori berdasarkan Recomended Dietary Allowance (RDA):\n- (0 â€“ 6 bulan): Formula bebas galaktosa 100% RDA. \n- (6 â€“ 9 bulan): Formula bebas galaktosa 70% RDA + makanan pendamping diet restriksi. \n- (9 â€“ 12 bulan): Formula bebas galaktosa 50% RDA + makanan pendamping diet restriksi.\n- (>12 bulan): Formula bebas galaktosa 30% RDA + makanan keluarga diet restriksi. per 1 bulan.\nf) Hanya diberikan sampai usia 18 tahun."
-            }
-        ]
-    },
-    {
-        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Isovaleric Acidemia (IVA)",
-        "subdrugs": [
-            {
-                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Isovaleric Acidemia (IVA) - BUBUK N/A",
-                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
-                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Isovaleric Acidemia (IVA)",
-                "sediaan": "BUBUK",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "a) Hanya digunakan untuk kelainan metabolik Isovaleric Acidemia (IVA) yang telah didiagnosis dengan pemeriksaan asam amino/asam organik/aktivitas enzim/genetik.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu nutrisi dan penyakit metabolik.\nc) IVA diberikan Formula bebas Leusin.\nd) Diberikan sesuai kategori kebutuhan kalori berdasarkan Recomended Dietary Allowance (RDA):\n- (0 â€“ 6 bulan): Formula bebas Leusin, 100% RDA.\n- (6 â€“ 9 bulan): Formula bebas Leusin 70% RDA + makanan pendamping diet restriksi.\n- (9 â€“ 12 bulan): Formula bebas Leusin 50% RDA + makanan pendamping diet restriksi.\n- (>12 bulan): Formula bebas Leusin 30% RDA + makanan keluarga diet restriksi.\ne) Hanya diberikan sampai usia 18 tahun."
-            }
-        ]
-    },
-    {
-        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Maple Syrup Urine Disease (MSUD)",
-        "subdrugs": [
-            {
-                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Maple Syrup Urine Disease (MSUD) - BUBUK N/A",
-                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
-                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Maple Syrup Urine Disease (MSUD)",
-                "sediaan": "BUBUK",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "a) Hanya digunakan untuk kelainan metabolik Maple Syrup Urine Disease (MSUD) yang telah didiagnosis dengan pemeriksaan asam amino/asam organik/aktivitas enzim/genetik.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu nutrisi dan penyakit metabolik.\nc) MSUD diberikan Formula bebas Isoleusin, Leusin, Valin.\nd) Diberikan sesuai kategori kebutuhan kalori berdasarkan Recomended Dietary Allowance (RDA):\n- (0 â€“ 6 bulan): Formula bebas Isoleusin, Leusin, Valin 100% RDA.\n- (6 â€“ 9 bulan): Formula bebas Isoleusin, Leusin, Valin 70% RDA + makanan pendamping diet restriksi. \n- (9 â€“ 12 bulan): Formula bebas Isoleusin, Leusin, Valin 50% RDA + makanan pendamping diet restriksi. \n- (>12 bulan): Formula bebas Isoleusin, Leusin, Valin 30% RDA + makanan keluarga diet restriksi.\ne) Hanya diberikan sampai usia 18 tahun."
-            }
-        ]
-    },
-    {
-        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Phenylketonuria (PKU)",
-        "subdrugs": [
-            {
-                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Phenylketonuria (PKU) - BUBUK N/A",
-                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
-                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Phenylketonuria (PKU)",
-                "sediaan": "BUBUK",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "a) Hanya digunakan untuk kelainan metabolik Phenylketonuria (PKU) yang telah didiagnosis dengan pemeriksaan asam amino/asam organik/aktivitas enzim/genetik. \nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu nutrisi dan penyakit metabolik.\nc) Phenylketonuria (PKU) diberikan Formula bebas fenilalanin.\nd) Diberikan sesuai kategori kebutuhan kalori berdasarkan Recomended Dietary Allowance (RDA):\n- (0 â€“ 6 bulan): Formula bebas fenilalanin 100% RDA.\n- (6 â€“ 9 bulan): Formula bebas fenilalanin 70% RDA + makanan pendamping diet restriksi. \n- (9 â€“ 12 bulan): Formula bebas fenilalanin 50% RDA + makanan pendamping diet restriksi. \n- (>12 bulan): Formula bebas fenilalanin 30% RDA + makanan keluarga diet restriksi.\ne) Hanya diberikan sampai usia 18 tahun."
-            }
-        ]
-    },
-    {
-        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Tyrosinemia",
-        "subdrugs": [
-            {
-                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Tyrosinemia - BUBUK N/A",
-                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
-                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pasien kelainan metabolik Tyrosinemia",
-                "sediaan": "BUBUK",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "a) Hanya digunakan untuk kelainan metabolik Tyrosinemia yang telah didiagnosis dengan pemeriksaan asam amino/asam organik/aktivitas enzim/genetik. \nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu nutrisi dan penyakit metabolik.\nc) Tyrosinemia diberikan Formula bebas fenilalanin dan tirosin.\nd) Diberikan sesuai kategori kebutuhan kalori berdasarkan Recomended Dietary Allowance (RDA):\n- (0 â€“ 6 bulan): Formula bebas fenilalanin dan tirosin 100% RDA .\n- (6 â€“ 9 bulan): Formula bebas fenilalanin dan tirosin 70% RDA + makanan pendamping diet restriksi. \n- (9 â€“ 12 bulan): Formula bebas fenilalanin dan tirosin 50% RDA + makanan pendamping diet restriksi.\n- (>12 bulan): Formula bebas fenilalanin dan tirosin 30% RDA + makanan keluarga diet restriksi.\ne) Hanya diberikan sampai usia 18 tahun."
-            }
-        ]
-    },
-    {
-        "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pelengkap gizi air susu ibu (human milk fortifier)",
-        "subdrugs": [
-            {
-                "name": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pelengkap gizi air susu ibu (human milk fortifier) - BUBUK N/A",
-                "kelas terapi": "PANGAN OLAHAN UNTUK KEPERLUAN MEDIS KHUSUS (PKMK)",
-                "nama obat": "Pangan Olahan untuk Keperluan Medis Khusus (PKMK) untuk pelengkap gizi air susu ibu (human milk fortifier)",
-                "sediaan": "BUBUK",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "a) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit anak.\nb) Syarat pemberian:\n1) Bila ASI yang tersedia lebih dari 100 mL/kg BB bayi/hari.\n2) Diberikan untuk bayi berat lahir sangat rendah <1.500 gram atau prematur < 32 minggu, selanjutnya dapat diresepkan sampai usia koreksi 40 minggu atau 0 bulan dan/atau sampai berat badan 2.500 gram."
-            }
-        ]
-    },
-    {
         "name": "abakavir",
         "subdrugs": [
             {
@@ -1031,44 +615,6 @@
         ]
     },
     {
-        "name": "air steril untuk injeksi",
-        "subdrugs": [
-            {
-                "name": "air steril untuk injeksi - CAIRAN INJEKSI N/A",
-                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
-                "sub kelas terapi": "LAIN - LAIN",
-                "nama obat": "air steril untuk injeksi",
-                "sediaan": "CAIRAN INJEKSI",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "air untuk irigasi",
-        "subdrugs": [
-            {
-                "name": "air untuk irigasi - INFUS N/A",
-                "kelas terapi": "LARUTAN ELEKTROLIT, NUTRISI, dan LAIN - LAIN",
-                "sub kelas terapi": "LAIN - LAIN",
-                "nama obat": "air untuk irigasi",
-                "sediaan": "INFUS",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "-"
-            }
-        ]
-    },
-    {
         "name": "akarbose",
         "subdrugs": [
             {
@@ -1099,25 +645,6 @@
                 "prb": true,
                 "komposisi": "",
                 "peresepan maksimal": "90 tab/bulan.",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "akuades",
-        "subdrugs": [
-            {
-                "name": "akuades - CAIRAN 500 MILILITER",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "PREPARAT LAINNYA",
-                "nama obat": "akuades",
-                "sediaan": "CAIRAN",
-                "kekuatan": "500",
-                "satuan": "MILILITER",
-                "fpktp": true,
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
                 "restriksi kelas terapi": "-"
             }
         ]
@@ -1187,7 +714,8 @@
                 "satuan": "PERSEN",
                 "fpktl": true,
                 "komposisi": "",
-                "peresepan maksimal": "-",
+                "peresepan maksimal": "-",   
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan menuliskan :\n• Status Gizi Pasien\n• Status Klinis Pasien dalam keadaan syok atau tidak serta terdapat edema atau tidak\n• Tanggal Tindakan\n3. Hasil lab Albumin",
                 "restriksi sediaan": "Dapat digunakan pada salah satu atau lebih kondisi berikut:\na) Kadar albumin < 2,5 g/dL.\nb) Kadar albumin < 2,5 g/dL pada sindrom nefrotik yang disertai edema anasarka dan/atau renjatan.\nc) Diberikan apabila terdapat kondisi presyok atau syok, dan/atau untuk kasus asites masif dengan penekanan organ pernapasan atau perut."
             },
             {
@@ -1201,6 +729,7 @@
                 "fpktl": true,
                 "komposisi": "",
                 "peresepan maksimal": "-",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan menuliskan :\n• Status Gizi Pasien\n• Status Klinis Pasien dalam keadaan syok atau tidak serta terdapat edema atau tidak\n• Tanggal Tindakan\n3. Hasil lab Albumin",
                 "restriksi sediaan": "Dapat digunakan pada salah satu atau lebih kondisi berikut:\na) Kadar albumin < 2,5 g/dL.\nb) Kadar albumin < 2,5 g/dL pada sindrom nefrotik yang disertai edema anasarka dan/atau renjatan.\nc) Diberikan apabila terdapat kondisi presyok atau syok, dan/atau untuk kasus asites masif dengan penekanan organ pernapasan atau perut."
             },
             {
@@ -1214,6 +743,7 @@
                 "fpktl": true,
                 "komposisi": "",
                 "peresepan maksimal": "Diberikan selama 24 jam. Perhitungkan kebutuhan albumin berdasarkan BB.",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan menuliskan :\n• Status Gizi Pasien\n• Status Klinis Pasien dalam keadaan syok atau tidak serta terdapat edema atau tidak\n• Tanggal Tindakan\n3. Hasil lab Albumin",
                 "restriksi sediaan": "a) Untuk luka bakar tingkat 2 (luas permukaan terbakar lebih dari 30%) dan kadar albumin < 2,5 g/dL.\natau\nb) Untuk plasmaferesis."
             }
         ]
@@ -1807,26 +1337,6 @@
         ]
     },
     {
-        "name": "anestetik lokal gigi, kombinasi KDT/FDC mengandung lidokain dan epinefrin",
-        "subdrugs": [
-            {
-                "name": "anestetik lokal gigi, kombinasi KDT/FDC mengandung lidokain dan epinefrin - INJEKSI 2 MILILITER",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "PREPARAT LAINNYA",
-                "nama obat": "anestetik lokal gigi, kombinasi KDT/FDC mengandung lidokain dan epinefrin",
-                "sediaan": "INJEKSI",
-                "kekuatan": "2",
-                "satuan": "MILILITER",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "lidokain 2 %\nepinefrin 1:80.000",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
         "name": "antasida, kombinasi aluminium hidroksida dan magnesium hidroksida",
         "subdrugs": [
             {
@@ -2017,26 +1527,6 @@
                 "peresepan maksimal": "-",
                 "restriksi sub sub kelas terapi": "Catatan: Disediakan oleh Program \nKemenkes.",
                 "restriksi obat": "a) Diberikan pada malaria berat.\nb) Khusus di FPKTP, pemberian hanya 1 kali yang segera dirujuk ke FPKTL."
-            }
-        ]
-    },
-    {
-        "name": "articulating paper",
-        "subdrugs": [
-            {
-                "name": "articulating paper - KERTAS WARNA PENANDA OKLUSI N/A",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "PREPARAT LAINNYA",
-                "nama obat": "articulating paper",
-                "sediaan": "KERTAS WARNA PENANDA OKLUSI",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
             }
         ]
     },
@@ -2807,16 +2297,7 @@
                 "peresepan maksimal": "120 tab/bulan.",
                 "restriksi kelas terapi": "-",
                 "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Imuran\n5. Hasil Lab yang menunjang diagnosis",
-                "alias": "Azatioprin"
-            }
-        ]
-    },
-    {
-        "name": "azithromycin",
-        "subdrugs": [
-            {
-                "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP)\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 5 hari",
-                "kategori antibiotik": "Golongan 2 (Watch)"
+                "alias": "Azatioprin; Imuran;"
             }
         ]
     },
@@ -2901,26 +2382,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "restriksi obat": "Catatan: Disediakan oleh Program Kemenkes.\n\nDapat diberikan pada penderita frambusia dan kontaknya sesuai dengan Permenkes No. 8 Tahun 2017 tentang Eradikasi Frambusia."
-            }
-        ]
-    },
-    {
-        "name": "bahan tumpatan sementara",
-        "subdrugs": [
-            {
-                "name": "bahan tumpatan sementara - SERBUK N/A",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "BAHAN TUMPAT",
-                "nama obat": "bahan tumpatan sementara",
-                "sediaan": "SERBUK",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
             }
         ]
     },
@@ -3088,15 +2549,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "1 vial/bulan.",
                 "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "benzatin benzyl penisilin",
-        "subdrugs": [
-            {
-                "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
-                "kategori antibiotik": "Golongan 1 (Access)"
             }
         ]
     },
@@ -3682,14 +3134,6 @@
         ]
     },
     {
-        "name": "colistin",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 2 (Watch)"
-            }
-        ]
-    },
-    {
         "name": "dabigatran eteksilat",
         "subdrugs": [
             {
@@ -3872,21 +3316,23 @@
                 "oen": true,
                 "komposisi": "",
                 "peresepan maksimal": "Maks 40 mg/kgBB/ hari.",
-                "restriksi obat": "a) Untuk terapi kelasi besi.\nb) Tidak diberikan untuk anak usia < 2 tahun.\nc) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
+                "restriksi obat": "a) Untuk terapi kelasi besi.\nb) Tidak diberikan untuk anak usia < 2 tahun.\nc) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa.",
+                "alias": "Deferasiroks; Deferasirox;"
             },
             {
                 "name": "deferasiroks - TABLET DISPERSIBLE 500 MILIGRAM",
                 "kelas terapi": "OBAT yang MEMENGARUHI DARAH",
                 "sub kelas terapi": "OBAT untuk KELEBIHAN BESI",
                 "nama obat": "deferasiroks",
-                "sediaan": "TABLET DISPERSIBLE",
+                "sediaan": "TABLET DISPERSIBLE",    
                 "kekuatan": "500",
                 "satuan": "MILIGRAM",
                 "fpktl": true,
                 "oen": true,
                 "komposisi": "",
                 "peresepan maksimal": "Maks 40 mg/kgBB/ hari.",
-                "restriksi obat": "a) Untuk terapi kelasi besi.\nb) Tidak diberikan untuk anak usia < 2 tahun.\nc) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
+                "restriksi obat": "a) Untuk terapi kelasi besi.\nb) Tidak diberikan untuk anak usia < 2 tahun.\nc) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa.",
+                "alias": "Deferasiroks; Deferasirox;"
             },
             {
                 "name": "deferasiroks - TABLET SALUT SELAPUT 180 MILIGRAM",
@@ -3900,7 +3346,8 @@
                 "oen": true,
                 "komposisi": "",
                 "peresepan maksimal": "Maks 40 mg/kgBB/ hari.",
-                "restriksi obat": "a) Untuk terapi kelasi besi.\nb) Tidak diberikan untuk anak usia < 2 tahun.\nc) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
+                "restriksi obat": "a) Untuk terapi kelasi besi.\nb) Tidak diberikan untuk anak usia < 2 tahun.\nc) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa.",
+                "alias": "Deferasiroks; Deferasirox;"
             },
             {
                 "name": "deferasiroks - TABLET SALUT SELAPUT 360 MILIGRAM",
@@ -3914,15 +3361,8 @@
                 "oen": true,
                 "komposisi": "",
                 "peresepan maksimal": "Maks 40 mg/kgBB/ hari.",
-                "restriksi obat": "a) Untuk terapi kelasi besi.\nb) Tidak diberikan untuk anak usia < 2 tahun.\nc) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
-            }
-        ]
-    },
-    {
-        "name": "deferasirox",
-        "subdrugs": [
-            {
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis Thalasemia Beta\n3. SEP\n4. Protokol Deferasirox\n5. Hasil lab yang menunjang diagnosis (Kadar Zat Besi)"
+                "restriksi obat": "a) Untuk terapi kelasi besi.\nb) Tidak diberikan untuk anak usia < 2 tahun.\nc) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa.",
+                "alias": "Deferasiroks; Deferasirox;"
             }
         ]
     },
@@ -3967,14 +3407,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "50âˆ’75 mg/kgBB/hari.",
                 "restriksi sediaan": "a) Untuk terapi kelasi besi. \nb) Terapi awal harus ditentukan oleh dokter yang memiliki kompetensi di bidang ilmu hematologi onkologi anak atau hematologi onkologi medik dewasa."
-            }
-        ]
-    },
-    {
-        "name": "deferiprone",
-        "subdrugs": [
-            {
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosis Thalasemia Mayor\n3. SEP\n4. Protokol Deferiprone\n5. Hasil lab yang menunjang diagnosis (Kadar Zat Besi)"
             }
         ]
     },
@@ -4237,24 +3669,6 @@
                 "kekuatan": "0,25",
                 "satuan": "PERSEN",
                 "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "dialisa peritoneal",
-        "subdrugs": [
-            {
-                "name": "dialisa peritoneal - LARUTAN INTRAPERITONEAL N/A",
-                "kelas terapi": "LARUTAN DIALISIS PERITONEAL",
-                "nama obat": "dialisa peritoneal",
-                "sediaan": "LARUTAN INTRAPERITONEAL",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "oen": true,
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "restriksi kelas terapi": "-"
@@ -5024,14 +4438,6 @@
         ]
     },
     {
-        "name": "doripenem",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 3 (Reserve)"
-            }
-        ]
-    },
-    {
         "name": "dosetaksel",
         "subdrugs": [
             {
@@ -5217,15 +4623,6 @@
         ]
     },
     {
-        "name": "enoksaparin",
-        "subdrugs": [
-            {
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnose STEMI\n3. SEP\n4. Hasil Lab INR dan troponin",
-                "alias": "Enoxaparin"
-            }
-        ]
-    },
-    {
         "name": "enoksaparin sodium",
         "subdrugs": [
             {
@@ -5240,16 +4637,8 @@
                 "oen": true,
                 "komposisi": "",
                 "peresepan maksimal": "2 vial/hari.",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnose STEMI\n3. Hasil Lab INR dan troponin",
                 "restriksi obat": "Dapat digunakan untuk tromboemboli atau sindrom koroner akut atau pencegahan trombus pada hemodialisis atau pada tirah baring â‰¥ 3 hari dengan risiko sedang sampai tinggi mengalami tromboemboli."
-            }
-        ]
-    },
-    {
-        "name": "entekafir",
-        "subdrugs": [
-            {
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil lab HBV-DNA, Hasil HBSAG,\n5. Melampirkan perhitungan APRI SCore",
-                "alias": "Entecavir"
             }
         ]
     },
@@ -5269,6 +4658,7 @@
                 "oen": true,
                 "komposisi": "",
                 "peresepan maksimal": "-",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab HBV-DNA, Hasil HBSAG,\n4. Melampirkan perhitungan APRI SCore ",
                 "restriksi obat": "Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi, atau gastroentero-hepatologi anak, atau penyakit dalam dengan melampirkan:\na) Hasil pemeriksaan HBeAg.\nb) Pemeriksaan ALT meningkat 2x di atas batas atas normal dalam 3 bulan, atau \nc) Histologi/transient elastography atau AST Platelet Ratio Index (APRI) sesuai minimal dengan F²."
             },
             {
@@ -5284,6 +4674,7 @@
                 "oen": true,
                 "komposisi": "",
                 "peresepan maksimal": "-",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab HBV-DNA, Hasil HBSAG,\n4. Melampirkan perhitungan APRI SCore ",
                 "restriksi obat": "Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi, atau gastroentero-hepatologi anak, atau penyakit dalam dengan melampirkan:\na) Hasil pemeriksaan HBeAg.\nb) Pemeriksaan ALT meningkat 2x di atas batas atas normal dalam 3 bulan, atau \nc) Histologi/transient elastography atau AST Platelet Ratio Index (APRI) sesuai minimal dengan F²."
             }
         ]
@@ -5410,16 +4801,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "12 kali (6 siklus) atau hingga terjadi progress diseases (perburukan penyakit), mana yang lebih dahulu dicapai.",
                 "restriksi obat": "a) Untuk kanker payudara metastatik, yang sudah pernah mendapatkan terapi antrasiklin dan taksan sebelumnya (hari ke-1 dan 8, siklus 21 hari).\natau\nb) Untuk Liposarcoma non operable/metastatik yang sudah pernah menjalani kemoterapi antrasiklin sebelumnya (hari ke-1 dan 8, siklus 21 hari)."
-            }
-        ]
-    },
-    {
-        "name": "eritomisin",
-        "subdrugs": [
-            {
-                "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan Tanda tangan Dokter Umum\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan 10 hari",
-                "kategori antibiotik": "Golongan 1 (Access)",
-                "alias": "Erythromycin"
             }
         ]
     },
@@ -5765,65 +5146,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "8 vial/bulan.",
                 "restriksi obat": "a) Digunakan untuk pasien Rheumatoid Arthritis (RA) yang telah gagal minimal dengan dua (2) DMARDs konvensional pada dosis maksimal, yaitu 3 bulan tidak memberikan perbaikan atau 6 bulan tidak mencapai target terapi (masih high disease activity).\nb) Digunakan untuk pasien Ankylosing Spondylitis (AS) yang tidak respons dengan NSAID.\nc) Untuk kasus (a) dan (b) hanya boleh diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu reumatologi atau penyakit dalam.\nd) Untuk artritis idiopatik juvenil poliartikular, sebagai subgrup dari juvenile idiopathic arthtritis, pada pasien anak usia 4 - 17 tahun, yang refrakter dengan terapi DMARDs.\ne) Untuk artritis idiopatik juvenil poliartikular, diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu alergi-imunologi anak atau penyakit anak."
-            }
-        ]
-    },
-    {
-        "name": "etanol 70%",
-        "subdrugs": [
-            {
-                "name": "etanol 70% - LARUTAN 70 PERSEN",
-                "kelas terapi": "ANTISEPTIK dan DISINFEKTAN",
-                "sub kelas terapi": "DISINFEKTAN",
-                "nama obat": "etanol 70%",
-                "sediaan": "LARUTAN",
-                "kekuatan": "70",
-                "satuan": "PERSEN",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "ethylenediamine tetramethylene phosphonic acid (153-Sm-EDTMP)",
-        "subdrugs": [
-            {
-                "name": "ethylenediamine tetramethylene phosphonic acid (153-Sm-EDTMP) - INJEKSI N/A",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Radiofarmaka Kedokteran Nuklir untuk Terapi",
-                "nama obat": "ethylenediamine tetramethylene phosphonic acid (153-Sm-EDTMP)",
-                "sediaan": "INJEKSI",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "etil klorida",
-        "subdrugs": [
-            {
-                "name": "etil klorida - SPRAY 100 MILILITER",
-                "kelas terapi": "ANESTETIK",
-                "sub kelas terapi": "ANESTETIK LOKAL",
-                "nama obat": "etil klorida",
-                "sediaan": "SPRAY",
-                "kekuatan": "100",
-                "satuan": "MILILITER",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": null,
-                "peresepan maksimal": "-",
-                "restriksi obat": "-"
             }
         ]
     },
@@ -6310,15 +5632,6 @@
         ]
     },
     {
-        "name": "fenoksimetil penisilin (pen v)",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 1 (Access)",
-                "alias": "Phenoxymethylpenicillin (Penicillin V)"
-            }
-        ]
-    },
-    {
         "name": "fenoksimetil penisilin (penisilin V)",
         "subdrugs": [
             {
@@ -6444,25 +5757,6 @@
                 "peresepan maksimal": "5 patch/bulan.",
                 "restriksi obat": "patch:\n- Untuk nyeri kronik pada pasien kanker yang tidak terkendali.\n- Tidak untuk nyeri akut.",
                 "restriksi sediaan": "Hanya boleh diresepkan oleh tim manajemen nyeri RS atau tim onkologi (tumor board) RS."
-            }
-        ]
-    },
-    {
-        "name": "ferakrilum",
-        "subdrugs": [
-            {
-                "name": "ferakrilum - CAIRAN 1 PERSEN",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "PREPARAT LAINNYA",
-                "nama obat": "ferakrilum",
-                "sediaan": "CAIRAN",
-                "kekuatan": "1",
-                "satuan": "PERSEN",
-                "fpktp": true,
-                "fpktl": true,
-                "komposisi": null,
-                "peresepan maksimal": "-",
-                "restriksi obat": "-"
             }
         ]
     },
@@ -6788,56 +6082,6 @@
         ]
     },
     {
-        "name": "fluor",
-        "subdrugs": [
-            {
-                "name": "fluor - SEDIAAN TOPIKAL N/A",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "OBAT untuk PENCEGAHAN KARIES",
-                "nama obat": "fluor",
-                "sediaan": "SEDIAAN TOPIKAL",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": null,
-                "peresepan maksimal": "-",
-                "restriksi obat": "-"
-            },
-            {
-                "name": "fluor - SEDIAAN TOPIKAL N/A",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "OBAT untuk PENCEGAHAN KARIES",
-                "nama obat": "fluor",
-                "sediaan": "SEDIAAN TOPIKAL",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": null,
-                "peresepan maksimal": "-",
-                "restriksi obat": "-"
-            },
-            {
-                "name": "fluor - TABLET 1 MILIGRAM",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "OBAT untuk PENCEGAHAN KARIES",
-                "nama obat": "fluor",
-                "sediaan": "TABLET",
-                "kekuatan": "1",
-                "satuan": "MILIGRAM",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": null,
-                "peresepan maksimal": "-",
-                "restriksi obat": "-"
-            }
-        ]
-    },
-    {
         "name": "fluorometolon",
         "subdrugs": [
             {
@@ -7035,35 +6279,6 @@
                 "restriksi obat": "a) Digunakan untuk tromboemboli dan/atau sindrom koroner akut.\nb) Tidak digunakan sebelum dan selama prosedur Intervensi Koroner Perkutan (IKP/PCI) pada pasien sindrom koroner akut (ACS).\nc) Diberikan 6 jam setelah operasi ortopedi tungkai bawah dan tulang belakang, dan operasi abdominal.",
                 "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnosa DVT\n3. SEP\n4. Hasil lab INR, Hasil D-Dimer, Hasil CRP, dan Hasil ECHO",
                 "alias": "Fondaparinux"
-            }
-        ]
-    },
-    {
-        "name": "formokresol",
-        "subdrugs": [
-            {
-                "name": "formokresol - LARUTAN N/A",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "ANTISEPTIK dan BAHAN untuk PERAWATAN SALURAN AKAR GIGI",
-                "nama obat": "formokresol",
-                "sediaan": "LARUTAN",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": null,
-                "peresepan maksimal": "-",
-                "restriksi obat": "-"
-            }
-        ]
-    },
-    {
-        "name": "fosfomisin",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 3 (Reserve)",
-                "alias": "Fosfomycin"
             }
         ]
     },
@@ -8146,24 +7361,6 @@
         ]
     },
     {
-        "name": "hemodialisa",
-        "subdrugs": [
-            {
-                "name": "hemodialisa - LARUTAN N/A",
-                "kelas terapi": "LARUTAN DIALISIS PERITONEAL",
-                "nama obat": "hemodialisa",
-                "sediaan": "LARUTAN",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "oen": true,
-                "komposisi": null,
-                "peresepan maksimal": "-",
-                "restriksi obat": "-"
-            }
-        ]
-    },
-    {
         "name": "heparin, Na (non porcine)",
         "subdrugs": [
             {
@@ -8199,40 +7396,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "restriksi obat": "Untuk bayi baru lahir dengan ibu\nHBsAg positif."
-            }
-        ]
-    },
-    {
-        "name": "hidrogen peroksida",
-        "subdrugs": [
-            {
-                "name": "hidrogen peroksida - LARUTAN 3 PERSEN",
-                "kelas terapi": "ANTISEPTIK dan DISINFEKTAN",
-                "sub kelas terapi": "ANTISEPTIK",
-                "nama obat": "hidrogen peroksida",
-                "sediaan": "LARUTAN",
-                "kekuatan": "3",
-                "satuan": "PERSEN",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "Catatan: Dibuat baru (recenter paratus, r.p.), dalam botol tertutup rapat, terlindung dari cahaya."
-            },
-            {
-                "name": "hidrogen peroksida - LARUTAN 3 PERSEN",
-                "kelas terapi": "OBAT untuk TELINGA, HIDUNG, dan TENGGOROK",
-                "nama obat": "hidrogen peroksida",
-                "sediaan": "LARUTAN",
-                "kekuatan": "3",
-                "satuan": "PERSEN",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi obat": "Catatan: Dibuat baru (recenter paratus, r.p.), dalam botol tertutup rapat, terlindung dari cahaya."
             }
         ]
     },
@@ -8471,14 +7634,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "1 btl/kasus.",
                 "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "human albumin",
-        "subdrugs": [
-            {
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan menuliskan :\n3. SEP\n4. Hasil lab Albumin"
             }
         ]
     },
@@ -8779,15 +7934,6 @@
         ]
     },
     {
-        "name": "imipenem",
-        "subdrugs": [
-            {
-                "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
-                "kategori antibiotik": "Golongan 3 (Reserve)"
-            }
-        ]
-    },
-    {
         "name": "imunoglobulin intravena",
         "subdrugs": [
             {
@@ -8867,39 +8013,6 @@
                 "sediaan": "INJEKSI",
                 "kekuatan": "320",
                 "satuan": "MILIGRAM IODIUM / MILILITER",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "iodium 131",
-        "subdrugs": [
-            {
-                "name": "iodium 131 - LARUTAN ORAL N/A",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Radiofarmaka Kedokteran Nuklir Diagnostik",
-                "nama obat": "iodium 131",
-                "sediaan": "LARUTAN ORAL",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            },
-            {
-                "name": "iodium 131 - LARUTAN ORAL N/A",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Radiofarmaka Kedokteran Nuklir untuk Terapi",
-                "nama obat": "iodium 131",
-                "sediaan": "LARUTAN ORAL",
-                "kekuatan": "-",
-                "satuan": "N/A",
                 "fpktl": true,
                 "komposisi": "",
                 "peresepan maksimal": "-",
@@ -10744,26 +9857,6 @@
         ]
     },
     {
-        "name": "klorfenol kamfer mentol (CHKM)",
-        "subdrugs": [
-            {
-                "name": "klorfenol kamfer mentol (CHKM) - LARUTAN N/A",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "ANTISEPTIK dan BAHAN untuk PERAWATAN SALURAN AKAR GIGI",
-                "nama obat": "klorfenol kamfer mentol (CHKM)",
-                "sediaan": "LARUTAN",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
         "name": "klorheksidin",
         "subdrugs": [
             {
@@ -12197,26 +11290,6 @@
         ]
     },
     {
-        "name": "komposit resin",
-        "subdrugs": [
-            {
-                "name": "komposit resin - PASTA AKTIVASI SINAR N/A",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "BAHAN TUMPAT",
-                "nama obat": "komposit resin",
-                "sediaan": "PASTA AKTIVASI SINAR",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
         "name": "kotrimoksasol",
         "subdrugs": [
             {
@@ -12500,23 +11573,6 @@
                 "satuan": "N/A",
                 "fpktl": true,
                 "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "larutan kardioplegia",
-        "subdrugs": [
-            {
-                "name": "larutan kardioplegia - INJEKSI N/A",
-                "kelas terapi": "LAIN - LAIN",
-                "nama obat": "larutan kardioplegia",
-                "sediaan": "INJEKSI",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "restriksi kelas terapi": "-"
@@ -13119,34 +12175,6 @@
         ]
     },
     {
-        "name": "linezolide",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 3 (Reserve)"
-            }
-        ]
-    },
-    {
-        "name": "liquor carbonis detergens",
-        "subdrugs": [
-            {
-                "name": "liquor carbonis detergens - LARUTAN 5 PERSEN",
-                "kelas terapi": "OBAT TOPIKAL untuk KULIT",
-                "sub kelas terapi": "LAIN - LAIN",
-                "nama obat": "liquor carbonis detergens",
-                "sediaan": "LARUTAN",
-                "kekuatan": "5",
-                "satuan": "PERSEN",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
         "name": "lisinopril",
         "subdrugs": [
             {
@@ -13722,6 +12750,7 @@
                 "komposisi": null,
                 "peresepan maksimal": "7 enema/kasus.",
                 "restriksi obat": null,
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil USG Abdomen",
                 "restriksi sediaan": "a) Hanya untuk ulcerative colitis di rektum & sigmoid colon atau descending colon dengan kondisi akut atau perdarahan.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit dalam."
             },
             {
@@ -13736,6 +12765,7 @@
                 "komposisi": null,
                 "peresepan maksimal": "7 enema/kasus.",
                 "restriksi obat": null,
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil USG Abdomen",
                 "restriksi sediaan": "a) Hanya untuk ulcerative colitis di rektum & sigmoid colon atau descending colon dengan kondisi akut atau perdarahan.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit dalam."
             },
             {
@@ -13749,6 +12779,7 @@
                 "fpktl": true,
                 "komposisi": "",
                 "peresepan maksimal": "Maks 2 sachet/hari.",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil USG Abdomen",
                 "restriksi sediaan": "Digunakan untuk colitis ulcerativa mild to moderate, baik untuk terapi induksi atau maintenance yang hipersensitif terhadap sulfonamida."
             },
             {
@@ -13762,6 +12793,7 @@
                 "fpktl": true,
                 "komposisi": "",
                 "peresepan maksimal": "1â€“2 kali sehari, maks 7 hari.",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil USG Abdomen",
                 "restriksi sediaan": "Digunakan untuk pengobatan proktitis ulseratif."
             },
             {
@@ -13775,15 +12807,8 @@
                 "fpktl": true,
                 "komposisi": "",
                 "peresepan maksimal": "-",
+                "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil USG Abdomen",
                 "restriksi sediaan": "Untuk episode akut colitis ulcerativa atau colitis ulcerativa yang hipersensitif terhadap sulfonamida."
-            }
-        ]
-    },
-    {
-        "name": "mesalazine",
-        "subdrugs": [
-            {
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. SEP\n4. Hasil lab yang menunjang diagnosis penyakit\n5. Hasil USG Abdomen"
             }
         ]
     },
@@ -13804,25 +12829,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "a)Â  Untuk pemberian bersama ifosfamid, mesna diberikan dengan dosis maks 100% dari dosis ifosfamid/ hari, maks selama 5 hari tiap 3 minggu.\nb) Untuk pemberian bersama siklofosfamid dosis tinggi (>1 g/m²), mesna diberikan dengan dosis maks 100% dari dosis siklofosfamid/ hari.",
                 "restriksi obat": "Hanya diberikan untuk terapi yang menggunakan ifosfamid atau siklofosfamid dosis tinggi."
-            }
-        ]
-    },
-    {
-        "name": "meta-iodobenzylguanidine (131I-MIBG)",
-        "subdrugs": [
-            {
-                "name": "meta-iodobenzylguanidine (131I-MIBG) - INJEKSI N/A",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Radiofarmaka Kedokteran Nuklir Diagnostik",
-                "nama obat": "meta-iodobenzylguanidine (131I-MIBG)",
-                "sediaan": "INJEKSI",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
             }
         ]
     },
@@ -15359,26 +14365,6 @@
         ]
     },
     {
-        "name": "natrium hipoklorit",
-        "subdrugs": [
-            {
-                "name": "natrium hipoklorit - LARUTAN 5 PERSEN",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "ANTISEPTIK dan BAHAN untuk PERAWATAN SALURAN AKAR GIGI",
-                "nama obat": "natrium hipoklorit",
-                "sediaan": "LARUTAN",
-                "kekuatan": "5",
-                "satuan": "PERSEN",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
         "name": "natrium klorida",
         "subdrugs": [
             {
@@ -15459,15 +14445,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "netilmisin",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 3 (Reserve)",
-                "alias": "Netilmicin"
             }
         ]
     },
@@ -15758,25 +14735,6 @@
         ]
     },
     {
-        "name": "nitrogen oksida",
-        "subdrugs": [
-            {
-                "name": "nitrogen oksida - INHALASI, GAS DALAM TABUNG N/A",
-                "kelas terapi": "ANESTETIK",
-                "sub kelas terapi": "ANESTETIK UMUM dan OKSIGEN",
-                "nama obat": "nitrogen oksida",
-                "sediaan": "INHALASI, GAS DALAM TABUNG",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
         "name": "nomegestrol asetat",
         "subdrugs": [
             {
@@ -15831,15 +14789,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "30 tab/bulan.",
                 "restriksi obat": "Hanya untuk amenorea sekunder, perdarahan uterus abnormal atau endometriosis."
-            }
-        ]
-    },
-    {
-        "name": "ocreotide",
-        "subdrugs": [
-            {
-                "berkas lampiran": "1. E-Resep\n2. DPHO dengan riwayat Hepatitis B atau Cirrhosis\n3. SEP\n4. Protokol Ocreotide\n5. Hasil USG Abdomen dan Hasil Lab",
-                "alias": "Oktreotid"
             }
         ]
     },
@@ -16222,7 +15171,8 @@
                 "fpktl": true,
                 "komposisi": "",
                 "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
+                "restriksi kelas terapi": "-",
+                "alias": "Oktreotid; Oktreotid asetat; Ocreotide;"
             },
             {
                 "name": "oktreotid asetat - INJEKSI 0,1 MILIGRAM / MILILITER",
@@ -16235,7 +15185,8 @@
                 "fpktl": true,
                 "komposisi": "",
                 "peresepan maksimal": "3 hari.",
-                "restriksi obat": "Untuk kasus perdarahan varises esofagus akut."
+                "restriksi obat": "Untuk kasus perdarahan varises esofagus akut.",
+                "alias": "Oktreotid; Oktreotid asetat; Ocreotide;"
             }
         ]
     },
@@ -16571,46 +15522,6 @@
         ]
     },
     {
-        "name": "pasta devitalisasi (non arsen)",
-        "subdrugs": [
-            {
-                "name": "pasta devitalisasi (non arsen) - PASTA N/A",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "PREPARAT LAINNYA",
-                "nama obat": "pasta devitalisasi (non arsen)",
-                "sediaan": "PASTA",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "pasta pengisi saluran akar",
-        "subdrugs": [
-            {
-                "name": "pasta pengisi saluran akar - PASTA N/A",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "ANTISEPTIK dan BAHAN untuk PERAWATAN SALURAN AKAR GIGI",
-                "nama obat": "pasta pengisi saluran akar",
-                "sediaan": "PASTA",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
         "name": "pazopanib",
         "subdrugs": [
             {
@@ -16906,15 +15817,6 @@
         ]
     },
     {
-        "name": "piperasilin-tazobactam",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 3 (Reserve)",
-                "alias": "Piperacillin-Tazobactam"
-            }
-        ]
-    },
-    {
         "name": "pirantel pamoat",
         "subdrugs": [
             {
@@ -17130,15 +16032,6 @@
                 "komposisi": null,
                 "peresepan maksimal": "-",
                 "restriksi obat": "Untuk servisitis."
-            }
-        ]
-    },
-    {
-        "name": "polimiksin",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 2 (Watch)",
-                "alias": "Polymyxin"
             }
         ]
     },
@@ -17492,15 +16385,6 @@
         ]
     },
     {
-        "name": "prokain benzyl penisilin",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 1 (Access)",
-                "alias": "Procaine benzylpenicillin"
-            }
-        ]
-    },
-    {
         "name": "prokaterol",
         "subdrugs": [
             {
@@ -17573,25 +16457,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "Untuk bulan pertama maks 180 tab/bulan.",
                 "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "propofol",
-        "subdrugs": [
-            {
-                "name": "propofol - INJEKSI 1 PERSEN",
-                "kelas terapi": "ANESTETIK",
-                "sub kelas terapi": "ANESTETIK UMUM dan OKSIGEN",
-                "nama obat": "propofol",
-                "sediaan": "INJEKSI",
-                "kekuatan": "1",
-                "satuan": "PERSEN",
-                "fpktl": true,
-                "oen": true,
-                "komposisi": null,
-                "peresepan maksimal": "-",
-                "restriksi obat": "-"
             }
         ]
     },
@@ -18354,15 +17219,6 @@
         ]
     },
     {
-        "name": "roxithromisin",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 3 (Reserve)",
-                "alias": "Roxithromycin"
-            }
-        ]
-    },
-    {
         "name": "ruksolitinib",
         "subdrugs": [
             {
@@ -18447,7 +17303,9 @@
                 "fpktl": true,
                 "komposisi": "",
                 "peresepan maksimal": "60 tab/bulan.",
-                "restriksi obat": "a) Hanya untuk pasien yang tidak respons terhadap golongan ARB dan ACE inhibitor.\nb) Hanya pada pasien dengan reduced ejection fraction (LVEF â‰¤ 40%)."
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil ECHO Dimana hasil LVEF < 40% \n4.Riwayat penggunaan antihipertensi golongan ACEI dan ARB",
+                "restriksi obat": "a) Hanya untuk pasien yang tidak respons terhadap golongan ARB dan ACE inhibitor.\nb) Hanya pada pasien dengan reduced ejection fraction (LVEF â‰¤ 40%).",
+                "alias": "Uperio; Sacubitril; Valsartan;"
             },
             {
                 "name": "sacubitril valsartan - TABLET SALUT SELAPUT 48,6/51,4 MILIGRAM",
@@ -18460,7 +17318,9 @@
                 "fpktl": true,
                 "komposisi": "",
                 "peresepan maksimal": "60 tab/bulan.",
-                "restriksi obat": "a) Hanya untuk pasien yang tidak respons terhadap golongan ARB dan ACE inhibitor.\nb) Hanya pada pasien dengan reduced ejection fraction (LVEF â‰¤ 40%)."
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil ECHO Dimana hasil LVEF < 40% \n4.Riwayat penggunaan antihipertensi golongan ACEI dan ARB",
+                "restriksi obat": "a) Hanya untuk pasien yang tidak respons terhadap golongan ARB dan ACE inhibitor.\nb) Hanya pada pasien dengan reduced ejection fraction (LVEF â‰¤ 40%).",
+                "alias": "Uperio; Sacubitril; Valsartan;"
             },
             {
                 "name": "sacubitril valsartan - TABLET SALUT SELAPUT 97,2/102,8 MILIGRAM",
@@ -18473,7 +17333,9 @@
                 "fpktl": true,
                 "komposisi": "",
                 "peresepan maksimal": "60 tab/bulan.",
-                "restriksi obat": "a) Hanya untuk pasien yang tidak respons terhadap golongan ARB dan ACE inhibitor.\nb) Hanya pada pasien dengan reduced ejection fraction (LVEF â‰¤ 40%)."
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil ECHO Dimana hasil LVEF < 40% \n4.Riwayat penggunaan antihipertensi golongan ACEI dan ARB",
+                "restriksi obat": "a) Hanya untuk pasien yang tidak respons terhadap golongan ARB dan ACE inhibitor.\nb) Hanya pada pasien dengan reduced ejection fraction (LVEF â‰¤ 40%).",
+                "alias": "Uperio; Sacubitril; Valsartan;"
             }
         ]
     },
@@ -18935,15 +17797,6 @@
         ]
     },
     {
-        "name": "sefpodoksim proksetil",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 2 (Watch)",
-                "alias": "Cefpodoxime proxetil"
-            }
-        ]
-    },
-    {
         "name": "seftazidim",
         "subdrugs": [
             {
@@ -18962,15 +17815,6 @@
                 "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
                 "kategori antibiotik": "Golongan 3 (Reserve)",
                 "alias": "Ceftazidime"
-            }
-        ]
-    },
-    {
-        "name": "seftizoksim",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 3 (Reserve)",
-                "alias": "Ceftizoxime"
             }
         ]
     },
@@ -19435,7 +18279,7 @@
                 "peresepan maksimal": "-",
                 "restriksi kelas terapi": "-",
                 "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Sandimun\n5. Hasil Lab yang menunjang diagnosis",
-                "alias": "Siklosporin"
+                "alias": "Siklosporin; Sandimun;"
             },
             {
                 "name": "siklosporin - INJEKSI 50 MILIGRAM / MILILITER",
@@ -19451,7 +18295,7 @@
                 "peresepan maksimal": "-",
                 "restriksi kelas terapi": "-",
                 "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Sandimun\n5. Hasil Lab yang menunjang diagnosis",
-                "alias": "Siklosporin"
+                "alias": "Siklosporin; Sandimun;"
             },
             {
                 "name": "siklosporin - KAPSUL LUNAK 100 MILIGRAM",
@@ -19466,7 +18310,7 @@
                 "peresepan maksimal": "90 kaps/bulan.",
                 "restriksi sediaan": "Untuk kasus transplantasi organ atau penyakit autoimun.",
                 "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Sandimun\n5. Hasil Lab yang menunjang diagnosis",
-                "alias": "Siklosporin"
+                "alias": "Siklosporin; Sandimun;"
             },
             {
                 "name": "siklosporin - KAPSUL LUNAK 25 MILIGRAM",
@@ -19482,7 +18326,7 @@
                 "peresepan maksimal": "90 kaps/bulan.",
                 "restriksi sediaan": "Untuk kasus transplantasi organ atau penyakit autoimun.",
                 "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Sandimun\n5. Hasil Lab yang menunjang diagnosis",
-                "alias": "Siklosporin"
+                "alias": "Siklosporin; Sandimun;"
             },
             {
                 "name": "siklosporin - KAPSUL LUNAK 50 MILIGRAM",
@@ -19498,7 +18342,7 @@
                 "peresepan maksimal": "90 kaps/bulan.",
                 "restriksi sediaan": "Untuk kasus transplantasi organ atau penyakit autoimun.",
                 "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Protokol Sandimun\n5. Hasil Lab yang menunjang diagnosis",
-                "alias": "Siklosporin"
+                "alias": "Siklosporin; Sandimun;"
             }
         ]
     },
@@ -19924,25 +18768,6 @@
         ]
     },
     {
-        "name": "stannous pyrophosphate",
-        "subdrugs": [
-            {
-                "name": "stannous pyrophosphate - N/A 27,6 MILIGRAM sodium pyrophosphate/vial",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
-                "nama obat": "stannous pyrophosphate",
-                "sediaan": "N/A",
-                "kekuatan": "27,6",
-                "satuan": "MILIGRAM sodium pyrophosphate/vial",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
         "name": "streptokinase",
         "subdrugs": [
             {
@@ -20145,33 +18970,7 @@
                 "oen": true,
                 "komposisi": "",
                 "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "sulfasalazine",
-        "subdrugs": [
-            {
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil lab yang menunjang diagnosis penyakit\n5. Hasil Colon In Loop"
-            }
-        ]
-    },
-    {
-        "name": "sulfur colloid",
-        "subdrugs": [
-            {
-                "name": "sulfur colloid - N/A 4,5 MILIGRAM gelatin / reaction vial",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Farmaka Kedokteran Nuklir",
-                "nama obat": "sulfur colloid",
-                "sediaan": "N/A",
-                "kekuatan": "4,5",
-                "satuan": "MILIGRAM gelatin / reaction vial",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil Colon In Loop",
                 "restriksi kelas terapi": "-"
             }
         ]
@@ -20191,26 +18990,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "restriksi obat": "Hanya untuk IRDS (Idiopathic Respiratory Distress Syndrome) pada neonatus."
-            }
-        ]
-    },
-    {
-        "name": "surgical ginggival pack",
-        "subdrugs": [
-            {
-                "name": "surgical ginggival pack - PASTA N/A",
-                "kelas terapi": "OBAT dan BAHAN untuk GIGI",
-                "sub kelas terapi": "PREPARAT LAINNYA",
-                "nama obat": "surgical ginggival pack",
-                "sediaan": "PASTA",
-                "kekuatan": "-",
-                "satuan": "N/A",
-                "fpktp": true,
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
             }
         ]
     },
@@ -20335,33 +19114,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "30 tab/bulan.",
                 "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "technetium 99m",
-        "subdrugs": [
-            {
-                "name": "technetium 99m - N/A 740-3700 MEGABECQUEREL (20 TO 100 MILLICURIE) / MILILITER",
-                "kelas terapi": "DIAGNOSTIK",
-                "sub kelas terapi": "RADIOFARMAKA KEDOKTERAN NUKLIR",
-                "sub sub kelas terapi": "Radiofarmaka Kedokteran Nuklir Diagnostik",
-                "nama obat": "technetium 99m",
-                "sediaan": "N/A",
-                "kekuatan": "740-3700",
-                "satuan": "MEGABECQUEREL (20 TO 100 MILLICURIE) / MILILITER",
-                "fpktl": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "teicoplanin",
-        "subdrugs": [
-            {
-                "kategori antibiotik": "Golongan 3 (Reserve)"
             }
         ]
     },
@@ -20853,16 +19605,6 @@
         ]
     },
     {
-        "name": "tigecicline",
-        "subdrugs": [
-            {
-                "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
-                "kategori antibiotik": "Golongan 3 (Reserve)",
-                "alias": "Tigecycline"
-            }
-        ]
-    },
-    {
         "name": "tikagrelor",
         "subdrugs": [
             {
@@ -20912,38 +19654,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "2 btl/bulan.",
                 "restriksi obat": "Dapat diberikan di FPKTP yang memiliki fasilitas untuk mengukur tekanan intraokuler."
-            }
-        ]
-    },
-    {
-        "name": "tiopental",
-        "subdrugs": [
-            {
-                "name": "tiopental - INJEKSI 1 MILIGRAM",
-                "kelas terapi": "ANESTETIK",
-                "sub kelas terapi": "ANESTETIK UMUM dan OKSIGEN",
-                "nama obat": "tiopental",
-                "sediaan": "INJEKSI",
-                "kekuatan": "1",
-                "satuan": "MILIGRAM",
-                "fpktl": true,
-                "komposisi": null,
-                "peresepan maksimal": "-",
-                "restriksi obat": "-"
-            },
-            {
-                "name": "tiopental - INJEKSI 500 MILIGRAM",
-                "kelas terapi": "ANESTETIK",
-                "sub kelas terapi": "ANESTETIK UMUM dan OKSIGEN",
-                "nama obat": "tiopental",
-                "sediaan": "INJEKSI",
-                "kekuatan": "500",
-                "satuan": "MILIGRAM",
-                "fpktl": true,
-                "oen": true,
-                "komposisi": "",
-                "peresepan maksimal": "-",
-                "restriksi kelas terapi": "-"
             }
         ]
     },
@@ -21327,15 +20037,6 @@
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "restriksi kelas terapi": "-"
-            }
-        ]
-    },
-    {
-        "name": "uperio",
-        "subdrugs": [
-            {
-                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil ECHO Dimana hasil LVEF < 40%\n5. Riwayat penggunaan antihipertensi golongan ACEI dan ARB",
-                "alias": "Sacubitril dan Valsartan"
             }
         ]
     },
@@ -21752,7 +20453,7 @@
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "restriksi obat": "a) Hanya untuk pasien HIV/AIDS dengan CD 4 <100, serta dibuktikan ada kelainan organik (retinitis CMV) atau untuk profilaksis CMV pada pasien CMV negatif yang menerima transplantasi organ dari donor yang CMV positif.\nb) Kadar transaminase serum dalam batas normal.",
-                "berkas lampiran": "1. E-Resep dari Prof Edi\n2. DPHO\n3. SEP\n4. Hasil Lab CMV dan Fungsi Hati",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. SEP\n4. Hasil Lab CMV dan Fungsi Hati",
                 "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)",
                 "kategori antibiotik": "Golongan 3 (Reserve)",
                 "alias": "Valganciclovir"
@@ -21915,6 +20616,7 @@
                 "komposisi": null,
                 "peresepan maksimal": "30 tab/bulan.",
                 "restriksi obat": "Untuk pasien yang telah mendapat ACE inhibitor sebelumnya sekurang-kurangnya 1 bulan dan mengalami intoleransi terhadap ACE inhibitor yang dibuktikan dengan melampirkan resep sebelumnya.",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil ECHO Dimana hasil LVEF < 40% \n4.Riwayat penggunaan antihipertensi golongan ACEI dan ARB",
                 "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik."
             },
             {
@@ -21932,17 +20634,8 @@
                 "komposisi": "",
                 "peresepan maksimal": "30 tab/bulan.",
                 "restriksi sub sub kelas terapi": "Catatan:\nPemberian obat antihipertensi harus didasarkan pada prinsip dosis titrasi, mulai dari dosis terkecil hingga tercapai dosis dengan outcome tekanan darah terbaik.",
+                "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil ECHO Dimana hasil LVEF < 40% \n4.Riwayat penggunaan antihipertensi golongan ACEI dan ARB",
                 "restriksi obat": "Untuk pasien yang telah mendapat ACE inhibitor sebelumnya sekurang-kurangnya 1 bulan dan mengalami intoleransi terhadap ACE inhibitor yang dibuktikan dengan melampirkan resep sebelumnya."
-            }
-        ]
-    },
-    {
-        "name": "vancomisin",
-        "subdrugs": [
-            {
-                "ketentuan tambahan": "1. Mengisi Form Permintaan Antimikroba dengan tanda tangan Dokter Penanggung Jawab Pelayanan (DPJP) dan wajib konfirmasi TIM PPRA\n2. Mengisi Form Evaluasi Penggunaan Antimikroba (Sesudah 3-5 hari)\n3. Lama penggunaan maksimal 10 hari / kasus.",
-                "kategori antibiotik": "Golongan 3 (Reserve)",
-                "alias": "Vancomycin"
             }
         ]
     },
