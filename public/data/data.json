@@ -4638,7 +4638,8 @@
                 "komposisi": "",
                 "peresepan maksimal": "2 vial/hari.",
                 "berkas lampiran": "1. E-Resep\n2. DPHO dengan diagnose STEMI\n3. Hasil Lab INR dan troponin",
-                "restriksi obat": "Dapat digunakan untuk tromboemboli atau sindrom koroner akut atau pencegahan trombus pada hemodialisis atau pada tirah baring â‰¥ 3 hari dengan risiko sedang sampai tinggi mengalami tromboemboli."
+                "restriksi obat": "Dapat digunakan untuk tromboemboli atau sindrom koroner akut atau pencegahan trombus pada hemodialisis atau pada tirah baring â‰¥ 3 hari dengan risiko sedang sampai tinggi mengalami tromboemboli.",
+                "alias": "Enoksaparin sodium; Enoksaparin;"
             }
         ]
     },
@@ -4659,7 +4660,8 @@
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab HBV-DNA, Hasil HBSAG,\n4. Melampirkan perhitungan APRI SCore ",
-                "restriksi obat": "Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi, atau gastroentero-hepatologi anak, atau penyakit dalam dengan melampirkan:\na) Hasil pemeriksaan HBeAg.\nb) Pemeriksaan ALT meningkat 2x di atas batas atas normal dalam 3 bulan, atau \nc) Histologi/transient elastography atau AST Platelet Ratio Index (APRI) sesuai minimal dengan F²."
+                "restriksi obat": "Diberikan oleh dokter yang memiliki kompetensi di bidang ilmu gastroentero-hepatologi, atau gastroentero-hepatologi anak, atau penyakit dalam dengan melampirkan:\na) Hasil pemeriksaan HBeAg.\nb) Pemeriksaan ALT meningkat 2x di atas batas atas normal dalam 3 bulan, atau \nc) Histologi/transient elastography atau AST Platelet Ratio Index (APRI) sesuai minimal dengan F².",
+                "alias": "Entekavir; Entekafir;"
             },
             {
                 "name": "entekavir - TABLET SALUT SELAPUT 1 MILIGRAM",
@@ -12751,7 +12753,8 @@
                 "peresepan maksimal": "7 enema/kasus.",
                 "restriksi obat": null,
                 "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil USG Abdomen",
-                "restriksi sediaan": "a) Hanya untuk ulcerative colitis di rektum & sigmoid colon atau descending colon dengan kondisi akut atau perdarahan.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit dalam."
+                "restriksi sediaan": "a) Hanya untuk ulcerative colitis di rektum & sigmoid colon atau descending colon dengan kondisi akut atau perdarahan.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit dalam.",
+                "alias": "Mesalazin; Mesalazine;"
             },
             {
                 "name": "mesalazin - ENEMA 4 GRAM",
@@ -12766,7 +12769,8 @@
                 "peresepan maksimal": "7 enema/kasus.",
                 "restriksi obat": null,
                 "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil USG Abdomen",
-                "restriksi sediaan": "a) Hanya untuk ulcerative colitis di rektum & sigmoid colon atau descending colon dengan kondisi akut atau perdarahan.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit dalam."
+                "restriksi sediaan": "a) Hanya untuk ulcerative colitis di rektum & sigmoid colon atau descending colon dengan kondisi akut atau perdarahan.\nb) Diresepkan oleh dokter yang memiliki kompetensi di bidang ilmu penyakit dalam.",
+                "alias": "Mesalazin; Mesalazi;"
             },
             {
                 "name": "mesalazin - GRANUL PELEPASAN LAMBAT 2000 MILIGRAM",
@@ -12780,7 +12784,8 @@
                 "komposisi": "",
                 "peresepan maksimal": "Maks 2 sachet/hari.",
                 "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil USG Abdomen",
-                "restriksi sediaan": "Digunakan untuk colitis ulcerativa mild to moderate, baik untuk terapi induksi atau maintenance yang hipersensitif terhadap sulfonamida."
+                "restriksi sediaan": "Digunakan untuk colitis ulcerativa mild to moderate, baik untuk terapi induksi atau maintenance yang hipersensitif terhadap sulfonamida.",
+                "alias": "Mesalazin; Mesalazi;"
             },
             {
                 "name": "mesalazin - SUPOSITORIA 1 GRAM",
@@ -12794,7 +12799,8 @@
                 "komposisi": "",
                 "peresepan maksimal": "1â€“2 kali sehari, maks 7 hari.",
                 "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil USG Abdomen",
-                "restriksi sediaan": "Digunakan untuk pengobatan proktitis ulseratif."
+                "restriksi sediaan": "Digunakan untuk pengobatan proktitis ulseratif.",
+                "alias": "Mesalazin; Mesalazi;"
             },
             {
                 "name": "mesalazin - TABLET SALUT ENTERIK 250 MILIGRAM",
@@ -12808,7 +12814,8 @@
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "berkas lampiran": "1. E-Resep\n2. DPHO dengan catatan pasien hipersensitif dengan Sulfasalazine\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil USG Abdomen",
-                "restriksi sediaan": "Untuk episode akut colitis ulcerativa atau colitis ulcerativa yang hipersensitif terhadap sulfonamida."
+                "restriksi sediaan": "Untuk episode akut colitis ulcerativa atau colitis ulcerativa yang hipersensitif terhadap sulfonamida.",
+                "alias": "Mesalazin; Mesalazi;"
             }
         ]
     },
@@ -18971,7 +18978,8 @@
                 "komposisi": "",
                 "peresepan maksimal": "-",
                 "berkas lampiran": "1. E-Resep\n2. DPHO\n3. Hasil lab yang menunjang diagnosis penyakit\n4. Hasil Colon In Loop",
-                "restriksi kelas terapi": "-"
+                "restriksi kelas terapi": "-",
+                "alias": "Sulfasalazin; Sulfasalazine;"
             }
         ]
     },
